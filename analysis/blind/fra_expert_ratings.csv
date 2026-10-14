@@ -1,0 +1,291 @@
+name,pred,note
+"Emrakul, the Exigent Doom",53.0,10-drop; hand-exile ramp mode keeps it from being dead but rarely cast
+Academic Ascent,55.5,cheap evasive trick plus Empower 2 (two surveils / dual-land enabler)
+Blossom-Blessed Angel,56.0,4cmc 2/4 flying vigilance plus cheap Seed Suture later
+Campus Crier,56.5,2cmc 3/1 with graveyard Empower 2 (Stone Docent analogue 57.2)
+Enlightened Confidant,57.0,lifelink 2-drop that turns lifegain into card advantage
+Fateshaper Aspirant,53.5,5cmc 3/4 with minor legendary regrowth / protection
+Flickering Hound,54.0,4cmc 2/2 blink engine (re-prepares prepare creatures); weak body
+Generous Revival,53.0,small reanimation twice; slow value
+Germinate Recruits,51.0,needs same-turn lifegain; narrow
+Graft Surgeon,54.5,3cmc 3/3 with counter transfer
+Guiding Hydra,58.0,scalable X body that distributes team counters each combat
+Hexhaven Battalion,56.5,three 2/2s plus Empower 2 late or landcycle early
+Kindred Judgment,55.0,7-mana mostly one-sided wrath (Cadets are Wizard Soldiers)
+Loyal Tutor,48.5,only finds planeswalker cards; almost always dead
+Memory Trap,58.0,3-mana O-ring; premium common removal
+Predictive Preparations,54.5,two counters with flashback; counters-deck filler
+Prophesied End,59.5,2-mana instant kill on attackers; still fine vs blockers
+Refute Destiny,56.0,2-mana exile vs G/U (70% of opponents) and always hits blue Jace tokens
+Repurposed Enforcer,59.0,2cmc 3/2 that generates large Empower on each attack
+Return to the Light Realms,51.0,9-mana mass reanimation; too expensive
+Shatterwing Pegasus,56.0,3cmc 2/3 flyer with late team pump
+Surgical Precision,57.5,flexible: kill toughness 4+ or cantrip + 2 life
+Unflinching Hortimancer,55.0,2cmc ward body that grows with lifegain
+Your Fate Ends Here,58.5,3-mana instant kill on MV3+ creature/PW plus surveil
+Countersculpt,56.0,2-3 mana hard counter plus Empower 1
+Cruel Calculations,50.0,needs same-turn mill; narrow combo card
+Cryotheory Adept,54.5,2cmc prowess body with graveyard stun later
+Diviner of Victory,56.0,1-drop plus cheap tempo bounce (Elite Interceptor-like)
+Divining Duelist,55.5,3cmc 3/2 flash with tap / untap / loot
+Icy Reception,56.0,flexible soft counter or -5/-0 at instant speed
+Infinite Coursework,57.5,3-mana lockdown aura that strips abilities; blue's best common removal
+Jace's Machinations,56.0,instant-speed Empower 8 = about two cards plus surveils
+Mindseeker Oculus,57.0,3cmc 2/1 that effectively cantrips (Empower 4 lets Jace -3 immediately)
+Perfected Theory,54.0,1-mana flexible combat trick / shrink
+Plan for All Outcomes,56.5,tempo tuck on an enchantment that keeps empowering
+Precise Redaction,51.5,narrow color-specific counter
+Protege's Awakening,56.0,4 mana: about three cards over two turns via Jace token
+Seasoned Cryomancer,59.0,ETB filter plus stuns; graveyard draw-two later
+Semester Foreseer,54.0,mid-cost prepare value creature (Campus Composer 54.2 analogue)
+Sphinx of False Conclusions,61.0,4cmc 4/2 flash flyer that returns once; card filtering
+Sphinx's Approach,56.0,3-mana instant draw two
+Surveillance Phantasm,54.0,cheap defensive flyer; attacks with surveil
+"The Theorist, Jace Beleren",64.0,4-mana PW: draws every opponent turn and makes blockers / bounces
+Theorist's Proxy,56.0,2cmc flash 0/3 plus Empower 3 (about a card)
+Undulating Witness,56.0,5cmc 3/5 flyer or landcycle
+Unsummon,53.5,basic tempo; also kills tokens
+Variable Chaser,56.0,3cmc 2/3 flying prowess; wheel spell situational
+Apex Witchstalker,56.0,6cmc 6/4 menace + 4 life or landcycle
+Bloodline Recollector,53.0,2cmc 2/2; prepare rarely triggers
+Break Under Pressure,58.0,instant edict hitting their biggest creature/PW
+Cast Away Doubt,55.5,3-mana draw two; ping enables Stingerquill
+Dark Matter Manipulator,52.0,1-drop that needs a big graveyard
+Darklight Phoenix,58.0,recursive hasty flyer
+Extended Absence,57.5,4-mana instant unconditional exile
+Extrapolate the Impossible,52.0,wish from sideboard (opponent picks the worse of two)
+Last Gasp,57.5,reprint: 57.7 in SOS (+1.8 vs set mean)
+Lich's Relic,60.0,3-mana kill plus a lingering +2/+1 equipment
+Multiply by Zero,57.5,2-mana instant base 0/0; counters theme makes it slightly unreliable
+Overwrite the Multiverse,57.0,6-mana exile wrath with Empower X
+Rampart Hunter,55.5,4cmc 3/3 deathtouch plus combat trick on ETB
+Rank Rat,55.5,2cmc discard body (Virus Beetle analogue 57.0)
+Rewrite Regrets,55.0,reanimate MV6 or less plus Empower 2
+Rise of the Deathbringer,58.0,flexible: -3/-3 sweep or big draw
+Sanctum Lurker,58.0,keeps Jace tokens alive with a +2 drain; card engine
+Screeching Soulbreaker,54.5,defensive 1/4 flyer that drains on attack
+Silence the Echo,57.0,kill spell; sac a spent Jace token or pay 3
+Solve for Disappointment,53.0,discard a nonland permanent card plus Empower 1
+Terminal Criticism,56.5,2-mana instant kill vs U/R; also kills Jace tokens
+Theoretical Necromancer,54.5,3cmc 4/1 with later graveyard regrowth
+Void Extrapolator,54.0,2-drop that grows with threshold; mill-3 prepare
+Vraska's Final Mercy,60.0,2-mana unconditional kill or Empower 6
+Ajani's Anguish,58.5,X burn to any target plus trample
+Artifist Acumen,53.0,cantrip team first strike
+Awaken the Inferno,57.0,6 damage + counter or landcycle; flexible removal
+Blazing Crescendo,53.0,reprint: 52.9 in MSH (-3.3 vs mean); trick + impulse draw
+Chandra's Emberling,53.5,3cmc 2/2 haste that grows with spells
+Craterclaw Colossus,55.0,7-mana RRR haste finisher
+Curse-Marred Demon,61.0,4cmc 4/4 flying trample plus a tutor
+Draconic Visitor,62.0,5cmc 5/5 flyer; Heartwood/Thopter/Lotus tokens become dragons
+Eardrum Rattler,52.5,2cmc 2/2 that grants unblockable to small creatures
+Essence Burn,55.0,5 damage vs B/G; cannot hit blue Jace tokens
+Face Yourself,55.0,7-mana copy the opponent's board; Jace token lets you keep copies
+Fulminous Forte,58.0,instant 5 damage or a one-sided ping sweep
+Hallway Heckler,55.0,repeatable rummage body plus Verse ping
+Heartstring Puller,55.0,two bodies for 4 (3/1 trample + 2/2)
+Identity Echo,50.0,slow polymorph engine
+Master of Barbs,55.0,aggressive menace 2-drop for BR pingers
+No Admittance,57.5,2-mana 3 to any target plus Empower 1
+Pompous Battlemage,51.0,1/1 prowess plus rummage
+Pyre Rhymer,54.0,3cmc 3/3 prowess; ritual spell marginal
+Skilled Battlecarver,53.5,aggressive 2-drop with firebreathing
+Stingcaster Mage,56.5,hasty 2-drop that rebuys removal
+Tether Technician,55.0,5cmc 4/5 reach with optional 2-damage ping
+Violent Echoes,58.0,4-mana instant 6 damage plus Empower on excess
+Wrath of the Bloodmane,57.0,3-mana instant 4 damage (2 with a legend)
+Arcane Amphisbaena,56.0,2cmc deathtouch plus Empower 2
+Bestial Incursion,57.0,4/4 trample token now and again with flashback
+Budding Insurgent,55.5,3cmc 3/3 vigilance that answers artifacts/enchantments/Ways
+Carnivorous Cultivator,57.0,2cmc 2/3 deathtouch; land recursion
+Compel Brutality,56.5,instant bite (also via planeswalker loyalty)
+Flourishing Grapple,55.0,1-mana bite vs R/W targets
+Gardenize,49.0,slow ramp enchantment
+Greenhouse Propagator,54.0,3cmc mana creature with lifegain
+Heartwood Crafter,52.0,1-drop with restricted mana and a slow mana-rock spell
+Hexhaven Invigorator,62.0,4-mana 6/6 vigilance (GGGG restricts it to heavy green)
+Hungering Puppetbeast,59.0,5cmc 5/5 plus mana rock; sac outlet for evasion
+Hunter's Axe,53.0,cheap equipment; deathtouch on attack
+Inspired Tethermage,53.5,3cmc 3/2 that grows with empower
+Omnipresence,47.0,8-mana do-nothing in limited
+Puppet Crafting,54.0,2 mana: turn a Heartwood/Way/Memory Trap into a 5/5
+Restore with Empathy,52.0,instant regrowth plus 4 life
+Simulacrum Shaper,57.0,ramp body that replaces itself on death
+Something Worth Saving,53.0,instant dig-4 for a permanent; threshold fuel
+Sureshot Sower,55.0,3/1 reach for 2 or anti-flyer removal
+Tarmogoyf,57.0,2-mana body usually 3/4 to 4/5 in limited graveyards
+Tethermage's Advantage,53.0,1-mana pump/untap trick
+Verdant Kraken,60.0,7-mana 6/6 that makes two 3/3s every round
+Vinelasher Adept,55.5,6 mana for 5/7 of stats spread out or landcycle
+Wrecking Gecko,55.5,5cmc 5/5 ward 2 with late pump
+Aerid Konstrari,63.0,4-mana 5/4 flyer plus mana rocks; bomb
+Avatar of Burgeoning Echoes,60.0,2cmc 2/3 that empowers 2 per land drop: card engine
+Blessed Ghoul,52.0,recursive 1/1 lifelink fodder
+Bloombrute,57.0,4cmc 4/4 that draws with lifegain
+Charge the Sanctum,53.0,hybrid combat trick
+Clash of Elements,54.0,instant tempo removal (usually top of library + 2 damage)
+Craftwork Crusher,57.0,7cmc 7/5 trample with two ETB modes (removal + card)
+Denzilore Fatehold,63.0,4-mana flash flyer that pumps the team on every surveil
+Desperate Futurescribe,58.0,4cmc 3/4 flyer that grows the team
+Emergency Phytomedic,52.0,1/1 plus Seed Suture
+Entrust the Spark,46.0,needs planeswalker cards in deck
+Fatehold Charm,56.0,flexible WU instant
+Fatehold Chronologist,54.5,1/2 flyer plus Peer Review 2/2 later
+Ferocity of the Hunt,52.0,flash aura; deathtouch + recursion
+Frostbite Pyromental,54.0,one-shot 4/4 haste trample; maybe draw two
+Grim Repriser,55.0,recursive prowess 2-drop for BR
+Ingris Stingerquill,60.0,attack-ping engine plus Cadet mana sink
+Konstrari Charm,55.0,flexible RG instant
+Konstrari Improviser,53.0,2/2 plus mana-rock spell (Goblin Glasswright 54.4 analogue)
+Kwia Vigorbloom,66.0,5-mana 6/6 flying vigilance lifelink ward bomb
+Mind Meanderer,58.0,6-mana 4/4 flyer that fights on ETB
+Null Summoner,55.5,4cmc 4/2 plus hand disruption
+Paradox Shaper,53.0,1/3 that mills 3 each turn; threshold enabler
+Primal Witchstalker,53.5,3cmc 2/1 menace; mill plus possible ramp
+Proctor of Potential,57.0,2cmc 3/1 surveil engine that recurs
+Prudent Fateseer,54.0,1/4 defender-ish plus Peer Review
+Recursive Recruitment,54.0,two 2/2s for 4; expensive flashback
+Solarium Sentry,57.0,2-mana 3/3
+Solitary Cell,58.0,2-mana exile MV3 or less plus rummage
+Stingerquill Charm,57.0,flexible BR instant including 3 to any target
+Stingerquill Voxmancer,53.5,1/2 that pings 1 each turn for 1 mana
+Stinging Vitriol,51.0,2 face damage plus discard
+Tam's Resistance,55.5,2 mana: counter plus a card via Empower 4
+Tenured Tethermage,54.0,RG artifact ramp body
+Theorix Charm,55.5,flexible UB instant
+Theorix Metamage,54.5,3cmc 2/3 that becomes a 3/3 flyer at threshold
+Twinned Vision,54.0,cantrip with flashback draw two
+Twisted Fates,58.0,5-mana destroy any nonland permanent plus team counters
+Uldaros Theorix,63.0,6-mana 5/5 flyer that recasts graveyard spells free
+Vigorbloom Charm,56.5,flexible GW instant (fight / protect / draw)
+Vigorbloom Vanguard,53.5,2/2 plus Seed Suture
+Vindictive Triumph,59.0,3-mana instant exile
+Warrior's Blades,58.0,3 damage + 3 life on ETB plus equipment
+Whiplash Wordsmith,54.0,4cmc 3/3 that becomes flying/haste after a ping
+Woodwork Prodigy,55.0,3cmc 3/3 that can make a mana rock every turn
+Afterthought Sentry,52.0,colorless 2/2 with flying for 2
+Archive Arbiter,54.0,6cmc 4/4 flyer with utility mode
+"Codie, Ravenous Codex",50.0,narrow prepare payoff
+Command the Stage,54.0,3-mana sorcery 2/2; recursion needs noncombat damage (Stingerquill)
+The Echoverse Fulcrum,54.0,loot now; 7-mana total symmetrical wrath later
+Eye of Jace,49.0,slow surveil artifact
+Keeper of the Quiet Hour,54.5,colorless 3/2 plus Empower 2
+Living Library,53.0,0/4 wall with expensive tuck removal
+Medic's Kitesail,51.0,flying equipment
+Murmuring Volume,54.0,mana rock fixing plus rummage
+Dedicated Commons,55.8,enemy common dual (untapped with a PW)
+Deserted Beach,56.3,rare slowland (faction pair)
+Fatehold Annex,56.3,faction common dual
+Formidable Commons,55.8,enemy common dual
+Hall of Echoes,52.0,colorless utility land
+Haunted Ridge,56.3,rare slowland (faction pair)
+Hexhaven Dueling Arena,51.0,colorless prepare land (Skycoach Waypoint 51.7 analogue)
+Innovative Commons,55.8,enemy common dual
+Konstrari Annex,56.3,faction common dual
+Meticulous Commons,55.8,enemy common dual
+Overgrown Farmland,56.3,rare slowland (faction pair)
+Rockfall Vale,56.3,rare slowland (faction pair)
+Roiling Canopy,50.0,tapped mono land with rare payoff
+Room of Refuge,54.5,tapped any-color land with late counters
+Shipwreck Marsh,56.3,rare slowland (faction pair)
+Stingerquill Annex,56.3,faction common dual
+Theorist's Sanctum,55.0,Island with an Empower mana sink
+Theorix Annex,56.3,faction common dual
+Transformative Commons,55.8,enemy common dual
+Vigorbloom Annex,56.3,faction common dual
+Ajani Resolute,53.5,slow 2-mana PW; little board impact outside lifegain
+"Danitha, Sword of Hope",54.0,first-strike 2/2 that draws with tricks / equipment
+Ghalta the Immovable,54.0,often 5-mana 0/7 that deals 7; toughness-matters
+Gideon's Memorial,55.0,token anthem plus cycling-removal mode
+Koth of the Homestead,56.0,3cmc 2/3 that adds counters on Plains drops
+Liliana the Faultless,52.0,1-drop lifegain enabler
+"Lyra, Archangel of Dawn",60.0,3-mana 3/3 flyer that grows with lifegain
+"Rescue Girl, First Responder",53.0,1/3 flyer; rebuy ETBs / re-prepare
+"Saheeli, Consul of Oversight",59.0,5cmc 4/4 flyer making thopters on surveil
+"Teyo, Lightshield Expert",53.0,flash trick on a 1/1
+"Thalia, the Survivor",56.0,4cmc 3/4 lifelink with a tax
+"Tomik, Orzhov Lawmage",55.0,2cmc 2/1 flyer with utility
+Way of the Healer,57.0,4 mana: about two Cadets plus surveils; lasting PW upgrade
+Way of the Mentor,54.5,3 mana: about a card; lifegain grows Jace
+"Yoshimaru, Beloved Companion",53.0,counters synergy 2/2
+"Yuriko, Blade of the Mighty",52.0,4cmc 2/3; trick denial
+"Arni, Humble Scribe",55.0,3cmc 3/2 looter that untaps
+"Chandra, Chill of Compliance",57.5,3-mana PW: stun removal or card selection
+"Fblthp, Impossibly Lost",54.0,2-drop that later draws two on a hit
+Geist of Saint Thalia,53.0,1/2 flyer cost reducer
+"Hapatra, the Desert Frost",55.5,4cmc 4/3 ETB stun
+"Jace, Reality Sculptor",58.0,5-mana PW: about a card every turn plus a defensive -3
+"Lyra, Tolarian Archangel",60.0,3-mana 3/3 flyer plus card-draw upside
+"Proft, Consulting Detective",55.0,surveil-triggered card-draw mana sink
+"Ruric Thar, Biomagus",57.0,6cmc 4/6 flyer with double prowess
+"Samut, Tyrant of Naktamun",51.0,2/1 with marginal split second
+"Tetsuko Umezawa, Fugitive",51.5,1/3; evasion for few creatures
+"Traxos, Academy Guardian",54.0,defensive 1/5 flyer; often cheap
+Way of the Cryomancer,54.0,3 mana: about a card or a later spell copy
+Way of the Mind Sculptor,54.5,5 mana: about two cards plus surveils
+"Yargle, Goliath of Otaria",51.0,vanilla 3/9 wall
+"Yuriko, Hope from the Shadows",52.0,1-mana flash shrink or surveil 2
+"Danitha, Spear of Agony",53.5,first-strike 2/2 that grows with targeted spells
+"Gallia, Tragic Host",53.0,recursive 2/1 menace
+"Garruk, Veiled Butcher",64.0,5-mana PW: repeatable removal / edict + 4/4 / discard
+Gideon the Oathless,56.0,3cmc 3/3 with ward-discard and pings
+Liliana the Repentant,55.0,2-drop with late reanimation
+"Loot, the Anomaly",52.0,odd 2/4 body for 3
+"Mabel, Bitter Recluse",55.0,1-mana deathtouch that removes counters (kills Jace tokens)
+"Massacre Girl, Most Wanted",54.5,5cmc 4/4 aristocrats / ping payoff
+"Proft, Sinister Mastermind",56.0,1-mana -3/-1 early or 3-mana 5/5 menace late
+"Teyo, Diamondblade Mage",54.0,flash 3/1 with deathtouch trick
+"Tinybones, Pocket Nuisance",54.5,3cmc 2/1 discard plus pings
+Way of the Deathbringer,54.0,3 mana: card or sac-Cadet-for-4/4 ability
+Way of the Necromancer,52.0,2-mana Empower 2 plus slow growth
+"Winter, Tormented Loner",55.0,edict on a growing body (can sac a Jace token)
+"Yargle, Glutton of Urborg",52.0,9/3 for 5
+Ajani Unrelenting,63.0,6-mana PW: one-sided sweep or refill; makes Cadets
+"Arni, Renowned Champion",52.5,1/5 trample that pumps on ETBs
+"Chandra, Torch of Defiance",64.0,4-mana PW: removal plus card advantage
+"Gallia, the Merrymaker",53.0,hasty 2-drop with counter synergy
+"Jiang Yanggu, Alone",54.5,5cmc 4/4 menace rummage
+Kiora of Fire and Ashes,59.0,6 mana: 2/2 + 5/5 flying dragon
+"Koth, the Geomancer",54.0,3cmc 3/2 reach landfall pinger
+"Marwyn, the Clearcutter",52.0,1-drop sac outlet that draws
+"Pia, Determined Rebuilder",55.0,two bodies for 3 including a flyer
+"Samut, Hazoret's Champion",53.0,2/2 haste lord
+"Tetsuko Umezawa, Pursuer",56.0,4cmc 2/4 double strike prowess
+"Tomik, Izzet Sparkmage",53.0,prowess 2-drop; +1 noncombat damage
+Way of the Pyromancer,53.0,2-mana Jace that ramps and slowly draws
+Way of the Warlord,56.5,3 mana: shock creature + 2 face; or a card
+"Winter, Team Player",52.5,convoke 3/3 with spells-pump
+"Edgar, Moonlit Sovereign",56.0,5cmc flash 4/4 that grows
+"Fblthp, Knows the Way",53.0,domain body that fetches basics
+"Garruk, Curse Breaker",63.0,5-mana PW: 4/4s that draw; overrun
+Ghalta the Unstoppable,55.0,often 4-5 mana 8/8 trample
+"Jiang Yanggu, Never Alone",56.0,two bodies (2/2 + 3/3) for 4
+"Loot, the Nexus",52.0,ramp 2/1
+"Marwyn, the Preserver",55.0,2cmc 3/2 with land recursion
+"Pia, Aether Ascetic",52.0,2/2 that tutors an enchantment
+"Ruric Thar, Magecrusher",56.0,7cmc 7/7 reach vigilance trample; protected
+"Titanbones, Towering Heart",55.0,4cmc 4/3 reach; grows with lifegain
+Way of the Paradox,52.5,3-mana Jace with minor upside
+Way of the Wildspeaker,57.0,5 mana: 4/4 trample now plus a card next turn
+"Yoshimaru, Scrappy Stray",56.0,2-mana creature-based fight removal
+"Edgar, Ancient Bloodlord",54.5,WB sac-outlet 2/3
+"Hapatra, the Desert Fang",57.0,5cmc 3/3 with -1/-1 counter removal
+"Karn, Gilded Guardian",51.0,usually 8 mana in two colors
+Kiora of Salt and Sand,54.0,2/4 with PW attack synergies
+"Mabel, Valley Hero",56.0,go-wide counters engine
+"Saheeli, Jewel of Avishkar",56.0,2/4 making hasty thopters per noncreature spell
+"Tam, the Possibility",52.0,2/4 with mostly irrelevant text
+"Vraska, Soul of Stone",54.0,3-color 3/3 spells engine
+"Vraska, the Cutting Glare",60.0,3-mana 4/4 deathtouch; late ETB removal
+"Karn, Argent Defender",49.0,symmetric ETB hate on a 1/3
+"Traxos, Scourge Eternal",53.0,4-mana 5/4 trample that needs untapping
+Eye of Ugin,48.0,colorless utility land; little value in limited
+Austere Command,57.0,flexible 6-mana wrath
+Flesh Duplicate,54.0,temporary clone
+Consign to Memory,47.0,very narrow counter
+Sublime Epiphany,60.0,6-mana instant multi-mode value
+Consider,55.0,cantrip (Preordain 56.4 in SOS)
+Necrodominance,51.0,pay-life draw engine; no board impact
+Mind Twist,53.5,X random discard
+Splinter Twin,53.0,aura making a hasty copy each turn
+Root Maze,46.0,symmetric tempo hoser
