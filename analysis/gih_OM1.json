@@ -1,0 +1,1168 @@
+{
+ "set": "OM1",
+ "file": "/opt/mtg-data/17lands/sets/OM1/game_data_public.OM1.PickTwoDraft.csv.gz",
+ "games": 198140,
+ "wins": 109993,
+ "cards": [
+  {
+   "card": "Mindbreak Trap",
+   "gih": 2,
+   "gih_wr": 1.0
+  },
+  {
+   "card": "Winds of Change",
+   "gih": 4,
+   "gih_wr": 1.0
+  },
+  {
+   "card": "Nine Lives",
+   "gih": 15,
+   "gih_wr": 0.6666666666666666
+  },
+  {
+   "card": "Lorthos, the Tidemaker",
+   "gih": 60,
+   "gih_wr": 0.6666666666666666
+  },
+  {
+   "card": "Luis, Pompous Pillager",
+   "gih": 5299,
+   "gih_wr": 0.6644649933949802
+  },
+  {
+   "card": "Alenni, Brood Recruiter",
+   "gih": 5474,
+   "gih_wr": 0.648885641213007
+  },
+  {
+   "card": "Qoneus, Horizon Splicer",
+   "gih": 5573,
+   "gih_wr": 0.6463305221604163
+  },
+  {
+   "card": "King of the Coldblood Curse",
+   "gih": 5347,
+   "gih_wr": 0.6416682251729942
+  },
+  {
+   "card": "Remarkable Readings",
+   "gih": 5922,
+   "gih_wr": 0.6393110435663627
+  },
+  {
+   "card": "The Scouring Stormsoul",
+   "gih": 5307,
+   "gih_wr": 0.6389674015451291
+  },
+  {
+   "card": "Neach, Pinnacle Pariah",
+   "gih": 3197,
+   "gih_wr": 0.6359086643728495
+  },
+  {
+   "card": "Scions of the Ur-Spider",
+   "gih": 1543,
+   "gih_wr": 0.6331821127673364
+  },
+  {
+   "card": "Through the Omenpath",
+   "gih": 2796,
+   "gih_wr": 0.630901287553648
+  },
+  {
+   "card": "Withar, Cocoon Keeper",
+   "gih": 3001,
+   "gih_wr": 0.6307897367544152
+  },
+  {
+   "card": "Wrench, Speedway Saboteur",
+   "gih": 5497,
+   "gih_wr": 0.6305257413134437
+  },
+  {
+   "card": "Alibou, Ancient Witness",
+   "gih": 75,
+   "gih_wr": 0.6266666666666667
+  },
+  {
+   "card": "Comeuppance",
+   "gih": 190,
+   "gih_wr": 0.6263157894736842
+  },
+  {
+   "card": "Villainous Wrath",
+   "gih": 5149,
+   "gih_wr": 0.6253641483783259
+  },
+  {
+   "card": "Ademi of the Silkchutes",
+   "gih": 5494,
+   "gih_wr": 0.6252275209319257
+  },
+  {
+   "card": "A Most Helpful Weaver",
+   "gih": 5268,
+   "gih_wr": 0.6231966590736523
+  },
+  {
+   "card": "Surris, Spidersilk Innovator",
+   "gih": 2944,
+   "gih_wr": 0.6216032608695652
+  },
+  {
+   "card": "Cren, Undercity Dreamer",
+   "gih": 3086,
+   "gih_wr": 0.6205443940375891
+  },
+  {
+   "card": "Terrific Team-Up",
+   "gih": 15338,
+   "gih_wr": 0.6160516364584692
+  },
+  {
+   "card": "Makdee and Itla, Skysnarers",
+   "gih": 6014,
+   "gih_wr": 0.6158962421017625
+  },
+  {
+   "card": "A Trail of Teacups",
+   "gih": 5564,
+   "gih_wr": 0.6128684399712437
+  },
+  {
+   "card": "Janai and Hoppy, Roofskippers",
+   "gih": 13900,
+   "gih_wr": 0.6120863309352518
+  },
+  {
+   "card": "Goben, Gene-Splice Savant",
+   "gih": 3153,
+   "gih_wr": 0.6111639708214399
+  },
+  {
+   "card": "Spectacular Tactics",
+   "gih": 33625,
+   "gih_wr": 0.6085650557620818
+  },
+  {
+   "card": "Saw in Half",
+   "gih": 104,
+   "gih_wr": 0.6057692307692307
+  },
+  {
+   "card": "The Watcher on the Road",
+   "gih": 5379,
+   "gih_wr": 0.6055028815765012
+  },
+  {
+   "card": "Tearle, Entropic Hunger",
+   "gih": 12885,
+   "gih_wr": 0.6045789677920063
+  },
+  {
+   "card": "Mystic Confluence",
+   "gih": 237,
+   "gih_wr": 0.6033755274261603
+  },
+  {
+   "card": "Arachnogenesis",
+   "gih": 199,
+   "gih_wr": 0.6030150753768844
+  },
+  {
+   "card": "Fateweaver",
+   "gih": 4972,
+   "gih_wr": 0.6029766693483508
+  },
+  {
+   "card": "Demera, Soul of a Spider",
+   "gih": 5291,
+   "gih_wr": 0.6021546021546021
+  },
+  {
+   "card": "Arasta of the Endless Web",
+   "gih": 216,
+   "gih_wr": 0.6018518518518519
+  },
+  {
+   "card": "Selesnya Archivist",
+   "gih": 14766,
+   "gih_wr": 0.6017201679534064
+  },
+  {
+   "card": "Sarn of the Silken Throne",
+   "gih": 15242,
+   "gih_wr": 0.6016270830599659
+  },
+  {
+   "card": "Leyline Binding",
+   "gih": 218,
+   "gih_wr": 0.6009174311926605
+  },
+  {
+   "card": "Tarantusk, Unwisely Awoken",
+   "gih": 4932,
+   "gih_wr": 0.6001622060016221
+  },
+  {
+   "card": "Phantasmal Vision",
+   "gih": 21144,
+   "gih_wr": 0.6001229663261445
+  },
+  {
+   "card": "Rest in Peace",
+   "gih": 5,
+   "gih_wr": 0.6
+  },
+  {
+   "card": "Cirina Bargainspinner",
+   "gih": 12040,
+   "gih_wr": 0.5990863787375416
+  },
+  {
+   "card": "Alessos and Pras, Acrobats",
+   "gih": 14417,
+   "gih_wr": 0.5990150516751058
+  },
+  {
+   "card": "Skv'x the Augmenter",
+   "gih": 5599,
+   "gih_wr": 0.5986783354170387
+  },
+  {
+   "card": "Cheering Crowd",
+   "gih": 4966,
+   "gih_wr": 0.5970600080547724
+  },
+  {
+   "card": "Mothwing Shroud",
+   "gih": 33498,
+   "gih_wr": 0.5966624873126753
+  },
+  {
+   "card": "Leyline Weaver",
+   "gih": 32530,
+   "gih_wr": 0.5963725791577006
+  },
+  {
+   "card": "Savage Beating",
+   "gih": 109,
+   "gih_wr": 0.5963302752293578
+  },
+  {
+   "card": "Angler's Shield",
+   "gih": 5224,
+   "gih_wr": 0.59552067381317
+  },
+  {
+   "card": "Gloria, the Great Armorer",
+   "gih": 3877,
+   "gih_wr": 0.5947897859169461
+  },
+  {
+   "card": "Sudden Strike",
+   "gih": 13236,
+   "gih_wr": 0.593155031731641
+  },
+  {
+   "card": "Argyr, Tidal Spinner",
+   "gih": 14223,
+   "gih_wr": 0.5922098010265063
+  },
+  {
+   "card": "The Clutter Cluster",
+   "gih": 14489,
+   "gih_wr": 0.5906549796397267
+  },
+  {
+   "card": "Nia, Skysail Storyteller",
+   "gih": 1899,
+   "gih_wr": 0.5887309110057926
+  },
+  {
+   "card": "Generous Betty Wray",
+   "gih": 12938,
+   "gih_wr": 0.5878806616169423
+  },
+  {
+   "card": "City Pigeon",
+   "gih": 28890,
+   "gih_wr": 0.5876773970231914
+  },
+  {
+   "card": "Remorseless Coup",
+   "gih": 14232,
+   "gih_wr": 0.587619449128724
+  },
+  {
+   "card": "Hex of Undeath",
+   "gih": 2943,
+   "gih_wr": 0.5874957526333673
+  },
+  {
+   "card": "Rouse the Swarm",
+   "gih": 12847,
+   "gih_wr": 0.5872188059469137
+  },
+  {
+   "card": "Favored Fighter",
+   "gih": 29803,
+   "gih_wr": 0.5865852430963325
+  },
+  {
+   "card": "Gallant Citizen",
+   "gih": 28907,
+   "gih_wr": 0.5860518213581486
+  },
+  {
+   "card": "Fizik, Etherium Mechanic",
+   "gih": 5368,
+   "gih_wr": 0.5853204172876304
+  },
+  {
+   "card": "Orris, Last of the Web Lords",
+   "gih": 11469,
+   "gih_wr": 0.5852297497602232
+  },
+  {
+   "card": "Robotics Mastery",
+   "gih": 12782,
+   "gih_wr": 0.5850414645595369
+  },
+  {
+   "card": "Basil, Cabaretti Loudmouth",
+   "gih": 12914,
+   "gih_wr": 0.584946569614372
+  },
+  {
+   "card": "Zan, Tunnelweb Explorer",
+   "gih": 29661,
+   "gih_wr": 0.5846397626512929
+  },
+  {
+   "card": "Principled Referee",
+   "gih": 29673,
+   "gih_wr": 0.5841337242611128
+  },
+  {
+   "card": "Damning Caress",
+   "gih": 29048,
+   "gih_wr": 0.5834136601487193
+  },
+  {
+   "card": "Desecrex, Gift of Servitude",
+   "gih": 3279,
+   "gih_wr": 0.583104605062519
+  },
+  {
+   "card": "The House Grows Hungry",
+   "gih": 4850,
+   "gih_wr": 0.5830927835051546
+  },
+  {
+   "card": "Zora, Spider Fancier",
+   "gih": 11325,
+   "gih_wr": 0.5828697571743929
+  },
+  {
+   "card": "Brako, Heartless Hunter",
+   "gih": 3801,
+   "gih_wr": 0.58195211786372
+  },
+  {
+   "card": "Ancestral Carvings",
+   "gih": 7501,
+   "gih_wr": 0.5817890947873617
+  },
+  {
+   "card": "Reprieve",
+   "gih": 203,
+   "gih_wr": 0.5812807881773399
+  },
+  {
+   "card": "Drix Interception",
+   "gih": 16532,
+   "gih_wr": 0.5797846600532301
+  },
+  {
+   "card": "Kumonosu, the Watchful",
+   "gih": 12882,
+   "gih_wr": 0.5787921130259277
+  },
+  {
+   "card": "Vexed Bots",
+   "gih": 12675,
+   "gih_wr": 0.578698224852071
+  },
+  {
+   "card": "Carlo, Suave Schemer",
+   "gih": 11526,
+   "gih_wr": 0.5782578518132917
+  },
+  {
+   "card": "Quint's Insight",
+   "gih": 2235,
+   "gih_wr": 0.5767337807606264
+  },
+  {
+   "card": "Scorpion's Sting",
+   "gih": 27808,
+   "gih_wr": 0.5765966628308401
+  },
+  {
+   "card": "Egrix the Bile Bulwark",
+   "gih": 2753,
+   "gih_wr": 0.5764620414093716
+  },
+  {
+   "card": "Unstable Experiment",
+   "gih": 22633,
+   "gih_wr": 0.5759731365704944
+  },
+  {
+   "card": "Spectral Restitching",
+   "gih": 3622,
+   "gih_wr": 0.5745444505797902
+  },
+  {
+   "card": "Grow Extra Arms",
+   "gih": 16279,
+   "gih_wr": 0.5737453160513545
+  },
+  {
+   "card": "Infernal Grasp",
+   "gih": 265,
+   "gih_wr": 0.5735849056603773
+  },
+  {
+   "card": "Diligent Webkeepers",
+   "gih": 12504,
+   "gih_wr": 0.5734165067178503
+  },
+  {
+   "card": "Thrill of Possibility",
+   "gih": 82,
+   "gih_wr": 0.573170731707317
+  },
+  {
+   "card": "Wonderweave Aerialist",
+   "gih": 25793,
+   "gih_wr": 0.5730236885976815
+  },
+  {
+   "card": "Outsmart the Amateur",
+   "gih": 10898,
+   "gih_wr": 0.5723986052486695
+  },
+  {
+   "card": "Nill, Vessel of Valgavoth",
+   "gih": 12785,
+   "gih_wr": 0.5719202190066485
+  },
+  {
+   "card": "Plains",
+   "gih": 113742,
+   "gih_wr": 0.5715478890823091
+  },
+  {
+   "card": "Chizak, Apex Arachnosaur",
+   "gih": 24201,
+   "gih_wr": 0.5712160654518408
+  },
+  {
+   "card": "Yera and Oski, Weaver and Guide",
+   "gih": 4562,
+   "gih_wr": 0.5710214818062254
+  },
+  {
+   "card": "Borys, the Spider Rider",
+   "gih": 3762,
+   "gih_wr": 0.5709728867623605
+  },
+  {
+   "card": "Strength of Will",
+   "gih": 3720,
+   "gih_wr": 0.5701612903225807
+  },
+  {
+   "card": "Lively Leap",
+   "gih": 12211,
+   "gih_wr": 0.5698141020391451
+  },
+  {
+   "card": "Clever Impersonator",
+   "gih": 202,
+   "gih_wr": 0.5693069306930693
+  },
+  {
+   "card": "Kroble, Envoy of the Bog",
+   "gih": 10765,
+   "gih_wr": 0.5690664189503019
+  },
+  {
+   "card": "Costume Closet",
+   "gih": 10910,
+   "gih_wr": 0.5682859761686526
+  },
+  {
+   "card": "Lost in Littjara",
+   "gih": 4945,
+   "gih_wr": 0.5680485338725986
+  },
+  {
+   "card": "Kavaero, Mind-Bitten",
+   "gih": 4086,
+   "gih_wr": 0.5677924620655899
+  },
+  {
+   "card": "Merciless Enforcers",
+   "gih": 23036,
+   "gih_wr": 0.5666348324361868
+  },
+  {
+   "card": "Forest",
+   "gih": 105631,
+   "gih_wr": 0.5661406215978264
+  },
+  {
+   "card": "Opposition Agent",
+   "gih": 76,
+   "gih_wr": 0.5657894736842105
+  },
+  {
+   "card": "Darval, Whose Web Protects",
+   "gih": 24646,
+   "gih_wr": 0.5656090237766778
+  },
+  {
+   "card": "Snatch Back",
+   "gih": 24379,
+   "gih_wr": 0.5654866893637968
+  },
+  {
+   "card": "Arala, Hedron Scaler",
+   "gih": 20227,
+   "gih_wr": 0.5644435655312207
+  },
+  {
+   "card": "Goro Rel, Scourge to Spiders",
+   "gih": 14588,
+   "gih_wr": 0.5643679736769948
+  },
+  {
+   "card": "Perilous Lunge",
+   "gih": 26707,
+   "gih_wr": 0.5642715392968136
+  },
+  {
+   "card": "Scout the City",
+   "gih": 11528,
+   "gih_wr": 0.5641047883414295
+  },
+  {
+   "card": "Suburban Sanctuary",
+   "gih": 21998,
+   "gih_wr": 0.5636421492862987
+  },
+  {
+   "card": "Supportive Parents",
+   "gih": 12393,
+   "gih_wr": 0.5633825546679577
+  },
+  {
+   "card": "University Campus",
+   "gih": 19375,
+   "gih_wr": 0.5630967741935484
+  },
+  {
+   "card": "Stitcher's Wings",
+   "gih": 4877,
+   "gih_wr": 0.5622308796391224
+  },
+  {
+   "card": "Bane-Marked Leonin",
+   "gih": 15717,
+   "gih_wr": 0.5620665521409939
+  },
+  {
+   "card": "Sinister Hideout",
+   "gih": 19649,
+   "gih_wr": 0.5603338592294773
+  },
+  {
+   "card": "Reality Fulcrum",
+   "gih": 1485,
+   "gih_wr": 0.5602693602693603
+  },
+  {
+   "card": "Ruzic, Booed but Victorious",
+   "gih": 3363,
+   "gih_wr": 0.56021409455843
+  },
+  {
+   "card": "Wekhdu, Midnight Hunter",
+   "gih": 20558,
+   "gih_wr": 0.5601712228816033
+  },
+  {
+   "card": "Silkguard",
+   "gih": 175,
+   "gih_wr": 0.56
+  },
+  {
+   "card": "Ozor, Chronicler of Collapse",
+   "gih": 19283,
+   "gih_wr": 0.5598195301560961
+  },
+  {
+   "card": "Mob Lookout",
+   "gih": 22263,
+   "gih_wr": 0.5596730000449176
+  },
+  {
+   "card": "Ponder",
+   "gih": 154,
+   "gih_wr": 0.5584415584415584
+  },
+  {
+   "card": "Crime-Scene Instructor",
+   "gih": 24530,
+   "gih_wr": 0.5584182633509988
+  },
+  {
+   "card": "Terminate",
+   "gih": 165,
+   "gih_wr": 0.5575757575757576
+  },
+  {
+   "card": "Eerie Gravestone",
+   "gih": 8731,
+   "gih_wr": 0.557439010422632
+  },
+  {
+   "card": "Viggo, Enforcer of Ig's Crossing",
+   "gih": 1978,
+   "gih_wr": 0.5571284125379171
+  },
+  {
+   "card": "Vibrant Cityscape",
+   "gih": 34713,
+   "gih_wr": 0.5558436320686775
+  },
+  {
+   "card": "Rhilex the Accursed",
+   "gih": 4572,
+   "gih_wr": 0.5557742782152231
+  },
+  {
+   "card": "Tethex, Gift of Malice",
+   "gih": 18680,
+   "gih_wr": 0.555728051391863
+  },
+  {
+   "card": "Lavaborn Goblins",
+   "gih": 7276,
+   "gih_wr": 0.5553875755909841
+  },
+  {
+   "card": "Island",
+   "gih": 89354,
+   "gih_wr": 0.5543344450164515
+  },
+  {
+   "card": "Obscura Alleylurkers",
+   "gih": 11868,
+   "gih_wr": 0.5528311425682507
+  },
+  {
+   "card": "Steelweb Surveyor",
+   "gih": 17576,
+   "gih_wr": 0.552799271734183
+  },
+  {
+   "card": "Opulent Valet",
+   "gih": 10887,
+   "gih_wr": 0.5518508312666482
+  },
+  {
+   "card": "Perfected Pastry",
+   "gih": 14686,
+   "gih_wr": 0.5512733215307095
+  },
+  {
+   "card": "Swamp",
+   "gih": 89789,
+   "gih_wr": 0.5500228313045028
+  },
+  {
+   "card": "Beast Within",
+   "gih": 80,
+   "gih_wr": 0.55
+  },
+  {
+   "card": "Xecau, Predation's Shadow",
+   "gih": 6327,
+   "gih_wr": 0.549865655128813
+  },
+  {
+   "card": "Common Crook",
+   "gih": 20600,
+   "gih_wr": 0.5498058252427185
+  },
+  {
+   "card": "Cruel Caracals",
+   "gih": 18126,
+   "gih_wr": 0.5482731987200706
+  },
+  {
+   "card": "Wisecrack",
+   "gih": 8788,
+   "gih_wr": 0.548133818843878
+  },
+  {
+   "card": "Rhino's Rampage",
+   "gih": 9782,
+   "gih_wr": 0.547945205479452
+  },
+  {
+   "card": "Data Scrubber",
+   "gih": 9534,
+   "gih_wr": 0.5477239353891337
+  },
+  {
+   "card": "Path to Exile",
+   "gih": 221,
+   "gih_wr": 0.5475113122171946
+  },
+  {
+   "card": "The Infernus",
+   "gih": 5305,
+   "gih_wr": 0.5470311027332705
+  },
+  {
+   "card": "Fearsome Ridgeline",
+   "gih": 10528,
+   "gih_wr": 0.5468275075987842
+  },
+  {
+   "card": "Hide in Mundanity",
+   "gih": 18007,
+   "gih_wr": 0.5463430887988004
+  },
+  {
+   "card": "Scuttling Spidercoach",
+   "gih": 3644,
+   "gih_wr": 0.5458287596048299
+  },
+  {
+   "card": "Lurking Lizards",
+   "gih": 16642,
+   "gih_wr": 0.5444658093979089
+  },
+  {
+   "card": "Kraza, the Swarm as One",
+   "gih": 3092,
+   "gih_wr": 0.5443078913324709
+  },
+  {
+   "card": "Counterspell",
+   "gih": 193,
+   "gih_wr": 0.5440414507772021
+  },
+  {
+   "card": "Verilax the Havenskin",
+   "gih": 1318,
+   "gih_wr": 0.5440060698027314
+  },
+  {
+   "card": "Multiversal Passage",
+   "gih": 4922,
+   "gih_wr": 0.5426655830963023
+  },
+  {
+   "card": "Margot, On the Case",
+   "gih": 8275,
+   "gih_wr": 0.5423564954682779
+  },
+  {
+   "card": "Feed the Swarm",
+   "gih": 190,
+   "gih_wr": 0.5421052631578948
+  },
+  {
+   "card": "Urban Retreat",
+   "gih": 4577,
+   "gih_wr": 0.5414026655014201
+  },
+  {
+   "card": "Bayo, Irritable Instructor",
+   "gih": 2889,
+   "gih_wr": 0.5413637937002423
+  },
+  {
+   "card": "Knife Trick",
+   "gih": 19975,
+   "gih_wr": 0.5408260325406758
+  },
+  {
+   "card": "Dreadfang, Loathed by Fans",
+   "gih": 5769,
+   "gih_wr": 0.5408216328653146
+  },
+  {
+   "card": "Giantcraft Helm",
+   "gih": 2708,
+   "gih_wr": 0.5398818316100443
+  },
+  {
+   "card": "Najeela, the Blade-Blossom",
+   "gih": 104,
+   "gih_wr": 0.5384615384615384
+  },
+  {
+   "card": "Restless Razorkin",
+   "gih": 8510,
+   "gih_wr": 0.5384253819036428
+  },
+  {
+   "card": "Rishei, Getaway Accomplice",
+   "gih": 8497,
+   "gih_wr": 0.5380722607979287
+  },
+  {
+   "card": "Vinewoven Chariot",
+   "gih": 15885,
+   "gih_wr": 0.5379288637079005
+  },
+  {
+   "card": "Savage Mansion",
+   "gih": 13056,
+   "gih_wr": 0.5370710784313726
+  },
+  {
+   "card": "The Terminus of Return",
+   "gih": 2398,
+   "gih_wr": 0.536697247706422
+  },
+  {
+   "card": "Secret Identity",
+   "gih": 4500,
+   "gih_wr": 0.5353333333333333
+  },
+  {
+   "card": "Scorvus Ames, Crimelord",
+   "gih": 8758,
+   "gih_wr": 0.5349394839004339
+  },
+  {
+   "card": "Exclusive Nightclub",
+   "gih": 3853,
+   "gih_wr": 0.5343887879574357
+  },
+  {
+   "card": "Crash, Reckless Endrider",
+   "gih": 7819,
+   "gih_wr": 0.5339557488169843
+  },
+  {
+   "card": "Vazin, Two-Faced Trickster",
+   "gih": 8150,
+   "gih_wr": 0.5334969325153375
+  },
+  {
+   "card": "Freestrider Aces",
+   "gih": 12941,
+   "gih_wr": 0.5333436365041342
+  },
+  {
+   "card": "Shock",
+   "gih": 12218,
+   "gih_wr": 0.5312653462105091
+  },
+  {
+   "card": "Kazuo, Ruthless Rival",
+   "gih": 4975,
+   "gih_wr": 0.5294472361809045
+  },
+  {
+   "card": "Parallel Lives",
+   "gih": 17,
+   "gih_wr": 0.5294117647058824
+  },
+  {
+   "card": "Mountain",
+   "gih": 57911,
+   "gih_wr": 0.5293985598590941
+  },
+  {
+   "card": "Eztli of the Thousand Moons",
+   "gih": 7368,
+   "gih_wr": 0.5287730727470141
+  },
+  {
+   "card": "Eccentric Arachnologist",
+   "gih": 19854,
+   "gih_wr": 0.5286592122494208
+  },
+  {
+   "card": "Prison Break",
+   "gih": 8148,
+   "gih_wr": 0.5276141384388807
+  },
+  {
+   "card": "Deathflame Burst",
+   "gih": 16997,
+   "gih_wr": 0.5269753485909278
+  },
+  {
+   "card": "Belion, the Parched",
+   "gih": 1966,
+   "gih_wr": 0.5254323499491353
+  },
+  {
+   "card": "Hex",
+   "gih": 118,
+   "gih_wr": 0.5254237288135594
+  },
+  {
+   "card": "Sadistic String-Puller",
+   "gih": 12267,
+   "gih_wr": 0.524578136463683
+  },
+  {
+   "card": "Confessor's Bindings",
+   "gih": 1124,
+   "gih_wr": 0.5240213523131673
+  },
+  {
+   "card": "Clandestine Work",
+   "gih": 7355,
+   "gih_wr": 0.5237253569000679
+  },
+  {
+   "card": "Heroic Intervention",
+   "gih": 128,
+   "gih_wr": 0.5234375
+  },
+  {
+   "card": "Ominous Asylum",
+   "gih": 12760,
+   "gih_wr": 0.5189655172413793
+  },
+  {
+   "card": "Temple Trap",
+   "gih": 6562,
+   "gih_wr": 0.5175251447729351
+  },
+  {
+   "card": "Caldaia Brawlers",
+   "gih": 7971,
+   "gih_wr": 0.5162463931752603
+  },
+  {
+   "card": "Nu and Sumi, Career Criminals",
+   "gih": 6101,
+   "gih_wr": 0.514014096049828
+  },
+  {
+   "card": "Galvanized Workforce",
+   "gih": 10024,
+   "gih_wr": 0.5131683958499601
+  },
+  {
+   "card": "Kephon, Rage Incubator",
+   "gih": 7624,
+   "gih_wr": 0.512722980062959
+  },
+  {
+   "card": "Cam and Farrik, Havoc Duo",
+   "gih": 3975,
+   "gih_wr": 0.5104402515723271
+  },
+  {
+   "card": "Kivni, Orb Weaver",
+   "gih": 6458,
+   "gih_wr": 0.5091359554041499
+  },
+  {
+   "card": "Romantic Rendezvous",
+   "gih": 8425,
+   "gih_wr": 0.5086053412462908
+  },
+  {
+   "card": "Uharis, the Stormspinner",
+   "gih": 1648,
+   "gih_wr": 0.508495145631068
+  },
+  {
+   "card": "Rizna, the Spider-Crowned",
+   "gih": 2029,
+   "gih_wr": 0.507639231148349
+  },
+  {
+   "card": "Rite of Replication",
+   "gih": 138,
+   "gih_wr": 0.5072463768115942
+  },
+  {
+   "card": "Archangler's Skyrod",
+   "gih": 3394,
+   "gih_wr": 0.5064820271066588
+  },
+  {
+   "card": "Skittering Kitten",
+   "gih": 6392,
+   "gih_wr": 0.505162703379224
+  },
+  {
+   "card": "Lazlo, Enthusiastic Accuser",
+   "gih": 2589,
+   "gih_wr": 0.5044418694476632
+  },
+  {
+   "card": "Skithiryx, the Blight Dragon",
+   "gih": 149,
+   "gih_wr": 0.5033557046979866
+  },
+  {
+   "card": "Treat Trolley",
+   "gih": 7608,
+   "gih_wr": 0.5014458464773922
+  },
+  {
+   "card": "Wardens of Silverweb Summit",
+   "gih": 7165,
+   "gih_wr": 0.500069783670621
+  },
+  {
+   "card": "Miasmic Mist",
+   "gih": 3791,
+   "gih_wr": 0.4980216301767344
+  },
+  {
+   "card": "Error-9, Viral Node",
+   "gih": 1900,
+   "gih_wr": 0.49473684210526314
+  },
+  {
+   "card": "Olx, Mouth to Many Eyes",
+   "gih": 3348,
+   "gih_wr": 0.49372759856630827
+  },
+  {
+   "card": "Full-Throttle Fanatic",
+   "gih": 4535,
+   "gih_wr": 0.491289966923925
+  },
+  {
+   "card": "Reanimate",
+   "gih": 169,
+   "gih_wr": 0.4911242603550296
+  },
+  {
+   "card": "Pinnacle Research Team",
+   "gih": 3331,
+   "gih_wr": 0.4905433803662564
+  },
+  {
+   "card": "Cactarantula Saddle",
+   "gih": 2582,
+   "gih_wr": 0.48915569326103797
+  },
+  {
+   "card": "Merata, Neuron Hacker",
+   "gih": 282,
+   "gih_wr": 0.4858156028368794
+  },
+  {
+   "card": "Impostor Syndrome",
+   "gih": 1498,
+   "gih_wr": 0.4773030707610147
+  },
+  {
+   "card": "Hunter's Insight",
+   "gih": 109,
+   "gih_wr": 0.47706422018348627
+  },
+  {
+   "card": "Carriage of Dreams",
+   "gih": 1214,
+   "gih_wr": 0.47611202635914335
+  },
+  {
+   "card": "Goblin Bombardment",
+   "gih": 57,
+   "gih_wr": 0.47368421052631576
+  },
+  {
+   "card": "Aggressive Symbiosis",
+   "gih": 2880,
+   "gih_wr": 0.4722222222222222
+  },
+  {
+   "card": "Druneth, Reviver of the Hive",
+   "gih": 836,
+   "gih_wr": 0.4700956937799043
+  },
+  {
+   "card": "Chosen by Valgavoth",
+   "gih": 1106,
+   "gih_wr": 0.46835443037974683
+  },
+  {
+   "card": "Lavabrink Repels the Magmaloth",
+   "gih": 398,
+   "gih_wr": 0.46733668341708545
+  },
+  {
+   "card": "Detect Intrusion",
+   "gih": 870,
+   "gih_wr": 0.46551724137931033
+  },
+  {
+   "card": "Fire-Brained Scheme",
+   "gih": 1705,
+   "gih_wr": 0.4645161290322581
+  },
+  {
+   "card": "Unexpected Windfall",
+   "gih": 93,
+   "gih_wr": 0.45161290322580644
+  },
+  {
+   "card": "Tangle",
+   "gih": 69,
+   "gih_wr": 0.42028985507246375
+  },
+  {
+   "card": "Phenomena Recorder",
+   "gih": 513,
+   "gih_wr": 0.4171539961013645
+  },
+  {
+   "card": "Duskmourn's Claim",
+   "gih": 301,
+   "gih_wr": 0.3920265780730897
+  },
+  {
+   "card": "Traumatize",
+   "gih": 8,
+   "gih_wr": 0.375
+  },
+  {
+   "card": "Arachnomania",
+   "gih": 284,
+   "gih_wr": 0.3274647887323944
+  },
+  {
+   "card": "Relentless Assault",
+   "gih": 43,
+   "gih_wr": 0.32558139534883723
+  },
+  {
+   "card": "Wedding Ring",
+   "gih": 15,
+   "gih_wr": 0.26666666666666666
+  }
+ ]
+}

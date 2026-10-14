@@ -1,0 +1,1083 @@
+{
+ "set": "TMT",
+ "file": "/opt/mtg-data/17lands/sets/TMT/game_data_public.TMT.PremierDraft.csv.gz",
+ "games": 180204,
+ "wins": 102358,
+ "cards": [
+  {
+   "card": "Umezawa's Jitte",
+   "gih": 513,
+   "gih_wr": 0.7173489278752436
+  },
+  {
+   "card": "Sally Pride, Lioness Leader",
+   "gih": 5402,
+   "gih_wr": 0.6993706034801925
+  },
+  {
+   "card": "The Last Ronin",
+   "gih": 3810,
+   "gih_wr": 0.6908136482939633
+  },
+  {
+   "card": "Mighty Mutanimals",
+   "gih": 14722,
+   "gih_wr": 0.6520173889417199
+  },
+  {
+   "card": "Agent Bishop, Man in Black",
+   "gih": 5004,
+   "gih_wr": 0.6484812150279776
+  },
+  {
+   "card": "April O'Neil, Hacktivist",
+   "gih": 6335,
+   "gih_wr": 0.6468823993685873
+  },
+  {
+   "card": "Armaggon, Future Shark",
+   "gih": 4853,
+   "gih_wr": 0.646610344117041
+  },
+  {
+   "card": "Dream Beavers",
+   "gih": 13394,
+   "gih_wr": 0.6448409735702554
+  },
+  {
+   "card": "Everything Pizza",
+   "gih": 14795,
+   "gih_wr": 0.6342007434944238
+  },
+  {
+   "card": "Don & Leo, Problem Solvers",
+   "gih": 5656,
+   "gih_wr": 0.6338401697312589
+  },
+  {
+   "card": "Shadowspear",
+   "gih": 401,
+   "gih_wr": 0.6334164588528678
+  },
+  {
+   "card": "All Will Be One",
+   "gih": 38,
+   "gih_wr": 0.631578947368421
+  },
+  {
+   "card": "Courier of Comestibles",
+   "gih": 15933,
+   "gih_wr": 0.6275654302391264
+  },
+  {
+   "card": "Kitsune, Dragon's Daughter",
+   "gih": 5616,
+   "gih_wr": 0.6274928774928775
+  },
+  {
+   "card": "Dark Leo & Shredder",
+   "gih": 2477,
+   "gih_wr": 0.6273718207509084
+  },
+  {
+   "card": "Leonardo, Sewer Samurai",
+   "gih": 2170,
+   "gih_wr": 0.6271889400921659
+  },
+  {
+   "card": "Mikey & Don, Party Planners",
+   "gih": 4924,
+   "gih_wr": 0.6269293257514216
+  },
+  {
+   "card": "Brilliance Unleashed",
+   "gih": 17495,
+   "gih_wr": 0.6265218633895399
+  },
+  {
+   "card": "Ravenous Robots",
+   "gih": 4392,
+   "gih_wr": 0.6259107468123861
+  },
+  {
+   "card": "Casey Jones, Jury-Rig Justiciar",
+   "gih": 13482,
+   "gih_wr": 0.6258715324135885
+  },
+  {
+   "card": "Metalhead",
+   "gih": 18588,
+   "gih_wr": 0.6242737249838606
+  },
+  {
+   "card": "North Wind Avatar",
+   "gih": 3589,
+   "gih_wr": 0.6221788799108386
+  },
+  {
+   "card": "Triceraton Commander",
+   "gih": 2970,
+   "gih_wr": 0.6215488215488215
+  },
+  {
+   "card": "Turncoat Kunoichi",
+   "gih": 4456,
+   "gih_wr": 0.6214093357271095
+  },
+  {
+   "card": "Weather Maker",
+   "gih": 4850,
+   "gih_wr": 0.6152577319587629
+  },
+  {
+   "card": "Raph & Mikey, Troublemakers",
+   "gih": 4720,
+   "gih_wr": 0.6148305084745763
+  },
+  {
+   "card": "Leatherhead, Swamp Stalker",
+   "gih": 4123,
+   "gih_wr": 0.6138733931603202
+  },
+  {
+   "card": "Does Machines",
+   "gih": 5146,
+   "gih_wr": 0.613291877186164
+  },
+  {
+   "card": "Ooze Spill",
+   "gih": 12403,
+   "gih_wr": 0.6129968555994517
+  },
+  {
+   "card": "The Cloning of Shredder",
+   "gih": 3357,
+   "gih_wr": 0.6115579386356866
+  },
+  {
+   "card": "Michelangelo, Weirdness to 11",
+   "gih": 4075,
+   "gih_wr": 0.61079754601227
+  },
+  {
+   "card": "Frog Butler",
+   "gih": 30701,
+   "gih_wr": 0.6103384254584541
+  },
+  {
+   "card": "Rat King, Verminister",
+   "gih": 4349,
+   "gih_wr": 0.6100252931708439
+  },
+  {
+   "card": "Teleportation Circle",
+   "gih": 246,
+   "gih_wr": 0.6097560975609756
+  },
+  {
+   "card": "Tainted Treats",
+   "gih": 12735,
+   "gih_wr": 0.6096584216725559
+  },
+  {
+   "card": "Baxter Stockman",
+   "gih": 14280,
+   "gih_wr": 0.6071428571428571
+  },
+  {
+   "card": "Chrome Dome",
+   "gih": 5030,
+   "gih_wr": 0.6067594433399602
+  },
+  {
+   "card": "TCRI Building",
+   "gih": 22436,
+   "gih_wr": 0.6061686575147085
+  },
+  {
+   "card": "Savanti Romero, Time's Exile",
+   "gih": 4263,
+   "gih_wr": 0.6061459066385175
+  },
+  {
+   "card": "Lessons from Life",
+   "gih": 12764,
+   "gih_wr": 0.6041209652146663
+  },
+  {
+   "card": "Undercity Sewers",
+   "gih": 280,
+   "gih_wr": 0.6035714285714285
+  },
+  {
+   "card": "Super Shredder",
+   "gih": 2889,
+   "gih_wr": 0.6033229491173416
+  },
+  {
+   "card": "Brainstorm",
+   "gih": 146,
+   "gih_wr": 0.6027397260273972
+  },
+  {
+   "card": "Ninja Teen",
+   "gih": 3521,
+   "gih_wr": 0.6023856858846919
+  },
+  {
+   "card": "Splinter, Hamato Yoshi",
+   "gih": 9978,
+   "gih_wr": 0.6018240128282221
+  },
+  {
+   "card": "Krang, Master Mind",
+   "gih": 4711,
+   "gih_wr": 0.6000849076629166
+  },
+  {
+   "card": "Manhole Missile",
+   "gih": 28808,
+   "gih_wr": 0.5995209663982227
+  },
+  {
+   "card": "Mouser Foundry",
+   "gih": 28859,
+   "gih_wr": 0.597837762916248
+  },
+  {
+   "card": "The Last Ronin's Technique",
+   "gih": 11487,
+   "gih_wr": 0.5978062157221207
+  },
+  {
+   "card": "Transdimensional Bovine",
+   "gih": 4167,
+   "gih_wr": 0.5977921766258699
+  },
+  {
+   "card": "Lita, Little Orphan Amphibian",
+   "gih": 10873,
+   "gih_wr": 0.5977191207578405
+  },
+  {
+   "card": "Turtle Blimp",
+   "gih": 14838,
+   "gih_wr": 0.5967785415824235
+  },
+  {
+   "card": "Donatello, Mutant Mechanic",
+   "gih": 2543,
+   "gih_wr": 0.5961462839166339
+  },
+  {
+   "card": "Sewer-veillance Cam",
+   "gih": 30375,
+   "gih_wr": 0.5943703703703703
+  },
+  {
+   "card": "Raphael, the Nightwatcher",
+   "gih": 3444,
+   "gih_wr": 0.5943670150987224
+  },
+  {
+   "card": "Leonardo, Leader in Blue",
+   "gih": 11384,
+   "gih_wr": 0.5937280393534786
+  },
+  {
+   "card": "Mutant Town",
+   "gih": 19789,
+   "gih_wr": 0.5932588811966244
+  },
+  {
+   "card": "Mechanized Ninja Cavalry",
+   "gih": 29943,
+   "gih_wr": 0.5929599572521124
+  },
+  {
+   "card": "Koya, Death from Above",
+   "gih": 13182,
+   "gih_wr": 0.59262630860264
+  },
+  {
+   "card": "Dimensional Exile",
+   "gih": 11615,
+   "gih_wr": 0.5916487300904003
+  },
+  {
+   "card": "Mutagen Man, Living Ooze",
+   "gih": 4060,
+   "gih_wr": 0.5916256157635468
+  },
+  {
+   "card": "Shark Shredder, Killer Clone",
+   "gih": 4033,
+   "gih_wr": 0.5913711877014629
+  },
+  {
+   "card": "Return to the Sewers",
+   "gih": 28890,
+   "gih_wr": 0.5906888196607822
+  },
+  {
+   "card": "Buzz Bots",
+   "gih": 27942,
+   "gih_wr": 0.5899362966144156
+  },
+  {
+   "card": "Arcbound Ravager",
+   "gih": 275,
+   "gih_wr": 0.5890909090909091
+  },
+  {
+   "card": "Karai, Future of the Foot",
+   "gih": 10574,
+   "gih_wr": 0.588802723661812
+  },
+  {
+   "card": "Novel Nunchaku",
+   "gih": 11793,
+   "gih_wr": 0.5887390825065717
+  },
+  {
+   "card": "Death in the Family",
+   "gih": 11437,
+   "gih_wr": 0.5887033312931713
+  },
+  {
+   "card": "Groundchuck & Dirtbag",
+   "gih": 3712,
+   "gih_wr": 0.5883620689655172
+  },
+  {
+   "card": "Michelangelo, Mutant BFF",
+   "gih": 10115,
+   "gih_wr": 0.5880375679683638
+  },
+  {
+   "card": "Illegitimate Business",
+   "gih": 19046,
+   "gih_wr": 0.587419930694109
+  },
+  {
+   "card": "West Wind Avatar",
+   "gih": 11020,
+   "gih_wr": 0.5872050816696914
+  },
+  {
+   "card": "Omni-Cheese Pizza",
+   "gih": 23733,
+   "gih_wr": 0.5866093624910462
+  },
+  {
+   "card": "The Ooze",
+   "gih": 4591,
+   "gih_wr": 0.5865824439120018
+  },
+  {
+   "card": "Donatello, Turtle Techie",
+   "gih": 28141,
+   "gih_wr": 0.5863331082761807
+  },
+  {
+   "card": "Genghis Frog",
+   "gih": 9974,
+   "gih_wr": 0.5862241828754763
+  },
+  {
+   "card": "April O'Neil, Kunoichi Trainee",
+   "gih": 24475,
+   "gih_wr": 0.586067415730337
+  },
+  {
+   "card": "Nobody",
+   "gih": 28765,
+   "gih_wr": 0.58585086042065
+  },
+  {
+   "card": "Featherbrained Filcher",
+   "gih": 8736,
+   "gih_wr": 0.5840201465201466
+  },
+  {
+   "card": "Prehistoric Pet",
+   "gih": 3233,
+   "gih_wr": 0.5839777296628519
+  },
+  {
+   "card": "Saved by the Shell",
+   "gih": 8844,
+   "gih_wr": 0.583785617367707
+  },
+  {
+   "card": "Oroku Saki, Shredder Rising",
+   "gih": 23408,
+   "gih_wr": 0.5825358851674641
+  },
+  {
+   "card": "General Traag, Heart of Stone",
+   "gih": 10204,
+   "gih_wr": 0.5824186593492748
+  },
+  {
+   "card": "Primordial Pachyderm",
+   "gih": 22131,
+   "gih_wr": 0.5817631376801772
+  },
+  {
+   "card": "Jennika's Technique",
+   "gih": 1535,
+   "gih_wr": 0.5817589576547231
+  },
+  {
+   "card": "Technodrome",
+   "gih": 2773,
+   "gih_wr": 0.581319870176704
+  },
+  {
+   "card": "Squirrelanoids",
+   "gih": 22199,
+   "gih_wr": 0.5811973512320375
+  },
+  {
+   "card": "Donatello, Gadget Master",
+   "gih": 4002,
+   "gih_wr": 0.5809595202398801
+  },
+  {
+   "card": "Turtle Lair",
+   "gih": 6883,
+   "gih_wr": 0.5808513729478425
+  },
+  {
+   "card": "Plains",
+   "gih": 80418,
+   "gih_wr": 0.5808401104230396
+  },
+  {
+   "card": "Dimension X",
+   "gih": 11844,
+   "gih_wr": 0.5808004052684904
+  },
+  {
+   "card": "Madame Null, Power Broker",
+   "gih": 3758,
+   "gih_wr": 0.5803618946248005
+  },
+  {
+   "card": "Improvised Arsenal",
+   "gih": 3907,
+   "gih_wr": 0.5797286920911185
+  },
+  {
+   "card": "Shredder's Technique",
+   "gih": 11045,
+   "gih_wr": 0.5795382526029877
+  },
+  {
+   "card": "Foot Headquarters",
+   "gih": 17440,
+   "gih_wr": 0.5795298165137615
+  },
+  {
+   "card": "Krang & Shredder",
+   "gih": 4616,
+   "gih_wr": 0.5790727902946274
+  },
+  {
+   "card": "Lord Dregg, Insect Invader",
+   "gih": 9500,
+   "gih_wr": 0.5787368421052631
+  },
+  {
+   "card": "Karai's Technique",
+   "gih": 10337,
+   "gih_wr": 0.5786978813969237
+  },
+  {
+   "card": "Stomped by the Foot",
+   "gih": 25449,
+   "gih_wr": 0.578293842587135
+  },
+  {
+   "card": "Mountain",
+   "gih": 75375,
+   "gih_wr": 0.5782553897180763
+  },
+  {
+   "card": "Escape Tunnel",
+   "gih": 25764,
+   "gih_wr": 0.5780934637478652
+  },
+  {
+   "card": "Spicy Oatmeal Pizza",
+   "gih": 13225,
+   "gih_wr": 0.5779962192816636
+  },
+  {
+   "card": "Pizza Face, Gastromancer",
+   "gih": 10766,
+   "gih_wr": 0.577930522013747
+  },
+  {
+   "card": "Uneasy Alliance",
+   "gih": 22271,
+   "gih_wr": 0.5772080283777109
+  },
+  {
+   "card": "Tenderize",
+   "gih": 23549,
+   "gih_wr": 0.5767548515860547
+  },
+  {
+   "card": "Swamp",
+   "gih": 89686,
+   "gih_wr": 0.5757531833285017
+  },
+  {
+   "card": "Michelangelo, Improviser",
+   "gih": 1513,
+   "gih_wr": 0.5756774619960344
+  },
+  {
+   "card": "Anchovy & Banana Pizza",
+   "gih": 25792,
+   "gih_wr": 0.5755660669975186
+  },
+  {
+   "card": "Quintessential Katana",
+   "gih": 8320,
+   "gih_wr": 0.575360576923077
+  },
+  {
+   "card": "Bebop & Rocksteady",
+   "gih": 2178,
+   "gih_wr": 0.5752984389348026
+  },
+  {
+   "card": "Mind Transfer Protocol",
+   "gih": 12650,
+   "gih_wr": 0.5750197628458498
+  },
+  {
+   "card": "Turtle Van",
+   "gih": 4479,
+   "gih_wr": 0.5746818486269256
+  },
+  {
+   "card": "Ray Fillet, Man Ray",
+   "gih": 10123,
+   "gih_wr": 0.5740393164081794
+  },
+  {
+   "card": "Island",
+   "gih": 86108,
+   "gih_wr": 0.5733497468295629
+  },
+  {
+   "card": "Donatello, Way with Machines",
+   "gih": 10703,
+   "gih_wr": 0.5724563206577595
+  },
+  {
+   "card": "Mikey & Leo, Chaos & Order",
+   "gih": 3040,
+   "gih_wr": 0.5723684210526315
+  },
+  {
+   "card": "Leonardo, Big Brother",
+   "gih": 20468,
+   "gih_wr": 0.5718194254445964
+  },
+  {
+   "card": "Slash, Reptile Rampager",
+   "gih": 3092,
+   "gih_wr": 0.5701811125485123
+  },
+  {
+   "card": "Ragamuffin Raptor",
+   "gih": 23273,
+   "gih_wr": 0.5698019163837924
+  },
+  {
+   "card": "Foot Ninjas",
+   "gih": 17838,
+   "gih_wr": 0.5682811974436596
+  },
+  {
+   "card": "Jennika, Bad Apple Big Sister",
+   "gih": 17113,
+   "gih_wr": 0.5680476830479753
+  },
+  {
+   "card": "Shredder, Unrelenting",
+   "gih": 8252,
+   "gih_wr": 0.5672564226854095
+  },
+  {
+   "card": "Splinter, Radical Rat",
+   "gih": 2850,
+   "gih_wr": 0.5670175438596491
+  },
+  {
+   "card": "Sword of Sinew and Steel",
+   "gih": 284,
+   "gih_wr": 0.5669014084507042
+  },
+  {
+   "card": "Grounded for Life",
+   "gih": 14713,
+   "gih_wr": 0.5662339427716985
+  },
+  {
+   "card": "South Wind Avatar",
+   "gih": 3228,
+   "gih_wr": 0.5656753407682775
+  },
+  {
+   "card": "Hamato Guardian Stance",
+   "gih": 5050,
+   "gih_wr": 0.5655445544554455
+  },
+  {
+   "card": "Mona Lisa, Science Geek",
+   "gih": 10336,
+   "gih_wr": 0.5646284829721362
+  },
+  {
+   "card": "Leonardo, Cutting Edge",
+   "gih": 3092,
+   "gih_wr": 0.5640362225097024
+  },
+  {
+   "card": "Fugitive Droid",
+   "gih": 8112,
+   "gih_wr": 0.5631163708086785
+  },
+  {
+   "card": "Leader's Talent",
+   "gih": 2982,
+   "gih_wr": 0.562709590878605
+  },
+  {
+   "card": "Path to Exile",
+   "gih": 265,
+   "gih_wr": 0.5622641509433962
+  },
+  {
+   "card": "Forest",
+   "gih": 71004,
+   "gih_wr": 0.5622218466565264
+  },
+  {
+   "card": "Northampton Farm",
+   "gih": 2073,
+   "gih_wr": 0.5610226724553786
+  },
+  {
+   "card": "Bespoke B?",
+   "gih": 10650,
+   "gih_wr": 0.5609389671361502
+  },
+  {
+   "card": "Mouser Mark III",
+   "gih": 15810,
+   "gih_wr": 0.5593927893738141
+  },
+  {
+   "card": "Shredder's Revenge",
+   "gih": 7302,
+   "gih_wr": 0.5583401807723911
+  },
+  {
+   "card": "Slithering Cryptid",
+   "gih": 18305,
+   "gih_wr": 0.5578803605572248
+  },
+  {
+   "card": "Michelangelo's Technique",
+   "gih": 1592,
+   "gih_wr": 0.5577889447236181
+  },
+  {
+   "card": "High-Flying Ace",
+   "gih": 11442,
+   "gih_wr": 0.5540989337528404
+  },
+  {
+   "card": "Ice Cream Kitty",
+   "gih": 18551,
+   "gih_wr": 0.5538245916662174
+  },
+  {
+   "card": "Retro-Mutation",
+   "gih": 12627,
+   "gih_wr": 0.5537340619307832
+  },
+  {
+   "card": "Raph & Leo, Sibling Rivals",
+   "gih": 2337,
+   "gih_wr": 0.553701326486949
+  },
+  {
+   "card": "Raphael, Tough Turtle",
+   "gih": 12428,
+   "gih_wr": 0.5518184744126167
+  },
+  {
+   "card": "Michelangelo, Game Master",
+   "gih": 17087,
+   "gih_wr": 0.5498332065312811
+  },
+  {
+   "card": "Purple Dragon Punks",
+   "gih": 7681,
+   "gih_wr": 0.5497982033589376
+  },
+  {
+   "card": "The Neutrinos",
+   "gih": 6381,
+   "gih_wr": 0.5485033693778405
+  },
+  {
+   "card": "Tunnel Rats",
+   "gih": 10180,
+   "gih_wr": 0.5484282907662082
+  },
+  {
+   "card": "Foot Elite",
+   "gih": 9935,
+   "gih_wr": 0.5482637141419225
+  },
+  {
+   "card": "Mondo Gecko",
+   "gih": 1887,
+   "gih_wr": 0.5479597244303127
+  },
+  {
+   "card": "Action News Crew",
+   "gih": 16064,
+   "gih_wr": 0.547808764940239
+  },
+  {
+   "card": "Make Your Move",
+   "gih": 11007,
+   "gih_wr": 0.5477423457799582
+  },
+  {
+   "card": "Paramecia Coloniex",
+   "gih": 4904,
+   "gih_wr": 0.5456769983686787
+  },
+  {
+   "card": "Krang, Utrom Warlord",
+   "gih": 1505,
+   "gih_wr": 0.545514950166113
+  },
+  {
+   "card": "Guac & Marshmallow Pizza",
+   "gih": 8641,
+   "gih_wr": 0.5449600740655017
+  },
+  {
+   "card": "Rocksteady, Crash Courser",
+   "gih": 12004,
+   "gih_wr": 0.5445684771742753
+  },
+  {
+   "card": "Utrom Scientists",
+   "gih": 12914,
+   "gih_wr": 0.5440607093077281
+  },
+  {
+   "card": "Metallic Mimic",
+   "gih": 342,
+   "gih_wr": 0.543859649122807
+  },
+  {
+   "card": "New Generation's Technique",
+   "gih": 2941,
+   "gih_wr": 0.5423325399523972
+  },
+  {
+   "card": "East Wind Avatar",
+   "gih": 7428,
+   "gih_wr": 0.5420032310177706
+  },
+  {
+   "card": "Go Ninja Go",
+   "gih": 5326,
+   "gih_wr": 0.5418700713481036
+  },
+  {
+   "card": "Stockman, Mad Fly-entist",
+   "gih": 6430,
+   "gih_wr": 0.5418351477449456
+  },
+  {
+   "card": "Mutant Town Musicians",
+   "gih": 3925,
+   "gih_wr": 0.541656050955414
+  },
+  {
+   "card": "Zoo Escapees",
+   "gih": 13144,
+   "gih_wr": 0.5407029823493609
+  },
+  {
+   "card": "Bot Bashing Time",
+   "gih": 12481,
+   "gih_wr": 0.5404214405896963
+  },
+  {
+   "card": "Cowabunga!",
+   "gih": 4892,
+   "gih_wr": 0.536181520850368
+  },
+  {
+   "card": "Leonardo's Technique",
+   "gih": 1723,
+   "gih_wr": 0.5351131746952988
+  },
+  {
+   "card": "Venus, Torn Between Worlds",
+   "gih": 5599,
+   "gih_wr": 0.5350955527772816
+  },
+  {
+   "card": "Bebop, Warthog Warrior",
+   "gih": 6543,
+   "gih_wr": 0.5340058077334556
+  },
+  {
+   "card": "Null Group Biological Assets",
+   "gih": 4134,
+   "gih_wr": 0.5319303338171263
+  },
+  {
+   "card": "EPF Point Squad",
+   "gih": 9590,
+   "gih_wr": 0.5319082377476538
+  },
+  {
+   "card": "Ashcoat of the Shadow Swarm",
+   "gih": 64,
+   "gih_wr": 0.53125
+  },
+  {
+   "card": "Cytoplast Manipulator",
+   "gih": 209,
+   "gih_wr": 0.5311004784688995
+  },
+  {
+   "card": "Old Hob, Alleycat Blues",
+   "gih": 4376,
+   "gih_wr": 0.5308500914076782
+  },
+  {
+   "card": "Wingnut, Bat on the Belfry",
+   "gih": 5021,
+   "gih_wr": 0.5307707627962557
+  },
+  {
+   "card": "Donatello's Technique",
+   "gih": 4136,
+   "gih_wr": 0.5302224371373307
+  },
+  {
+   "card": "Pain 101",
+   "gih": 5371,
+   "gih_wr": 0.5298827034071868
+  },
+  {
+   "card": "Underworld Breach",
+   "gih": 17,
+   "gih_wr": 0.5294117647058824
+  },
+  {
+   "card": "Insectoid Exterminator",
+   "gih": 5344,
+   "gih_wr": 0.5247005988023952
+  },
+  {
+   "card": "Renet, Temporal Apprentice",
+   "gih": 2205,
+   "gih_wr": 0.5238095238095238
+  },
+  {
+   "card": "Casey Jones, Vigilante",
+   "gih": 1195,
+   "gih_wr": 0.5230125523012552
+  },
+  {
+   "card": "Raphael, Most Attitude",
+   "gih": 4093,
+   "gih_wr": 0.5228438797947715
+  },
+  {
+   "card": "Don & Raph, Hard Science",
+   "gih": 2338,
+   "gih_wr": 0.5226689478186484
+  },
+  {
+   "card": "Foot Mystic",
+   "gih": 3918,
+   "gih_wr": 0.5214395099540582
+  },
+  {
+   "card": "Zog, Triceraton Castaway",
+   "gih": 3655,
+   "gih_wr": 0.5192886456908344
+  },
+  {
+   "card": "Mutant Chain Reaction",
+   "gih": 3449,
+   "gih_wr": 0.518411133661931
+  },
+  {
+   "card": "Tokka & Rahzar, Terrible Twos",
+   "gih": 1387,
+   "gih_wr": 0.5183850036049027
+  },
+  {
+   "card": "Turtles Forever",
+   "gih": 516,
+   "gih_wr": 0.5135658914728682
+  },
+  {
+   "card": "Punk Frogs",
+   "gih": 2177,
+   "gih_wr": 0.5135507579237483
+  },
+  {
+   "card": "Crustacean Commando",
+   "gih": 6818,
+   "gih_wr": 0.5126136696978586
+  },
+  {
+   "card": "Raphael, Ninja Destroyer",
+   "gih": 910,
+   "gih_wr": 0.510989010989011
+  },
+  {
+   "card": "Party Dude",
+   "gih": 1488,
+   "gih_wr": 0.510752688172043
+  },
+  {
+   "card": "Cool but Rude",
+   "gih": 1406,
+   "gih_wr": 0.5078236130867709
+  },
+  {
+   "card": "Skateboard",
+   "gih": 2001,
+   "gih_wr": 0.5077461269365318
+  },
+  {
+   "card": "Henchbots",
+   "gih": 5105,
+   "gih_wr": 0.5055827619980411
+  },
+  {
+   "card": "Rock Soldiers",
+   "gih": 3050,
+   "gih_wr": 0.5052459016393442
+  },
+  {
+   "card": "Turtles in Time",
+   "gih": 242,
+   "gih_wr": 0.5041322314049587
+  },
+  {
+   "card": "April, Reporter of the Weird",
+   "gih": 2206,
+   "gih_wr": 0.5
+  },
+  {
+   "card": "Conqueror's Flail",
+   "gih": 152,
+   "gih_wr": 0.4934210526315789
+  },
+  {
+   "card": "Splinter's Technique",
+   "gih": 897,
+   "gih_wr": 0.4927536231884058
+  },
+  {
+   "card": "Mouser Attack!",
+   "gih": 2078,
+   "gih_wr": 0.49230028873917225
+  },
+  {
+   "card": "Negate",
+   "gih": 1052,
+   "gih_wr": 0.4914448669201521
+  },
+  {
+   "card": "Putrid Pals",
+   "gih": 4211,
+   "gih_wr": 0.4877701258608407
+  },
+  {
+   "card": "Hard-Won Jitte",
+   "gih": 1532,
+   "gih_wr": 0.4830287206266319
+  },
+  {
+   "card": "Shredder's Armor",
+   "gih": 928,
+   "gih_wr": 0.47521551724137934
+  },
+  {
+   "card": "Turtle Power!",
+   "gih": 325,
+   "gih_wr": 0.4646153846153846
+  },
+  {
+   "card": "Trouble in Pairs",
+   "gih": 69,
+   "gih_wr": 0.463768115942029
+  },
+  {
+   "card": "Raphael's Technique",
+   "gih": 176,
+   "gih_wr": 0.4090909090909091
+  },
+  {
+   "card": "Broadcast Takeover",
+   "gih": 32,
+   "gih_wr": 0.40625
+  },
+  {
+   "card": "Doubling Season",
+   "gih": 89,
+   "gih_wr": 0.39325842696629215
+  },
+  {
+   "card": "Silverclad Ferocidons",
+   "gih": 77,
+   "gih_wr": 0.38961038961038963
+  },
+  {
+   "card": "Kitsune's Technique",
+   "gih": 183,
+   "gih_wr": 0.3442622950819672
+  },
+  {
+   "card": "Waves of Aggression",
+   "gih": 91,
+   "gih_wr": 0.32967032967032966
+  },
+  {
+   "card": "Rhythm of the Wild",
+   "gih": 47,
+   "gih_wr": 0.3191489361702128
+  },
+  {
+   "card": "Plague of Vermin",
+   "gih": 1,
+   "gih_wr": 0.0
+  }
+ ]
+}

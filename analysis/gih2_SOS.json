@@ -1,0 +1,2429 @@
+{
+ "set": "SOS",
+ "games": 582914,
+ "wins": 322835,
+ "cards": [
+  {
+   "card_17lands": "Together as One",
+   "scryfall_name": "Together as One",
+   "match": "full",
+   "gih": 18523,
+   "gih_wr": 0.6554553797980889
+  },
+  {
+   "card_17lands": "Antiquities on the Loose",
+   "scryfall_name": "Antiquities on the Loose",
+   "match": "full",
+   "gih": 16458,
+   "gih_wr": 0.6554259326771175
+  },
+  {
+   "card_17lands": "Practiced Offense",
+   "scryfall_name": "Practiced Offense",
+   "match": "full",
+   "gih": 16375,
+   "gih_wr": 0.6514198473282443
+  },
+  {
+   "card_17lands": "Emeritus of Ideation",
+   "scryfall_name": "Emeritus of Ideation [MULTI]",
+   "match": "first-face",
+   "gih": 7247,
+   "gih_wr": 0.6513039878570442
+  },
+  {
+   "card_17lands": "Moment of Reckoning",
+   "scryfall_name": "Moment of Reckoning",
+   "match": "full",
+   "gih": 13744,
+   "gih_wr": 0.6364959254947613
+  },
+  {
+   "card_17lands": "Ark of Hunger",
+   "scryfall_name": "Ark of Hunger",
+   "match": "full",
+   "gih": 18329,
+   "gih_wr": 0.6351683125102296
+  },
+  {
+   "card_17lands": "Crackle with Power",
+   "scryfall_name": "Crackle with Power",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2210,
+   "gih_wr": 0.6307692307692307
+  },
+  {
+   "card_17lands": "Stirring Hopesinger",
+   "scryfall_name": "Stirring Hopesinger",
+   "match": "full",
+   "gih": 15136,
+   "gih_wr": 0.6302193446088795
+  },
+  {
+   "card_17lands": "Winds of Abandon",
+   "scryfall_name": "Winds of Abandon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1898,
+   "gih_wr": 0.6301369863013698
+  },
+  {
+   "card_17lands": "Improvisation Capstone",
+   "scryfall_name": "Improvisation Capstone",
+   "match": "full",
+   "gih": 8399,
+   "gih_wr": 0.6285272056197166
+  },
+  {
+   "card_17lands": "Colorstorm Stallion",
+   "scryfall_name": "Colorstorm Stallion",
+   "match": "full",
+   "gih": 15625,
+   "gih_wr": 0.626624
+  },
+  {
+   "card_17lands": "Professor Dellian Fel",
+   "scryfall_name": "Professor Dellian Fel",
+   "match": "full",
+   "gih": 6131,
+   "gih_wr": 0.6246941771326048
+  },
+  {
+   "card_17lands": "Mathemagics",
+   "scryfall_name": "Mathemagics",
+   "match": "full",
+   "gih": 8439,
+   "gih_wr": 0.619504680649366
+  },
+  {
+   "card_17lands": "Informed Inkwright",
+   "scryfall_name": "Informed Inkwright",
+   "match": "full",
+   "gih": 14717,
+   "gih_wr": 0.616837670720935
+  },
+  {
+   "card_17lands": "Snarl Song",
+   "scryfall_name": "Snarl Song",
+   "match": "full",
+   "gih": 36350,
+   "gih_wr": 0.6153232462173315
+  },
+  {
+   "card_17lands": "Quandrix, the Proof",
+   "scryfall_name": "Quandrix, the Proof",
+   "match": "full",
+   "gih": 6796,
+   "gih_wr": 0.614773396115362
+  },
+  {
+   "card_17lands": "Hardened Academic",
+   "scryfall_name": "Hardened Academic",
+   "match": "full",
+   "gih": 13821,
+   "gih_wr": 0.6119672961435497
+  },
+  {
+   "card_17lands": "Splatter Technique",
+   "scryfall_name": "Splatter Technique",
+   "match": "full",
+   "gih": 15271,
+   "gih_wr": 0.6099142164887695
+  },
+  {
+   "card_17lands": "Environmental Scientist",
+   "scryfall_name": "Environmental Scientist",
+   "match": "full",
+   "gih": 29677,
+   "gih_wr": 0.6098325302422751
+  },
+  {
+   "card_17lands": "Scolding Administrator",
+   "scryfall_name": "Scolding Administrator",
+   "match": "full",
+   "gih": 23011,
+   "gih_wr": 0.6075789839641911
+  },
+  {
+   "card_17lands": "Traumatic Critique",
+   "scryfall_name": "Traumatic Critique",
+   "match": "full",
+   "gih": 16695,
+   "gih_wr": 0.6062893081761006
+  },
+  {
+   "card_17lands": "Ambitious Augmenter",
+   "scryfall_name": "Ambitious Augmenter",
+   "match": "full",
+   "gih": 11843,
+   "gih_wr": 0.6060964282698641
+  },
+  {
+   "card_17lands": "Exhibition Tidecaller",
+   "scryfall_name": "Exhibition Tidecaller",
+   "match": "full",
+   "gih": 15716,
+   "gih_wr": 0.6048612878595062
+  },
+  {
+   "card_17lands": "Moseo, Vein's New Dean",
+   "scryfall_name": "Moseo, Vein's New Dean",
+   "match": "full",
+   "gih": 11722,
+   "gih_wr": 0.6045043507933799
+  },
+  {
+   "card_17lands": "Postmortem Professor",
+   "scryfall_name": "Postmortem Professor",
+   "match": "full",
+   "gih": 11179,
+   "gih_wr": 0.602468914929779
+  },
+  {
+   "card_17lands": "Stock Up",
+   "scryfall_name": "Stock Up",
+   "match": "non-set (bonus/token/other)",
+   "gih": 34564,
+   "gih_wr": 0.6021004513366508
+  },
+  {
+   "card_17lands": "Molten Note",
+   "scryfall_name": "Molten Note",
+   "match": "full",
+   "gih": 34173,
+   "gih_wr": 0.6012641559125625
+  },
+  {
+   "card_17lands": "Library of Alexandria",
+   "scryfall_name": "Library of Alexandria",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1566,
+   "gih_wr": 0.6008939974457216
+  },
+  {
+   "card_17lands": "Emeritus of Abundance",
+   "scryfall_name": "Emeritus of Abundance [MULTI]",
+   "match": "first-face",
+   "gih": 5986,
+   "gih_wr": 0.6005679919812896
+  },
+  {
+   "card_17lands": "Slumbering Trudge",
+   "scryfall_name": "Slumbering Trudge",
+   "match": "full",
+   "gih": 12273,
+   "gih_wr": 0.5996088975800538
+  },
+  {
+   "card_17lands": "Dismember",
+   "scryfall_name": "Dismember",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3577,
+   "gih_wr": 0.5993849594632373
+  },
+  {
+   "card_17lands": "Conciliator's Duelist",
+   "scryfall_name": "Conciliator's Duelist",
+   "match": "full",
+   "gih": 10718,
+   "gih_wr": 0.5992722522858742
+  },
+  {
+   "card_17lands": "Arcane Omens",
+   "scryfall_name": "Arcane Omens",
+   "match": "full",
+   "gih": 25568,
+   "gih_wr": 0.598404255319149
+  },
+  {
+   "card_17lands": "Silverquill Charm",
+   "scryfall_name": "Silverquill Charm",
+   "match": "full",
+   "gih": 21513,
+   "gih_wr": 0.5982894064054293
+  },
+  {
+   "card_17lands": "Blech, Loafing Pest",
+   "scryfall_name": "Blech, Loafing Pest",
+   "match": "full",
+   "gih": 8150,
+   "gih_wr": 0.5979141104294479
+  },
+  {
+   "card_17lands": "Stress Dream",
+   "scryfall_name": "Stress Dream",
+   "match": "full",
+   "gih": 36356,
+   "gih_wr": 0.5978930575420839
+  },
+  {
+   "card_17lands": "Molten-Core Maestro",
+   "scryfall_name": "Molten-Core Maestro",
+   "match": "full",
+   "gih": 15778,
+   "gih_wr": 0.5977310178729877
+  },
+  {
+   "card_17lands": "Elite Interceptor",
+   "scryfall_name": "Elite Interceptor // Rejoinder",
+   "match": "first-face",
+   "gih": 73258,
+   "gih_wr": 0.5964809304103306
+  },
+  {
+   "card_17lands": "Emeritus of Woe",
+   "scryfall_name": "Emeritus of Woe [MULTI]",
+   "match": "first-face",
+   "gih": 6153,
+   "gih_wr": 0.5953193564115066
+  },
+  {
+   "card_17lands": "Daze",
+   "scryfall_name": "Daze",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2504,
+   "gih_wr": 0.5950479233226837
+  },
+  {
+   "card_17lands": "Practiced Scrollsmith",
+   "scryfall_name": "Practiced Scrollsmith",
+   "match": "full",
+   "gih": 32922,
+   "gih_wr": 0.5949517040277018
+  },
+  {
+   "card_17lands": "Repel Calamity",
+   "scryfall_name": "Repel Calamity",
+   "match": "non-set (bonus/token/other)",
+   "gih": 32626,
+   "gih_wr": 0.5949242935082449
+  },
+  {
+   "card_17lands": "Jadzi, Steward of Fate",
+   "scryfall_name": "Jadzi, Steward of Fate [MULTI]",
+   "match": "first-face",
+   "gih": 15291,
+   "gih_wr": 0.5947943234582435
+  },
+  {
+   "card_17lands": "Pursue the Past",
+   "scryfall_name": "Pursue the Past",
+   "match": "full",
+   "gih": 55444,
+   "gih_wr": 0.5944917394127408
+  },
+  {
+   "card_17lands": "Akroma's Will",
+   "scryfall_name": "Akroma's Will",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1654,
+   "gih_wr": 0.594316807738815
+  },
+  {
+   "card_17lands": "Great Hall of the Biblioplex",
+   "scryfall_name": "Great Hall of the Biblioplex",
+   "match": "full",
+   "gih": 15062,
+   "gih_wr": 0.5938122427300492
+  },
+  {
+   "card_17lands": "Burst Lightning",
+   "scryfall_name": "Burst Lightning",
+   "match": "non-set (bonus/token/other)",
+   "gih": 36485,
+   "gih_wr": 0.5936686309442236
+  },
+  {
+   "card_17lands": "Strixhaven Skycoach",
+   "scryfall_name": "Strixhaven Skycoach",
+   "match": "full",
+   "gih": 39095,
+   "gih_wr": 0.5933239544698811
+  },
+  {
+   "card_17lands": "Reprieve",
+   "scryfall_name": "Reprieve",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3396,
+   "gih_wr": 0.5924617196702002
+  },
+  {
+   "card_17lands": "Pestbrood Sloth",
+   "scryfall_name": "Pestbrood Sloth",
+   "match": "full",
+   "gih": 23866,
+   "gih_wr": 0.5919299421771558
+  },
+  {
+   "card_17lands": "Foolish Fate",
+   "scryfall_name": "Foolish Fate",
+   "match": "full",
+   "gih": 25953,
+   "gih_wr": 0.5916849689823912
+  },
+  {
+   "card_17lands": "Scheming Silvertongue",
+   "scryfall_name": "Scheming Silvertongue [MULTI]",
+   "match": "first-face",
+   "gih": 11239,
+   "gih_wr": 0.5915117003292107
+  },
+  {
+   "card_17lands": "Impractical Joke",
+   "scryfall_name": "Impractical Joke",
+   "match": "full",
+   "gih": 36701,
+   "gih_wr": 0.5914280264842919
+  },
+  {
+   "card_17lands": "Subterranean Tremors",
+   "scryfall_name": "Subterranean Tremors",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1823,
+   "gih_wr": 0.5913329676357653
+  },
+  {
+   "card_17lands": "Germination Practicum",
+   "scryfall_name": "Germination Practicum",
+   "match": "full",
+   "gih": 5857,
+   "gih_wr": 0.5909168516305275
+  },
+  {
+   "card_17lands": "Sanar, Unfinished Genius",
+   "scryfall_name": "Sanar, Unfinished Genius // Wild Idea",
+   "match": "first-face",
+   "gih": 30407,
+   "gih_wr": 0.5903574834742
+  },
+  {
+   "card_17lands": "Emeritus of Truce",
+   "scryfall_name": "Emeritus of Truce [MULTI]",
+   "match": "first-face",
+   "gih": 6387,
+   "gih_wr": 0.5899483325504932
+  },
+  {
+   "card_17lands": "Cyclonic Rift",
+   "scryfall_name": "Cyclonic Rift",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1521,
+   "gih_wr": 0.5897435897435898
+  },
+  {
+   "card_17lands": "Pensive Professor",
+   "scryfall_name": "Pensive Professor",
+   "match": "full",
+   "gih": 13860,
+   "gih_wr": 0.5896103896103896
+  },
+  {
+   "card_17lands": "Vibrant Outburst",
+   "scryfall_name": "Vibrant Outburst",
+   "match": "full",
+   "gih": 30384,
+   "gih_wr": 0.5884017904160084
+  },
+  {
+   "card_17lands": "Vicious Rivalry",
+   "scryfall_name": "Vicious Rivalry",
+   "match": "full",
+   "gih": 10513,
+   "gih_wr": 0.5881289831637021
+  },
+  {
+   "card_17lands": "Colossus of the Blood Age",
+   "scryfall_name": "Colossus of the Blood Age",
+   "match": "full",
+   "gih": 32927,
+   "gih_wr": 0.5880888025025055
+  },
+  {
+   "card_17lands": "Sundering Archaic",
+   "scryfall_name": "Sundering Archaic",
+   "match": "full",
+   "gih": 31892,
+   "gih_wr": 0.5880471591621723
+  },
+  {
+   "card_17lands": "Paradox Surveyor",
+   "scryfall_name": "Paradox Surveyor",
+   "match": "full",
+   "gih": 23605,
+   "gih_wr": 0.5878839228976912
+  },
+  {
+   "card_17lands": "End of the Hunt",
+   "scryfall_name": "End of the Hunt",
+   "match": "full",
+   "gih": 25456,
+   "gih_wr": 0.5874450031426776
+  },
+  {
+   "card_17lands": "Lecturing Scornmage",
+   "scryfall_name": "Lecturing Scornmage",
+   "match": "full",
+   "gih": 20573,
+   "gih_wr": 0.586594079618918
+  },
+  {
+   "card_17lands": "Lorehold, the Historian",
+   "scryfall_name": "Lorehold, the Historian",
+   "match": "full",
+   "gih": 6953,
+   "gih_wr": 0.5857903063425859
+  },
+  {
+   "card_17lands": "Matterbending Mage",
+   "scryfall_name": "Matterbending Mage",
+   "match": "full",
+   "gih": 31620,
+   "gih_wr": 0.5854838709677419
+  },
+  {
+   "card_17lands": "Abrade",
+   "scryfall_name": "Abrade",
+   "match": "non-set (bonus/token/other)",
+   "gih": 34666,
+   "gih_wr": 0.5851843304678936
+  },
+  {
+   "card_17lands": "Stirring Honormancer",
+   "scryfall_name": "Stirring Honormancer",
+   "match": "full",
+   "gih": 21978,
+   "gih_wr": 0.5849485849485849
+  },
+  {
+   "card_17lands": "Restoration Seminar",
+   "scryfall_name": "Restoration Seminar",
+   "match": "full",
+   "gih": 5989,
+   "gih_wr": 0.5842377692436133
+  },
+  {
+   "card_17lands": "Echocasting Symposium",
+   "scryfall_name": "Echocasting Symposium",
+   "match": "full",
+   "gih": 6626,
+   "gih_wr": 0.5842137035919106
+  },
+  {
+   "card_17lands": "Dissection Practice",
+   "scryfall_name": "Dissection Practice",
+   "match": "full",
+   "gih": 18675,
+   "gih_wr": 0.5841499330655957
+  },
+  {
+   "card_17lands": "Rubble Rouser",
+   "scryfall_name": "Rubble Rouser",
+   "match": "full",
+   "gih": 66058,
+   "gih_wr": 0.583714311665506
+  },
+  {
+   "card_17lands": "Applied Geometry",
+   "scryfall_name": "Applied Geometry",
+   "match": "full",
+   "gih": 13451,
+   "gih_wr": 0.583451044532005
+  },
+  {
+   "card_17lands": "Mind into Matter",
+   "scryfall_name": "Mind into Matter",
+   "match": "full",
+   "gih": 12712,
+   "gih_wr": 0.5831497797356828
+  },
+  {
+   "card_17lands": "Suspend Aggression",
+   "scryfall_name": "Suspend Aggression",
+   "match": "full",
+   "gih": 12788,
+   "gih_wr": 0.5831248045042227
+  },
+  {
+   "card_17lands": "Brotherhood's End",
+   "scryfall_name": "Brotherhood's End",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2750,
+   "gih_wr": 0.5829090909090909
+  },
+  {
+   "card_17lands": "Expressive Iteration",
+   "scryfall_name": "Expressive Iteration",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3391,
+   "gih_wr": 0.5824240636980241
+  },
+  {
+   "card_17lands": "Wisdom of Ages",
+   "scryfall_name": "Wisdom of Ages",
+   "match": "full",
+   "gih": 14528,
+   "gih_wr": 0.5806029735682819
+  },
+  {
+   "card_17lands": "Divergent Equation",
+   "scryfall_name": "Divergent Equation",
+   "match": "full",
+   "gih": 30720,
+   "gih_wr": 0.5805989583333333
+  },
+  {
+   "card_17lands": "Brush Off",
+   "scryfall_name": "Brush Off",
+   "match": "full",
+   "gih": 27000,
+   "gih_wr": 0.5805555555555556
+  },
+  {
+   "card_17lands": "Essenceknit Scholar",
+   "scryfall_name": "Essenceknit Scholar",
+   "match": "full",
+   "gih": 17131,
+   "gih_wr": 0.5804097834335415
+  },
+  {
+   "card_17lands": "Mana Sculpt",
+   "scryfall_name": "Mana Sculpt",
+   "match": "full",
+   "gih": 12168,
+   "gih_wr": 0.5802925706771861
+  },
+  {
+   "card_17lands": "Unsubtle Mockery",
+   "scryfall_name": "Unsubtle Mockery",
+   "match": "full",
+   "gih": 75081,
+   "gih_wr": 0.5801867316631372
+  },
+  {
+   "card_17lands": "Ajani's Response",
+   "scryfall_name": "Ajani's Response",
+   "match": "full",
+   "gih": 59865,
+   "gih_wr": 0.5800885325315293
+  },
+  {
+   "card_17lands": "Deduce",
+   "scryfall_name": "Deduce",
+   "match": "non-set (bonus/token/other)",
+   "gih": 24604,
+   "gih_wr": 0.5797431311981791
+  },
+  {
+   "card_17lands": "Render Speechless",
+   "scryfall_name": "Render Speechless",
+   "match": "full",
+   "gih": 35085,
+   "gih_wr": 0.579449907367821
+  },
+  {
+   "card_17lands": "Proctor's Gaze",
+   "scryfall_name": "Proctor's Gaze",
+   "match": "full",
+   "gih": 27185,
+   "gih_wr": 0.5794004046349089
+  },
+  {
+   "card_17lands": "Tome Blast",
+   "scryfall_name": "Tome Blast",
+   "match": "full",
+   "gih": 75740,
+   "gih_wr": 0.5790071296540797
+  },
+  {
+   "card_17lands": "Bitter Triumph",
+   "scryfall_name": "Bitter Triumph",
+   "match": "non-set (bonus/token/other)",
+   "gih": 24718,
+   "gih_wr": 0.578363945303018
+  },
+  {
+   "card_17lands": "Wilt in the Heat",
+   "scryfall_name": "Wilt in the Heat",
+   "match": "full",
+   "gih": 58369,
+   "gih_wr": 0.5779609039044699
+  },
+  {
+   "card_17lands": "Artistic Process",
+   "scryfall_name": "Artistic Process",
+   "match": "full",
+   "gih": 29447,
+   "gih_wr": 0.5778517336231195
+  },
+  {
+   "card_17lands": "Additive Evolution",
+   "scryfall_name": "Additive Evolution",
+   "match": "full",
+   "gih": 21226,
+   "gih_wr": 0.5776406294167531
+  },
+  {
+   "card_17lands": "Shattered Sanctum",
+   "scryfall_name": "Shattered Sanctum",
+   "match": "full",
+   "gih": 9964,
+   "gih_wr": 0.5773785628261743
+  },
+  {
+   "card_17lands": "Last Gasp",
+   "scryfall_name": "Last Gasp",
+   "match": "full",
+   "gih": 54802,
+   "gih_wr": 0.5769679938688369
+  },
+  {
+   "card_17lands": "Startled Relic Sloth",
+   "scryfall_name": "Startled Relic Sloth",
+   "match": "full",
+   "gih": 27995,
+   "gih_wr": 0.5769244507947848
+  },
+  {
+   "card_17lands": "Stand Up for Yourself",
+   "scryfall_name": "Stand Up for Yourself",
+   "match": "full",
+   "gih": 26950,
+   "gih_wr": 0.5768831168831169
+  },
+  {
+   "card_17lands": "Imperious Inkmage",
+   "scryfall_name": "Imperious Inkmage",
+   "match": "full",
+   "gih": 34634,
+   "gih_wr": 0.5768608881445978
+  },
+  {
+   "card_17lands": "Prismatic Ending",
+   "scryfall_name": "Prismatic Ending",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2322,
+   "gih_wr": 0.5766580534022394
+  },
+  {
+   "card_17lands": "Fields of Strife",
+   "scryfall_name": "Fields of Strife",
+   "match": "full",
+   "gih": 79849,
+   "gih_wr": 0.5759496048792095
+  },
+  {
+   "card_17lands": "Cost of Brilliance",
+   "scryfall_name": "Cost of Brilliance",
+   "match": "full",
+   "gih": 38527,
+   "gih_wr": 0.5755444233913879
+  },
+  {
+   "card_17lands": "Quill-Blade Laureate",
+   "scryfall_name": "Quill-Blade Laureate // Twofold Intent",
+   "match": "first-face",
+   "gih": 25735,
+   "gih_wr": 0.57497571400816
+  },
+  {
+   "card_17lands": "Garrison Excavator",
+   "scryfall_name": "Garrison Excavator",
+   "match": "full",
+   "gih": 25307,
+   "gih_wr": 0.5749397399928874
+  },
+  {
+   "card_17lands": "Quandrix Charm",
+   "scryfall_name": "Quandrix Charm",
+   "match": "full",
+   "gih": 18601,
+   "gih_wr": 0.5748615665824418
+  },
+  {
+   "card_17lands": "Disdainful Stroke",
+   "scryfall_name": "Disdainful Stroke",
+   "match": "non-set (bonus/token/other)",
+   "gih": 25718,
+   "gih_wr": 0.5745003499494518
+  },
+  {
+   "card_17lands": "Group Project",
+   "scryfall_name": "Group Project",
+   "match": "full",
+   "gih": 27160,
+   "gih_wr": 0.5743740795287187
+  },
+  {
+   "card_17lands": "Transcendent Archaic",
+   "scryfall_name": "Transcendent Archaic",
+   "match": "full",
+   "gih": 20906,
+   "gih_wr": 0.5736630632354348
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 293369,
+   "gih_wr": 0.5732677958475504
+  },
+  {
+   "card_17lands": "Inkshape Demonstrator",
+   "scryfall_name": "Inkshape Demonstrator",
+   "match": "full",
+   "gih": 21943,
+   "gih_wr": 0.5730301235018002
+  },
+  {
+   "card_17lands": "Run Behind",
+   "scryfall_name": "Run Behind",
+   "match": "full",
+   "gih": 56393,
+   "gih_wr": 0.5726597272711152
+  },
+  {
+   "card_17lands": "Charging Strifeknight",
+   "scryfall_name": "Charging Strifeknight",
+   "match": "full",
+   "gih": 27875,
+   "gih_wr": 0.5723408071748879
+  },
+  {
+   "card_17lands": "Magmablood Archaic",
+   "scryfall_name": "Magmablood Archaic",
+   "match": "full",
+   "gih": 13653,
+   "gih_wr": 0.5722551820112796
+  },
+  {
+   "card_17lands": "Stormcarved Coast",
+   "scryfall_name": "Stormcarved Coast",
+   "match": "full",
+   "gih": 13650,
+   "gih_wr": 0.5720879120879121
+  },
+  {
+   "card_17lands": "Stone Docent",
+   "scryfall_name": "Stone Docent",
+   "match": "full",
+   "gih": 57671,
+   "gih_wr": 0.5718818817083109
+  },
+  {
+   "card_17lands": "Flow State",
+   "scryfall_name": "Flow State",
+   "match": "full",
+   "gih": 29086,
+   "gih_wr": 0.5717183524719797
+  },
+  {
+   "card_17lands": "Sundown Pass",
+   "scryfall_name": "Sundown Pass",
+   "match": "full",
+   "gih": 12936,
+   "gih_wr": 0.5713512677798392
+  },
+  {
+   "card_17lands": "Killian's Confidence",
+   "scryfall_name": "Killian's Confidence",
+   "match": "full",
+   "gih": 18199,
+   "gih_wr": 0.5713500741799
+  },
+  {
+   "card_17lands": "Vastlands Scavenger",
+   "scryfall_name": "Vastlands Scavenger [MULTI]",
+   "match": "first-face",
+   "gih": 9625,
+   "gih_wr": 0.5713246753246753
+  },
+  {
+   "card_17lands": "Essence Scatter",
+   "scryfall_name": "Essence Scatter",
+   "match": "full",
+   "gih": 62891,
+   "gih_wr": 0.5713218107519359
+  },
+  {
+   "card_17lands": "Living History",
+   "scryfall_name": "Living History",
+   "match": "full",
+   "gih": 23180,
+   "gih_wr": 0.5710957722174288
+  },
+  {
+   "card_17lands": "Tablet of Discovery",
+   "scryfall_name": "Tablet of Discovery",
+   "match": "full",
+   "gih": 25951,
+   "gih_wr": 0.5709991907826288
+  },
+  {
+   "card_17lands": "Knockout Maneuver",
+   "scryfall_name": "Knockout Maneuver",
+   "match": "non-set (bonus/token/other)",
+   "gih": 18579,
+   "gih_wr": 0.5703213305344744
+  },
+  {
+   "card_17lands": "Prismari Charm",
+   "scryfall_name": "Prismari Charm",
+   "match": "full",
+   "gih": 24637,
+   "gih_wr": 0.5702804724601209
+  },
+  {
+   "card_17lands": "Wildgrowth Archaic",
+   "scryfall_name": "Wildgrowth Archaic",
+   "match": "full",
+   "gih": 11679,
+   "gih_wr": 0.5699974312869253
+  },
+  {
+   "card_17lands": "Potioner's Trove",
+   "scryfall_name": "Potioner's Trove",
+   "match": "full",
+   "gih": 69083,
+   "gih_wr": 0.5697494318428556
+  },
+  {
+   "card_17lands": "Inkling Mascot",
+   "scryfall_name": "Inkling Mascot",
+   "match": "full",
+   "gih": 39063,
+   "gih_wr": 0.5694647108517011
+  },
+  {
+   "card_17lands": "Skycoach Conductor",
+   "scryfall_name": "Skycoach Conductor [MULTI]",
+   "match": "first-face",
+   "gih": 11780,
+   "gih_wr": 0.5693548387096774
+  },
+  {
+   "card_17lands": "Resonating Lute",
+   "scryfall_name": "Resonating Lute",
+   "match": "full",
+   "gih": 12267,
+   "gih_wr": 0.5685986793837124
+  },
+  {
+   "card_17lands": "Studious First-Year",
+   "scryfall_name": "Studious First-Year // Rampant Growth",
+   "match": "first-face",
+   "gih": 50001,
+   "gih_wr": 0.5685686286274274
+  },
+  {
+   "card_17lands": "Erode",
+   "scryfall_name": "Erode",
+   "match": "full",
+   "gih": 10441,
+   "gih_wr": 0.5676659323819557
+  },
+  {
+   "card_17lands": "Deathcap Glade",
+   "scryfall_name": "Deathcap Glade",
+   "match": "full",
+   "gih": 9406,
+   "gih_wr": 0.5676164150542207
+  },
+  {
+   "card_17lands": "Spectacle Summit",
+   "scryfall_name": "Spectacle Summit",
+   "match": "full",
+   "gih": 81664,
+   "gih_wr": 0.5673613832288401
+  },
+  {
+   "card_17lands": "Eager Glyphmage",
+   "scryfall_name": "Eager Glyphmage",
+   "match": "full",
+   "gih": 39503,
+   "gih_wr": 0.5671214844442194
+  },
+  {
+   "card_17lands": "Kirol, History Buff",
+   "scryfall_name": "Kirol, History Buff // Pack a Punch",
+   "match": "first-face",
+   "gih": 23908,
+   "gih_wr": 0.5670905136356031
+  },
+  {
+   "card_17lands": "Monstrous Rage",
+   "scryfall_name": "Monstrous Rage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 15027,
+   "gih_wr": 0.5667797963665402
+  },
+  {
+   "card_17lands": "Shattered Acolyte",
+   "scryfall_name": "Shattered Acolyte",
+   "match": "full",
+   "gih": 44953,
+   "gih_wr": 0.5663693190665806
+  },
+  {
+   "card_17lands": "Force of Will",
+   "scryfall_name": "Force of Will",
+   "match": "non-set (bonus/token/other)",
+   "gih": 975,
+   "gih_wr": 0.5661538461538461
+  },
+  {
+   "card_17lands": "Terramorphic Expanse",
+   "scryfall_name": "Terramorphic Expanse",
+   "match": "full",
+   "gih": 80057,
+   "gih_wr": 0.5660841650324144
+  },
+  {
+   "card_17lands": "Spirit Mascot",
+   "scryfall_name": "Spirit Mascot",
+   "match": "full",
+   "gih": 47920,
+   "gih_wr": 0.5660058430717864
+  },
+  {
+   "card_17lands": "Archaic's Agony",
+   "scryfall_name": "Archaic's Agony",
+   "match": "full",
+   "gih": 18582,
+   "gih_wr": 0.5657087504036165
+  },
+  {
+   "card_17lands": "Grapple with Death",
+   "scryfall_name": "Grapple with Death",
+   "match": "full",
+   "gih": 41384,
+   "gih_wr": 0.5655084090469746
+  },
+  {
+   "card_17lands": "Lluwen, Exchange Student",
+   "scryfall_name": "Lluwen, Exchange Student // Pest Friend",
+   "match": "first-face",
+   "gih": 15057,
+   "gih_wr": 0.5654512851165571
+  },
+  {
+   "card_17lands": "Forum of Amity",
+   "scryfall_name": "Forum of Amity",
+   "match": "full",
+   "gih": 59195,
+   "gih_wr": 0.565149083537461
+  },
+  {
+   "card_17lands": "Melancholic Poet",
+   "scryfall_name": "Melancholic Poet",
+   "match": "full",
+   "gih": 41231,
+   "gih_wr": 0.5650845237806504
+  },
+  {
+   "card_17lands": "Decorum Dissertation",
+   "scryfall_name": "Decorum Dissertation",
+   "match": "full",
+   "gih": 4702,
+   "gih_wr": 0.5648660144619311
+  },
+  {
+   "card_17lands": "Royal Treatment",
+   "scryfall_name": "Royal Treatment",
+   "match": "non-set (bonus/token/other)",
+   "gih": 14578,
+   "gih_wr": 0.5642749348333105
+  },
+  {
+   "card_17lands": "Preordain",
+   "scryfall_name": "Preordain",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2339,
+   "gih_wr": 0.5639162035057717
+  },
+  {
+   "card_17lands": "Dreamroot Cascade",
+   "scryfall_name": "Dreamroot Cascade",
+   "match": "full",
+   "gih": 11528,
+   "gih_wr": 0.5635843164469119
+  },
+  {
+   "card_17lands": "Snooping Page",
+   "scryfall_name": "Snooping Page",
+   "match": "full",
+   "gih": 19379,
+   "gih_wr": 0.5634449662005263
+  },
+  {
+   "card_17lands": "Paradox Gardens",
+   "scryfall_name": "Paradox Gardens",
+   "match": "full",
+   "gih": 69113,
+   "gih_wr": 0.563338301043219
+  },
+  {
+   "card_17lands": "Planar Engineering",
+   "scryfall_name": "Planar Engineering",
+   "match": "full",
+   "gih": 5539,
+   "gih_wr": 0.5629174941325149
+  },
+  {
+   "card_17lands": "Embrace the Paradox",
+   "scryfall_name": "Embrace the Paradox",
+   "match": "full",
+   "gih": 41175,
+   "gih_wr": 0.5628172434729812
+  },
+  {
+   "card_17lands": "Visionary's Dance",
+   "scryfall_name": "Visionary's Dance",
+   "match": "full",
+   "gih": 60235,
+   "gih_wr": 0.5620652444592015
+  },
+  {
+   "card_17lands": "Quick Study",
+   "scryfall_name": "Quick Study",
+   "match": "full",
+   "gih": 40838,
+   "gih_wr": 0.5620255644252902
+  },
+  {
+   "card_17lands": "Thornfist Striker",
+   "scryfall_name": "Thornfist Striker",
+   "match": "full",
+   "gih": 14708,
+   "gih_wr": 0.5618710905629589
+  },
+  {
+   "card_17lands": "Heated Argument",
+   "scryfall_name": "Heated Argument",
+   "match": "full",
+   "gih": 53531,
+   "gih_wr": 0.5617119052511629
+  },
+  {
+   "card_17lands": "Wander Off",
+   "scryfall_name": "Wander Off",
+   "match": "full",
+   "gih": 46808,
+   "gih_wr": 0.5614852162023586
+  },
+  {
+   "card_17lands": "Dig Site Inventory",
+   "scryfall_name": "Dig Site Inventory",
+   "match": "full",
+   "gih": 39861,
+   "gih_wr": 0.5613757808384134
+  },
+  {
+   "card_17lands": "Murmuring Mystic",
+   "scryfall_name": "Murmuring Mystic",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1605,
+   "gih_wr": 0.5613707165109034
+  },
+  {
+   "card_17lands": "Big Score",
+   "scryfall_name": "Big Score",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2428,
+   "gih_wr": 0.5609555189456342
+  },
+  {
+   "card_17lands": "Homesickness",
+   "scryfall_name": "Homesickness",
+   "match": "full",
+   "gih": 21947,
+   "gih_wr": 0.5605321911878617
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 323556,
+   "gih_wr": 0.5604841202141206
+  },
+  {
+   "card_17lands": "Cuboid Colony",
+   "scryfall_name": "Cuboid Colony",
+   "match": "full",
+   "gih": 17578,
+   "gih_wr": 0.560473318921379
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 247650,
+   "gih_wr": 0.5603472642842722
+  },
+  {
+   "card_17lands": "Berta, Wise Extrapolator",
+   "scryfall_name": "Berta, Wise Extrapolator",
+   "match": "full",
+   "gih": 11071,
+   "gih_wr": 0.5602023304127902
+  },
+  {
+   "card_17lands": "Empty the Warrens",
+   "scryfall_name": "Empty the Warrens",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1068,
+   "gih_wr": 0.5599250936329588
+  },
+  {
+   "card_17lands": "Masterful Flourish",
+   "scryfall_name": "Masterful Flourish",
+   "match": "full",
+   "gih": 16907,
+   "gih_wr": 0.5598272904714023
+  },
+  {
+   "card_17lands": "Sleight of Hand",
+   "scryfall_name": "Sleight of Hand",
+   "match": "non-set (bonus/token/other)",
+   "gih": 18450,
+   "gih_wr": 0.5597289972899729
+  },
+  {
+   "card_17lands": "Interjection",
+   "scryfall_name": "Interjection",
+   "match": "full",
+   "gih": 16953,
+   "gih_wr": 0.559605969444936
+  },
+  {
+   "card_17lands": "Ascendant Dustspeaker",
+   "scryfall_name": "Ascendant Dustspeaker",
+   "match": "full",
+   "gih": 36319,
+   "gih_wr": 0.559238965830557
+  },
+  {
+   "card_17lands": "Owlin Historian",
+   "scryfall_name": "Owlin Historian",
+   "match": "full",
+   "gih": 38841,
+   "gih_wr": 0.5590484282073067
+  },
+  {
+   "card_17lands": "Stargaze",
+   "scryfall_name": "Stargaze",
+   "match": "non-set (bonus/token/other)",
+   "gih": 7114,
+   "gih_wr": 0.5590385156030363
+  },
+  {
+   "card_17lands": "Hop to It",
+   "scryfall_name": "Hop to It",
+   "match": "non-set (bonus/token/other)",
+   "gih": 17777,
+   "gih_wr": 0.5586994431006357
+  },
+  {
+   "card_17lands": "Bogwater Lumaret",
+   "scryfall_name": "Bogwater Lumaret",
+   "match": "full",
+   "gih": 30732,
+   "gih_wr": 0.5585057920083301
+  },
+  {
+   "card_17lands": "Poisoner's Apprentice",
+   "scryfall_name": "Poisoner's Apprentice",
+   "match": "full",
+   "gih": 14764,
+   "gih_wr": 0.5584529937686263
+  },
+  {
+   "card_17lands": "Duel Tactics",
+   "scryfall_name": "Duel Tactics",
+   "match": "full",
+   "gih": 10226,
+   "gih_wr": 0.5580872286328965
+  },
+  {
+   "card_17lands": "Expressive Firedancer",
+   "scryfall_name": "Expressive Firedancer",
+   "match": "full",
+   "gih": 40495,
+   "gih_wr": 0.5577478701074207
+  },
+  {
+   "card_17lands": "Titan's Grave",
+   "scryfall_name": "Titan's Grave",
+   "match": "full",
+   "gih": 58238,
+   "gih_wr": 0.5575225797589203
+  },
+  {
+   "card_17lands": "Thunderdrum Soloist",
+   "scryfall_name": "Thunderdrum Soloist",
+   "match": "full",
+   "gih": 20093,
+   "gih_wr": 0.5573085154033743
+  },
+  {
+   "card_17lands": "Silverquill, the Disputant",
+   "scryfall_name": "Silverquill, the Disputant",
+   "match": "full",
+   "gih": 4572,
+   "gih_wr": 0.5570866141732284
+  },
+  {
+   "card_17lands": "Tragedy Feaster",
+   "scryfall_name": "Tragedy Feaster",
+   "match": "full",
+   "gih": 7734,
+   "gih_wr": 0.5570209464701319
+  },
+  {
+   "card_17lands": "Grave Researcher",
+   "scryfall_name": "Grave Researcher [MULTI]",
+   "match": "first-face",
+   "gih": 9385,
+   "gih_wr": 0.5569525839104955
+  },
+  {
+   "card_17lands": "Noxious Newt",
+   "scryfall_name": "Noxious Newt",
+   "match": "full",
+   "gih": 42297,
+   "gih_wr": 0.5568007187270965
+  },
+  {
+   "card_17lands": "Banishing Betrayal",
+   "scryfall_name": "Banishing Betrayal",
+   "match": "full",
+   "gih": 38820,
+   "gih_wr": 0.5558990211231324
+  },
+  {
+   "card_17lands": "Burrog Barrage",
+   "scryfall_name": "Burrog Barrage",
+   "match": "full",
+   "gih": 35574,
+   "gih_wr": 0.5556586270871985
+  },
+  {
+   "card_17lands": "Shared Roots",
+   "scryfall_name": "Shared Roots",
+   "match": "non-set (bonus/token/other)",
+   "gih": 19142,
+   "gih_wr": 0.5556368195590847
+  },
+  {
+   "card_17lands": "Spell Pierce",
+   "scryfall_name": "Spell Pierce",
+   "match": "non-set (bonus/token/other)",
+   "gih": 10825,
+   "gih_wr": 0.5552886836027714
+  },
+  {
+   "card_17lands": "Emeritus of Conflict",
+   "scryfall_name": "Emeritus of Conflict [MULTI]",
+   "match": "first-face",
+   "gih": 6158,
+   "gih_wr": 0.5552127314063008
+  },
+  {
+   "card_17lands": "Codie, Vociferous Codex",
+   "scryfall_name": "Codie, Vociferous Codex",
+   "match": "non-set (bonus/token/other)",
+   "gih": 555,
+   "gih_wr": 0.554954954954955
+  },
+  {
+   "card_17lands": "Send in the Pest",
+   "scryfall_name": "Send in the Pest",
+   "match": "full",
+   "gih": 31413,
+   "gih_wr": 0.5542609747556744
+  },
+  {
+   "card_17lands": "Rehearsed Debater",
+   "scryfall_name": "Rehearsed Debater",
+   "match": "full",
+   "gih": 29185,
+   "gih_wr": 0.5540860030837759
+  },
+  {
+   "card_17lands": "Teacher's Pest",
+   "scryfall_name": "Teacher's Pest",
+   "match": "full",
+   "gih": 14644,
+   "gih_wr": 0.5535372848948374
+  },
+  {
+   "card_17lands": "Primary Research",
+   "scryfall_name": "Primary Research",
+   "match": "full",
+   "gih": 19782,
+   "gih_wr": 0.5528763522394096
+  },
+  {
+   "card_17lands": "Feed the Swarm",
+   "scryfall_name": "Feed the Swarm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 19499,
+   "gih_wr": 0.5527975793630443
+  },
+  {
+   "card_17lands": "Zealous Lorecaster",
+   "scryfall_name": "Zealous Lorecaster",
+   "match": "full",
+   "gih": 40655,
+   "gih_wr": 0.5524781699667938
+  },
+  {
+   "card_17lands": "Prismari, the Inspiration",
+   "scryfall_name": "Prismari, the Inspiration",
+   "match": "full",
+   "gih": 4961,
+   "gih_wr": 0.5519048578915541
+  },
+  {
+   "card_17lands": "Abigale, Poet Laureate",
+   "scryfall_name": "Abigale, Poet Laureate // Heroic Stanza",
+   "match": "first-face",
+   "gih": 16948,
+   "gih_wr": 0.5512154826528204
+  },
+  {
+   "card_17lands": "Seize the Spoils",
+   "scryfall_name": "Seize the Spoils",
+   "match": "full",
+   "gih": 37506,
+   "gih_wr": 0.5507385484989068
+  },
+  {
+   "card_17lands": "Joined Researchers",
+   "scryfall_name": "Joined Researchers [MULTI]",
+   "match": "first-face",
+   "gih": 9297,
+   "gih_wr": 0.5505001613423685
+  },
+  {
+   "card_17lands": "Hydro-Channeler",
+   "scryfall_name": "Hydro-Channeler",
+   "match": "full",
+   "gih": 48630,
+   "gih_wr": 0.5502159161011722
+  },
+  {
+   "card_17lands": "Topiary Lecturer",
+   "scryfall_name": "Topiary Lecturer",
+   "match": "full",
+   "gih": 14761,
+   "gih_wr": 0.5501659779147754
+  },
+  {
+   "card_17lands": "Brain Freeze",
+   "scryfall_name": "Brain Freeze",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2269,
+   "gih_wr": 0.5500220361392684
+  },
+  {
+   "card_17lands": "Summoned Dromedary",
+   "scryfall_name": "Summoned Dromedary",
+   "match": "full",
+   "gih": 17713,
+   "gih_wr": 0.5498221645119404
+  },
+  {
+   "card_17lands": "Elemental Mascot",
+   "scryfall_name": "Elemental Mascot",
+   "match": "full",
+   "gih": 33205,
+   "gih_wr": 0.5497364854690558
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 228144,
+   "gih_wr": 0.5495958692755453
+  },
+  {
+   "card_17lands": "Burrog Banemaker",
+   "scryfall_name": "Burrog Banemaker",
+   "match": "full",
+   "gih": 28093,
+   "gih_wr": 0.5493539315843805
+  },
+  {
+   "card_17lands": "Cauldron of Essence",
+   "scryfall_name": "Cauldron of Essence",
+   "match": "full",
+   "gih": 7794,
+   "gih_wr": 0.5491403643828586
+  },
+  {
+   "card_17lands": "Chase Inspiration",
+   "scryfall_name": "Chase Inspiration",
+   "match": "full",
+   "gih": 13120,
+   "gih_wr": 0.5487804878048781
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 267725,
+   "gih_wr": 0.5482603417686058
+  },
+  {
+   "card_17lands": "Awaken the Woods",
+   "scryfall_name": "Awaken the Woods",
+   "match": "non-set (bonus/token/other)",
+   "gih": 734,
+   "gih_wr": 0.547683923705722
+  },
+  {
+   "card_17lands": "Mage Tower Referee",
+   "scryfall_name": "Mage Tower Referee",
+   "match": "full",
+   "gih": 16997,
+   "gih_wr": 0.5472730481849738
+  },
+  {
+   "card_17lands": "Steal the Show",
+   "scryfall_name": "Steal the Show",
+   "match": "full",
+   "gih": 6516,
+   "gih_wr": 0.5469613259668509
+  },
+  {
+   "card_17lands": "Flashback",
+   "scryfall_name": "Flashback",
+   "match": "full",
+   "gih": 8547,
+   "gih_wr": 0.5468585468585468
+  },
+  {
+   "card_17lands": "Soaring Stoneglider",
+   "scryfall_name": "Soaring Stoneglider",
+   "match": "full",
+   "gih": 17735,
+   "gih_wr": 0.546828305610375
+  },
+  {
+   "card_17lands": "Eternal Student",
+   "scryfall_name": "Eternal Student",
+   "match": "full",
+   "gih": 16228,
+   "gih_wr": 0.546278037959083
+  },
+  {
+   "card_17lands": "Fractal Mascot",
+   "scryfall_name": "Fractal Mascot",
+   "match": "full",
+   "gih": 24984,
+   "gih_wr": 0.5462295869356388
+  },
+  {
+   "card_17lands": "Geometer's Arthropod",
+   "scryfall_name": "Geometer's Arthropod",
+   "match": "full",
+   "gih": 4568,
+   "gih_wr": 0.5455341506129597
+  },
+  {
+   "card_17lands": "Stadium Tidalmage",
+   "scryfall_name": "Stadium Tidalmage",
+   "match": "full",
+   "gih": 25360,
+   "gih_wr": 0.544006309148265
+  },
+  {
+   "card_17lands": "Withering Curse",
+   "scryfall_name": "Withering Curse",
+   "match": "full",
+   "gih": 2984,
+   "gih_wr": 0.5439008042895442
+  },
+  {
+   "card_17lands": "Adventurous Eater",
+   "scryfall_name": "Adventurous Eater // Have a Bite",
+   "match": "first-face",
+   "gih": 31703,
+   "gih_wr": 0.5437655742358767
+  },
+  {
+   "card_17lands": "Goblin Glasswright",
+   "scryfall_name": "Goblin Glasswright // Craft with Pride",
+   "match": "first-face",
+   "gih": 47690,
+   "gih_wr": 0.5435521073600336
+  },
+  {
+   "card_17lands": "Lorehold Charm",
+   "scryfall_name": "Lorehold Charm",
+   "match": "full",
+   "gih": 12406,
+   "gih_wr": 0.5429630823794938
+  },
+  {
+   "card_17lands": "Rapier Wit",
+   "scryfall_name": "Rapier Wit",
+   "match": "full",
+   "gih": 16865,
+   "gih_wr": 0.5429587903943077
+  },
+  {
+   "card_17lands": "Grim Haruspex",
+   "scryfall_name": "Grim Haruspex",
+   "match": "non-set (bonus/token/other)",
+   "gih": 837,
+   "gih_wr": 0.5424133811230586
+  },
+  {
+   "card_17lands": "Old-Growth Educator",
+   "scryfall_name": "Old-Growth Educator",
+   "match": "full",
+   "gih": 12587,
+   "gih_wr": 0.5423055533486931
+  },
+  {
+   "card_17lands": "Campus Composer",
+   "scryfall_name": "Campus Composer // Aqueous Aria",
+   "match": "first-face",
+   "gih": 17673,
+   "gih_wr": 0.5420698240253494
+  },
+  {
+   "card_17lands": "Witherbloom Charm",
+   "scryfall_name": "Witherbloom Charm",
+   "match": "full",
+   "gih": 12754,
+   "gih_wr": 0.5420260310490826
+  },
+  {
+   "card_17lands": "Tester of the Tangential",
+   "scryfall_name": "Tester of the Tangential",
+   "match": "full",
+   "gih": 15825,
+   "gih_wr": 0.5414849921011059
+  },
+  {
+   "card_17lands": "Ral Zarek, Guest Lecturer",
+   "scryfall_name": "Ral Zarek, Guest Lecturer",
+   "match": "full",
+   "gih": 3809,
+   "gih_wr": 0.5413494355473878
+  },
+  {
+   "card_17lands": "Pest Mascot",
+   "scryfall_name": "Pest Mascot",
+   "match": "full",
+   "gih": 27112,
+   "gih_wr": 0.5412732369430511
+  },
+  {
+   "card_17lands": "Orysa, Tide Choreographer",
+   "scryfall_name": "Orysa, Tide Choreographer",
+   "match": "full",
+   "gih": 12417,
+   "gih_wr": 0.5407908512523154
+  },
+  {
+   "card_17lands": "Infirmary Healer",
+   "scryfall_name": "Infirmary Healer // Stream of Life",
+   "match": "first-face",
+   "gih": 16533,
+   "gih_wr": 0.5407367084013791
+  },
+  {
+   "card_17lands": "Pterafractyl",
+   "scryfall_name": "Pterafractyl",
+   "match": "full",
+   "gih": 29251,
+   "gih_wr": 0.5405285289391816
+  },
+  {
+   "card_17lands": "Rancorous Archaic",
+   "scryfall_name": "Rancorous Archaic",
+   "match": "full",
+   "gih": 18444,
+   "gih_wr": 0.5403383214053351
+  },
+  {
+   "card_17lands": "Archaeomancer",
+   "scryfall_name": "Archaeomancer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1016,
+   "gih_wr": 0.5393700787401575
+  },
+  {
+   "card_17lands": "Honorbound Page",
+   "scryfall_name": "Honorbound Page // Forum's Favor",
+   "match": "first-face",
+   "gih": 22197,
+   "gih_wr": 0.5393521647069424
+  },
+  {
+   "card_17lands": "The Dawning Archaic",
+   "scryfall_name": "The Dawning Archaic",
+   "match": "full",
+   "gih": 4914,
+   "gih_wr": 0.5392755392755393
+  },
+  {
+   "card_17lands": "Bring to Light",
+   "scryfall_name": "Bring to Light",
+   "match": "non-set (bonus/token/other)",
+   "gih": 714,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card_17lands": "Shopkeeper's Bane",
+   "scryfall_name": "Shopkeeper's Bane",
+   "match": "full",
+   "gih": 19794,
+   "gih_wr": 0.5389006769728201
+  },
+  {
+   "card_17lands": "Aziza, Mage Tower Captain",
+   "scryfall_name": "Aziza, Mage Tower Captain",
+   "match": "full",
+   "gih": 8525,
+   "gih_wr": 0.5387683284457478
+  },
+  {
+   "card_17lands": "Landscape Painter",
+   "scryfall_name": "Landscape Painter // Vibrant Idea",
+   "match": "first-face",
+   "gih": 33189,
+   "gih_wr": 0.5383410166018862
+  },
+  {
+   "card_17lands": "Helping Hand",
+   "scryfall_name": "Helping Hand",
+   "match": "non-set (bonus/token/other)",
+   "gih": 10221,
+   "gih_wr": 0.5383034928089228
+  },
+  {
+   "card_17lands": "Emil, Vastlands Roamer",
+   "scryfall_name": "Emil, Vastlands Roamer",
+   "match": "full",
+   "gih": 15692,
+   "gih_wr": 0.5372164160081571
+  },
+  {
+   "card_17lands": "Mindful Biomancer",
+   "scryfall_name": "Mindful Biomancer",
+   "match": "full",
+   "gih": 25433,
+   "gih_wr": 0.5367436008335627
+  },
+  {
+   "card_17lands": "Rapturous Moment",
+   "scryfall_name": "Rapturous Moment",
+   "match": "full",
+   "gih": 13170,
+   "gih_wr": 0.5364464692482915
+  },
+  {
+   "card_17lands": "Mica, Reader of Ruins",
+   "scryfall_name": "Mica, Reader of Ruins",
+   "match": "full",
+   "gih": 7784,
+   "gih_wr": 0.5362281603288798
+  },
+  {
+   "card_17lands": "Fractal Tender",
+   "scryfall_name": "Fractal Tender",
+   "match": "full",
+   "gih": 14964,
+   "gih_wr": 0.5350173750334135
+  },
+  {
+   "card_17lands": "Root Manipulation",
+   "scryfall_name": "Root Manipulation",
+   "match": "full",
+   "gih": 6804,
+   "gih_wr": 0.5349794238683128
+  },
+  {
+   "card_17lands": "Lumaret's Favor",
+   "scryfall_name": "Lumaret's Favor",
+   "match": "full",
+   "gih": 3535,
+   "gih_wr": 0.5338048090523339
+  },
+  {
+   "card_17lands": "Muse's Encouragement",
+   "scryfall_name": "Muse's Encouragement",
+   "match": "full",
+   "gih": 22013,
+   "gih_wr": 0.533593785490392
+  },
+  {
+   "card_17lands": "Muse Seeker",
+   "scryfall_name": "Muse Seeker",
+   "match": "full",
+   "gih": 17919,
+   "gih_wr": 0.5335119147273844
+  },
+  {
+   "card_17lands": "Tackle Artist",
+   "scryfall_name": "Tackle Artist",
+   "match": "full",
+   "gih": 27019,
+   "gih_wr": 0.5333283985343648
+  },
+  {
+   "card_17lands": "Sneering Shadewriter",
+   "scryfall_name": "Sneering Shadewriter",
+   "match": "full",
+   "gih": 20120,
+   "gih_wr": 0.5331013916500994
+  },
+  {
+   "card_17lands": "Harmonized Trio",
+   "scryfall_name": "Harmonized Trio [MULTI]",
+   "match": "first-face",
+   "gih": 6861,
+   "gih_wr": 0.5321381722780936
+  },
+  {
+   "card_17lands": "Mind Roots",
+   "scryfall_name": "Mind Roots",
+   "match": "full",
+   "gih": 11859,
+   "gih_wr": 0.5316637153216967
+  },
+  {
+   "card_17lands": "Locust Spray",
+   "scryfall_name": "Locust Spray",
+   "match": "non-set (bonus/token/other)",
+   "gih": 5634,
+   "gih_wr": 0.5308839190628328
+  },
+  {
+   "card_17lands": "Procrastinate",
+   "scryfall_name": "Procrastinate",
+   "match": "full",
+   "gih": 20632,
+   "gih_wr": 0.5306320279177976
+  },
+  {
+   "card_17lands": "Sheoldred's Edict",
+   "scryfall_name": "Sheoldred's Edict",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1368,
+   "gih_wr": 0.5299707602339181
+  },
+  {
+   "card_17lands": "Return the Favor",
+   "scryfall_name": "Return the Favor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 6234,
+   "gih_wr": 0.5298363811357074
+  },
+  {
+   "card_17lands": "Ancestral Anger",
+   "scryfall_name": "Ancestral Anger",
+   "match": "full",
+   "gih": 7762,
+   "gih_wr": 0.5297603710383921
+  },
+  {
+   "card_17lands": "Tam, Observant Sequencer",
+   "scryfall_name": "Tam, Observant Sequencer // Deep Sight",
+   "match": "first-face",
+   "gih": 15580,
+   "gih_wr": 0.5288831835686778
+  },
+  {
+   "card_17lands": "Pull from the Grave",
+   "scryfall_name": "Pull from the Grave",
+   "match": "full",
+   "gih": 16484,
+   "gih_wr": 0.5277238534336326
+  },
+  {
+   "card_17lands": "Scathing Shadelock",
+   "scryfall_name": "Scathing Shadelock // Venomous Words",
+   "match": "first-face",
+   "gih": 10154,
+   "gih_wr": 0.5275753397675793
+  },
+  {
+   "card_17lands": "Textbook Tabulator",
+   "scryfall_name": "Textbook Tabulator",
+   "match": "full",
+   "gih": 16808,
+   "gih_wr": 0.5268324607329843
+  },
+  {
+   "card_17lands": "Page, Loose Leaf",
+   "scryfall_name": "Page, Loose Leaf",
+   "match": "full",
+   "gih": 8942,
+   "gih_wr": 0.5258331469469917
+  },
+  {
+   "card_17lands": "Deluge Virtuoso",
+   "scryfall_name": "Deluge Virtuoso",
+   "match": "full",
+   "gih": 21719,
+   "gih_wr": 0.525714811915834
+  },
+  {
+   "card_17lands": "Spiritcall Enthusiast",
+   "scryfall_name": "Spiritcall Enthusiast // Scrollboost",
+   "match": "first-face",
+   "gih": 9891,
+   "gih_wr": 0.5256293600242645
+  },
+  {
+   "card_17lands": "Zimone's Experiment",
+   "scryfall_name": "Zimone's Experiment",
+   "match": "full",
+   "gih": 8197,
+   "gih_wr": 0.5253141393192632
+  },
+  {
+   "card_17lands": "Spectacular Skywhale",
+   "scryfall_name": "Spectacular Skywhale",
+   "match": "full",
+   "gih": 16465,
+   "gih_wr": 0.5251746128150623
+  },
+  {
+   "card_17lands": "Wild Hypothesis",
+   "scryfall_name": "Wild Hypothesis",
+   "match": "full",
+   "gih": 14639,
+   "gih_wr": 0.525172484459321
+  },
+  {
+   "card_17lands": "Zaffai and the Tempests",
+   "scryfall_name": "Zaffai and the Tempests",
+   "match": "full",
+   "gih": 4970,
+   "gih_wr": 0.5245472837022133
+  },
+  {
+   "card_17lands": "Maelstrom Artisan",
+   "scryfall_name": "Maelstrom Artisan [MULTI]",
+   "match": "first-face",
+   "gih": 3722,
+   "gih_wr": 0.5239118753358409
+  },
+  {
+   "card_17lands": "Tenured Concocter",
+   "scryfall_name": "Tenured Concocter",
+   "match": "full",
+   "gih": 16336,
+   "gih_wr": 0.5237512242899118
+  },
+  {
+   "card_17lands": "Follow the Lumarets",
+   "scryfall_name": "Follow the Lumarets",
+   "match": "full",
+   "gih": 12606,
+   "gih_wr": 0.5230842455973346
+  },
+  {
+   "card_17lands": "Social Snub",
+   "scryfall_name": "Social Snub",
+   "match": "full",
+   "gih": 2322,
+   "gih_wr": 0.5228251507321274
+  },
+  {
+   "card_17lands": "Leech Collector",
+   "scryfall_name": "Leech Collector // Bloodletting",
+   "match": "first-face",
+   "gih": 11929,
+   "gih_wr": 0.5226758320060357
+  },
+  {
+   "card_17lands": "Duty Beyond Death",
+   "scryfall_name": "Duty Beyond Death",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3256,
+   "gih_wr": 0.5211916461916462
+  },
+  {
+   "card_17lands": "Graduation Day",
+   "scryfall_name": "Graduation Day",
+   "match": "full",
+   "gih": 7652,
+   "gih_wr": 0.5206481965499216
+  },
+  {
+   "card_17lands": "Forum Necroscribe",
+   "scryfall_name": "Forum Necroscribe",
+   "match": "full",
+   "gih": 13404,
+   "gih_wr": 0.5197702178454193
+  },
+  {
+   "card_17lands": "Pigment Wrangler",
+   "scryfall_name": "Pigment Wrangler // Striking Palette",
+   "match": "first-face",
+   "gih": 16816,
+   "gih_wr": 0.5190889628924833
+  },
+  {
+   "card_17lands": "Fractalize",
+   "scryfall_name": "Fractalize",
+   "match": "full",
+   "gih": 4460,
+   "gih_wr": 0.5190582959641256
+  },
+  {
+   "card_17lands": "Giant Growth",
+   "scryfall_name": "Giant Growth",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3814,
+   "gih_wr": 0.5186156266386995
+  },
+  {
+   "card_17lands": "Diary of Dreams",
+   "scryfall_name": "Diary of Dreams",
+   "match": "full",
+   "gih": 14219,
+   "gih_wr": 0.5176172726633378
+  },
+  {
+   "card_17lands": "Nita, Forum Conciliator",
+   "scryfall_name": "Nita, Forum Conciliator",
+   "match": "full",
+   "gih": 4766,
+   "gih_wr": 0.5165757448594209
+  },
+  {
+   "card_17lands": "Skycoach Waypoint",
+   "scryfall_name": "Skycoach Waypoint",
+   "match": "full",
+   "gih": 3111,
+   "gih_wr": 0.516554162648666
+  },
+  {
+   "card_17lands": "Cheerful Osteomancer",
+   "scryfall_name": "Cheerful Osteomancer // Raise Dead",
+   "match": "first-face",
+   "gih": 21620,
+   "gih_wr": 0.5151711378353376
+  },
+  {
+   "card_17lands": "Ennis, Debate Moderator",
+   "scryfall_name": "Ennis, Debate Moderator",
+   "match": "full",
+   "gih": 10679,
+   "gih_wr": 0.5149358554171739
+  },
+  {
+   "card_17lands": "Strife Scholar",
+   "scryfall_name": "Strife Scholar // Awaken the Ages",
+   "match": "first-face",
+   "gih": 14597,
+   "gih_wr": 0.5147633075289443
+  },
+  {
+   "card_17lands": "Spellbook Seeker",
+   "scryfall_name": "Spellbook Seeker // Careful Study",
+   "match": "first-face",
+   "gih": 14793,
+   "gih_wr": 0.5145001013993105
+  },
+  {
+   "card_17lands": "Hungry Graffalon",
+   "scryfall_name": "Hungry Graffalon",
+   "match": "full",
+   "gih": 7044,
+   "gih_wr": 0.5132027257240205
+  },
+  {
+   "card_17lands": "Encouraging Aviator",
+   "scryfall_name": "Encouraging Aviator // Jump",
+   "match": "first-face",
+   "gih": 10011,
+   "gih_wr": 0.5116371990810109
+  },
+  {
+   "card_17lands": "Glorious Decay",
+   "scryfall_name": "Glorious Decay",
+   "match": "full",
+   "gih": 3024,
+   "gih_wr": 0.5115740740740741
+  },
+  {
+   "card_17lands": "Harsh Annotation",
+   "scryfall_name": "Harsh Annotation",
+   "match": "full",
+   "gih": 4004,
+   "gih_wr": 0.5102397602397603
+  },
+  {
+   "card_17lands": "Dualcaster Mage",
+   "scryfall_name": "Dualcaster Mage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 810,
+   "gih_wr": 0.5098765432098765
+  },
+  {
+   "card_17lands": "Chelonian Tackle",
+   "scryfall_name": "Chelonian Tackle",
+   "match": "full",
+   "gih": 6631,
+   "gih_wr": 0.5094254260292566
+  },
+  {
+   "card_17lands": "Bulk Up",
+   "scryfall_name": "Bulk Up",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3831,
+   "gih_wr": 0.5092665100495954
+  },
+  {
+   "card_17lands": "Culling Ritual",
+   "scryfall_name": "Culling Ritual",
+   "match": "non-set (bonus/token/other)",
+   "gih": 411,
+   "gih_wr": 0.5085158150851582
+  },
+  {
+   "card_17lands": "Rabid Attack",
+   "scryfall_name": "Rabid Attack",
+   "match": "full",
+   "gih": 4426,
+   "gih_wr": 0.5079078174423859
+  },
+  {
+   "card_17lands": "Return to the Ranks",
+   "scryfall_name": "Return to the Ranks",
+   "match": "non-set (bonus/token/other)",
+   "gih": 506,
+   "gih_wr": 0.5079051383399209
+  },
+  {
+   "card_17lands": "Blazing Firesinger",
+   "scryfall_name": "Blazing Firesinger // Seething Song",
+   "match": "first-face",
+   "gih": 8914,
+   "gih_wr": 0.5071797172986313
+  },
+  {
+   "card_17lands": "Witherbloom, the Balancer",
+   "scryfall_name": "Witherbloom, the Balancer",
+   "match": "full",
+   "gih": 3300,
+   "gih_wr": 0.5057575757575757
+  },
+  {
+   "card_17lands": "Oracle's Restoration",
+   "scryfall_name": "Oracle's Restoration",
+   "match": "full",
+   "gih": 5666,
+   "gih_wr": 0.5045887751500177
+  },
+  {
+   "card_17lands": "Arnyn, Deathbloom Botanist",
+   "scryfall_name": "Arnyn, Deathbloom Botanist",
+   "match": "full",
+   "gih": 8468,
+   "gih_wr": 0.5041332073689183
+  },
+  {
+   "card_17lands": "Abstract Paintmage",
+   "scryfall_name": "Abstract Paintmage",
+   "match": "full",
+   "gih": 11117,
+   "gih_wr": 0.5040928307996762
+  },
+  {
+   "card_17lands": "Triumph of the Hordes",
+   "scryfall_name": "Triumph of the Hordes",
+   "match": "non-set (bonus/token/other)",
+   "gih": 262,
+   "gih_wr": 0.5038167938931297
+  },
+  {
+   "card_17lands": "Requisition Raid",
+   "scryfall_name": "Requisition Raid",
+   "match": "non-set (bonus/token/other)",
+   "gih": 4329,
+   "gih_wr": 0.5033495033495033
+  },
+  {
+   "card_17lands": "Efflorescence",
+   "scryfall_name": "Efflorescence",
+   "match": "full",
+   "gih": 2702,
+   "gih_wr": 0.5033308660251665
+  },
+  {
+   "card_17lands": "Rearing Embermare",
+   "scryfall_name": "Rearing Embermare",
+   "match": "full",
+   "gih": 5519,
+   "gih_wr": 0.5017213263272332
+  },
+  {
+   "card_17lands": "Shamanic Revelation",
+   "scryfall_name": "Shamanic Revelation",
+   "match": "non-set (bonus/token/other)",
+   "gih": 594,
+   "gih_wr": 0.5016835016835017
+  },
+  {
+   "card_17lands": "Ulna Alley Shopkeep",
+   "scryfall_name": "Ulna Alley Shopkeep",
+   "match": "full",
+   "gih": 5877,
+   "gih_wr": 0.5012761613067892
+  },
+  {
+   "card_17lands": "Aberrant Manawurm",
+   "scryfall_name": "Aberrant Manawurm",
+   "match": "full",
+   "gih": 7363,
+   "gih_wr": 0.500203721309249
+  },
+  {
+   "card_17lands": "Veil of Summer",
+   "scryfall_name": "Veil of Summer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 146,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Armageddon",
+   "scryfall_name": "Armageddon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 704,
+   "gih_wr": 0.4971590909090909
+  },
+  {
+   "card_17lands": "Sylvan Library",
+   "scryfall_name": "Sylvan Library",
+   "match": "non-set (bonus/token/other)",
+   "gih": 495,
+   "gih_wr": 0.49696969696969695
+  },
+  {
+   "card_17lands": "Daydream",
+   "scryfall_name": "Daydream",
+   "match": "full",
+   "gih": 4894,
+   "gih_wr": 0.4938700449530037
+  },
+  {
+   "card_17lands": "Adrix and Nev, Twincasters",
+   "scryfall_name": "Adrix and Nev, Twincasters",
+   "match": "non-set (bonus/token/other)",
+   "gih": 316,
+   "gih_wr": 0.4936708860759494
+  },
+  {
+   "card_17lands": "Growth Curve",
+   "scryfall_name": "Growth Curve",
+   "match": "full",
+   "gih": 2360,
+   "gih_wr": 0.4936440677966102
+  },
+  {
+   "card_17lands": "Archmage Emeritus",
+   "scryfall_name": "Archmage Emeritus",
+   "match": "non-set (bonus/token/other)",
+   "gih": 883,
+   "gih_wr": 0.48924122310305773
+  },
+  {
+   "card_17lands": "Pongify",
+   "scryfall_name": "Pongify",
+   "match": "non-set (bonus/token/other)",
+   "gih": 337,
+   "gih_wr": 0.486646884272997
+  },
+  {
+   "card_17lands": "Flusterstorm",
+   "scryfall_name": "Flusterstorm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 310,
+   "gih_wr": 0.4838709677419355
+  },
+  {
+   "card_17lands": "Fractal Anomaly",
+   "scryfall_name": "Fractal Anomaly",
+   "match": "full",
+   "gih": 2258,
+   "gih_wr": 0.48272807794508416
+  },
+  {
+   "card_17lands": "Smallpox",
+   "scryfall_name": "Smallpox",
+   "match": "non-set (bonus/token/other)",
+   "gih": 97,
+   "gih_wr": 0.4742268041237113
+  },
+  {
+   "card_17lands": "Pick Your Poison",
+   "scryfall_name": "Pick Your Poison",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1099,
+   "gih_wr": 0.4740673339399454
+  },
+  {
+   "card_17lands": "Vampiric Tutor",
+   "scryfall_name": "Vampiric Tutor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 456,
+   "gih_wr": 0.47368421052631576
+  },
+  {
+   "card_17lands": "Fix What's Broken",
+   "scryfall_name": "Fix What's Broken",
+   "match": "full",
+   "gih": 1626,
+   "gih_wr": 0.47293972939729395
+  },
+  {
+   "card_17lands": "Berserk",
+   "scryfall_name": "Berserk",
+   "match": "non-set (bonus/token/other)",
+   "gih": 212,
+   "gih_wr": 0.4716981132075472
+  },
+  {
+   "card_17lands": "Zombify",
+   "scryfall_name": "Zombify",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2268,
+   "gih_wr": 0.4695767195767196
+  },
+  {
+   "card_17lands": "Comforting Counsel",
+   "scryfall_name": "Comforting Counsel",
+   "match": "full",
+   "gih": 2580,
+   "gih_wr": 0.46782945736434106
+  },
+  {
+   "card_17lands": "Petrified Hamlet",
+   "scryfall_name": "Petrified Hamlet",
+   "match": "full",
+   "gih": 150,
+   "gih_wr": 0.4666666666666667
+  },
+  {
+   "card_17lands": "Deflecting Palm",
+   "scryfall_name": "Deflecting Palm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 327,
+   "gih_wr": 0.4648318042813456
+  },
+  {
+   "card_17lands": "Borrowed Knowledge",
+   "scryfall_name": "Borrowed Knowledge",
+   "match": "full",
+   "gih": 777,
+   "gih_wr": 0.4646074646074646
+  },
+  {
+   "card_17lands": "Pyretic Ritual",
+   "scryfall_name": "Pyretic Ritual",
+   "match": "non-set (bonus/token/other)",
+   "gih": 123,
+   "gih_wr": 0.4634146341463415
+  },
+  {
+   "card_17lands": "Dina's Guidance",
+   "scryfall_name": "Dina's Guidance",
+   "match": "full",
+   "gih": 638,
+   "gih_wr": 0.4592476489028213
+  },
+  {
+   "card_17lands": "Biblioplex Tomekeeper",
+   "scryfall_name": "Biblioplex Tomekeeper",
+   "match": "full",
+   "gih": 1094,
+   "gih_wr": 0.45612431444241314
+  },
+  {
+   "card_17lands": "Choreographed Sparks",
+   "scryfall_name": "Choreographed Sparks",
+   "match": "full",
+   "gih": 1023,
+   "gih_wr": 0.4525904203323558
+  },
+  {
+   "card_17lands": "Glimpse of Nature",
+   "scryfall_name": "Glimpse of Nature",
+   "match": "non-set (bonus/token/other)",
+   "gih": 80,
+   "gih_wr": 0.45
+  },
+  {
+   "card_17lands": "Magus of the Library",
+   "scryfall_name": "Magus of the Library",
+   "match": "non-set (bonus/token/other)",
+   "gih": 328,
+   "gih_wr": 0.43597560975609756
+  },
+  {
+   "card_17lands": "Culling the Weak",
+   "scryfall_name": "Culling the Weak",
+   "match": "non-set (bonus/token/other)",
+   "gih": 78,
+   "gih_wr": 0.4358974358974359
+  },
+  {
+   "card_17lands": "Angel's Grace",
+   "scryfall_name": "Angel's Grace",
+   "match": "non-set (bonus/token/other)",
+   "gih": 108,
+   "gih_wr": 0.4166666666666667
+  },
+  {
+   "card_17lands": "Ad Nauseam",
+   "scryfall_name": "Ad Nauseam",
+   "match": "non-set (bonus/token/other)",
+   "gih": 40,
+   "gih_wr": 0.4
+  },
+  {
+   "card_17lands": "Pox Plague",
+   "scryfall_name": "Pox Plague",
+   "match": "full",
+   "gih": 51,
+   "gih_wr": 0.39215686274509803
+  },
+  {
+   "card_17lands": "Jeska's Will",
+   "scryfall_name": "Jeska's Will",
+   "match": "non-set (bonus/token/other)",
+   "gih": 105,
+   "gih_wr": 0.3904761904761905
+  },
+  {
+   "card_17lands": "Crop Rotation",
+   "scryfall_name": "Crop Rotation",
+   "match": "non-set (bonus/token/other)",
+   "gih": 123,
+   "gih_wr": 0.37398373983739835
+  },
+  {
+   "card_17lands": "Fracture",
+   "scryfall_name": "Fracture",
+   "match": "non-set (bonus/token/other)",
+   "gih": 219,
+   "gih_wr": 0.3470319634703196
+  },
+  {
+   "card_17lands": "Living End",
+   "scryfall_name": "Living End",
+   "match": "non-set (bonus/token/other)",
+   "gih": 32,
+   "gih_wr": 0.25
+  }
+ ]
+}

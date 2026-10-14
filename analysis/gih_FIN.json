@@ -1,0 +1,1818 @@
+{
+ "set": "FIN",
+ "file": "/opt/mtg-data/17lands/sets/FIN/game_data_public.FIN.PremierDraft.csv.gz",
+ "games": 769659,
+ "wins": 428945,
+ "cards": [
+  {
+   "card": "Atraxa, Grand Unifier",
+   "gih": 2048,
+   "gih_wr": 0.6689453125
+  },
+  {
+   "card": "Winota, Joiner of Forces",
+   "gih": 1394,
+   "gih_wr": 0.6542324246771879
+  },
+  {
+   "card": "Smuggler's Copter",
+   "gih": 2683,
+   "gih_wr": 0.653373089824823
+  },
+  {
+   "card": "Ardyn, the Usurper",
+   "gih": 16727,
+   "gih_wr": 0.6493692831948347
+  },
+  {
+   "card": "Urza, Lord High Artificer",
+   "gih": 2403,
+   "gih_wr": 0.6454431960049938
+  },
+  {
+   "card": "Nibelheim Aflame",
+   "gih": 7410,
+   "gih_wr": 0.6449392712550607
+  },
+  {
+   "card": "Sazh Katzroy",
+   "gih": 14587,
+   "gih_wr": 0.6443408514430657
+  },
+  {
+   "card": "Dion, Bahamut's Dominant",
+   "gih": 15594,
+   "gih_wr": 0.6440297550339874
+  },
+  {
+   "card": "Cryptic Command",
+   "gih": 2259,
+   "gih_wr": 0.6405489154493138
+  },
+  {
+   "card": "Bruse Tarl, Boorish Herder",
+   "gih": 1417,
+   "gih_wr": 0.6400846859562456
+  },
+  {
+   "card": "Esper Origins",
+   "gih": 15262,
+   "gih_wr": 0.6368103787183855
+  },
+  {
+   "card": "Jill, Shiva's Dominant",
+   "gih": 18112,
+   "gih_wr": 0.6345516784452296
+  },
+  {
+   "card": "Summon: Primal Odin",
+   "gih": 15438,
+   "gih_wr": 0.6335665241611608
+  },
+  {
+   "card": "Kuja, Genome Sorcerer",
+   "gih": 14559,
+   "gih_wr": 0.63287313689127
+  },
+  {
+   "card": "Kefka, Court Mage",
+   "gih": 7433,
+   "gih_wr": 0.632584420826046
+  },
+  {
+   "card": "Akroma's Will",
+   "gih": 2119,
+   "gih_wr": 0.6323737612081171
+  },
+  {
+   "card": "Yawgmoth, Thran Physician",
+   "gih": 2217,
+   "gih_wr": 0.6287776274244474
+  },
+  {
+   "card": "Sephiroth, Fabled SOLDIER",
+   "gih": 7031,
+   "gih_wr": 0.62409330109515
+  },
+  {
+   "card": "Primeval Titan",
+   "gih": 1729,
+   "gih_wr": 0.6205899363794101
+  },
+  {
+   "card": "Adeline, Resplendent Cathar",
+   "gih": 1629,
+   "gih_wr": 0.6175567833026396
+  },
+  {
+   "card": "Yuna, Hope of Spira",
+   "gih": 4346,
+   "gih_wr": 0.616889093419236
+  },
+  {
+   "card": "Dragoon's Lance",
+   "gih": 37392,
+   "gih_wr": 0.6159873769790329
+  },
+  {
+   "card": "Sram, Senior Edificer",
+   "gih": 1641,
+   "gih_wr": 0.6148689823278489
+  },
+  {
+   "card": "Summon: Fenrir",
+   "gih": 38269,
+   "gih_wr": 0.613682092555332
+  },
+  {
+   "card": "Buster Sword",
+   "gih": 7449,
+   "gih_wr": 0.6136394146865352
+  },
+  {
+   "card": "Choco-Comet",
+   "gih": 40908,
+   "gih_wr": 0.6121296567908477
+  },
+  {
+   "card": "Samurai's Katana",
+   "gih": 36230,
+   "gih_wr": 0.6081424234060171
+  },
+  {
+   "card": "Memories Returning",
+   "gih": 19489,
+   "gih_wr": 0.6050592642003181
+  },
+  {
+   "card": "Cloud of Darkness",
+   "gih": 35476,
+   "gih_wr": 0.6042958619912053
+  },
+  {
+   "card": "Jenova, Ancient Calamity",
+   "gih": 14766,
+   "gih_wr": 0.6038195855343357
+  },
+  {
+   "card": "Lightning Bolt",
+   "gih": 14202,
+   "gih_wr": 0.6035065483734685
+  },
+  {
+   "card": "Seifer Almasy",
+   "gih": 13216,
+   "gih_wr": 0.6032838983050848
+  },
+  {
+   "card": "Sazh's Chocobo",
+   "gih": 30779,
+   "gih_wr": 0.6026836479417785
+  },
+  {
+   "card": "Ragavan, Nimble Pilferer",
+   "gih": 1751,
+   "gih_wr": 0.6025128498001142
+  },
+  {
+   "card": "Dark Confidant",
+   "gih": 5639,
+   "gih_wr": 0.6013477566944494
+  },
+  {
+   "card": "Delivery Moogle",
+   "gih": 34413,
+   "gih_wr": 0.6007613401912069
+  },
+  {
+   "card": "Kenrith, the Returned King",
+   "gih": 1656,
+   "gih_wr": 0.6002415458937198
+  },
+  {
+   "card": "Sidequest: Hunt the Mark",
+   "gih": 40827,
+   "gih_wr": 0.6001910500404144
+  },
+  {
+   "card": "Summon: Titan",
+   "gih": 13132,
+   "gih_wr": 0.5992994212610417
+  },
+  {
+   "card": "Ranger-Captain of Eos",
+   "gih": 1143,
+   "gih_wr": 0.5975503062117236
+  },
+  {
+   "card": "The Emperor of Palamecia",
+   "gih": 34155,
+   "gih_wr": 0.5971014492753624
+  },
+  {
+   "card": "Summon: Knights of Round",
+   "gih": 6093,
+   "gih_wr": 0.596914492040046
+  },
+  {
+   "card": "Vivi Ornitier",
+   "gih": 5811,
+   "gih_wr": 0.5966270865599724
+  },
+  {
+   "card": "Shantotto, Tactician Magician",
+   "gih": 37033,
+   "gih_wr": 0.5960089649771825
+  },
+  {
+   "card": "Traveling Chocobo",
+   "gih": 5702,
+   "gih_wr": 0.5955804980708523
+  },
+  {
+   "card": "White Auracite",
+   "gih": 76890,
+   "gih_wr": 0.5955520873975809
+  },
+  {
+   "card": "The Lunar Whale",
+   "gih": 19013,
+   "gih_wr": 0.595224320201967
+  },
+  {
+   "card": "Summon: Leviathan",
+   "gih": 17142,
+   "gih_wr": 0.5949714152374286
+  },
+  {
+   "card": "Overkill",
+   "gih": 38878,
+   "gih_wr": 0.5946036318740676
+  },
+  {
+   "card": "Moogles' Valor",
+   "gih": 11745,
+   "gih_wr": 0.5943805874840358
+  },
+  {
+   "card": "Zenos yae Galvus",
+   "gih": 13959,
+   "gih_wr": 0.5943119134608497
+  },
+  {
+   "card": "Eject",
+   "gih": 52050,
+   "gih_wr": 0.5942555235350624
+  },
+  {
+   "card": "Fatal Push",
+   "gih": 14955,
+   "gih_wr": 0.5939819458375125
+  },
+  {
+   "card": "Sidequest: Card Collection",
+   "gih": 37971,
+   "gih_wr": 0.5938216006952675
+  },
+  {
+   "card": "Swallowed by Leviathan",
+   "gih": 48605,
+   "gih_wr": 0.5928813908034153
+  },
+  {
+   "card": "Muldrotha, the Gravetide",
+   "gih": 1770,
+   "gih_wr": 0.5926553672316384
+  },
+  {
+   "card": "Sin, Spira's Punishment",
+   "gih": 14813,
+   "gih_wr": 0.5925875919800175
+  },
+  {
+   "card": "Sleep Magic",
+   "gih": 43779,
+   "gih_wr": 0.592361634573654
+  },
+  {
+   "card": "Machinist's Arsenal",
+   "gih": 12803,
+   "gih_wr": 0.592283058658127
+  },
+  {
+   "card": "Emet-Selch, Unsundered",
+   "gih": 6223,
+   "gih_wr": 0.5921581230917564
+  },
+  {
+   "card": "Combat Tutorial",
+   "gih": 101539,
+   "gih_wr": 0.5914476211111002
+  },
+  {
+   "card": "Cloud, Midgar Mercenary",
+   "gih": 4996,
+   "gih_wr": 0.5912730184147318
+  },
+  {
+   "card": "Town Greeter",
+   "gih": 81709,
+   "gih_wr": 0.591256777099218
+  },
+  {
+   "card": "Counterspell",
+   "gih": 15284,
+   "gih_wr": 0.5908793509552474
+  },
+  {
+   "card": "Squall, SeeD Mercenary",
+   "gih": 10213,
+   "gih_wr": 0.5902281406051111
+  },
+  {
+   "card": "Ancient Adamantoise",
+   "gih": 5124,
+   "gih_wr": 0.5893832943013271
+  },
+  {
+   "card": "Coliseum Behemoth",
+   "gih": 30960,
+   "gih_wr": 0.5892764857881136
+  },
+  {
+   "card": "Adelbert Steiner",
+   "gih": 29099,
+   "gih_wr": 0.5892642358843947
+  },
+  {
+   "card": "Ignis Scientia",
+   "gih": 30643,
+   "gih_wr": 0.5890741768103646
+  },
+  {
+   "card": "Dragoon's Wyvern",
+   "gih": 115937,
+   "gih_wr": 0.5889405452961523
+  },
+  {
+   "card": "Sephiroth's Intervention",
+   "gih": 93353,
+   "gih_wr": 0.5888616327273896
+  },
+  {
+   "card": "Absolute Virtue",
+   "gih": 4051,
+   "gih_wr": 0.5884966674895088
+  },
+  {
+   "card": "Vanille, Cheerful l'Cie",
+   "gih": 37061,
+   "gih_wr": 0.5881114918647635
+  },
+  {
+   "card": "Loran of the Third Path",
+   "gih": 1453,
+   "gih_wr": 0.5877494838265658
+  },
+  {
+   "card": "Battle Menu",
+   "gih": 30671,
+   "gih_wr": 0.5874930716311826
+  },
+  {
+   "card": "Torgal, A Fine Hound",
+   "gih": 35473,
+   "gih_wr": 0.5873481239252389
+  },
+  {
+   "card": "Ultros, Obnoxious Octopus",
+   "gih": 44825,
+   "gih_wr": 0.5865030674846625
+  },
+  {
+   "card": "Thunder Magic",
+   "gih": 88863,
+   "gih_wr": 0.5862282389746013
+  },
+  {
+   "card": "Zidane, Tantalus Thief",
+   "gih": 16964,
+   "gih_wr": 0.5861235557651497
+  },
+  {
+   "card": "Sorceress's Schemes",
+   "gih": 25731,
+   "gih_wr": 0.5855582760094827
+  },
+  {
+   "card": "Cecil, Dark Knight",
+   "gih": 12331,
+   "gih_wr": 0.5853539858892223
+  },
+  {
+   "card": "Gix, Yawgmoth Praetor",
+   "gih": 1789,
+   "gih_wr": 0.5852431525992174
+  },
+  {
+   "card": "Vincent Valentine",
+   "gih": 12209,
+   "gih_wr": 0.5845687607502662
+  },
+  {
+   "card": "Venser, Shaper Savant",
+   "gih": 2135,
+   "gih_wr": 0.5845433255269321
+  },
+  {
+   "card": "Ice Magic",
+   "gih": 110624,
+   "gih_wr": 0.5843849435927104
+  },
+  {
+   "card": "Joshua, Phoenix's Dominant",
+   "gih": 10910,
+   "gih_wr": 0.5842346471127406
+  },
+  {
+   "card": "Resentful Revelation",
+   "gih": 77766,
+   "gih_wr": 0.5839441401126456
+  },
+  {
+   "card": "Omega, Heartless Evolution",
+   "gih": 28131,
+   "gih_wr": 0.583626604102236
+  },
+  {
+   "card": "Exdeath, Void Warlock",
+   "gih": 25088,
+   "gih_wr": 0.5832669005102041
+  },
+  {
+   "card": "Magitek Infantry",
+   "gih": 55879,
+   "gih_wr": 0.5832423629628304
+  },
+  {
+   "card": "Il Mheg Pixie",
+   "gih": 46390,
+   "gih_wr": 0.5820004311273982
+  },
+  {
+   "card": "Sahagin",
+   "gih": 94623,
+   "gih_wr": 0.5819938070025258
+  },
+  {
+   "card": "Rinoa Heartilly",
+   "gih": 18211,
+   "gih_wr": 0.5815166657514689
+  },
+  {
+   "card": "Balamb Garden, SeeD Academy",
+   "gih": 13639,
+   "gih_wr": 0.5812742869711855
+  },
+  {
+   "card": "Cornered by Black Mages",
+   "gih": 75719,
+   "gih_wr": 0.5811355142038326
+  },
+  {
+   "card": "White Mage's Staff",
+   "gih": 75573,
+   "gih_wr": 0.5810011512047953
+  },
+  {
+   "card": "Summon: Fat Chocobo",
+   "gih": 71663,
+   "gih_wr": 0.5809971672969315
+  },
+  {
+   "card": "Circle of Power",
+   "gih": 30110,
+   "gih_wr": 0.5805380272334772
+  },
+  {
+   "card": "Venat, Heart of Hydaelyn",
+   "gih": 11424,
+   "gih_wr": 0.5805322128851541
+  },
+  {
+   "card": "Zack Fair",
+   "gih": 27942,
+   "gih_wr": 0.5803092119390165
+  },
+  {
+   "card": "Dreams of Laguna",
+   "gih": 95901,
+   "gih_wr": 0.5802025004953024
+  },
+  {
+   "card": "Ninja's Blades",
+   "gih": 11216,
+   "gih_wr": 0.579885877318117
+  },
+  {
+   "card": "Chocobo Kick",
+   "gih": 72011,
+   "gih_wr": 0.5794670258710475
+  },
+  {
+   "card": "Fire Magic",
+   "gih": 25147,
+   "gih_wr": 0.5790750387720205
+  },
+  {
+   "card": "Vayne's Treachery",
+   "gih": 91757,
+   "gih_wr": 0.5789966977996229
+  },
+  {
+   "card": "Gilgamesh, Master-at-Arms",
+   "gih": 7840,
+   "gih_wr": 0.578954081632653
+  },
+  {
+   "card": "Locke Cole",
+   "gih": 27796,
+   "gih_wr": 0.5788962440638941
+  },
+  {
+   "card": "Syncopate",
+   "gih": 76752,
+   "gih_wr": 0.5786429018136335
+  },
+  {
+   "card": "The Regalia",
+   "gih": 15779,
+   "gih_wr": 0.5785537740034222
+  },
+  {
+   "card": "Kraum, Ludevic's Opus",
+   "gih": 1665,
+   "gih_wr": 0.5783783783783784
+  },
+  {
+   "card": "Wall of Omens",
+   "gih": 7756,
+   "gih_wr": 0.5782619907168643
+  },
+  {
+   "card": "Call the Mountain Chocobo",
+   "gih": 68110,
+   "gih_wr": 0.577301424166789
+  },
+  {
+   "card": "Gladiolus Amicitia",
+   "gih": 22197,
+   "gih_wr": 0.5767446051268189
+  },
+  {
+   "card": "Captain Lannery Storm",
+   "gih": 10654,
+   "gih_wr": 0.576497090294725
+  },
+  {
+   "card": "Blazing Bomb",
+   "gih": 48162,
+   "gih_wr": 0.5762011544371081
+  },
+  {
+   "card": "Restoration Magic",
+   "gih": 18956,
+   "gih_wr": 0.5761236547794893
+  },
+  {
+   "card": "Tymna the Weaver",
+   "gih": 802,
+   "gih_wr": 0.5760598503740648
+  },
+  {
+   "card": "Shinra Reinforcements",
+   "gih": 53623,
+   "gih_wr": 0.5753501296085635
+  },
+  {
+   "card": "Rufus Shinra",
+   "gih": 15684,
+   "gih_wr": 0.5751083907166539
+  },
+  {
+   "card": "Magitek Armor",
+   "gih": 30074,
+   "gih_wr": 0.5749484604641883
+  },
+  {
+   "card": "Evil Reawakened",
+   "gih": 29790,
+   "gih_wr": 0.5746894931184962
+  },
+  {
+   "card": "Bolas's Citadel",
+   "gih": 754,
+   "gih_wr": 0.5729442970822282
+  },
+  {
+   "card": "Astrologian's Planisphere",
+   "gih": 15667,
+   "gih_wr": 0.5726686666241144
+  },
+  {
+   "card": "Prompto Argentum",
+   "gih": 27110,
+   "gih_wr": 0.5724824787901144
+  },
+  {
+   "card": "Giott, King of the Dwarves",
+   "gih": 14302,
+   "gih_wr": 0.5720178995944624
+  },
+  {
+   "card": "The Crystal's Chosen",
+   "gih": 22955,
+   "gih_wr": 0.571988673491614
+  },
+  {
+   "card": "Summon: Bahamut",
+   "gih": 6233,
+   "gih_wr": 0.571795283170223
+  },
+  {
+   "card": "Summon: Shiva",
+   "gih": 34939,
+   "gih_wr": 0.5711668908669395
+  },
+  {
+   "card": "Suplex",
+   "gih": 74581,
+   "gih_wr": 0.5710435633740497
+  },
+  {
+   "card": "Firion, Wild Rose Warrior",
+   "gih": 7793,
+   "gih_wr": 0.5698703965096882
+  },
+  {
+   "card": "Deadly Dispute",
+   "gih": 10467,
+   "gih_wr": 0.5697907709945543
+  },
+  {
+   "card": "The Final Days",
+   "gih": 24245,
+   "gih_wr": 0.5697669622602598
+  },
+  {
+   "card": "Slash of Light",
+   "gih": 60163,
+   "gih_wr": 0.5697521732626365
+  },
+  {
+   "card": "Ambrosia Whiteheart",
+   "gih": 28717,
+   "gih_wr": 0.569175053104433
+  },
+  {
+   "card": "Summon: Primal Garuda",
+   "gih": 20413,
+   "gih_wr": 0.5687552050164111
+  },
+  {
+   "card": "Jodah, the Unifier",
+   "gih": 417,
+   "gih_wr": 0.5683453237410072
+  },
+  {
+   "card": "Jecht, Reluctant Guardian",
+   "gih": 12788,
+   "gih_wr": 0.5681889271191742
+  },
+  {
+   "card": "Zanarkand, Ancient Metropolis",
+   "gih": 11861,
+   "gih_wr": 0.5681645729702386
+  },
+  {
+   "card": "Gaelicat",
+   "gih": 60468,
+   "gih_wr": 0.5681021366673282
+  },
+  {
+   "card": "Judge Magister Gabranth",
+   "gih": 16174,
+   "gih_wr": 0.5679485594163473
+  },
+  {
+   "card": "Vial Smasher the Fierce",
+   "gih": 1311,
+   "gih_wr": 0.5675057208237986
+  },
+  {
+   "card": "Y'shtola Rhul",
+   "gih": 5517,
+   "gih_wr": 0.5673373210077941
+  },
+  {
+   "card": "Garland, Knight of Cornelia",
+   "gih": 18347,
+   "gih_wr": 0.5671771951817736
+  },
+  {
+   "card": "Travel the Overworld",
+   "gih": 27338,
+   "gih_wr": 0.5663911039578609
+  },
+  {
+   "card": "Hecteyes",
+   "gih": 75779,
+   "gih_wr": 0.5663310415814408
+  },
+  {
+   "card": "Lightning, Army of One",
+   "gih": 4291,
+   "gih_wr": 0.5651363318573759
+  },
+  {
+   "card": "Quistis Trepe",
+   "gih": 38602,
+   "gih_wr": 0.5647893891508212
+  },
+  {
+   "card": "Scorpion Sentinel",
+   "gih": 76245,
+   "gih_wr": 0.564784576037773
+  },
+  {
+   "card": "You're Not Alone",
+   "gih": 35729,
+   "gih_wr": 0.5647793109238993
+  },
+  {
+   "card": "Magic Damper",
+   "gih": 29270,
+   "gih_wr": 0.5645029039972669
+  },
+  {
+   "card": "Balamb T-Rexaur",
+   "gih": 68568,
+   "gih_wr": 0.5642719635981799
+  },
+  {
+   "card": "Paladin's Arms",
+   "gih": 61996,
+   "gih_wr": 0.563875088715401
+  },
+  {
+   "card": "Fynn, the Fangbearer",
+   "gih": 9929,
+   "gih_wr": 0.5636015711552019
+  },
+  {
+   "card": "Dark Knight's Greatsword",
+   "gih": 22956,
+   "gih_wr": 0.5634256839170587
+  },
+  {
+   "card": "Malboro",
+   "gih": 67640,
+   "gih_wr": 0.5629804849201656
+  },
+  {
+   "card": "Bartz and Boko",
+   "gih": 6987,
+   "gih_wr": 0.5627594103334764
+  },
+  {
+   "card": "Danitha Capashen, Paragon",
+   "gih": 8820,
+   "gih_wr": 0.5622448979591836
+  },
+  {
+   "card": "Plains",
+   "gih": 296142,
+   "gih_wr": 0.5621863835592384
+  },
+  {
+   "card": "Capital City",
+   "gih": 34587,
+   "gih_wr": 0.5620319773325237
+  },
+  {
+   "card": "Baron, Airship Kingdom",
+   "gih": 58872,
+   "gih_wr": 0.5619989128957739
+  },
+  {
+   "card": "Undercity Dire Rat",
+   "gih": 65466,
+   "gih_wr": 0.5619710995020316
+  },
+  {
+   "card": "Al Bhed Salvagers",
+   "gih": 27029,
+   "gih_wr": 0.5618409856080506
+  },
+  {
+   "card": "Mountain",
+   "gih": 314551,
+   "gih_wr": 0.5613398145292814
+  },
+  {
+   "card": "Retrieve the Esper",
+   "gih": 76522,
+   "gih_wr": 0.5612764956483103
+  },
+  {
+   "card": "The Wandering Minstrel",
+   "gih": 8119,
+   "gih_wr": 0.5612760192141889
+  },
+  {
+   "card": "Gran Pulse Ochu",
+   "gih": 49747,
+   "gih_wr": 0.5610187548997929
+  },
+  {
+   "card": "Weapons Vendor",
+   "gih": 48183,
+   "gih_wr": 0.5608202062968267
+  },
+  {
+   "card": "Cid, Timeless Artificer",
+   "gih": 17339,
+   "gih_wr": 0.560701309187381
+  },
+  {
+   "card": "Garnet, Princess of Alexandria",
+   "gih": 12120,
+   "gih_wr": 0.5605610561056106
+  },
+  {
+   "card": "Island",
+   "gih": 400110,
+   "gih_wr": 0.5604608732598535
+  },
+  {
+   "card": "Tonberry",
+   "gih": 18336,
+   "gih_wr": 0.5602094240837696
+  },
+  {
+   "card": "Phantom Train",
+   "gih": 15215,
+   "gih_wr": 0.5601051593821886
+  },
+  {
+   "card": "Syr Konrad, the Grim",
+   "gih": 11491,
+   "gih_wr": 0.5595683578452703
+  },
+  {
+   "card": "PuPu UFO",
+   "gih": 17062,
+   "gih_wr": 0.5594889227523151
+  },
+  {
+   "card": "Stuck in Summoner's Sanctum",
+   "gih": 79992,
+   "gih_wr": 0.5592684268426843
+  },
+  {
+   "card": "Aerith Gainsborough",
+   "gih": 8043,
+   "gih_wr": 0.5588710680094492
+  },
+  {
+   "card": "Bard's Bow",
+   "gih": 49105,
+   "gih_wr": 0.5587007433051624
+  },
+  {
+   "card": "Black Mage's Rod",
+   "gih": 65739,
+   "gih_wr": 0.5584964784983039
+  },
+  {
+   "card": "Godo, Bandit Warlord",
+   "gih": 899,
+   "gih_wr": 0.5583982202447163
+  },
+  {
+   "card": "Swamp",
+   "gih": 377067,
+   "gih_wr": 0.5583835233526138
+  },
+  {
+   "card": "Treno, Dark City",
+   "gih": 60582,
+   "gih_wr": 0.55835066521409
+  },
+  {
+   "card": "Goobbue Gardener",
+   "gih": 63722,
+   "gih_wr": 0.5582844229622422
+  },
+  {
+   "card": "Crossroads Village",
+   "gih": 99504,
+   "gih_wr": 0.5579675188937128
+  },
+  {
+   "card": "Forest",
+   "gih": 286864,
+   "gih_wr": 0.557832282893636
+  },
+  {
+   "card": "Clive, Ifrit's Dominant",
+   "gih": 5253,
+   "gih_wr": 0.5575861412526175
+  },
+  {
+   "card": "Guadosalam, Farplane Gateway",
+   "gih": 51249,
+   "gih_wr": 0.5571620909676286
+  },
+  {
+   "card": "Zell Dincht",
+   "gih": 6056,
+   "gih_wr": 0.5569682959048877
+  },
+  {
+   "card": "Relm's Sketching",
+   "gih": 31438,
+   "gih_wr": 0.5567784210191488
+  },
+  {
+   "card": "Freya Crescent",
+   "gih": 13129,
+   "gih_wr": 0.5566303602711554
+  },
+  {
+   "card": "Gohn, Town of Ruin",
+   "gih": 53489,
+   "gih_wr": 0.5564882499205445
+  },
+  {
+   "card": "Ride the Shoopuf",
+   "gih": 16576,
+   "gih_wr": 0.5562258687258688
+  },
+  {
+   "card": "Ultima",
+   "gih": 7286,
+   "gih_wr": 0.5561350535273126
+  },
+  {
+   "card": "Warrior's Sword",
+   "gih": 54339,
+   "gih_wr": 0.5561015108853677
+  },
+  {
+   "card": "Choco, Seeker of Paradise",
+   "gih": 5893,
+   "gih_wr": 0.5560834888851179
+  },
+  {
+   "card": "Thrasios, Triton Hero",
+   "gih": 1214,
+   "gih_wr": 0.556013179571664
+  },
+  {
+   "card": "Ultimecia, Time Sorceress",
+   "gih": 23898,
+   "gih_wr": 0.5554439702067119
+  },
+  {
+   "card": "Adventurer's Inn",
+   "gih": 13339,
+   "gih_wr": 0.5552890021740761
+  },
+  {
+   "card": "Najeela, the Blade-Blossom",
+   "gih": 814,
+   "gih_wr": 0.5552825552825553
+  },
+  {
+   "card": "Gaius van Baelsar",
+   "gih": 23469,
+   "gih_wr": 0.5552004772252759
+  },
+  {
+   "card": "Diamond Weapon",
+   "gih": 19535,
+   "gih_wr": 0.5550038392628616
+  },
+  {
+   "card": "Starting Town",
+   "gih": 12468,
+   "gih_wr": 0.5539781841514276
+  },
+  {
+   "card": "Ahriman",
+   "gih": 51789,
+   "gih_wr": 0.5538048620363397
+  },
+  {
+   "card": "Eden, Seat of the Sanctum",
+   "gih": 15791,
+   "gih_wr": 0.5529732125894496
+  },
+  {
+   "card": "Light Up the Stage",
+   "gih": 5919,
+   "gih_wr": 0.5526271329616489
+  },
+  {
+   "card": "Coral Sword",
+   "gih": 10652,
+   "gih_wr": 0.5522906496432595
+  },
+  {
+   "card": "Cargo Ship",
+   "gih": 13212,
+   "gih_wr": 0.5519224947017862
+  },
+  {
+   "card": "Vector, Imperial Capital",
+   "gih": 43930,
+   "gih_wr": 0.5515137719098566
+  },
+  {
+   "card": "Namazu Trader",
+   "gih": 39587,
+   "gih_wr": 0.5513931341096825
+  },
+  {
+   "card": "Ashe, Princess of Dalmasca",
+   "gih": 19623,
+   "gih_wr": 0.5512408907914182
+  },
+  {
+   "card": "Demon Wall",
+   "gih": 25783,
+   "gih_wr": 0.5511383469728115
+  },
+  {
+   "card": "Tellah, Great Sage",
+   "gih": 11656,
+   "gih_wr": 0.5499313658201784
+  },
+  {
+   "card": "Fight On!",
+   "gih": 51592,
+   "gih_wr": 0.5494262676383935
+  },
+  {
+   "card": "Gysahl Greens",
+   "gih": 44220,
+   "gih_wr": 0.5484848484848485
+  },
+  {
+   "card": "Zodiark, Umbral God",
+   "gih": 5124,
+   "gih_wr": 0.5476190476190477
+  },
+  {
+   "card": "Monk's Fist",
+   "gih": 42922,
+   "gih_wr": 0.5474115838031779
+  },
+  {
+   "card": "Dwarven Castle Guard",
+   "gih": 39927,
+   "gih_wr": 0.5473489117639693
+  },
+  {
+   "card": "Prishe's Wanderings",
+   "gih": 49104,
+   "gih_wr": 0.5473484848484849
+  },
+  {
+   "card": "Rydia, Summoner of Mist",
+   "gih": 10711,
+   "gih_wr": 0.5465409392213613
+  },
+  {
+   "card": "Sharlayan, Nation of Scholars",
+   "gih": 40904,
+   "gih_wr": 0.5463768824564835
+  },
+  {
+   "card": "Terra, Magical Adept",
+   "gih": 2731,
+   "gih_wr": 0.5459538630538264
+  },
+  {
+   "card": "Lion Heart",
+   "gih": 23432,
+   "gih_wr": 0.5457494025264595
+  },
+  {
+   "card": "Fate of the Sun-Cryst",
+   "gih": 47042,
+   "gih_wr": 0.5451936567322818
+  },
+  {
+   "card": "Windurst, Federation Center",
+   "gih": 33663,
+   "gih_wr": 0.5449900484211152
+  },
+  {
+   "card": "Midgar, City of Mako",
+   "gih": 10274,
+   "gih_wr": 0.5447732139380962
+  },
+  {
+   "card": "Blitzball Shot",
+   "gih": 17957,
+   "gih_wr": 0.544133207105864
+  },
+  {
+   "card": "Light of Judgment",
+   "gih": 46954,
+   "gih_wr": 0.5438940239383226
+  },
+  {
+   "card": "Traxos, Scourge of Kroog",
+   "gih": 1579,
+   "gih_wr": 0.5433818872704244
+  },
+  {
+   "card": "Coeurl",
+   "gih": 26081,
+   "gih_wr": 0.5433457306084889
+  },
+  {
+   "card": "Aerith Rescue Mission",
+   "gih": 24483,
+   "gih_wr": 0.5431115467875669
+  },
+  {
+   "card": "Commune with Beavers",
+   "gih": 17017,
+   "gih_wr": 0.5430451901040136
+  },
+  {
+   "card": "Reno and Rude",
+   "gih": 21511,
+   "gih_wr": 0.5429780112500581
+  },
+  {
+   "card": "The Darkness Crystal",
+   "gih": 6057,
+   "gih_wr": 0.54284299157999
+  },
+  {
+   "card": "Sidequest: Raise a Chocobo",
+   "gih": 16504,
+   "gih_wr": 0.5428380998545808
+  },
+  {
+   "card": "Raubahn, Bull of Ala Mhigo",
+   "gih": 6658,
+   "gih_wr": 0.5422048663262241
+  },
+  {
+   "card": "Gongaga, Reactor Town",
+   "gih": 34702,
+   "gih_wr": 0.5417843351968187
+  },
+  {
+   "card": "G'raha Tia",
+   "gih": 21324,
+   "gih_wr": 0.541690114425061
+  },
+  {
+   "card": "Rabanastre, Royal City",
+   "gih": 32360,
+   "gih_wr": 0.5416872682323857
+  },
+  {
+   "card": "Laughing Mad",
+   "gih": 24768,
+   "gih_wr": 0.5412225452196382
+  },
+  {
+   "card": "Clash of the Eikons",
+   "gih": 18093,
+   "gih_wr": 0.5410379704858232
+  },
+  {
+   "card": "Edgar, King of Figaro",
+   "gih": 7140,
+   "gih_wr": 0.5410364145658263
+  },
+  {
+   "card": "Item Shopkeep",
+   "gih": 19510,
+   "gih_wr": 0.5408508457201435
+  },
+  {
+   "card": "Ice Flan",
+   "gih": 44160,
+   "gih_wr": 0.540625
+  },
+  {
+   "card": "Lindblum, Industrial Regency",
+   "gih": 8306,
+   "gih_wr": 0.5404526848061643
+  },
+  {
+   "card": "Mangara, the Diplomat",
+   "gih": 1015,
+   "gih_wr": 0.5399014778325123
+  },
+  {
+   "card": "Insomnia, Crown City",
+   "gih": 34490,
+   "gih_wr": 0.5398376340968397
+  },
+  {
+   "card": "Summon: Choco/Mog",
+   "gih": 31585,
+   "gih_wr": 0.5392749722969764
+  },
+  {
+   "card": "Isshin, Two Heavens as One",
+   "gih": 102,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card": "Airship Crash",
+   "gih": 21116,
+   "gih_wr": 0.5390225421481342
+  },
+  {
+   "card": "Farseek",
+   "gih": 8082,
+   "gih_wr": 0.5388517693640188
+  },
+  {
+   "card": "Rydia's Return",
+   "gih": 13401,
+   "gih_wr": 0.5380195507797926
+  },
+  {
+   "card": "Ring of the Lucii",
+   "gih": 10191,
+   "gih_wr": 0.5375331174565794
+  },
+  {
+   "card": "Reach the Horizon",
+   "gih": 16460,
+   "gih_wr": 0.5374848116646416
+  },
+  {
+   "card": "Brainstorm",
+   "gih": 4863,
+   "gih_wr": 0.5365001028171911
+  },
+  {
+   "card": "Ultima, Origin of Oblivion",
+   "gih": 8060,
+   "gih_wr": 0.5357320099255584
+  },
+  {
+   "card": "Adventurer's Airship",
+   "gih": 14652,
+   "gih_wr": 0.5354900354900355
+  },
+  {
+   "card": "Tifa's Limit Break",
+   "gih": 10111,
+   "gih_wr": 0.5354564335871823
+  },
+  {
+   "card": "Instant Ramen",
+   "gih": 13167,
+   "gih_wr": 0.5352016404647983
+  },
+  {
+   "card": "Sage's Nouliths",
+   "gih": 35332,
+   "gih_wr": 0.5351805728518058
+  },
+  {
+   "card": "Opera Love Song",
+   "gih": 8354,
+   "gih_wr": 0.534713909504429
+  },
+  {
+   "card": "Valkyrie Aerial Unit",
+   "gih": 16728,
+   "gih_wr": 0.5346126255380201
+  },
+  {
+   "card": "Summon: Anima",
+   "gih": 19108,
+   "gih_wr": 0.5345928406949969
+  },
+  {
+   "card": "The Gold Saucer",
+   "gih": 8233,
+   "gih_wr": 0.5343131300862383
+  },
+  {
+   "card": "Unexpected Request",
+   "gih": 4890,
+   "gih_wr": 0.5341513292433537
+  },
+  {
+   "card": "Balthier and Fran",
+   "gih": 2413,
+   "gih_wr": 0.5337753833402403
+  },
+  {
+   "card": "Stiltzkin, Moogle Merchant",
+   "gih": 6087,
+   "gih_wr": 0.5332676195170034
+  },
+  {
+   "card": "Poison the Waters",
+   "gih": 9637,
+   "gih_wr": 0.5332572377295839
+  },
+  {
+   "card": "Gigantoad",
+   "gih": 32813,
+   "gih_wr": 0.5328680705817816
+  },
+  {
+   "card": "Nature's Claim",
+   "gih": 1601,
+   "gih_wr": 0.532792004996877
+  },
+  {
+   "card": "Qiqirn Merchant",
+   "gih": 32642,
+   "gih_wr": 0.5320752404877153
+  },
+  {
+   "card": "Varragoth, Bloodsky Sire",
+   "gih": 1100,
+   "gih_wr": 0.5318181818181819
+  },
+  {
+   "card": "Summon: Esper Ramuh",
+   "gih": 17307,
+   "gih_wr": 0.5313456982723753
+  },
+  {
+   "card": "Summon: G.F. Cerberus",
+   "gih": 9530,
+   "gih_wr": 0.5309548793284365
+  },
+  {
+   "card": "Yuriko, the Tiger's Shadow",
+   "gih": 946,
+   "gih_wr": 0.5306553911205074
+  },
+  {
+   "card": "Summon: Brynhildr",
+   "gih": 7987,
+   "gih_wr": 0.5303618379867284
+  },
+  {
+   "card": "Queen Brahne",
+   "gih": 18687,
+   "gih_wr": 0.5302081661047787
+  },
+  {
+   "card": "Thief's Knife",
+   "gih": 22716,
+   "gih_wr": 0.5300228913541116
+  },
+  {
+   "card": "Kinnan, Bonder Prodigy",
+   "gih": 780,
+   "gih_wr": 0.5294871794871795
+  },
+  {
+   "card": "Ishgard, the Holy See",
+   "gih": 7314,
+   "gih_wr": 0.5284386108832376
+  },
+  {
+   "card": "Quina, Qu Gourmet",
+   "gih": 15162,
+   "gih_wr": 0.5283603746207625
+  },
+  {
+   "card": "Auron's Inspiration",
+   "gih": 6553,
+   "gih_wr": 0.5283076453532733
+  },
+  {
+   "card": "Relentless X-ATM092",
+   "gih": 10138,
+   "gih_wr": 0.5281120536594989
+  },
+  {
+   "card": "Rook Turret",
+   "gih": 26991,
+   "gih_wr": 0.5280649105257308
+  },
+  {
+   "card": "Sabotender",
+   "gih": 18037,
+   "gih_wr": 0.5275821921605589
+  },
+  {
+   "card": "Mysidian Elder",
+   "gih": 34043,
+   "gih_wr": 0.5274799518256323
+  },
+  {
+   "card": "Cloudbound Moogle",
+   "gih": 15098,
+   "gih_wr": 0.5264935753079878
+  },
+  {
+   "card": "Matoya, Archon Elder",
+   "gih": 5086,
+   "gih_wr": 0.5259535981124656
+  },
+  {
+   "card": "Vincent's Limit Break",
+   "gih": 17414,
+   "gih_wr": 0.5256115768921558
+  },
+  {
+   "card": "Phoenix Down",
+   "gih": 9997,
+   "gih_wr": 0.52555766730019
+  },
+  {
+   "card": "Snow Villiers",
+   "gih": 11475,
+   "gih_wr": 0.5253159041394335
+  },
+  {
+   "card": "Crystal Fragments",
+   "gih": 14068,
+   "gih_wr": 0.5252345749218084
+  },
+  {
+   "card": "Barret Wallace",
+   "gih": 8531,
+   "gih_wr": 0.5251435939514711
+  },
+  {
+   "card": "Inalla, Archmage Ritualist",
+   "gih": 210,
+   "gih_wr": 0.5238095238095238
+  },
+  {
+   "card": "World Map",
+   "gih": 30928,
+   "gih_wr": 0.5229242110708743
+  },
+  {
+   "card": "Ancient Copper Dragon",
+   "gih": 844,
+   "gih_wr": 0.5225118483412322
+  },
+  {
+   "card": "Minwu, White Mage",
+   "gih": 5307,
+   "gih_wr": 0.5223289994347089
+  },
+  {
+   "card": "Summoner's Grimoire",
+   "gih": 3074,
+   "gih_wr": 0.5217957059206246
+  },
+  {
+   "card": "Qutrub Forayer",
+   "gih": 9422,
+   "gih_wr": 0.5217575886223732
+  },
+  {
+   "card": "Gogo, Master of Mimicry",
+   "gih": 4286,
+   "gih_wr": 0.5202986467568829
+  },
+  {
+   "card": "Black Waltz No. 3",
+   "gih": 13190,
+   "gih_wr": 0.519560272934041
+  },
+  {
+   "card": "The Prima Vista",
+   "gih": 8521,
+   "gih_wr": 0.5190705316277432
+  },
+  {
+   "card": "Cactuar",
+   "gih": 4009,
+   "gih_wr": 0.5188326265901722
+  },
+  {
+   "card": "Fang, Fearless l'Cie",
+   "gih": 17621,
+   "gih_wr": 0.5183587764599058
+  },
+  {
+   "card": "Red Mage's Rapier",
+   "gih": 25925,
+   "gih_wr": 0.5182256509161042
+  },
+  {
+   "card": "Sandworm",
+   "gih": 10554,
+   "gih_wr": 0.5179079022171689
+  },
+  {
+   "card": "Chocobo Racetrack",
+   "gih": 13419,
+   "gih_wr": 0.5176242641031373
+  },
+  {
+   "card": "Tidus, Blitzball Star",
+   "gih": 13303,
+   "gih_wr": 0.5175524317823047
+  },
+  {
+   "card": "Shambling Cie'th",
+   "gih": 15594,
+   "gih_wr": 0.5173784789021418
+  },
+  {
+   "card": "Mizzix's Mastery",
+   "gih": 667,
+   "gih_wr": 0.5172413793103449
+  },
+  {
+   "card": "The Wind Crystal",
+   "gih": 3960,
+   "gih_wr": 0.5159090909090909
+  },
+  {
+   "card": "Sidequest: Catch a Fish",
+   "gih": 5152,
+   "gih_wr": 0.515139751552795
+  },
+  {
+   "card": "Triple Triad",
+   "gih": 3060,
+   "gih_wr": 0.515032679738562
+  },
+  {
+   "card": "Summon: G.F. Ifrit",
+   "gih": 30194,
+   "gih_wr": 0.5138769291912301
+  },
+  {
+   "card": "Self-Destruct",
+   "gih": 4760,
+   "gih_wr": 0.5138655462184873
+  },
+  {
+   "card": "Hill Gigas",
+   "gih": 24663,
+   "gih_wr": 0.5134006406357702
+  },
+  {
+   "card": "Kain, Traitorous Dragoon",
+   "gih": 2921,
+   "gih_wr": 0.5131804176651832
+  },
+  {
+   "card": "Hope Estheim",
+   "gih": 3397,
+   "gih_wr": 0.5128054165440095
+  },
+  {
+   "card": "Blitzball",
+   "gih": 35443,
+   "gih_wr": 0.5123155489095167
+  },
+  {
+   "card": "Dark Ritual",
+   "gih": 449,
+   "gih_wr": 0.512249443207127
+  },
+  {
+   "card": "Serah Farron",
+   "gih": 3157,
+   "gih_wr": 0.5068102629078239
+  },
+  {
+   "card": "Haste Magic",
+   "gih": 6862,
+   "gih_wr": 0.5056834742057709
+  },
+  {
+   "card": "Ether",
+   "gih": 4693,
+   "gih_wr": 0.5047943746004688
+  },
+  {
+   "card": "Dovin's Veto",
+   "gih": 1091,
+   "gih_wr": 0.5032080659945004
+  },
+  {
+   "card": "Lunatic Pandora",
+   "gih": 9305,
+   "gih_wr": 0.5024180548092424
+  },
+  {
+   "card": "Tifa Lockhart",
+   "gih": 3741,
+   "gih_wr": 0.5022721197540765
+  },
+  {
+   "card": "Teferi, Mage of Zhalfir",
+   "gih": 640,
+   "gih_wr": 0.5015625
+  },
+  {
+   "card": "Jidoor, Aristocratic Capital",
+   "gih": 4592,
+   "gih_wr": 0.5015243902439024
+  },
+  {
+   "card": "Jumbo Cactuar",
+   "gih": 3436,
+   "gih_wr": 0.5002910360884749
+  },
+  {
+   "card": "Loporrit Scout",
+   "gih": 7375,
+   "gih_wr": 0.4999322033898305
+  },
+  {
+   "card": "Golbez, Crystal Collector",
+   "gih": 4594,
+   "gih_wr": 0.4980409229429691
+  },
+  {
+   "card": "Stroke of Midnight",
+   "gih": 3257,
+   "gih_wr": 0.49616211237334973
+  },
+  {
+   "card": "Diabolic Intent",
+   "gih": 291,
+   "gih_wr": 0.4948453608247423
+  },
+  {
+   "card": "Genji Glove",
+   "gih": 2829,
+   "gih_wr": 0.4941675503711559
+  },
+  {
+   "card": "Magic Pot",
+   "gih": 4610,
+   "gih_wr": 0.4917570498915401
+  },
+  {
+   "card": "Laboratory Maniac",
+   "gih": 1038,
+   "gih_wr": 0.4913294797687861
+  },
+  {
+   "card": "Nyxbloom Ancient",
+   "gih": 202,
+   "gih_wr": 0.4900990099009901
+  },
+  {
+   "card": "Sidequest: Play Blitzball",
+   "gih": 4260,
+   "gih_wr": 0.4880281690140845
+  },
+  {
+   "card": "Noctis, Prince of Lucis",
+   "gih": 2469,
+   "gih_wr": 0.4868367760226813
+  },
+  {
+   "card": "Chromatic Lantern",
+   "gih": 513,
+   "gih_wr": 0.4853801169590643
+  },
+  {
+   "card": "Random Encounter",
+   "gih": 946,
+   "gih_wr": 0.48520084566596194
+  },
+  {
+   "card": "Rhystic Study",
+   "gih": 361,
+   "gih_wr": 0.48476454293628807
+  },
+  {
+   "card": "Clive's Hideaway",
+   "gih": 709,
+   "gih_wr": 0.4837799717912553
+  },
+  {
+   "card": "Purphoros, God of the Forge",
+   "gih": 577,
+   "gih_wr": 0.48180242634315423
+  },
+  {
+   "card": "Ishai, Ojutai Dragonspeaker",
+   "gih": 364,
+   "gih_wr": 0.47802197802197804
+  },
+  {
+   "card": "Vaan, Street Thief",
+   "gih": 4067,
+   "gih_wr": 0.4777477255962626
+  },
+  {
+   "card": "The Earth Crystal",
+   "gih": 4519,
+   "gih_wr": 0.47709670281035627
+  },
+  {
+   "card": "Strixhaven Stadium",
+   "gih": 337,
+   "gih_wr": 0.47477744807121663
+  },
+  {
+   "card": "The Water Crystal",
+   "gih": 1258,
+   "gih_wr": 0.4697933227344992
+  },
+  {
+   "card": "Louisoix's Sacrifice",
+   "gih": 1282,
+   "gih_wr": 0.4664586583463339
+  },
+  {
+   "card": "Excalibur II",
+   "gih": 1252,
+   "gih_wr": 0.46565495207667734
+  },
+  {
+   "card": "Galuf's Final Act",
+   "gih": 2735,
+   "gih_wr": 0.4603290676416819
+  },
+  {
+   "card": "Azusa, Lost but Seeking",
+   "gih": 218,
+   "gih_wr": 0.45871559633027525
+  },
+  {
+   "card": "Elixir",
+   "gih": 1446,
+   "gih_wr": 0.45850622406639
+  },
+  {
+   "card": "Iron Giant",
+   "gih": 4457,
+   "gih_wr": 0.45636078079425624
+  },
+  {
+   "card": "From Father to Son",
+   "gih": 128,
+   "gih_wr": 0.453125
+  },
+  {
+   "card": "K'rrik, Son of Yawgmoth",
+   "gih": 259,
+   "gih_wr": 0.44015444015444016
+  },
+  {
+   "card": "The Masamune",
+   "gih": 2234,
+   "gih_wr": 0.432408236347359
+  },
+  {
+   "card": "Aettir and Priwen",
+   "gih": 756,
+   "gih_wr": 0.4298941798941799
+  },
+  {
+   "card": "Stolen Uniform",
+   "gih": 216,
+   "gih_wr": 0.42592592592592593
+  },
+  {
+   "card": "A Realm Reborn",
+   "gih": 78,
+   "gih_wr": 0.4230769230769231
+  },
+  {
+   "card": "The Fire Crystal",
+   "gih": 1019,
+   "gih_wr": 0.41315014720314036
+  },
+  {
+   "card": "Carpet of Flowers",
+   "gih": 23,
+   "gih_wr": 0.2608695652173913
+  },
+  {
+   "card": "Command Beacon",
+   "gih": 5,
+   "gih_wr": 0.2
+  }
+ ]
+}

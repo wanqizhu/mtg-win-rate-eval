@@ -1,0 +1,1358 @@
+{
+ "set": "HOB",
+ "games": 323114,
+ "wins": 181467,
+ "cards": [
+  {
+   "card_17lands": "F\u00edli the Pathfinder",
+   "scryfall_name": "F\u00edli the Pathfinder",
+   "match": "full",
+   "gih": 9687,
+   "gih_wr": 0.6626406524207701
+  },
+  {
+   "card_17lands": "An Unexpected Party",
+   "scryfall_name": "An Unexpected Party [MULTI]",
+   "match": "first-face",
+   "gih": 10770,
+   "gih_wr": 0.6593314763231197
+  },
+  {
+   "card_17lands": "Beorn the Fierce",
+   "scryfall_name": "Beorn the Fierce",
+   "match": "full",
+   "gih": 3703,
+   "gih_wr": 0.6440723737510127
+  },
+  {
+   "card_17lands": "Gollum, Riddle Master",
+   "scryfall_name": "Gollum, Riddle Master",
+   "match": "full",
+   "gih": 4529,
+   "gih_wr": 0.6409803488628837
+  },
+  {
+   "card_17lands": "Bard's Company",
+   "scryfall_name": "Bard's Company",
+   "match": "full",
+   "gih": 11705,
+   "gih_wr": 0.6409226826142674
+  },
+  {
+   "card_17lands": "Smaug the Magnificent",
+   "scryfall_name": "Smaug the Magnificent",
+   "match": "full",
+   "gih": 4125,
+   "gih_wr": 0.6353939393939394
+  },
+  {
+   "card_17lands": "Thorin, Mountain-king",
+   "scryfall_name": "Thorin, Mountain-king",
+   "match": "full",
+   "gih": 4117,
+   "gih_wr": 0.6339567646344425
+  },
+  {
+   "card_17lands": "K\u00edli the Resourceful",
+   "scryfall_name": "K\u00edli the Resourceful",
+   "match": "full",
+   "gih": 7998,
+   "gih_wr": 0.6336584146036509
+  },
+  {
+   "card_17lands": "D\u00e1in's Company",
+   "scryfall_name": "D\u00e1in's Company",
+   "match": "full",
+   "gih": 6183,
+   "gih_wr": 0.6272036228368106
+  },
+  {
+   "card_17lands": "Chief Warg's Company",
+   "scryfall_name": "Chief Warg's Company",
+   "match": "full",
+   "gih": 8000,
+   "gih_wr": 0.623875
+  },
+  {
+   "card_17lands": "Celebrate the Mountain-king",
+   "scryfall_name": "Celebrate the Mountain-king",
+   "match": "full",
+   "gih": 30687,
+   "gih_wr": 0.6215987225861114
+  },
+  {
+   "card_17lands": "Thranduil's Company",
+   "scryfall_name": "Thranduil's Company",
+   "match": "full",
+   "gih": 7550,
+   "gih_wr": 0.6213245033112583
+  },
+  {
+   "card_17lands": "Rhovanion Rampager",
+   "scryfall_name": "Rhovanion Rampager",
+   "match": "full",
+   "gih": 8696,
+   "gih_wr": 0.6184452621895125
+  },
+  {
+   "card_17lands": "Head of the Hunt",
+   "scryfall_name": "Head of the Hunt",
+   "match": "full",
+   "gih": 8563,
+   "gih_wr": 0.6170734555646386
+  },
+  {
+   "card_17lands": "Great Gilded Boat",
+   "scryfall_name": "Great Gilded Boat",
+   "match": "full",
+   "gih": 11603,
+   "gih_wr": 0.6157890200810135
+  },
+  {
+   "card_17lands": "D\u00e1in Ironfoot",
+   "scryfall_name": "D\u00e1in Ironfoot",
+   "match": "full",
+   "gih": 8599,
+   "gih_wr": 0.6135597162460751
+  },
+  {
+   "card_17lands": "Desolation Prowler",
+   "scryfall_name": "Desolation Prowler",
+   "match": "full",
+   "gih": 30018,
+   "gih_wr": 0.6119994669864748
+  },
+  {
+   "card_17lands": "The Mountain-king's Return",
+   "scryfall_name": "The Mountain-king's Return",
+   "match": "full",
+   "gih": 29924,
+   "gih_wr": 0.6113153321748429
+  },
+  {
+   "card_17lands": "Bothersome Noisemaker",
+   "scryfall_name": "Bothersome Noisemaker",
+   "match": "full",
+   "gih": 27882,
+   "gih_wr": 0.6102144752887168
+  },
+  {
+   "card_17lands": "Crude Bent Blade",
+   "scryfall_name": "Crude Bent Blade",
+   "match": "full",
+   "gih": 60413,
+   "gih_wr": 0.604058729081489
+  },
+  {
+   "card_17lands": "Bejeweled Warg",
+   "scryfall_name": "Bejeweled Warg",
+   "match": "full",
+   "gih": 6572,
+   "gih_wr": 0.6030127814972611
+  },
+  {
+   "card_17lands": "Bilbo, Luckwearer",
+   "scryfall_name": "Bilbo, Luckwearer [MULTI]",
+   "match": "first-face",
+   "gih": 29559,
+   "gih_wr": 0.6029635643966305
+  },
+  {
+   "card_17lands": "Stone by Sunlight",
+   "scryfall_name": "Stone by Sunlight",
+   "match": "full",
+   "gih": 28322,
+   "gih_wr": 0.6027116729044559
+  },
+  {
+   "card_17lands": "The Arkenstone",
+   "scryfall_name": "The Arkenstone [MULTI]",
+   "match": "first-face",
+   "gih": 5032,
+   "gih_wr": 0.6025437201907791
+  },
+  {
+   "card_17lands": "Burn, Burn, Tree and Fern",
+   "scryfall_name": "Burn, Burn, Tree and Fern",
+   "match": "full",
+   "gih": 25422,
+   "gih_wr": 0.6005035009047281
+  },
+  {
+   "card_17lands": "The Eagles Are Coming!",
+   "scryfall_name": "The Eagles Are Coming!",
+   "match": "full",
+   "gih": 9517,
+   "gih_wr": 0.5989282336870863
+  },
+  {
+   "card_17lands": "Nasty Little Rabbit",
+   "scryfall_name": "Nasty Little Rabbit",
+   "match": "full",
+   "gih": 17848,
+   "gih_wr": 0.5965934558493949
+  },
+  {
+   "card_17lands": "Mirkwood Pathmaker",
+   "scryfall_name": "Mirkwood Pathmaker",
+   "match": "full",
+   "gih": 19147,
+   "gih_wr": 0.5955502167441374
+  },
+  {
+   "card_17lands": "Nighthowl Pursuer",
+   "scryfall_name": "Nighthowl Pursuer",
+   "match": "full",
+   "gih": 23491,
+   "gih_wr": 0.5955472308543698
+  },
+  {
+   "card_17lands": "The Queen of Dale",
+   "scryfall_name": "The Queen of Dale",
+   "match": "full",
+   "gih": 3858,
+   "gih_wr": 0.5951270088128564
+  },
+  {
+   "card_17lands": "Gandalf, Spark Starter",
+   "scryfall_name": "Gandalf, Spark Starter",
+   "match": "full",
+   "gih": 23184,
+   "gih_wr": 0.5946342305037957
+  },
+  {
+   "card_17lands": "Pinecone Strike",
+   "scryfall_name": "Pinecone Strike",
+   "match": "full",
+   "gih": 55706,
+   "gih_wr": 0.593706243492622
+  },
+  {
+   "card_17lands": "Down, Down to Goblin-town",
+   "scryfall_name": "Down, Down to Goblin-town",
+   "match": "full",
+   "gih": 27443,
+   "gih_wr": 0.5933024815071238
+  },
+  {
+   "card_17lands": "Dwalin, Weaponmaster",
+   "scryfall_name": "Dwalin, Weaponmaster",
+   "match": "full",
+   "gih": 8259,
+   "gih_wr": 0.5932921661218065
+  },
+  {
+   "card_17lands": "The Sackville-Bagginses",
+   "scryfall_name": "The Sackville-Bagginses",
+   "match": "full",
+   "gih": 7837,
+   "gih_wr": 0.5930840882990941
+  },
+  {
+   "card_17lands": "Gollum, Silent Slinker",
+   "scryfall_name": "Gollum, Silent Slinker // Meager Meal",
+   "match": "first-face",
+   "gih": 52853,
+   "gih_wr": 0.5921896581083382
+  },
+  {
+   "card_17lands": "Dancing from Dark to Dawn",
+   "scryfall_name": "Dancing from Dark to Dawn",
+   "match": "full",
+   "gih": 3206,
+   "gih_wr": 0.5920149719276356
+  },
+  {
+   "card_17lands": "Settle the Wreckage",
+   "scryfall_name": "Settle the Wreckage",
+   "match": "full",
+   "gih": 7646,
+   "gih_wr": 0.5893277530735025
+  },
+  {
+   "card_17lands": "Bard the Bowman",
+   "scryfall_name": "Bard the Bowman",
+   "match": "full",
+   "gih": 24682,
+   "gih_wr": 0.5880803824649542
+  },
+  {
+   "card_17lands": "Stone-Giant of High Pass",
+   "scryfall_name": "Stone-Giant of High Pass",
+   "match": "full",
+   "gih": 7252,
+   "gih_wr": 0.5861831218974076
+  },
+  {
+   "card_17lands": "Bilbo, Thief in the Night",
+   "scryfall_name": "Bilbo, Thief in the Night",
+   "match": "full",
+   "gih": 3914,
+   "gih_wr": 0.5858456821665815
+  },
+  {
+   "card_17lands": "Plunder the Trollshaws",
+   "scryfall_name": "Plunder the Trollshaws",
+   "match": "full",
+   "gih": 50977,
+   "gih_wr": 0.585342409321851
+  },
+  {
+   "card_17lands": "Misty Mountains Raider",
+   "scryfall_name": "Misty Mountains Raider",
+   "match": "full",
+   "gih": 23696,
+   "gih_wr": 0.5853308575286968
+  },
+  {
+   "card_17lands": "The Lonely Mountain",
+   "scryfall_name": "The Lonely Mountain",
+   "match": "full",
+   "gih": 7702,
+   "gih_wr": 0.5837444819527395
+  },
+  {
+   "card_17lands": "Thranduil, Sindarin Liege",
+   "scryfall_name": "Thranduil, Sindarin Liege [MULTI]",
+   "match": "first-face",
+   "gih": 19439,
+   "gih_wr": 0.5834662276866094
+  },
+  {
+   "card_17lands": "Patient Instructor",
+   "scryfall_name": "Patient Instructor",
+   "match": "full",
+   "gih": 55365,
+   "gih_wr": 0.5833830037027002
+  },
+  {
+   "card_17lands": "Master's Councillors",
+   "scryfall_name": "Master's Councillors",
+   "match": "full",
+   "gih": 28347,
+   "gih_wr": 0.5809785867993086
+  },
+  {
+   "card_17lands": "Iron Hills Blacksmith",
+   "scryfall_name": "Iron Hills Blacksmith",
+   "match": "full",
+   "gih": 22521,
+   "gih_wr": 0.5803028284712046
+  },
+  {
+   "card_17lands": "Tom, Bert, and William",
+   "scryfall_name": "Tom, Bert, and William",
+   "match": "full",
+   "gih": 6704,
+   "gih_wr": 0.5799522673031027
+  },
+  {
+   "card_17lands": "Gl\u00f3in the Mighty",
+   "scryfall_name": "Gl\u00f3in the Mighty [MULTI]",
+   "match": "first-face",
+   "gih": 19149,
+   "gih_wr": 0.5795602903545877
+  },
+  {
+   "card_17lands": "Dori, Bearer of Friends",
+   "scryfall_name": "Dori, Bearer of Friends",
+   "match": "full",
+   "gih": 44509,
+   "gih_wr": 0.5780628636904895
+  },
+  {
+   "card_17lands": "Bilbo's Deadly Slice",
+   "scryfall_name": "Bilbo's Deadly Slice",
+   "match": "full",
+   "gih": 47704,
+   "gih_wr": 0.5771633406003689
+  },
+  {
+   "card_17lands": "Long Lake Nuisance",
+   "scryfall_name": "Long Lake Nuisance",
+   "match": "full",
+   "gih": 49140,
+   "gih_wr": 0.577065527065527
+  },
+  {
+   "card_17lands": "Ravening Warg",
+   "scryfall_name": "Ravening Warg",
+   "match": "full",
+   "gih": 46145,
+   "gih_wr": 0.576747209881894
+  },
+  {
+   "card_17lands": "The Misty Mountains Cold",
+   "scryfall_name": "The Misty Mountains Cold",
+   "match": "full",
+   "gih": 6138,
+   "gih_wr": 0.5765721733463669
+  },
+  {
+   "card_17lands": "Great Ugly-Looking Goblin",
+   "scryfall_name": "Great Ugly-Looking Goblin [MULTI]",
+   "match": "first-face",
+   "gih": 21083,
+   "gih_wr": 0.5759616752834037
+  },
+  {
+   "card_17lands": "Bilbo Baggins, Burglar",
+   "scryfall_name": "Bilbo Baggins, Burglar // Take a Glance",
+   "match": "first-face",
+   "gih": 51284,
+   "gih_wr": 0.5745651665236721
+  },
+  {
+   "card_17lands": "Gandalf, Goblins' Bane",
+   "scryfall_name": "Gandalf, Goblins' Bane [MULTI]",
+   "match": "first-face",
+   "gih": 3275,
+   "gih_wr": 0.5734351145038168
+  },
+  {
+   "card_17lands": "Goblin Plate Mail",
+   "scryfall_name": "Goblin Plate Mail",
+   "match": "full",
+   "gih": 59344,
+   "gih_wr": 0.572930709086007
+  },
+  {
+   "card_17lands": "Dwarven Mauler",
+   "scryfall_name": "Dwarven Mauler",
+   "match": "full",
+   "gih": 18479,
+   "gih_wr": 0.5728123816223821
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 156122,
+   "gih_wr": 0.5710854331868667
+  },
+  {
+   "card_17lands": "Gollum the Abandoned",
+   "scryfall_name": "Gollum the Abandoned",
+   "match": "full",
+   "gih": 20830,
+   "gih_wr": 0.5706673067690831
+  },
+  {
+   "card_17lands": "Lakeshore Apothecary",
+   "scryfall_name": "Lakeshore Apothecary",
+   "match": "full",
+   "gih": 52839,
+   "gih_wr": 0.5704120062832377
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 173691,
+   "gih_wr": 0.5703231600946509
+  },
+  {
+   "card_17lands": "Down in the Valley",
+   "scryfall_name": "Down in the Valley",
+   "match": "full",
+   "gih": 4334,
+   "gih_wr": 0.5701430549146285
+  },
+  {
+   "card_17lands": "Stir Up Trouble",
+   "scryfall_name": "Stir Up Trouble",
+   "match": "full",
+   "gih": 48095,
+   "gih_wr": 0.569830543715563
+  },
+  {
+   "card_17lands": "Quarrel",
+   "scryfall_name": "Quarrel",
+   "match": "full",
+   "gih": 34443,
+   "gih_wr": 0.5696948581714717
+  },
+  {
+   "card_17lands": "Bofur, Reliable Guardian",
+   "scryfall_name": "Bofur, Reliable Guardian [MULTI]",
+   "match": "first-face",
+   "gih": 17850,
+   "gih_wr": 0.5684033613445378
+  },
+  {
+   "card_17lands": "Thorin Oakenshield",
+   "scryfall_name": "Thorin Oakenshield",
+   "match": "full",
+   "gih": 14847,
+   "gih_wr": 0.5681282413955682
+  },
+  {
+   "card_17lands": "Magnificent End",
+   "scryfall_name": "Magnificent End",
+   "match": "full",
+   "gih": 46144,
+   "gih_wr": 0.5675060679611651
+  },
+  {
+   "card_17lands": "Large Bear",
+   "scryfall_name": "Large Bear",
+   "match": "full",
+   "gih": 18958,
+   "gih_wr": 0.5673066779196118
+  },
+  {
+   "card_17lands": "Roads Go Ever, Ever On",
+   "scryfall_name": "Roads Go Ever, Ever On",
+   "match": "full",
+   "gih": 5944,
+   "gih_wr": 0.5671265141318977
+  },
+  {
+   "card_17lands": "Lake-town",
+   "scryfall_name": "Lake-town",
+   "match": "full",
+   "gih": 31676,
+   "gih_wr": 0.5671170602348782
+  },
+  {
+   "card_17lands": "Smaug, the Great Calamity",
+   "scryfall_name": "Smaug, the Great Calamity // Spew Flame",
+   "match": "first-face",
+   "gih": 33601,
+   "gih_wr": 0.5667390851462754
+  },
+  {
+   "card_17lands": "Eagle's Rescue",
+   "scryfall_name": "Eagle's Rescue",
+   "match": "full",
+   "gih": 14793,
+   "gih_wr": 0.5660109511255323
+  },
+  {
+   "card_17lands": "Esgaroth Garrison",
+   "scryfall_name": "Esgaroth Garrison",
+   "match": "full",
+   "gih": 14974,
+   "gih_wr": 0.5655135568318419
+  },
+  {
+   "card_17lands": "The Great Goblin",
+   "scryfall_name": "The Great Goblin",
+   "match": "full",
+   "gih": 6348,
+   "gih_wr": 0.5653749212350346
+  },
+  {
+   "card_17lands": "Hobbit Hole",
+   "scryfall_name": "Hobbit Hole",
+   "match": "full",
+   "gih": 60133,
+   "gih_wr": 0.5649975886784295
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 133410,
+   "gih_wr": 0.5645528820927966
+  },
+  {
+   "card_17lands": "Gundabad Opportunist",
+   "scryfall_name": "Gundabad Opportunist",
+   "match": "full",
+   "gih": 37178,
+   "gih_wr": 0.5633170154392383
+  },
+  {
+   "card_17lands": "Tidings of War",
+   "scryfall_name": "Tidings of War",
+   "match": "full",
+   "gih": 31344,
+   "gih_wr": 0.5632976008167432
+  },
+  {
+   "card_17lands": "Gnashing of Teeth",
+   "scryfall_name": "Gnashing of Teeth",
+   "match": "full",
+   "gih": 19973,
+   "gih_wr": 0.5627597256296
+  },
+  {
+   "card_17lands": "Uneasy Partings",
+   "scryfall_name": "Uneasy Partings",
+   "match": "full",
+   "gih": 38308,
+   "gih_wr": 0.5624673697400021
+  },
+  {
+   "card_17lands": "Dreaded Bat-Cloud",
+   "scryfall_name": "Dreaded Bat-Cloud",
+   "match": "full",
+   "gih": 17043,
+   "gih_wr": 0.5622249603942968
+  },
+  {
+   "card_17lands": "Sound the Trumpets",
+   "scryfall_name": "Sound the Trumpets",
+   "match": "full",
+   "gih": 9128,
+   "gih_wr": 0.5610210341805434
+  },
+  {
+   "card_17lands": "Attercop",
+   "scryfall_name": "Attercop",
+   "match": "full",
+   "gih": 30096,
+   "gih_wr": 0.560971557682084
+  },
+  {
+   "card_17lands": "Rage into the Valley",
+   "scryfall_name": "Rage into the Valley",
+   "match": "full",
+   "gih": 43147,
+   "gih_wr": 0.560571998053167
+  },
+  {
+   "card_17lands": "Ragged Short Spear",
+   "scryfall_name": "Ragged Short Spear",
+   "match": "full",
+   "gih": 26261,
+   "gih_wr": 0.5597273523475876
+  },
+  {
+   "card_17lands": "Dwarven Mattock",
+   "scryfall_name": "Dwarven Mattock",
+   "match": "full",
+   "gih": 13141,
+   "gih_wr": 0.5588615782664942
+  },
+  {
+   "card_17lands": "Mirkwood",
+   "scryfall_name": "Mirkwood",
+   "match": "full",
+   "gih": 23661,
+   "gih_wr": 0.5579645830691856
+  },
+  {
+   "card_17lands": "Mirkwood Nurturer",
+   "scryfall_name": "Mirkwood Nurturer",
+   "match": "full",
+   "gih": 34167,
+   "gih_wr": 0.5577018760792578
+  },
+  {
+   "card_17lands": "Stony-Voiced Goblins",
+   "scryfall_name": "Stony-Voiced Goblins",
+   "match": "full",
+   "gih": 40456,
+   "gih_wr": 0.5575439984180344
+  },
+  {
+   "card_17lands": "Smaug, Wicked Worm",
+   "scryfall_name": "Smaug, Wicked Worm",
+   "match": "full",
+   "gih": 5435,
+   "gih_wr": 0.5574977000919963
+  },
+  {
+   "card_17lands": "Front Porch Sentries",
+   "scryfall_name": "Front Porch Sentries",
+   "match": "full",
+   "gih": 29032,
+   "gih_wr": 0.5572471755304491
+  },
+  {
+   "card_17lands": "Goblin-town",
+   "scryfall_name": "Goblin-town",
+   "match": "full",
+   "gih": 29259,
+   "gih_wr": 0.5571618989029017
+  },
+  {
+   "card_17lands": "Duskwatch Hunter",
+   "scryfall_name": "Duskwatch Hunter",
+   "match": "full",
+   "gih": 33195,
+   "gih_wr": 0.5568609730381081
+  },
+  {
+   "card_17lands": "\u00d3in the Brave",
+   "scryfall_name": "\u00d3in the Brave",
+   "match": "full",
+   "gih": 31738,
+   "gih_wr": 0.5567458567017456
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 98029,
+   "gih_wr": 0.5566005977822889
+  },
+  {
+   "card_17lands": "Dwarven Provisioner",
+   "scryfall_name": "Dwarven Provisioner",
+   "match": "full",
+   "gih": 34547,
+   "gih_wr": 0.5561119634121632
+  },
+  {
+   "card_17lands": "Enchanted River's Grasp",
+   "scryfall_name": "Enchanted River's Grasp",
+   "match": "full",
+   "gih": 41489,
+   "gih_wr": 0.5560510014702692
+  },
+  {
+   "card_17lands": "Most Decrepit Old Bird",
+   "scryfall_name": "Most Decrepit Old Bird [MULTI]",
+   "match": "first-face",
+   "gih": 4022,
+   "gih_wr": 0.5556936847339632
+  },
+  {
+   "card_17lands": "Ori, Keeper of Songs",
+   "scryfall_name": "Ori, Keeper of Songs",
+   "match": "full",
+   "gih": 22499,
+   "gih_wr": 0.5532245877594559
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 112333,
+   "gih_wr": 0.5519393232620868
+  },
+  {
+   "card_17lands": "Thr\u00f3r's Map",
+   "scryfall_name": "Thr\u00f3r's Map",
+   "match": "full",
+   "gih": 16796,
+   "gih_wr": 0.551559895213146
+  },
+  {
+   "card_17lands": "Troll Negotiations",
+   "scryfall_name": "Troll Negotiations",
+   "match": "full",
+   "gih": 14809,
+   "gih_wr": 0.5515564859207239
+  },
+  {
+   "card_17lands": "Gathering of Darkness",
+   "scryfall_name": "Gathering of Darkness",
+   "match": "full",
+   "gih": 16769,
+   "gih_wr": 0.5514938278967142
+  },
+  {
+   "card_17lands": "Beorn's Hospitality",
+   "scryfall_name": "Beorn's Hospitality",
+   "match": "full",
+   "gih": 10145,
+   "gih_wr": 0.5508132084770823
+  },
+  {
+   "card_17lands": "Elven Passage",
+   "scryfall_name": "Elven Passage",
+   "match": "full",
+   "gih": 5572,
+   "gih_wr": 0.550251256281407
+  },
+  {
+   "card_17lands": "Bolg of the North",
+   "scryfall_name": "Bolg of the North",
+   "match": "full",
+   "gih": 13685,
+   "gih_wr": 0.5499451954694922
+  },
+  {
+   "card_17lands": "Bombur, Gentle Dreamer",
+   "scryfall_name": "Bombur, Gentle Dreamer",
+   "match": "full",
+   "gih": 13699,
+   "gih_wr": 0.5498211548288197
+  },
+  {
+   "card_17lands": "Iron Hills",
+   "scryfall_name": "Iron Hills",
+   "match": "full",
+   "gih": 23466,
+   "gih_wr": 0.5495610670757692
+  },
+  {
+   "card_17lands": "Bifur, Melodic Rider",
+   "scryfall_name": "Bifur, Melodic Rider",
+   "match": "full",
+   "gih": 12309,
+   "gih_wr": 0.5495166138597773
+  },
+  {
+   "card_17lands": "Wargling",
+   "scryfall_name": "Wargling",
+   "match": "full",
+   "gih": 21122,
+   "gih_wr": 0.5494744815831835
+  },
+  {
+   "card_17lands": "Ordinary Bear",
+   "scryfall_name": "Ordinary Bear",
+   "match": "full",
+   "gih": 14617,
+   "gih_wr": 0.5475131695970445
+  },
+  {
+   "card_17lands": "The Master of Lake-town",
+   "scryfall_name": "The Master of Lake-town",
+   "match": "full",
+   "gih": 5355,
+   "gih_wr": 0.5465919701213818
+  },
+  {
+   "card_17lands": "Old Thrush",
+   "scryfall_name": "Old Thrush",
+   "match": "full",
+   "gih": 11898,
+   "gih_wr": 0.5462262565136998
+  },
+  {
+   "card_17lands": "Nori, Teller of Tales",
+   "scryfall_name": "Nori, Teller of Tales",
+   "match": "full",
+   "gih": 29199,
+   "gih_wr": 0.5444707010514058
+  },
+  {
+   "card_17lands": "D\u00e1in, Lord of the Iron Hills",
+   "scryfall_name": "D\u00e1in, Lord of the Iron Hills",
+   "match": "full",
+   "gih": 15253,
+   "gih_wr": 0.5444174916409886
+  },
+  {
+   "card_17lands": "Elvenking's Harper",
+   "scryfall_name": "Elvenking's Harper",
+   "match": "full",
+   "gih": 12387,
+   "gih_wr": 0.543311536288044
+  },
+  {
+   "card_17lands": "Goblin-town Flunkies",
+   "scryfall_name": "Goblin-town Flunkies",
+   "match": "full",
+   "gih": 21031,
+   "gih_wr": 0.5431505872283772
+  },
+  {
+   "card_17lands": "Dwarven Shortsword",
+   "scryfall_name": "Dwarven Shortsword",
+   "match": "full",
+   "gih": 23573,
+   "gih_wr": 0.5429092605947482
+  },
+  {
+   "card_17lands": "Troop of Ponies",
+   "scryfall_name": "Troop of Ponies",
+   "match": "full",
+   "gih": 9610,
+   "gih_wr": 0.5421436004162331
+  },
+  {
+   "card_17lands": "Warg Tactics",
+   "scryfall_name": "Warg Tactics",
+   "match": "full",
+   "gih": 13727,
+   "gih_wr": 0.5419246740001457
+  },
+  {
+   "card_17lands": "Galion, Elvenking's Butler",
+   "scryfall_name": "Galion, Elvenking's Butler",
+   "match": "full",
+   "gih": 8194,
+   "gih_wr": 0.5414937759336099
+  },
+  {
+   "card_17lands": "Boughside Wanderers",
+   "scryfall_name": "Boughside Wanderers",
+   "match": "full",
+   "gih": 13514,
+   "gih_wr": 0.540920526861033
+  },
+  {
+   "card_17lands": "Long-Bodied Grey Dog",
+   "scryfall_name": "Long-Bodied Grey Dog",
+   "match": "full",
+   "gih": 9844,
+   "gih_wr": 0.5405323039414872
+  },
+  {
+   "card_17lands": "Lake-town Toymaker",
+   "scryfall_name": "Lake-town Toymaker",
+   "match": "full",
+   "gih": 9427,
+   "gih_wr": 0.540468866023125
+  },
+  {
+   "card_17lands": "Wood Elves",
+   "scryfall_name": "Wood Elves",
+   "match": "full",
+   "gih": 17064,
+   "gih_wr": 0.540436005625879
+  },
+  {
+   "card_17lands": "The Notary Hobbits",
+   "scryfall_name": "The Notary Hobbits",
+   "match": "full",
+   "gih": 1174,
+   "gih_wr": 0.5400340715502555
+  },
+  {
+   "card_17lands": "Elvenking's Halls",
+   "scryfall_name": "Elvenking's Halls",
+   "match": "full",
+   "gih": 15531,
+   "gih_wr": 0.5396948039405061
+  },
+  {
+   "card_17lands": "Confusticate and Bebother",
+   "scryfall_name": "Confusticate and Bebother",
+   "match": "full",
+   "gih": 21149,
+   "gih_wr": 0.538796160574968
+  },
+  {
+   "card_17lands": "Azog, Moria's Ruin",
+   "scryfall_name": "Azog, Moria's Ruin",
+   "match": "full",
+   "gih": 4940,
+   "gih_wr": 0.5378542510121458
+  },
+  {
+   "card_17lands": "Reverent Howl",
+   "scryfall_name": "Reverent Howl",
+   "match": "full",
+   "gih": 18244,
+   "gih_wr": 0.5376014032010524
+  },
+  {
+   "card_17lands": "Silvan Reveler",
+   "scryfall_name": "Silvan Reveler",
+   "match": "full",
+   "gih": 9594,
+   "gih_wr": 0.5374192203460496
+  },
+  {
+   "card_17lands": "Woodland Weavemaster",
+   "scryfall_name": "Woodland Weavemaster",
+   "match": "full",
+   "gih": 7392,
+   "gih_wr": 0.5373376623376623
+  },
+  {
+   "card_17lands": "Velvetwing Butterflies",
+   "scryfall_name": "Velvetwing Butterflies // Gaze in Wonder",
+   "match": "first-face",
+   "gih": 13058,
+   "gih_wr": 0.5367590748966151
+  },
+  {
+   "card_17lands": "Fearsome Goblin Pair",
+   "scryfall_name": "Fearsome Goblin Pair",
+   "match": "full",
+   "gih": 13383,
+   "gih_wr": 0.5365762534558769
+  },
+  {
+   "card_17lands": "Great Fierce Bee",
+   "scryfall_name": "Great Fierce Bee",
+   "match": "full",
+   "gih": 9960,
+   "gih_wr": 0.5346385542168675
+  },
+  {
+   "card_17lands": "Well-Worn Spatula",
+   "scryfall_name": "Well-Worn Spatula",
+   "match": "full",
+   "gih": 9994,
+   "gih_wr": 0.5344206523914349
+  },
+  {
+   "card_17lands": "The Chief Warg",
+   "scryfall_name": "The Chief Warg",
+   "match": "full",
+   "gih": 12154,
+   "gih_wr": 0.5335691953266415
+  },
+  {
+   "card_17lands": "Snowslope Hunter",
+   "scryfall_name": "Snowslope Hunter",
+   "match": "full",
+   "gih": 14082,
+   "gih_wr": 0.5315296122709843
+  },
+  {
+   "card_17lands": "The Lord of the Eagles",
+   "scryfall_name": "The Lord of the Eagles",
+   "match": "full",
+   "gih": 3125,
+   "gih_wr": 0.53088
+  },
+  {
+   "card_17lands": "Guardian of the Halls",
+   "scryfall_name": "Guardian of the Halls",
+   "match": "full",
+   "gih": 16103,
+   "gih_wr": 0.530460162702602
+  },
+  {
+   "card_17lands": "Eagle of the Great Shelf",
+   "scryfall_name": "Eagle of the Great Shelf",
+   "match": "full",
+   "gih": 7559,
+   "gih_wr": 0.5299642809895488
+  },
+  {
+   "card_17lands": "Old Fat Spider",
+   "scryfall_name": "Old Fat Spider",
+   "match": "full",
+   "gih": 10017,
+   "gih_wr": 0.5292003593890386
+  },
+  {
+   "card_17lands": "Bard, King of Dale",
+   "scryfall_name": "Bard, King of Dale",
+   "match": "full",
+   "gih": 2506,
+   "gih_wr": 0.5279329608938548
+  },
+  {
+   "card_17lands": "Desolation of Smaug",
+   "scryfall_name": "Desolation of Smaug",
+   "match": "full",
+   "gih": 2895,
+   "gih_wr": 0.5274611398963731
+  },
+  {
+   "card_17lands": "Old Fat Spider Can't See Me",
+   "scryfall_name": "Old Fat Spider Can't See Me",
+   "match": "full",
+   "gih": 10933,
+   "gih_wr": 0.5270282630568005
+  },
+  {
+   "card_17lands": "Radagast of Rhosgobel",
+   "scryfall_name": "Radagast of Rhosgobel",
+   "match": "full",
+   "gih": 3571,
+   "gih_wr": 0.5264631755810697
+  },
+  {
+   "card_17lands": "Cantankerous Keepers",
+   "scryfall_name": "Cantankerous Keepers",
+   "match": "full",
+   "gih": 2144,
+   "gih_wr": 0.5256529850746269
+  },
+  {
+   "card_17lands": "Belladonna Took",
+   "scryfall_name": "Belladonna Took",
+   "match": "full",
+   "gih": 4046,
+   "gih_wr": 0.5254572417202175
+  },
+  {
+   "card_17lands": "Lake-town Lookout",
+   "scryfall_name": "Lake-town Lookout",
+   "match": "full",
+   "gih": 9529,
+   "gih_wr": 0.5253436876902088
+  },
+  {
+   "card_17lands": "Smaug's Fury",
+   "scryfall_name": "Smaug's Fury",
+   "match": "full",
+   "gih": 6974,
+   "gih_wr": 0.5235159162603957
+  },
+  {
+   "card_17lands": "Vow to Erebor",
+   "scryfall_name": "Vow to Erebor",
+   "match": "full",
+   "gih": 6672,
+   "gih_wr": 0.5232314148681055
+  },
+  {
+   "card_17lands": "Bolg's Company",
+   "scryfall_name": "Bolg's Company",
+   "match": "full",
+   "gih": 3783,
+   "gih_wr": 0.5226011102299762
+  },
+  {
+   "card_17lands": "Wilderland Scrounger",
+   "scryfall_name": "Wilderland Scrounger",
+   "match": "full",
+   "gih": 8813,
+   "gih_wr": 0.5225235447634177
+  },
+  {
+   "card_17lands": "Ravenhill Flock",
+   "scryfall_name": "Ravenhill Flock",
+   "match": "full",
+   "gih": 8684,
+   "gih_wr": 0.5201520036849379
+  },
+  {
+   "card_17lands": "Moment of Glory",
+   "scryfall_name": "Moment of Glory",
+   "match": "full",
+   "gih": 7419,
+   "gih_wr": 0.5194770184661005
+  },
+  {
+   "card_17lands": "Lake-town Mariners",
+   "scryfall_name": "Lake-town Mariners // Gone Fishing",
+   "match": "first-face",
+   "gih": 5194,
+   "gih_wr": 0.5186753946861764
+  },
+  {
+   "card_17lands": "The Black Arrow",
+   "scryfall_name": "The Black Arrow",
+   "match": "full",
+   "gih": 4507,
+   "gih_wr": 0.5183048591080541
+  },
+  {
+   "card_17lands": "Iron Hills Stalwart",
+   "scryfall_name": "Iron Hills Stalwart",
+   "match": "full",
+   "gih": 9649,
+   "gih_wr": 0.5175665872111099
+  },
+  {
+   "card_17lands": "Along the Crooked Way",
+   "scryfall_name": "Along the Crooked Way",
+   "match": "full",
+   "gih": 3766,
+   "gih_wr": 0.5172596919808816
+  },
+  {
+   "card_17lands": "Elrond, Moon-Reader",
+   "scryfall_name": "Elrond, Moon-Reader",
+   "match": "full",
+   "gih": 1817,
+   "gih_wr": 0.5151348376444689
+  },
+  {
+   "card_17lands": "Gigantic Big Bear",
+   "scryfall_name": "Gigantic Big Bear",
+   "match": "full",
+   "gih": 3322,
+   "gih_wr": 0.5147501505117399
+  },
+  {
+   "card_17lands": "Balin, Loremaster",
+   "scryfall_name": "Balin, Loremaster",
+   "match": "full",
+   "gih": 2803,
+   "gih_wr": 0.5133785230110596
+  },
+  {
+   "card_17lands": "Riddles in the Dark",
+   "scryfall_name": "Riddles in the Dark",
+   "match": "full",
+   "gih": 2419,
+   "gih_wr": 0.5130219098801158
+  },
+  {
+   "card_17lands": "My Precious",
+   "scryfall_name": "My Precious [MULTI]",
+   "match": "first-face",
+   "gih": 4321,
+   "gih_wr": 0.5121499652858135
+  },
+  {
+   "card_17lands": "Part in Friendship",
+   "scryfall_name": "Part in Friendship",
+   "match": "full",
+   "gih": 3308,
+   "gih_wr": 0.5120918984280532
+  },
+  {
+   "card_17lands": "Gandalf, Wandering Wizard",
+   "scryfall_name": "Gandalf, Wandering Wizard",
+   "match": "full",
+   "gih": 6098,
+   "gih_wr": 0.5111511971138079
+  },
+  {
+   "card_17lands": "Thranduil's Decree",
+   "scryfall_name": "Thranduil's Decree",
+   "match": "full",
+   "gih": 4094,
+   "gih_wr": 0.5100146555935515
+  },
+  {
+   "card_17lands": "Beorn, Reluctant Host",
+   "scryfall_name": "Beorn, Reluctant Host // Till and Tend",
+   "match": "first-face",
+   "gih": 9780,
+   "gih_wr": 0.5079754601226993
+  },
+  {
+   "card_17lands": "Giant's Boulder",
+   "scryfall_name": "Giant's Boulder",
+   "match": "full",
+   "gih": 8928,
+   "gih_wr": 0.5075044802867383
+  },
+  {
+   "card_17lands": "Little Bear",
+   "scryfall_name": "Little Bear",
+   "match": "full",
+   "gih": 7529,
+   "gih_wr": 0.5033869039713109
+  },
+  {
+   "card_17lands": "Elven Raft-Steerer",
+   "scryfall_name": "Elven Raft-Steerer",
+   "match": "full",
+   "gih": 3814,
+   "gih_wr": 0.5005243838489775
+  },
+  {
+   "card_17lands": "Orcrist, Goblin-cleaver",
+   "scryfall_name": "Orcrist, Goblin-cleaver",
+   "match": "full",
+   "gih": 1744,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Inside Information",
+   "scryfall_name": "Inside Information",
+   "match": "full",
+   "gih": 1905,
+   "gih_wr": 0.494488188976378
+  },
+  {
+   "card_17lands": "Mirkwood Meditator",
+   "scryfall_name": "Mirkwood Meditator",
+   "match": "full",
+   "gih": 1736,
+   "gih_wr": 0.4942396313364055
+  },
+  {
+   "card_17lands": "Thorin's Last Stand",
+   "scryfall_name": "Thorin's Last Stand",
+   "match": "full",
+   "gih": 4079,
+   "gih_wr": 0.4920323608727629
+  },
+  {
+   "card_17lands": "Key to the Side-Door",
+   "scryfall_name": "Key to the Side-Door",
+   "match": "full",
+   "gih": 1514,
+   "gih_wr": 0.4907529722589168
+  },
+  {
+   "card_17lands": "Sting, Bilbo's Sword",
+   "scryfall_name": "Sting, Bilbo's Sword",
+   "match": "full",
+   "gih": 2658,
+   "gih_wr": 0.49021820917983444
+  },
+  {
+   "card_17lands": "Bilbo's Gambit",
+   "scryfall_name": "Bilbo's Gambit",
+   "match": "full",
+   "gih": 915,
+   "gih_wr": 0.4852459016393443
+  },
+  {
+   "card_17lands": "Uncover the Moon-Letters",
+   "scryfall_name": "Uncover the Moon-Letters",
+   "match": "full",
+   "gih": 300,
+   "gih_wr": 0.48333333333333334
+  },
+  {
+   "card_17lands": "Through the Forest Gate",
+   "scryfall_name": "Through the Forest Gate",
+   "match": "full",
+   "gih": 334,
+   "gih_wr": 0.4820359281437126
+  },
+  {
+   "card_17lands": "Desert Were-Worm",
+   "scryfall_name": "Desert Were-Worm",
+   "match": "full",
+   "gih": 1804,
+   "gih_wr": 0.46175166297117515
+  },
+  {
+   "card_17lands": "Thranduil, the Elvenking",
+   "scryfall_name": "Thranduil, the Elvenking",
+   "match": "full",
+   "gih": 1023,
+   "gih_wr": 0.45650048875855326
+  },
+  {
+   "card_17lands": "Roll-Roll-Roll-Roll",
+   "scryfall_name": "Roll-Roll-Roll-Roll",
+   "match": "full",
+   "gih": 1339,
+   "gih_wr": 0.44958924570575054
+  },
+  {
+   "card_17lands": "Supper for Spiders",
+   "scryfall_name": "Supper for Spiders",
+   "match": "full",
+   "gih": 299,
+   "gih_wr": 0.4214046822742475
+  },
+  {
+   "card_17lands": "Getaway Barrel",
+   "scryfall_name": "Getaway Barrel",
+   "match": "full",
+   "gih": 122,
+   "gih_wr": 0.39344262295081966
+  },
+  {
+   "card_17lands": "Gleaming Splendor",
+   "scryfall_name": "Gleaming Splendor",
+   "match": "full",
+   "gih": 420,
+   "gih_wr": 0.3904761904761905
+  },
+  {
+   "card_17lands": "Wizard's Staff",
+   "scryfall_name": "Wizard's Staff",
+   "match": "full",
+   "gih": 465,
+   "gih_wr": 0.38924731182795697
+  },
+  {
+   "card_17lands": "Glamdring, Foe-hammer",
+   "scryfall_name": "Glamdring, Foe-hammer [MULTI]",
+   "match": "first-face",
+   "gih": 319,
+   "gih_wr": 0.3667711598746082
+  },
+  {
+   "card_17lands": "Fateful Discovery",
+   "scryfall_name": "Fateful Discovery",
+   "match": "full",
+   "gih": 23,
+   "gih_wr": 0.34782608695652173
+  },
+  {
+   "card_17lands": "Last Light of Durin's Day",
+   "scryfall_name": "Last Light of Durin's Day",
+   "match": "full",
+   "gih": 160,
+   "gih_wr": 0.28125
+  }
+ ]
+}

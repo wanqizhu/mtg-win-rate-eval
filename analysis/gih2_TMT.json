@@ -1,0 +1,1512 @@
+{
+ "set": "TMT",
+ "games": 180204,
+ "wins": 102358,
+ "cards": [
+  {
+   "card_17lands": "Umezawa's Jitte",
+   "scryfall_name": "Umezawa's Jitte",
+   "match": "non-set (bonus/token/other)",
+   "gih": 513,
+   "gih_wr": 0.7173489278752436
+  },
+  {
+   "card_17lands": "Sally Pride, Lioness Leader",
+   "scryfall_name": "Sally Pride, Lioness Leader",
+   "match": "full",
+   "gih": 5402,
+   "gih_wr": 0.6993706034801925
+  },
+  {
+   "card_17lands": "The Last Ronin",
+   "scryfall_name": "The Last Ronin",
+   "match": "full",
+   "gih": 3810,
+   "gih_wr": 0.6908136482939633
+  },
+  {
+   "card_17lands": "Mighty Mutanimals",
+   "scryfall_name": "Mighty Mutanimals",
+   "match": "full",
+   "gih": 14722,
+   "gih_wr": 0.6520173889417199
+  },
+  {
+   "card_17lands": "Agent Bishop, Man in Black",
+   "scryfall_name": "Agent Bishop, Man in Black",
+   "match": "full",
+   "gih": 5004,
+   "gih_wr": 0.6484812150279776
+  },
+  {
+   "card_17lands": "April O'Neil, Hacktivist",
+   "scryfall_name": "April O'Neil, Hacktivist",
+   "match": "full",
+   "gih": 6335,
+   "gih_wr": 0.6468823993685873
+  },
+  {
+   "card_17lands": "Armaggon, Future Shark",
+   "scryfall_name": "Armaggon, Future Shark",
+   "match": "full",
+   "gih": 4853,
+   "gih_wr": 0.646610344117041
+  },
+  {
+   "card_17lands": "Dream Beavers",
+   "scryfall_name": "Dream Beavers",
+   "match": "full",
+   "gih": 13394,
+   "gih_wr": 0.6448409735702554
+  },
+  {
+   "card_17lands": "Everything Pizza",
+   "scryfall_name": "Everything Pizza",
+   "match": "full",
+   "gih": 14795,
+   "gih_wr": 0.6342007434944238
+  },
+  {
+   "card_17lands": "Don & Leo, Problem Solvers",
+   "scryfall_name": "Don & Leo, Problem Solvers",
+   "match": "full",
+   "gih": 5656,
+   "gih_wr": 0.6338401697312589
+  },
+  {
+   "card_17lands": "Shadowspear",
+   "scryfall_name": "Shadowspear",
+   "match": "non-set (bonus/token/other)",
+   "gih": 401,
+   "gih_wr": 0.6334164588528678
+  },
+  {
+   "card_17lands": "All Will Be One",
+   "scryfall_name": "All Will Be One",
+   "match": "non-set (bonus/token/other)",
+   "gih": 38,
+   "gih_wr": 0.631578947368421
+  },
+  {
+   "card_17lands": "Courier of Comestibles",
+   "scryfall_name": "Courier of Comestibles",
+   "match": "full",
+   "gih": 15933,
+   "gih_wr": 0.6275654302391264
+  },
+  {
+   "card_17lands": "Kitsune, Dragon's Daughter",
+   "scryfall_name": "Kitsune, Dragon's Daughter",
+   "match": "full",
+   "gih": 5616,
+   "gih_wr": 0.6274928774928775
+  },
+  {
+   "card_17lands": "Dark Leo & Shredder",
+   "scryfall_name": "Dark Leo & Shredder",
+   "match": "full",
+   "gih": 2477,
+   "gih_wr": 0.6273718207509084
+  },
+  {
+   "card_17lands": "Leonardo, Sewer Samurai",
+   "scryfall_name": "Leonardo, Sewer Samurai",
+   "match": "full",
+   "gih": 2170,
+   "gih_wr": 0.6271889400921659
+  },
+  {
+   "card_17lands": "Mikey & Don, Party Planners",
+   "scryfall_name": "Mikey & Don, Party Planners",
+   "match": "full",
+   "gih": 4924,
+   "gih_wr": 0.6269293257514216
+  },
+  {
+   "card_17lands": "Brilliance Unleashed",
+   "scryfall_name": "Brilliance Unleashed",
+   "match": "full",
+   "gih": 17495,
+   "gih_wr": 0.6265218633895399
+  },
+  {
+   "card_17lands": "Ravenous Robots",
+   "scryfall_name": "Ravenous Robots",
+   "match": "full",
+   "gih": 4392,
+   "gih_wr": 0.6259107468123861
+  },
+  {
+   "card_17lands": "Casey Jones, Jury-Rig Justiciar",
+   "scryfall_name": "Casey Jones, Jury-Rig Justiciar",
+   "match": "full",
+   "gih": 13482,
+   "gih_wr": 0.6258715324135885
+  },
+  {
+   "card_17lands": "Metalhead",
+   "scryfall_name": "Metalhead",
+   "match": "full",
+   "gih": 18588,
+   "gih_wr": 0.6242737249838606
+  },
+  {
+   "card_17lands": "North Wind Avatar",
+   "scryfall_name": "North Wind Avatar",
+   "match": "full",
+   "gih": 3589,
+   "gih_wr": 0.6221788799108386
+  },
+  {
+   "card_17lands": "Triceraton Commander",
+   "scryfall_name": "Triceraton Commander",
+   "match": "full",
+   "gih": 2970,
+   "gih_wr": 0.6215488215488215
+  },
+  {
+   "card_17lands": "Turncoat Kunoichi",
+   "scryfall_name": "Turncoat Kunoichi",
+   "match": "full",
+   "gih": 4456,
+   "gih_wr": 0.6214093357271095
+  },
+  {
+   "card_17lands": "Weather Maker",
+   "scryfall_name": "Weather Maker",
+   "match": "full",
+   "gih": 4850,
+   "gih_wr": 0.6152577319587629
+  },
+  {
+   "card_17lands": "Raph & Mikey, Troublemakers",
+   "scryfall_name": "Raph & Mikey, Troublemakers",
+   "match": "full",
+   "gih": 4720,
+   "gih_wr": 0.6148305084745763
+  },
+  {
+   "card_17lands": "Leatherhead, Swamp Stalker",
+   "scryfall_name": "Leatherhead, Swamp Stalker",
+   "match": "full",
+   "gih": 4123,
+   "gih_wr": 0.6138733931603202
+  },
+  {
+   "card_17lands": "Does Machines",
+   "scryfall_name": "Does Machines",
+   "match": "full",
+   "gih": 5146,
+   "gih_wr": 0.613291877186164
+  },
+  {
+   "card_17lands": "Ooze Spill",
+   "scryfall_name": "Ooze Spill",
+   "match": "full",
+   "gih": 12403,
+   "gih_wr": 0.6129968555994517
+  },
+  {
+   "card_17lands": "The Cloning of Shredder",
+   "scryfall_name": "The Cloning of Shredder",
+   "match": "full",
+   "gih": 3357,
+   "gih_wr": 0.6115579386356866
+  },
+  {
+   "card_17lands": "Michelangelo, Weirdness to 11",
+   "scryfall_name": "Michelangelo, Weirdness to 11",
+   "match": "full",
+   "gih": 4075,
+   "gih_wr": 0.61079754601227
+  },
+  {
+   "card_17lands": "Frog Butler",
+   "scryfall_name": "Frog Butler",
+   "match": "full",
+   "gih": 30701,
+   "gih_wr": 0.6103384254584541
+  },
+  {
+   "card_17lands": "Rat King, Verminister",
+   "scryfall_name": "Rat King, Verminister",
+   "match": "full",
+   "gih": 4349,
+   "gih_wr": 0.6100252931708439
+  },
+  {
+   "card_17lands": "Teleportation Circle",
+   "scryfall_name": "Teleportation Circle",
+   "match": "non-set (bonus/token/other)",
+   "gih": 246,
+   "gih_wr": 0.6097560975609756
+  },
+  {
+   "card_17lands": "Tainted Treats",
+   "scryfall_name": "Tainted Treats",
+   "match": "full",
+   "gih": 12735,
+   "gih_wr": 0.6096584216725559
+  },
+  {
+   "card_17lands": "Baxter Stockman",
+   "scryfall_name": "Baxter Stockman",
+   "match": "full",
+   "gih": 14280,
+   "gih_wr": 0.6071428571428571
+  },
+  {
+   "card_17lands": "Chrome Dome",
+   "scryfall_name": "Chrome Dome",
+   "match": "full",
+   "gih": 5030,
+   "gih_wr": 0.6067594433399602
+  },
+  {
+   "card_17lands": "TCRI Building",
+   "scryfall_name": "TCRI Building",
+   "match": "full",
+   "gih": 22436,
+   "gih_wr": 0.6061686575147085
+  },
+  {
+   "card_17lands": "Savanti Romero, Time's Exile",
+   "scryfall_name": "Savanti Romero, Time's Exile",
+   "match": "full",
+   "gih": 4263,
+   "gih_wr": 0.6061459066385175
+  },
+  {
+   "card_17lands": "Lessons from Life",
+   "scryfall_name": "Lessons from Life",
+   "match": "full",
+   "gih": 12764,
+   "gih_wr": 0.6041209652146663
+  },
+  {
+   "card_17lands": "Undercity Sewers",
+   "scryfall_name": "Undercity Sewers",
+   "match": "non-set (bonus/token/other)",
+   "gih": 280,
+   "gih_wr": 0.6035714285714285
+  },
+  {
+   "card_17lands": "Super Shredder",
+   "scryfall_name": "Super Shredder",
+   "match": "full",
+   "gih": 2889,
+   "gih_wr": 0.6033229491173416
+  },
+  {
+   "card_17lands": "Brainstorm",
+   "scryfall_name": "Brainstorm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 146,
+   "gih_wr": 0.6027397260273972
+  },
+  {
+   "card_17lands": "Ninja Teen",
+   "scryfall_name": "Ninja Teen",
+   "match": "full",
+   "gih": 3521,
+   "gih_wr": 0.6023856858846919
+  },
+  {
+   "card_17lands": "Splinter, Hamato Yoshi",
+   "scryfall_name": "Splinter, Hamato Yoshi",
+   "match": "full",
+   "gih": 9978,
+   "gih_wr": 0.6018240128282221
+  },
+  {
+   "card_17lands": "Krang, Master Mind",
+   "scryfall_name": "Krang, Master Mind",
+   "match": "full",
+   "gih": 4711,
+   "gih_wr": 0.6000849076629166
+  },
+  {
+   "card_17lands": "Manhole Missile",
+   "scryfall_name": "Manhole Missile",
+   "match": "full",
+   "gih": 28808,
+   "gih_wr": 0.5995209663982227
+  },
+  {
+   "card_17lands": "Mouser Foundry",
+   "scryfall_name": "Mouser Foundry",
+   "match": "full",
+   "gih": 28859,
+   "gih_wr": 0.597837762916248
+  },
+  {
+   "card_17lands": "The Last Ronin's Technique",
+   "scryfall_name": "The Last Ronin's Technique",
+   "match": "full",
+   "gih": 11487,
+   "gih_wr": 0.5978062157221207
+  },
+  {
+   "card_17lands": "Transdimensional Bovine",
+   "scryfall_name": "Transdimensional Bovine",
+   "match": "full",
+   "gih": 4167,
+   "gih_wr": 0.5977921766258699
+  },
+  {
+   "card_17lands": "Lita, Little Orphan Amphibian",
+   "scryfall_name": "Lita, Little Orphan Amphibian",
+   "match": "full",
+   "gih": 10873,
+   "gih_wr": 0.5977191207578405
+  },
+  {
+   "card_17lands": "Turtle Blimp",
+   "scryfall_name": "Turtle Blimp",
+   "match": "full",
+   "gih": 14838,
+   "gih_wr": 0.5967785415824235
+  },
+  {
+   "card_17lands": "Donatello, Mutant Mechanic",
+   "scryfall_name": "Donatello, Mutant Mechanic",
+   "match": "full",
+   "gih": 2543,
+   "gih_wr": 0.5961462839166339
+  },
+  {
+   "card_17lands": "Sewer-veillance Cam",
+   "scryfall_name": "Sewer-veillance Cam",
+   "match": "full",
+   "gih": 30375,
+   "gih_wr": 0.5943703703703703
+  },
+  {
+   "card_17lands": "Raphael, the Nightwatcher",
+   "scryfall_name": "Raphael, the Nightwatcher",
+   "match": "full",
+   "gih": 3444,
+   "gih_wr": 0.5943670150987224
+  },
+  {
+   "card_17lands": "Leonardo, Leader in Blue",
+   "scryfall_name": "Leonardo, Leader in Blue",
+   "match": "full",
+   "gih": 11384,
+   "gih_wr": 0.5937280393534786
+  },
+  {
+   "card_17lands": "Mutant Town",
+   "scryfall_name": "Mutant Town",
+   "match": "full",
+   "gih": 19789,
+   "gih_wr": 0.5932588811966244
+  },
+  {
+   "card_17lands": "Mechanized Ninja Cavalry",
+   "scryfall_name": "Mechanized Ninja Cavalry",
+   "match": "full",
+   "gih": 29943,
+   "gih_wr": 0.5929599572521124
+  },
+  {
+   "card_17lands": "Koya, Death from Above",
+   "scryfall_name": "Koya, Death from Above",
+   "match": "full",
+   "gih": 13182,
+   "gih_wr": 0.59262630860264
+  },
+  {
+   "card_17lands": "Dimensional Exile",
+   "scryfall_name": "Dimensional Exile",
+   "match": "full",
+   "gih": 11615,
+   "gih_wr": 0.5916487300904003
+  },
+  {
+   "card_17lands": "Mutagen Man, Living Ooze",
+   "scryfall_name": "Mutagen Man, Living Ooze",
+   "match": "full",
+   "gih": 4060,
+   "gih_wr": 0.5916256157635468
+  },
+  {
+   "card_17lands": "Shark Shredder, Killer Clone",
+   "scryfall_name": "Shark Shredder, Killer Clone",
+   "match": "full",
+   "gih": 4033,
+   "gih_wr": 0.5913711877014629
+  },
+  {
+   "card_17lands": "Return to the Sewers",
+   "scryfall_name": "Return to the Sewers",
+   "match": "full",
+   "gih": 28890,
+   "gih_wr": 0.5906888196607822
+  },
+  {
+   "card_17lands": "Buzz Bots",
+   "scryfall_name": "Buzz Bots",
+   "match": "full",
+   "gih": 27942,
+   "gih_wr": 0.5899362966144156
+  },
+  {
+   "card_17lands": "Arcbound Ravager",
+   "scryfall_name": "Arcbound Ravager",
+   "match": "non-set (bonus/token/other)",
+   "gih": 275,
+   "gih_wr": 0.5890909090909091
+  },
+  {
+   "card_17lands": "Karai, Future of the Foot",
+   "scryfall_name": "Karai, Future of the Foot",
+   "match": "full",
+   "gih": 10574,
+   "gih_wr": 0.588802723661812
+  },
+  {
+   "card_17lands": "Novel Nunchaku",
+   "scryfall_name": "Novel Nunchaku",
+   "match": "full",
+   "gih": 11793,
+   "gih_wr": 0.5887390825065717
+  },
+  {
+   "card_17lands": "Death in the Family",
+   "scryfall_name": "Death in the Family",
+   "match": "full",
+   "gih": 11437,
+   "gih_wr": 0.5887033312931713
+  },
+  {
+   "card_17lands": "Groundchuck & Dirtbag",
+   "scryfall_name": "Groundchuck & Dirtbag",
+   "match": "full",
+   "gih": 3712,
+   "gih_wr": 0.5883620689655172
+  },
+  {
+   "card_17lands": "Michelangelo, Mutant BFF",
+   "scryfall_name": "Michelangelo, Mutant BFF",
+   "match": "full",
+   "gih": 10115,
+   "gih_wr": 0.5880375679683638
+  },
+  {
+   "card_17lands": "Illegitimate Business",
+   "scryfall_name": "Illegitimate Business",
+   "match": "full",
+   "gih": 19046,
+   "gih_wr": 0.587419930694109
+  },
+  {
+   "card_17lands": "West Wind Avatar",
+   "scryfall_name": "West Wind Avatar",
+   "match": "full",
+   "gih": 11020,
+   "gih_wr": 0.5872050816696914
+  },
+  {
+   "card_17lands": "Omni-Cheese Pizza",
+   "scryfall_name": "Omni-Cheese Pizza",
+   "match": "full",
+   "gih": 23733,
+   "gih_wr": 0.5866093624910462
+  },
+  {
+   "card_17lands": "The Ooze",
+   "scryfall_name": "The Ooze",
+   "match": "full",
+   "gih": 4591,
+   "gih_wr": 0.5865824439120018
+  },
+  {
+   "card_17lands": "Donatello, Turtle Techie",
+   "scryfall_name": "Donatello, Turtle Techie",
+   "match": "full",
+   "gih": 28141,
+   "gih_wr": 0.5863331082761807
+  },
+  {
+   "card_17lands": "Genghis Frog",
+   "scryfall_name": "Genghis Frog",
+   "match": "full",
+   "gih": 9974,
+   "gih_wr": 0.5862241828754763
+  },
+  {
+   "card_17lands": "April O'Neil, Kunoichi Trainee",
+   "scryfall_name": "April O'Neil, Kunoichi Trainee",
+   "match": "full",
+   "gih": 24475,
+   "gih_wr": 0.586067415730337
+  },
+  {
+   "card_17lands": "Nobody",
+   "scryfall_name": "Nobody",
+   "match": "full",
+   "gih": 28765,
+   "gih_wr": 0.58585086042065
+  },
+  {
+   "card_17lands": "Featherbrained Filcher",
+   "scryfall_name": "Featherbrained Filcher",
+   "match": "full",
+   "gih": 8736,
+   "gih_wr": 0.5840201465201466
+  },
+  {
+   "card_17lands": "Prehistoric Pet",
+   "scryfall_name": "Prehistoric Pet",
+   "match": "full",
+   "gih": 3233,
+   "gih_wr": 0.5839777296628519
+  },
+  {
+   "card_17lands": "Saved by the Shell",
+   "scryfall_name": "Saved by the Shell",
+   "match": "full",
+   "gih": 8844,
+   "gih_wr": 0.583785617367707
+  },
+  {
+   "card_17lands": "Oroku Saki, Shredder Rising",
+   "scryfall_name": "Oroku Saki, Shredder Rising",
+   "match": "full",
+   "gih": 23408,
+   "gih_wr": 0.5825358851674641
+  },
+  {
+   "card_17lands": "General Traag, Heart of Stone",
+   "scryfall_name": "General Traag, Heart of Stone",
+   "match": "full",
+   "gih": 10204,
+   "gih_wr": 0.5824186593492748
+  },
+  {
+   "card_17lands": "Primordial Pachyderm",
+   "scryfall_name": "Primordial Pachyderm",
+   "match": "full",
+   "gih": 22131,
+   "gih_wr": 0.5817631376801772
+  },
+  {
+   "card_17lands": "Jennika's Technique",
+   "scryfall_name": "Jennika's Technique",
+   "match": "full",
+   "gih": 1535,
+   "gih_wr": 0.5817589576547231
+  },
+  {
+   "card_17lands": "Technodrome",
+   "scryfall_name": "Technodrome",
+   "match": "full",
+   "gih": 2773,
+   "gih_wr": 0.581319870176704
+  },
+  {
+   "card_17lands": "Squirrelanoids",
+   "scryfall_name": "Squirrelanoids",
+   "match": "full",
+   "gih": 22199,
+   "gih_wr": 0.5811973512320375
+  },
+  {
+   "card_17lands": "Donatello, Gadget Master",
+   "scryfall_name": "Donatello, Gadget Master",
+   "match": "full",
+   "gih": 4002,
+   "gih_wr": 0.5809595202398801
+  },
+  {
+   "card_17lands": "Turtle Lair",
+   "scryfall_name": "Turtle Lair",
+   "match": "full",
+   "gih": 6883,
+   "gih_wr": 0.5808513729478425
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 80418,
+   "gih_wr": 0.5808401104230396
+  },
+  {
+   "card_17lands": "Dimension X",
+   "scryfall_name": "Dimension X",
+   "match": "full",
+   "gih": 11844,
+   "gih_wr": 0.5808004052684904
+  },
+  {
+   "card_17lands": "Madame Null, Power Broker",
+   "scryfall_name": "Madame Null, Power Broker",
+   "match": "full",
+   "gih": 3758,
+   "gih_wr": 0.5803618946248005
+  },
+  {
+   "card_17lands": "Improvised Arsenal",
+   "scryfall_name": "Improvised Arsenal",
+   "match": "full",
+   "gih": 3907,
+   "gih_wr": 0.5797286920911185
+  },
+  {
+   "card_17lands": "Shredder's Technique",
+   "scryfall_name": "Shredder's Technique",
+   "match": "full",
+   "gih": 11045,
+   "gih_wr": 0.5795382526029877
+  },
+  {
+   "card_17lands": "Foot Headquarters",
+   "scryfall_name": "Foot Headquarters",
+   "match": "full",
+   "gih": 17440,
+   "gih_wr": 0.5795298165137615
+  },
+  {
+   "card_17lands": "Krang & Shredder",
+   "scryfall_name": "Krang & Shredder",
+   "match": "full",
+   "gih": 4616,
+   "gih_wr": 0.5790727902946274
+  },
+  {
+   "card_17lands": "Lord Dregg, Insect Invader",
+   "scryfall_name": "Lord Dregg, Insect Invader",
+   "match": "full",
+   "gih": 9500,
+   "gih_wr": 0.5787368421052631
+  },
+  {
+   "card_17lands": "Karai's Technique",
+   "scryfall_name": "Karai's Technique",
+   "match": "full",
+   "gih": 10337,
+   "gih_wr": 0.5786978813969237
+  },
+  {
+   "card_17lands": "Stomped by the Foot",
+   "scryfall_name": "Stomped by the Foot",
+   "match": "full",
+   "gih": 25449,
+   "gih_wr": 0.578293842587135
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 75375,
+   "gih_wr": 0.5782553897180763
+  },
+  {
+   "card_17lands": "Escape Tunnel",
+   "scryfall_name": "Escape Tunnel",
+   "match": "full",
+   "gih": 25764,
+   "gih_wr": 0.5780934637478652
+  },
+  {
+   "card_17lands": "Spicy Oatmeal Pizza",
+   "scryfall_name": "Spicy Oatmeal Pizza",
+   "match": "full",
+   "gih": 13225,
+   "gih_wr": 0.5779962192816636
+  },
+  {
+   "card_17lands": "Pizza Face, Gastromancer",
+   "scryfall_name": "Pizza Face, Gastromancer",
+   "match": "full",
+   "gih": 10766,
+   "gih_wr": 0.577930522013747
+  },
+  {
+   "card_17lands": "Uneasy Alliance",
+   "scryfall_name": "Uneasy Alliance",
+   "match": "full",
+   "gih": 22271,
+   "gih_wr": 0.5772080283777109
+  },
+  {
+   "card_17lands": "Tenderize",
+   "scryfall_name": "Tenderize",
+   "match": "full",
+   "gih": 23549,
+   "gih_wr": 0.5767548515860547
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 89686,
+   "gih_wr": 0.5757531833285017
+  },
+  {
+   "card_17lands": "Michelangelo, Improviser",
+   "scryfall_name": "Michelangelo, Improviser",
+   "match": "full",
+   "gih": 1513,
+   "gih_wr": 0.5756774619960344
+  },
+  {
+   "card_17lands": "Anchovy & Banana Pizza",
+   "scryfall_name": "Anchovy & Banana Pizza",
+   "match": "full",
+   "gih": 25792,
+   "gih_wr": 0.5755660669975186
+  },
+  {
+   "card_17lands": "Quintessential Katana",
+   "scryfall_name": "Quintessential Katana",
+   "match": "full",
+   "gih": 8320,
+   "gih_wr": 0.575360576923077
+  },
+  {
+   "card_17lands": "Bebop & Rocksteady",
+   "scryfall_name": "Bebop & Rocksteady",
+   "match": "full",
+   "gih": 2178,
+   "gih_wr": 0.5752984389348026
+  },
+  {
+   "card_17lands": "Mind Transfer Protocol",
+   "scryfall_name": "Mind Transfer Protocol",
+   "match": "full",
+   "gih": 12650,
+   "gih_wr": 0.5750197628458498
+  },
+  {
+   "card_17lands": "Turtle Van",
+   "scryfall_name": "Turtle Van",
+   "match": "full",
+   "gih": 4479,
+   "gih_wr": 0.5746818486269256
+  },
+  {
+   "card_17lands": "Ray Fillet, Man Ray",
+   "scryfall_name": "Ray Fillet, Man Ray",
+   "match": "full",
+   "gih": 10123,
+   "gih_wr": 0.5740393164081794
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 86108,
+   "gih_wr": 0.5733497468295629
+  },
+  {
+   "card_17lands": "Donatello, Way with Machines",
+   "scryfall_name": "Donatello, Way with Machines",
+   "match": "full",
+   "gih": 10703,
+   "gih_wr": 0.5724563206577595
+  },
+  {
+   "card_17lands": "Mikey & Leo, Chaos & Order",
+   "scryfall_name": "Mikey & Leo, Chaos & Order",
+   "match": "full",
+   "gih": 3040,
+   "gih_wr": 0.5723684210526315
+  },
+  {
+   "card_17lands": "Leonardo, Big Brother",
+   "scryfall_name": "Leonardo, Big Brother",
+   "match": "full",
+   "gih": 20468,
+   "gih_wr": 0.5718194254445964
+  },
+  {
+   "card_17lands": "Slash, Reptile Rampager",
+   "scryfall_name": "Slash, Reptile Rampager",
+   "match": "full",
+   "gih": 3092,
+   "gih_wr": 0.5701811125485123
+  },
+  {
+   "card_17lands": "Ragamuffin Raptor",
+   "scryfall_name": "Ragamuffin Raptor",
+   "match": "full",
+   "gih": 23273,
+   "gih_wr": 0.5698019163837924
+  },
+  {
+   "card_17lands": "Foot Ninjas",
+   "scryfall_name": "Foot Ninjas",
+   "match": "full",
+   "gih": 17838,
+   "gih_wr": 0.5682811974436596
+  },
+  {
+   "card_17lands": "Jennika, Bad Apple Big Sister",
+   "scryfall_name": "Jennika, Bad Apple Big Sister",
+   "match": "full",
+   "gih": 17113,
+   "gih_wr": 0.5680476830479753
+  },
+  {
+   "card_17lands": "Shredder, Unrelenting",
+   "scryfall_name": "Shredder, Unrelenting",
+   "match": "full",
+   "gih": 8252,
+   "gih_wr": 0.5672564226854095
+  },
+  {
+   "card_17lands": "Splinter, Radical Rat",
+   "scryfall_name": "Splinter, Radical Rat",
+   "match": "full",
+   "gih": 2850,
+   "gih_wr": 0.5670175438596491
+  },
+  {
+   "card_17lands": "Sword of Sinew and Steel",
+   "scryfall_name": "Sword of Sinew and Steel",
+   "match": "non-set (bonus/token/other)",
+   "gih": 284,
+   "gih_wr": 0.5669014084507042
+  },
+  {
+   "card_17lands": "Grounded for Life",
+   "scryfall_name": "Grounded for Life",
+   "match": "full",
+   "gih": 14713,
+   "gih_wr": 0.5662339427716985
+  },
+  {
+   "card_17lands": "South Wind Avatar",
+   "scryfall_name": "South Wind Avatar",
+   "match": "full",
+   "gih": 3228,
+   "gih_wr": 0.5656753407682775
+  },
+  {
+   "card_17lands": "Hamato Guardian Stance",
+   "scryfall_name": "Hamato Guardian Stance",
+   "match": "full",
+   "gih": 5050,
+   "gih_wr": 0.5655445544554455
+  },
+  {
+   "card_17lands": "Mona Lisa, Science Geek",
+   "scryfall_name": "Mona Lisa, Science Geek",
+   "match": "full",
+   "gih": 10336,
+   "gih_wr": 0.5646284829721362
+  },
+  {
+   "card_17lands": "Leonardo, Cutting Edge",
+   "scryfall_name": "Leonardo, Cutting Edge",
+   "match": "full",
+   "gih": 3092,
+   "gih_wr": 0.5640362225097024
+  },
+  {
+   "card_17lands": "Fugitive Droid",
+   "scryfall_name": "Fugitive Droid",
+   "match": "full",
+   "gih": 8112,
+   "gih_wr": 0.5631163708086785
+  },
+  {
+   "card_17lands": "Leader's Talent",
+   "scryfall_name": "Leader's Talent",
+   "match": "full",
+   "gih": 2982,
+   "gih_wr": 0.562709590878605
+  },
+  {
+   "card_17lands": "Path to Exile",
+   "scryfall_name": "Path to Exile",
+   "match": "non-set (bonus/token/other)",
+   "gih": 265,
+   "gih_wr": 0.5622641509433962
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 71004,
+   "gih_wr": 0.5622218466565264
+  },
+  {
+   "card_17lands": "Northampton Farm",
+   "scryfall_name": "Northampton Farm",
+   "match": "full",
+   "gih": 2073,
+   "gih_wr": 0.5610226724553786
+  },
+  {
+   "card_17lands": "Bespoke B?",
+   "scryfall_name": "Bespoke B?",
+   "match": "non-set (bonus/token/other)",
+   "gih": 10650,
+   "gih_wr": 0.5609389671361502
+  },
+  {
+   "card_17lands": "Mouser Mark III",
+   "scryfall_name": "Mouser Mark III",
+   "match": "full",
+   "gih": 15810,
+   "gih_wr": 0.5593927893738141
+  },
+  {
+   "card_17lands": "Shredder's Revenge",
+   "scryfall_name": "Shredder's Revenge",
+   "match": "full",
+   "gih": 7302,
+   "gih_wr": 0.5583401807723911
+  },
+  {
+   "card_17lands": "Slithering Cryptid",
+   "scryfall_name": "Slithering Cryptid",
+   "match": "full",
+   "gih": 18305,
+   "gih_wr": 0.5578803605572248
+  },
+  {
+   "card_17lands": "Michelangelo's Technique",
+   "scryfall_name": "Michelangelo's Technique",
+   "match": "full",
+   "gih": 1592,
+   "gih_wr": 0.5577889447236181
+  },
+  {
+   "card_17lands": "High-Flying Ace",
+   "scryfall_name": "High-Flying Ace",
+   "match": "full",
+   "gih": 11442,
+   "gih_wr": 0.5540989337528404
+  },
+  {
+   "card_17lands": "Ice Cream Kitty",
+   "scryfall_name": "Ice Cream Kitty",
+   "match": "full",
+   "gih": 18551,
+   "gih_wr": 0.5538245916662174
+  },
+  {
+   "card_17lands": "Retro-Mutation",
+   "scryfall_name": "Retro-Mutation",
+   "match": "full",
+   "gih": 12627,
+   "gih_wr": 0.5537340619307832
+  },
+  {
+   "card_17lands": "Raph & Leo, Sibling Rivals",
+   "scryfall_name": "Raph & Leo, Sibling Rivals",
+   "match": "full",
+   "gih": 2337,
+   "gih_wr": 0.553701326486949
+  },
+  {
+   "card_17lands": "Raphael, Tough Turtle",
+   "scryfall_name": "Raphael, Tough Turtle",
+   "match": "full",
+   "gih": 12428,
+   "gih_wr": 0.5518184744126167
+  },
+  {
+   "card_17lands": "Michelangelo, Game Master",
+   "scryfall_name": "Michelangelo, Game Master",
+   "match": "full",
+   "gih": 17087,
+   "gih_wr": 0.5498332065312811
+  },
+  {
+   "card_17lands": "Purple Dragon Punks",
+   "scryfall_name": "Purple Dragon Punks",
+   "match": "full",
+   "gih": 7681,
+   "gih_wr": 0.5497982033589376
+  },
+  {
+   "card_17lands": "The Neutrinos",
+   "scryfall_name": "The Neutrinos",
+   "match": "full",
+   "gih": 6381,
+   "gih_wr": 0.5485033693778405
+  },
+  {
+   "card_17lands": "Tunnel Rats",
+   "scryfall_name": "Tunnel Rats",
+   "match": "full",
+   "gih": 10180,
+   "gih_wr": 0.5484282907662082
+  },
+  {
+   "card_17lands": "Foot Elite",
+   "scryfall_name": "Foot Elite",
+   "match": "full",
+   "gih": 9935,
+   "gih_wr": 0.5482637141419225
+  },
+  {
+   "card_17lands": "Mondo Gecko",
+   "scryfall_name": "Mondo Gecko",
+   "match": "full",
+   "gih": 1887,
+   "gih_wr": 0.5479597244303127
+  },
+  {
+   "card_17lands": "Action News Crew",
+   "scryfall_name": "Action News Crew",
+   "match": "full",
+   "gih": 16064,
+   "gih_wr": 0.547808764940239
+  },
+  {
+   "card_17lands": "Make Your Move",
+   "scryfall_name": "Make Your Move",
+   "match": "full",
+   "gih": 11007,
+   "gih_wr": 0.5477423457799582
+  },
+  {
+   "card_17lands": "Paramecia Coloniex",
+   "scryfall_name": "Paramecia Coloniex",
+   "match": "full",
+   "gih": 4904,
+   "gih_wr": 0.5456769983686787
+  },
+  {
+   "card_17lands": "Krang, Utrom Warlord",
+   "scryfall_name": "Krang, Utrom Warlord",
+   "match": "full",
+   "gih": 1505,
+   "gih_wr": 0.545514950166113
+  },
+  {
+   "card_17lands": "Guac & Marshmallow Pizza",
+   "scryfall_name": "Guac & Marshmallow Pizza",
+   "match": "full",
+   "gih": 8641,
+   "gih_wr": 0.5449600740655017
+  },
+  {
+   "card_17lands": "Rocksteady, Crash Courser",
+   "scryfall_name": "Rocksteady, Crash Courser",
+   "match": "full",
+   "gih": 12004,
+   "gih_wr": 0.5445684771742753
+  },
+  {
+   "card_17lands": "Utrom Scientists",
+   "scryfall_name": "Utrom Scientists",
+   "match": "full",
+   "gih": 12914,
+   "gih_wr": 0.5440607093077281
+  },
+  {
+   "card_17lands": "Metallic Mimic",
+   "scryfall_name": "Metallic Mimic",
+   "match": "non-set (bonus/token/other)",
+   "gih": 342,
+   "gih_wr": 0.543859649122807
+  },
+  {
+   "card_17lands": "New Generation's Technique",
+   "scryfall_name": "New Generation's Technique",
+   "match": "full",
+   "gih": 2941,
+   "gih_wr": 0.5423325399523972
+  },
+  {
+   "card_17lands": "East Wind Avatar",
+   "scryfall_name": "East Wind Avatar",
+   "match": "full",
+   "gih": 7428,
+   "gih_wr": 0.5420032310177706
+  },
+  {
+   "card_17lands": "Go Ninja Go",
+   "scryfall_name": "Go Ninja Go",
+   "match": "full",
+   "gih": 5326,
+   "gih_wr": 0.5418700713481036
+  },
+  {
+   "card_17lands": "Stockman, Mad Fly-entist",
+   "scryfall_name": "Stockman, Mad Fly-entist",
+   "match": "full",
+   "gih": 6430,
+   "gih_wr": 0.5418351477449456
+  },
+  {
+   "card_17lands": "Mutant Town Musicians",
+   "scryfall_name": "Mutant Town Musicians",
+   "match": "full",
+   "gih": 3925,
+   "gih_wr": 0.541656050955414
+  },
+  {
+   "card_17lands": "Zoo Escapees",
+   "scryfall_name": "Zoo Escapees",
+   "match": "full",
+   "gih": 13144,
+   "gih_wr": 0.5407029823493609
+  },
+  {
+   "card_17lands": "Bot Bashing Time",
+   "scryfall_name": "Bot Bashing Time",
+   "match": "full",
+   "gih": 12481,
+   "gih_wr": 0.5404214405896963
+  },
+  {
+   "card_17lands": "Cowabunga!",
+   "scryfall_name": "Cowabunga!",
+   "match": "full",
+   "gih": 4892,
+   "gih_wr": 0.536181520850368
+  },
+  {
+   "card_17lands": "Leonardo's Technique",
+   "scryfall_name": "Leonardo's Technique",
+   "match": "full",
+   "gih": 1723,
+   "gih_wr": 0.5351131746952988
+  },
+  {
+   "card_17lands": "Venus, Torn Between Worlds",
+   "scryfall_name": "Venus, Torn Between Worlds",
+   "match": "full",
+   "gih": 5599,
+   "gih_wr": 0.5350955527772816
+  },
+  {
+   "card_17lands": "Bebop, Warthog Warrior",
+   "scryfall_name": "Bebop, Warthog Warrior",
+   "match": "full",
+   "gih": 6543,
+   "gih_wr": 0.5340058077334556
+  },
+  {
+   "card_17lands": "Null Group Biological Assets",
+   "scryfall_name": "Null Group Biological Assets",
+   "match": "full",
+   "gih": 4134,
+   "gih_wr": 0.5319303338171263
+  },
+  {
+   "card_17lands": "EPF Point Squad",
+   "scryfall_name": "EPF Point Squad",
+   "match": "full",
+   "gih": 9590,
+   "gih_wr": 0.5319082377476538
+  },
+  {
+   "card_17lands": "Ashcoat of the Shadow Swarm",
+   "scryfall_name": "Ashcoat of the Shadow Swarm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 64,
+   "gih_wr": 0.53125
+  },
+  {
+   "card_17lands": "Cytoplast Manipulator",
+   "scryfall_name": "Cytoplast Manipulator",
+   "match": "non-set (bonus/token/other)",
+   "gih": 209,
+   "gih_wr": 0.5311004784688995
+  },
+  {
+   "card_17lands": "Old Hob, Alleycat Blues",
+   "scryfall_name": "Old Hob, Alleycat Blues",
+   "match": "full",
+   "gih": 4376,
+   "gih_wr": 0.5308500914076782
+  },
+  {
+   "card_17lands": "Wingnut, Bat on the Belfry",
+   "scryfall_name": "Wingnut, Bat on the Belfry",
+   "match": "full",
+   "gih": 5021,
+   "gih_wr": 0.5307707627962557
+  },
+  {
+   "card_17lands": "Donatello's Technique",
+   "scryfall_name": "Donatello's Technique",
+   "match": "full",
+   "gih": 4136,
+   "gih_wr": 0.5302224371373307
+  },
+  {
+   "card_17lands": "Pain 101",
+   "scryfall_name": "Pain 101",
+   "match": "full",
+   "gih": 5371,
+   "gih_wr": 0.5298827034071868
+  },
+  {
+   "card_17lands": "Underworld Breach",
+   "scryfall_name": "Underworld Breach",
+   "match": "non-set (bonus/token/other)",
+   "gih": 17,
+   "gih_wr": 0.5294117647058824
+  },
+  {
+   "card_17lands": "Insectoid Exterminator",
+   "scryfall_name": "Insectoid Exterminator",
+   "match": "full",
+   "gih": 5344,
+   "gih_wr": 0.5247005988023952
+  },
+  {
+   "card_17lands": "Renet, Temporal Apprentice",
+   "scryfall_name": "Renet, Temporal Apprentice",
+   "match": "full",
+   "gih": 2205,
+   "gih_wr": 0.5238095238095238
+  },
+  {
+   "card_17lands": "Casey Jones, Vigilante",
+   "scryfall_name": "Casey Jones, Vigilante",
+   "match": "full",
+   "gih": 1195,
+   "gih_wr": 0.5230125523012552
+  },
+  {
+   "card_17lands": "Raphael, Most Attitude",
+   "scryfall_name": "Raphael, Most Attitude",
+   "match": "full",
+   "gih": 4093,
+   "gih_wr": 0.5228438797947715
+  },
+  {
+   "card_17lands": "Don & Raph, Hard Science",
+   "scryfall_name": "Don & Raph, Hard Science",
+   "match": "full",
+   "gih": 2338,
+   "gih_wr": 0.5226689478186484
+  },
+  {
+   "card_17lands": "Foot Mystic",
+   "scryfall_name": "Foot Mystic",
+   "match": "full",
+   "gih": 3918,
+   "gih_wr": 0.5214395099540582
+  },
+  {
+   "card_17lands": "Zog, Triceraton Castaway",
+   "scryfall_name": "Zog, Triceraton Castaway",
+   "match": "full",
+   "gih": 3655,
+   "gih_wr": 0.5192886456908344
+  },
+  {
+   "card_17lands": "Mutant Chain Reaction",
+   "scryfall_name": "Mutant Chain Reaction",
+   "match": "full",
+   "gih": 3449,
+   "gih_wr": 0.518411133661931
+  },
+  {
+   "card_17lands": "Tokka & Rahzar, Terrible Twos",
+   "scryfall_name": "Tokka & Rahzar, Terrible Twos",
+   "match": "full",
+   "gih": 1387,
+   "gih_wr": 0.5183850036049027
+  },
+  {
+   "card_17lands": "Turtles Forever",
+   "scryfall_name": "Turtles Forever",
+   "match": "full",
+   "gih": 516,
+   "gih_wr": 0.5135658914728682
+  },
+  {
+   "card_17lands": "Punk Frogs",
+   "scryfall_name": "Punk Frogs",
+   "match": "full",
+   "gih": 2177,
+   "gih_wr": 0.5135507579237483
+  },
+  {
+   "card_17lands": "Crustacean Commando",
+   "scryfall_name": "Crustacean Commando",
+   "match": "full",
+   "gih": 6818,
+   "gih_wr": 0.5126136696978586
+  },
+  {
+   "card_17lands": "Raphael, Ninja Destroyer",
+   "scryfall_name": "Raphael, Ninja Destroyer",
+   "match": "full",
+   "gih": 910,
+   "gih_wr": 0.510989010989011
+  },
+  {
+   "card_17lands": "Party Dude",
+   "scryfall_name": "Party Dude",
+   "match": "full",
+   "gih": 1488,
+   "gih_wr": 0.510752688172043
+  },
+  {
+   "card_17lands": "Cool but Rude",
+   "scryfall_name": "Cool but Rude",
+   "match": "full",
+   "gih": 1406,
+   "gih_wr": 0.5078236130867709
+  },
+  {
+   "card_17lands": "Skateboard",
+   "scryfall_name": "Skateboard",
+   "match": "full",
+   "gih": 2001,
+   "gih_wr": 0.5077461269365318
+  },
+  {
+   "card_17lands": "Henchbots",
+   "scryfall_name": "Henchbots",
+   "match": "full",
+   "gih": 5105,
+   "gih_wr": 0.5055827619980411
+  },
+  {
+   "card_17lands": "Rock Soldiers",
+   "scryfall_name": "Rock Soldiers",
+   "match": "full",
+   "gih": 3050,
+   "gih_wr": 0.5052459016393442
+  },
+  {
+   "card_17lands": "Turtles in Time",
+   "scryfall_name": "Turtles in Time",
+   "match": "full",
+   "gih": 242,
+   "gih_wr": 0.5041322314049587
+  },
+  {
+   "card_17lands": "April, Reporter of the Weird",
+   "scryfall_name": "April, Reporter of the Weird",
+   "match": "full",
+   "gih": 2206,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Conqueror's Flail",
+   "scryfall_name": "Conqueror's Flail",
+   "match": "non-set (bonus/token/other)",
+   "gih": 152,
+   "gih_wr": 0.4934210526315789
+  },
+  {
+   "card_17lands": "Splinter's Technique",
+   "scryfall_name": "Splinter's Technique",
+   "match": "full",
+   "gih": 897,
+   "gih_wr": 0.4927536231884058
+  },
+  {
+   "card_17lands": "Mouser Attack!",
+   "scryfall_name": "Mouser Attack!",
+   "match": "full",
+   "gih": 2078,
+   "gih_wr": 0.49230028873917225
+  },
+  {
+   "card_17lands": "Negate",
+   "scryfall_name": "Negate",
+   "match": "full",
+   "gih": 1052,
+   "gih_wr": 0.4914448669201521
+  },
+  {
+   "card_17lands": "Putrid Pals",
+   "scryfall_name": "Putrid Pals",
+   "match": "full",
+   "gih": 4211,
+   "gih_wr": 0.4877701258608407
+  },
+  {
+   "card_17lands": "Hard-Won Jitte",
+   "scryfall_name": "Hard-Won Jitte",
+   "match": "full",
+   "gih": 1532,
+   "gih_wr": 0.4830287206266319
+  },
+  {
+   "card_17lands": "Shredder's Armor",
+   "scryfall_name": "Shredder's Armor",
+   "match": "full",
+   "gih": 928,
+   "gih_wr": 0.47521551724137934
+  },
+  {
+   "card_17lands": "Turtle Power!",
+   "scryfall_name": "Turtle Power!",
+   "match": "full",
+   "gih": 325,
+   "gih_wr": 0.4646153846153846
+  },
+  {
+   "card_17lands": "Trouble in Pairs",
+   "scryfall_name": "Trouble in Pairs",
+   "match": "non-set (bonus/token/other)",
+   "gih": 69,
+   "gih_wr": 0.463768115942029
+  },
+  {
+   "card_17lands": "Raphael's Technique",
+   "scryfall_name": "Raphael's Technique",
+   "match": "full",
+   "gih": 176,
+   "gih_wr": 0.4090909090909091
+  },
+  {
+   "card_17lands": "Broadcast Takeover",
+   "scryfall_name": "Broadcast Takeover",
+   "match": "full",
+   "gih": 32,
+   "gih_wr": 0.40625
+  },
+  {
+   "card_17lands": "Doubling Season",
+   "scryfall_name": "Doubling Season",
+   "match": "non-set (bonus/token/other)",
+   "gih": 89,
+   "gih_wr": 0.39325842696629215
+  },
+  {
+   "card_17lands": "Silverclad Ferocidons",
+   "scryfall_name": "Silverclad Ferocidons",
+   "match": "non-set (bonus/token/other)",
+   "gih": 77,
+   "gih_wr": 0.38961038961038963
+  },
+  {
+   "card_17lands": "Kitsune's Technique",
+   "scryfall_name": "Kitsune's Technique",
+   "match": "full",
+   "gih": 183,
+   "gih_wr": 0.3442622950819672
+  },
+  {
+   "card_17lands": "Waves of Aggression",
+   "scryfall_name": "Waves of Aggression",
+   "match": "non-set (bonus/token/other)",
+   "gih": 91,
+   "gih_wr": 0.32967032967032966
+  },
+  {
+   "card_17lands": "Rhythm of the Wild",
+   "scryfall_name": "Rhythm of the Wild",
+   "match": "non-set (bonus/token/other)",
+   "gih": 47,
+   "gih_wr": 0.3191489361702128
+  },
+  {
+   "card_17lands": "Plague of Vermin",
+   "scryfall_name": "Plague of Vermin",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1,
+   "gih_wr": 0.0
+  }
+ ]
+}

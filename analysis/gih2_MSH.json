@@ -1,0 +1,2380 @@
+{
+ "set": "MSH",
+ "games": 377514,
+ "wins": 211723,
+ "cards": [
+  {
+   "card_17lands": "Light of Promise",
+   "scryfall_name": "Light of Promise",
+   "match": "non-set (bonus/token/other)",
+   "gih": 17,
+   "gih_wr": 0.7647058823529411
+  },
+  {
+   "card_17lands": "The Super Hero Civil War",
+   "scryfall_name": "The Super Hero Civil War",
+   "match": "full",
+   "gih": 11261,
+   "gih_wr": 0.702779504484504
+  },
+  {
+   "card_17lands": "Captain Marvel, Earth's Protector",
+   "scryfall_name": "Captain Marvel, Earth's Protector",
+   "match": "full",
+   "gih": 5179,
+   "gih_wr": 0.6955010619810774
+  },
+  {
+   "card_17lands": "Final Showdown",
+   "scryfall_name": "Final Showdown",
+   "match": "non-set (bonus/token/other)",
+   "gih": 368,
+   "gih_wr": 0.6847826086956522
+  },
+  {
+   "card_17lands": "Leader, Super-Genius",
+   "scryfall_name": "Leader, Super-Genius",
+   "match": "full",
+   "gih": 11704,
+   "gih_wr": 0.6780587833219412
+  },
+  {
+   "card_17lands": "Black Panther, Wakandan King",
+   "scryfall_name": "Black Panther, Wakandan King",
+   "match": "non-set (bonus/token/other)",
+   "gih": 321,
+   "gih_wr": 0.6697819314641744
+  },
+  {
+   "card_17lands": "Simulacrum Synthesizer",
+   "scryfall_name": "Simulacrum Synthesizer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 227,
+   "gih_wr": 0.6696035242290749
+  },
+  {
+   "card_17lands": "Sword of Fire and Ice",
+   "scryfall_name": "Sword of Fire and Ice",
+   "match": "non-set (bonus/token/other)",
+   "gih": 390,
+   "gih_wr": 0.6692307692307692
+  },
+  {
+   "card_17lands": "Escape to the Wilds",
+   "scryfall_name": "Escape to the Wilds",
+   "match": "non-set (bonus/token/other)",
+   "gih": 224,
+   "gih_wr": 0.6607142857142857
+  },
+  {
+   "card_17lands": "Doctor Doom",
+   "scryfall_name": "Doctor Doom",
+   "match": "full",
+   "gih": 4703,
+   "gih_wr": 0.6570274293004466
+  },
+  {
+   "card_17lands": "Jennifer Walters",
+   "scryfall_name": "Jennifer Walters [MULTI]",
+   "match": "first-face",
+   "gih": 4904,
+   "gih_wr": 0.6549755301794453
+  },
+  {
+   "card_17lands": "Avengers Assemble!",
+   "scryfall_name": "Avengers Assemble!",
+   "match": "full",
+   "gih": 4681,
+   "gih_wr": 0.6447340311899167
+  },
+  {
+   "card_17lands": "Wolverine, Fierce Fighter",
+   "scryfall_name": "Wolverine, Fierce Fighter",
+   "match": "full",
+   "gih": 7498,
+   "gih_wr": 0.6444385169378501
+  },
+  {
+   "card_17lands": "Avengers: Under Siege",
+   "scryfall_name": "Avengers: Under Siege",
+   "match": "full",
+   "gih": 7086,
+   "gih_wr": 0.6443691786621507
+  },
+  {
+   "card_17lands": "M.O.D.O.K.",
+   "scryfall_name": "M.O.D.O.K.",
+   "match": "full",
+   "gih": 4285,
+   "gih_wr": 0.644340723453909
+  },
+  {
+   "card_17lands": "Agent Phil Coulson",
+   "scryfall_name": "Agent Phil Coulson",
+   "match": "full",
+   "gih": 10106,
+   "gih_wr": 0.6434791213140708
+  },
+  {
+   "card_17lands": "Monstrous Rage",
+   "scryfall_name": "Monstrous Rage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 165,
+   "gih_wr": 0.6424242424242425
+  },
+  {
+   "card_17lands": "The Wondrous Wasp",
+   "scryfall_name": "The Wondrous Wasp",
+   "match": "full",
+   "gih": 11166,
+   "gih_wr": 0.6400680637650009
+  },
+  {
+   "card_17lands": "The Coming of Galactus",
+   "scryfall_name": "The Coming of Galactus",
+   "match": "full",
+   "gih": 4082,
+   "gih_wr": 0.6369426751592356
+  },
+  {
+   "card_17lands": "Massacre Girl",
+   "scryfall_name": "Massacre Girl",
+   "match": "non-set (bonus/token/other)",
+   "gih": 231,
+   "gih_wr": 0.6363636363636364
+  },
+  {
+   "card_17lands": "Justice, Vance Astrovik",
+   "scryfall_name": "Justice, Vance Astrovik",
+   "match": "full",
+   "gih": 30123,
+   "gih_wr": 0.6349965142914052
+  },
+  {
+   "card_17lands": "Monica Rambeau",
+   "scryfall_name": "Monica Rambeau [MULTI]",
+   "match": "first-face",
+   "gih": 4909,
+   "gih_wr": 0.634345080464453
+  },
+  {
+   "card_17lands": "Path to Exile",
+   "scryfall_name": "Path to Exile",
+   "match": "non-set (bonus/token/other)",
+   "gih": 357,
+   "gih_wr": 0.6302521008403361
+  },
+  {
+   "card_17lands": "Elektra, Daughter of the Hand",
+   "scryfall_name": "Elektra, Daughter of the Hand",
+   "match": "full",
+   "gih": 8483,
+   "gih_wr": 0.6300836968053755
+  },
+  {
+   "card_17lands": "Thor, God of Thunder",
+   "scryfall_name": "Thor, God of Thunder",
+   "match": "full",
+   "gih": 3568,
+   "gih_wr": 0.6247197309417041
+  },
+  {
+   "card_17lands": "Captain America, Wings of Freedom",
+   "scryfall_name": "Captain America, Wings of Freedom",
+   "match": "full",
+   "gih": 9832,
+   "gih_wr": 0.6228641171684296
+  },
+  {
+   "card_17lands": "Steelshaper's Gift",
+   "scryfall_name": "Steelshaper's Gift",
+   "match": "non-set (bonus/token/other)",
+   "gih": 29,
+   "gih_wr": 0.6206896551724138
+  },
+  {
+   "card_17lands": "Cloak and Dagger, Entwined",
+   "scryfall_name": "Cloak and Dagger, Entwined",
+   "match": "full",
+   "gih": 8020,
+   "gih_wr": 0.6188279301745636
+  },
+  {
+   "card_17lands": "Kang the Conqueror",
+   "scryfall_name": "Kang the Conqueror",
+   "match": "full",
+   "gih": 4710,
+   "gih_wr": 0.6186836518046709
+  },
+  {
+   "card_17lands": "King T'Challa",
+   "scryfall_name": "King T'Challa [MULTI]",
+   "match": "first-face",
+   "gih": 5191,
+   "gih_wr": 0.6172221151993835
+  },
+  {
+   "card_17lands": "Ka-Zar of the Savage Land",
+   "scryfall_name": "Ka-Zar of the Savage Land",
+   "match": "full",
+   "gih": 21763,
+   "gih_wr": 0.6164131783301935
+  },
+  {
+   "card_17lands": "Vision Quest",
+   "scryfall_name": "Vision Quest",
+   "match": "full",
+   "gih": 8368,
+   "gih_wr": 0.6150812619502868
+  },
+  {
+   "card_17lands": "Cosmic Cube",
+   "scryfall_name": "Cosmic Cube",
+   "match": "full",
+   "gih": 4767,
+   "gih_wr": 0.6150618837843508
+  },
+  {
+   "card_17lands": "Deadly Dispute",
+   "scryfall_name": "Deadly Dispute",
+   "match": "non-set (bonus/token/other)",
+   "gih": 211,
+   "gih_wr": 0.6113744075829384
+  },
+  {
+   "card_17lands": "She-Hulk, Jade Defender",
+   "scryfall_name": "She-Hulk, Jade Defender",
+   "match": "full",
+   "gih": 18472,
+   "gih_wr": 0.6099501948895626
+  },
+  {
+   "card_17lands": "Ravenous Tyrannosaurus",
+   "scryfall_name": "Ravenous Tyrannosaurus",
+   "match": "non-set (bonus/token/other)",
+   "gih": 297,
+   "gih_wr": 0.6094276094276094
+  },
+  {
+   "card_17lands": "Tony Stark",
+   "scryfall_name": "Tony Stark [MULTI]",
+   "match": "first-face",
+   "gih": 4053,
+   "gih_wr": 0.6094251171971379
+  },
+  {
+   "card_17lands": "Killmonger, Scourge of Wakanda",
+   "scryfall_name": "Killmonger, Scourge of Wakanda",
+   "match": "full",
+   "gih": 16959,
+   "gih_wr": 0.6087623090984138
+  },
+  {
+   "card_17lands": "Trickster's Stratagem",
+   "scryfall_name": "Trickster's Stratagem",
+   "match": "full",
+   "gih": 62741,
+   "gih_wr": 0.607019333450216
+  },
+  {
+   "card_17lands": "The Ruinous Wrecking Crew",
+   "scryfall_name": "The Ruinous Wrecking Crew",
+   "match": "full",
+   "gih": 7172,
+   "gih_wr": 0.6062465142219744
+  },
+  {
+   "card_17lands": "Bruce Banner",
+   "scryfall_name": "Bruce Banner [MULTI]",
+   "match": "first-face",
+   "gih": 4637,
+   "gih_wr": 0.6057795988785853
+  },
+  {
+   "card_17lands": "Hero in Training",
+   "scryfall_name": "Hero in Training",
+   "match": "full",
+   "gih": 63381,
+   "gih_wr": 0.6057651346618071
+  },
+  {
+   "card_17lands": "Falcon, Winged Wonder",
+   "scryfall_name": "Falcon, Winged Wonder",
+   "match": "full",
+   "gih": 25551,
+   "gih_wr": 0.6056905796250636
+  },
+  {
+   "card_17lands": "Avengers Tower",
+   "scryfall_name": "Avengers Tower",
+   "match": "full",
+   "gih": 22237,
+   "gih_wr": 0.6055672977469982
+  },
+  {
+   "card_17lands": "The Mighty Thor, Jane Foster",
+   "scryfall_name": "The Mighty Thor, Jane Foster",
+   "match": "full",
+   "gih": 9973,
+   "gih_wr": 0.6055349443497443
+  },
+  {
+   "card_17lands": "Murdock's Crusade",
+   "scryfall_name": "Murdock's Crusade",
+   "match": "full",
+   "gih": 52007,
+   "gih_wr": 0.6054185013555867
+  },
+  {
+   "card_17lands": "Absorbing Man",
+   "scryfall_name": "Absorbing Man",
+   "match": "full",
+   "gih": 6661,
+   "gih_wr": 0.6042636240804684
+  },
+  {
+   "card_17lands": "Iron Man, Titan of Innovation",
+   "scryfall_name": "Iron Man, Titan of Innovation",
+   "match": "non-set (bonus/token/other)",
+   "gih": 189,
+   "gih_wr": 0.6031746031746031
+  },
+  {
+   "card_17lands": "Storm, Windrider",
+   "scryfall_name": "Storm, Windrider",
+   "match": "full",
+   "gih": 8166,
+   "gih_wr": 0.6029879990203282
+  },
+  {
+   "card_17lands": "Warleader's Call",
+   "scryfall_name": "Warleader's Call",
+   "match": "non-set (bonus/token/other)",
+   "gih": 287,
+   "gih_wr": 0.6027874564459931
+  },
+  {
+   "card_17lands": "Anthem of Champions",
+   "scryfall_name": "Anthem of Champions",
+   "match": "non-set (bonus/token/other)",
+   "gih": 219,
+   "gih_wr": 0.6027397260273972
+  },
+  {
+   "card_17lands": "Punishing Punch",
+   "scryfall_name": "Punishing Punch",
+   "match": "full",
+   "gih": 18888,
+   "gih_wr": 0.602445997458704
+  },
+  {
+   "card_17lands": "Dauthi Voidwalker",
+   "scryfall_name": "Dauthi Voidwalker",
+   "match": "non-set (bonus/token/other)",
+   "gih": 304,
+   "gih_wr": 0.6019736842105263
+  },
+  {
+   "card_17lands": "Captain America, Super-Soldier",
+   "scryfall_name": "Captain America, Super-Soldier",
+   "match": "full",
+   "gih": 4530,
+   "gih_wr": 0.6008830022075056
+  },
+  {
+   "card_17lands": "Rancor",
+   "scryfall_name": "Rancor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 228,
+   "gih_wr": 0.6008771929824561
+  },
+  {
+   "card_17lands": "Secret Invasion",
+   "scryfall_name": "Secret Invasion",
+   "match": "full",
+   "gih": 9218,
+   "gih_wr": 0.6006725970926449
+  },
+  {
+   "card_17lands": "Agent Maria Hill",
+   "scryfall_name": "Agent Maria Hill",
+   "match": "full",
+   "gih": 21572,
+   "gih_wr": 0.6006397181531615
+  },
+  {
+   "card_17lands": "Super-Skrull",
+   "scryfall_name": "Super-Skrull",
+   "match": "full",
+   "gih": 7925,
+   "gih_wr": 0.6005047318611988
+  },
+  {
+   "card_17lands": "S.H.I.E.L.D. Deployment Drone",
+   "scryfall_name": "S.H.I.E.L.D. Deployment Drone",
+   "match": "full",
+   "gih": 61121,
+   "gih_wr": 0.5997284075849544
+  },
+  {
+   "card_17lands": "Three Steps Ahead",
+   "scryfall_name": "Three Steps Ahead",
+   "match": "non-set (bonus/token/other)",
+   "gih": 332,
+   "gih_wr": 0.5993975903614458
+  },
+  {
+   "card_17lands": "The Unbeatable Squirrel Girl",
+   "scryfall_name": "The Unbeatable Squirrel Girl",
+   "match": "full",
+   "gih": 7422,
+   "gih_wr": 0.598760441929399
+  },
+  {
+   "card_17lands": "Web Up",
+   "scryfall_name": "Web Up",
+   "match": "full",
+   "gih": 54996,
+   "gih_wr": 0.5984617063059131
+  },
+  {
+   "card_17lands": "The Vision",
+   "scryfall_name": "The Vision",
+   "match": "full",
+   "gih": 9365,
+   "gih_wr": 0.598398291510945
+  },
+  {
+   "card_17lands": "Stature, Size Shifter",
+   "scryfall_name": "Stature, Size Shifter",
+   "match": "full",
+   "gih": 23865,
+   "gih_wr": 0.5981562958307144
+  },
+  {
+   "card_17lands": "Undercover Skrull",
+   "scryfall_name": "Undercover Skrull",
+   "match": "full",
+   "gih": 42457,
+   "gih_wr": 0.5978754975622395
+  },
+  {
+   "card_17lands": "S.H.I.E.L.D. Flying Car",
+   "scryfall_name": "S.H.I.E.L.D. Flying Car",
+   "match": "full",
+   "gih": 10148,
+   "gih_wr": 0.5975561687031927
+  },
+  {
+   "card_17lands": "Spider-Woman, Secret Agent",
+   "scryfall_name": "Spider-Woman, Secret Agent",
+   "match": "full",
+   "gih": 24779,
+   "gih_wr": 0.5971588845393276
+  },
+  {
+   "card_17lands": "Mj\u00f6lnir, Hammer of Thor",
+   "scryfall_name": "Mj\u00f6lnir, Hammer of Thor",
+   "match": "full",
+   "gih": 3564,
+   "gih_wr": 0.5968013468013468
+  },
+  {
+   "card_17lands": "No Mercy",
+   "scryfall_name": "No Mercy",
+   "match": "non-set (bonus/token/other)",
+   "gih": 146,
+   "gih_wr": 0.5958904109589042
+  },
+  {
+   "card_17lands": "Political Triumph",
+   "scryfall_name": "Political Triumph",
+   "match": "full",
+   "gih": 20694,
+   "gih_wr": 0.595438291292162
+  },
+  {
+   "card_17lands": "Dark Deed",
+   "scryfall_name": "Dark Deed",
+   "match": "full",
+   "gih": 18895,
+   "gih_wr": 0.5951309870336068
+  },
+  {
+   "card_17lands": "Extinction Event",
+   "scryfall_name": "Extinction Event",
+   "match": "non-set (bonus/token/other)",
+   "gih": 326,
+   "gih_wr": 0.5950920245398773
+  },
+  {
+   "card_17lands": "We Say Thee Nay!",
+   "scryfall_name": "We Say Thee Nay!",
+   "match": "full",
+   "gih": 55619,
+   "gih_wr": 0.5949046189251874
+  },
+  {
+   "card_17lands": "Aurelia, the Warleader",
+   "scryfall_name": "Aurelia, the Warleader",
+   "match": "non-set (bonus/token/other)",
+   "gih": 180,
+   "gih_wr": 0.5944444444444444
+  },
+  {
+   "card_17lands": "Agent 13, Sharon Carter",
+   "scryfall_name": "Agent 13, Sharon Carter",
+   "match": "full",
+   "gih": 24984,
+   "gih_wr": 0.5943403778418188
+  },
+  {
+   "card_17lands": "Loki, God of Mischief",
+   "scryfall_name": "Loki, God of Mischief",
+   "match": "full",
+   "gih": 9031,
+   "gih_wr": 0.5930683202303177
+  },
+  {
+   "card_17lands": "Red Guardian, Super-Soldier",
+   "scryfall_name": "Red Guardian, Super-Soldier",
+   "match": "full",
+   "gih": 21673,
+   "gih_wr": 0.5922576477644996
+  },
+  {
+   "card_17lands": "Defense of the Heart",
+   "scryfall_name": "Defense of the Heart",
+   "match": "non-set (bonus/token/other)",
+   "gih": 152,
+   "gih_wr": 0.5921052631578947
+  },
+  {
+   "card_17lands": "Take Up the Shield",
+   "scryfall_name": "Take Up the Shield",
+   "match": "full",
+   "gih": 47761,
+   "gih_wr": 0.5920102175415087
+  },
+  {
+   "card_17lands": "Iron Man Armor",
+   "scryfall_name": "Iron Man Armor",
+   "match": "full",
+   "gih": 4448,
+   "gih_wr": 0.5912769784172662
+  },
+  {
+   "card_17lands": "Righteous Fury",
+   "scryfall_name": "Righteous Fury",
+   "match": "non-set (bonus/token/other)",
+   "gih": 171,
+   "gih_wr": 0.5906432748538012
+  },
+  {
+   "card_17lands": "Cruel Alliance",
+   "scryfall_name": "Cruel Alliance",
+   "match": "full",
+   "gih": 43825,
+   "gih_wr": 0.590188248716486
+  },
+  {
+   "card_17lands": "Winter Soldier, Icy Assassin",
+   "scryfall_name": "Winter Soldier, Icy Assassin",
+   "match": "full",
+   "gih": 4735,
+   "gih_wr": 0.5896515311510032
+  },
+  {
+   "card_17lands": "Earth's Mightiest Heroes",
+   "scryfall_name": "Earth's Mightiest Heroes",
+   "match": "full",
+   "gih": 3402,
+   "gih_wr": 0.5893592004703115
+  },
+  {
+   "card_17lands": "Okoye, Dora Milaje Leader",
+   "scryfall_name": "Okoye, Dora Milaje Leader",
+   "match": "full",
+   "gih": 21683,
+   "gih_wr": 0.5886178111884887
+  },
+  {
+   "card_17lands": "Brave Brawler",
+   "scryfall_name": "Brave Brawler",
+   "match": "full",
+   "gih": 51151,
+   "gih_wr": 0.5862446481984712
+  },
+  {
+   "card_17lands": "Hawkeye, Master Marksman",
+   "scryfall_name": "Hawkeye, Master Marksman",
+   "match": "full",
+   "gih": 6140,
+   "gih_wr": 0.5856677524429967
+  },
+  {
+   "card_17lands": "Return to the Ranks",
+   "scryfall_name": "Return to the Ranks",
+   "match": "non-set (bonus/token/other)",
+   "gih": 41,
+   "gih_wr": 0.5853658536585366
+  },
+  {
+   "card_17lands": "S.H.I.E.L.D. Spy Kit",
+   "scryfall_name": "S.H.I.E.L.D. Spy Kit",
+   "match": "full",
+   "gih": 43217,
+   "gih_wr": 0.5852789411574149
+  },
+  {
+   "card_17lands": "Borough Backup",
+   "scryfall_name": "Borough Backup",
+   "match": "full",
+   "gih": 53746,
+   "gih_wr": 0.585271462062293
+  },
+  {
+   "card_17lands": "Futurist Forge",
+   "scryfall_name": "Futurist Forge",
+   "match": "full",
+   "gih": 37999,
+   "gih_wr": 0.5851469775520408
+  },
+  {
+   "card_17lands": "Epic Fight",
+   "scryfall_name": "Epic Fight",
+   "match": "full",
+   "gih": 6948,
+   "gih_wr": 0.584916522740357
+  },
+  {
+   "card_17lands": "Madame Masque",
+   "scryfall_name": "Madame Masque",
+   "match": "full",
+   "gih": 18335,
+   "gih_wr": 0.5847832015271339
+  },
+  {
+   "card_17lands": "Go Nuts!",
+   "scryfall_name": "Go Nuts!",
+   "match": "full",
+   "gih": 39381,
+   "gih_wr": 0.5847235976740053
+  },
+  {
+   "card_17lands": "Captain America, First Avenger",
+   "scryfall_name": "Captain America, First Avenger",
+   "match": "non-set (bonus/token/other)",
+   "gih": 96,
+   "gih_wr": 0.5833333333333334
+  },
+  {
+   "card_17lands": "Super-Adaptoid",
+   "scryfall_name": "Super-Adaptoid",
+   "match": "full",
+   "gih": 7576,
+   "gih_wr": 0.5832893347412883
+  },
+  {
+   "card_17lands": "Origin of the Avengers",
+   "scryfall_name": "Origin of the Avengers",
+   "match": "full",
+   "gih": 8168,
+   "gih_wr": 0.5831292850146915
+  },
+  {
+   "card_17lands": "Daredevil, Man Without Fear",
+   "scryfall_name": "Daredevil, Man Without Fear",
+   "match": "full",
+   "gih": 7487,
+   "gih_wr": 0.581942032856952
+  },
+  {
+   "card_17lands": "The Kingpin of Crime",
+   "scryfall_name": "The Kingpin of Crime",
+   "match": "full",
+   "gih": 5687,
+   "gih_wr": 0.5813258308422719
+  },
+  {
+   "card_17lands": "Black Widow, Super Spy",
+   "scryfall_name": "Black Widow, Super Spy",
+   "match": "full",
+   "gih": 3590,
+   "gih_wr": 0.581058495821727
+  },
+  {
+   "card_17lands": "Captain America, Living Legend",
+   "scryfall_name": "Captain America, Living Legend",
+   "match": "full",
+   "gih": 19410,
+   "gih_wr": 0.5809891808346214
+  },
+  {
+   "card_17lands": "Nick Fury, Agent of S.H.I.E.L.D.",
+   "scryfall_name": "Nick Fury, Agent of S.H.I.E.L.D.",
+   "match": "full",
+   "gih": 5546,
+   "gih_wr": 0.5809592499098449
+  },
+  {
+   "card_17lands": "H.E.R.B.I.E. Scout Unit",
+   "scryfall_name": "H.E.R.B.I.E. Scout Unit",
+   "match": "full",
+   "gih": 54083,
+   "gih_wr": 0.5807000351311873
+  },
+  {
+   "card_17lands": "White Tiger, Ava Ayala",
+   "scryfall_name": "White Tiger, Ava Ayala",
+   "match": "full",
+   "gih": 17700,
+   "gih_wr": 0.5803389830508474
+  },
+  {
+   "card_17lands": "Rapid Rescue",
+   "scryfall_name": "Rapid Rescue",
+   "match": "full",
+   "gih": 12030,
+   "gih_wr": 0.5800498753117207
+  },
+  {
+   "card_17lands": "Falcon's Wing Harness",
+   "scryfall_name": "Falcon's Wing Harness",
+   "match": "full",
+   "gih": 15794,
+   "gih_wr": 0.5797138153729264
+  },
+  {
+   "card_17lands": "Frozen in Ice",
+   "scryfall_name": "Frozen in Ice",
+   "match": "full",
+   "gih": 48838,
+   "gih_wr": 0.5795896637863959
+  },
+  {
+   "card_17lands": "Giant-Sized Flying Ant",
+   "scryfall_name": "Giant-Sized Flying Ant",
+   "match": "full",
+   "gih": 30240,
+   "gih_wr": 0.5794973544973545
+  },
+  {
+   "card_17lands": "Bold Biochemist",
+   "scryfall_name": "Bold Biochemist",
+   "match": "full",
+   "gih": 46809,
+   "gih_wr": 0.5789271293981927
+  },
+  {
+   "card_17lands": "Helicarrier Strike",
+   "scryfall_name": "Helicarrier Strike",
+   "match": "full",
+   "gih": 44784,
+   "gih_wr": 0.5786441586280815
+  },
+  {
+   "card_17lands": "Raft Security Officer",
+   "scryfall_name": "Raft Security Officer",
+   "match": "full",
+   "gih": 52803,
+   "gih_wr": 0.5786224267560556
+  },
+  {
+   "card_17lands": "Villainous Hideout",
+   "scryfall_name": "Villainous Hideout",
+   "match": "full",
+   "gih": 14377,
+   "gih_wr": 0.5784934270014607
+  },
+  {
+   "card_17lands": "Aerial Doombot",
+   "scryfall_name": "Aerial Doombot",
+   "match": "full",
+   "gih": 39010,
+   "gih_wr": 0.5784414252755704
+  },
+  {
+   "card_17lands": "Night Nurse, Healer of Heroes",
+   "scryfall_name": "Night Nurse, Healer of Heroes",
+   "match": "full",
+   "gih": 23669,
+   "gih_wr": 0.5784359288520851
+  },
+  {
+   "card_17lands": "Jessica Jones, Private Eye",
+   "scryfall_name": "Jessica Jones, Private Eye",
+   "match": "full",
+   "gih": 15958,
+   "gih_wr": 0.5783932823662113
+  },
+  {
+   "card_17lands": "Avengers Hangar",
+   "scryfall_name": "Avengers Hangar",
+   "match": "full",
+   "gih": 25337,
+   "gih_wr": 0.5781663180329163
+  },
+  {
+   "card_17lands": "Patriot, Shield Wielder",
+   "scryfall_name": "Patriot, Shield Wielder",
+   "match": "full",
+   "gih": 22139,
+   "gih_wr": 0.5780748904647907
+  },
+  {
+   "card_17lands": "Wakandan Drone Flock",
+   "scryfall_name": "Wakandan Drone Flock",
+   "match": "full",
+   "gih": 33636,
+   "gih_wr": 0.5779819241289095
+  },
+  {
+   "card_17lands": "Don't Move",
+   "scryfall_name": "Don't Move",
+   "match": "non-set (bonus/token/other)",
+   "gih": 194,
+   "gih_wr": 0.5773195876288659
+  },
+  {
+   "card_17lands": "Reptil, Dinomorpher",
+   "scryfall_name": "Reptil, Dinomorpher",
+   "match": "full",
+   "gih": 6526,
+   "gih_wr": 0.5772295433650015
+  },
+  {
+   "card_17lands": "Lord of Atlantis",
+   "scryfall_name": "Lord of Atlantis",
+   "match": "non-set (bonus/token/other)",
+   "gih": 52,
+   "gih_wr": 0.5769230769230769
+  },
+  {
+   "card_17lands": "Gleaming Bastion",
+   "scryfall_name": "Gleaming Bastion",
+   "match": "full",
+   "gih": 7482,
+   "gih_wr": 0.5767174552258755
+  },
+  {
+   "card_17lands": "A.I.M. Scientists",
+   "scryfall_name": "A.I.M. Scientists",
+   "match": "full",
+   "gih": 39286,
+   "gih_wr": 0.5762612635544468
+  },
+  {
+   "card_17lands": "Baxter Building",
+   "scryfall_name": "Baxter Building",
+   "match": "full",
+   "gih": 20927,
+   "gih_wr": 0.575715582740001
+  },
+  {
+   "card_17lands": "Pet Avengers",
+   "scryfall_name": "Pet Avengers",
+   "match": "full",
+   "gih": 30114,
+   "gih_wr": 0.5753802218237365
+  },
+  {
+   "card_17lands": "Heroic Intervention",
+   "scryfall_name": "Heroic Intervention",
+   "match": "non-set (bonus/token/other)",
+   "gih": 301,
+   "gih_wr": 0.574750830564784
+  },
+  {
+   "card_17lands": "Archangel of Thune",
+   "scryfall_name": "Archangel of Thune",
+   "match": "non-set (bonus/token/other)",
+   "gih": 275,
+   "gih_wr": 0.5745454545454546
+  },
+  {
+   "card_17lands": "U.S.Agent, John Walker",
+   "scryfall_name": "U.S.Agent, John Walker",
+   "match": "full",
+   "gih": 19992,
+   "gih_wr": 0.5740296118447379
+  },
+  {
+   "card_17lands": "Thanos, the Mad Titan",
+   "scryfall_name": "Thanos, the Mad Titan",
+   "match": "full",
+   "gih": 1770,
+   "gih_wr": 0.5740112994350283
+  },
+  {
+   "card_17lands": "Ant-Man's Army",
+   "scryfall_name": "Ant-Man's Army",
+   "match": "full",
+   "gih": 30740,
+   "gih_wr": 0.5738126219908913
+  },
+  {
+   "card_17lands": "S.H.I.E.L.D. Helicarrier",
+   "scryfall_name": "S.H.I.E.L.D. Helicarrier",
+   "match": "full",
+   "gih": 4310,
+   "gih_wr": 0.5737819025522042
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 225461,
+   "gih_wr": 0.5736247067120256
+  },
+  {
+   "card_17lands": "Whiplash, Vengeful Engineer",
+   "scryfall_name": "Whiplash, Vengeful Engineer",
+   "match": "full",
+   "gih": 7649,
+   "gih_wr": 0.5735390247091123
+  },
+  {
+   "card_17lands": "Atlantis Attacks",
+   "scryfall_name": "Atlantis Attacks",
+   "match": "full",
+   "gih": 40390,
+   "gih_wr": 0.5723446397623174
+  },
+  {
+   "card_17lands": "Abomination, Terrifying Titan",
+   "scryfall_name": "Abomination, Terrifying Titan",
+   "match": "full",
+   "gih": 13467,
+   "gih_wr": 0.5717680255439221
+  },
+  {
+   "card_17lands": "Serpent Specialist",
+   "scryfall_name": "Serpent Specialist",
+   "match": "full",
+   "gih": 24575,
+   "gih_wr": 0.5711495422177009
+  },
+  {
+   "card_17lands": "The Serpent Society",
+   "scryfall_name": "The Serpent Society",
+   "match": "full",
+   "gih": 3791,
+   "gih_wr": 0.5710894223160116
+  },
+  {
+   "card_17lands": "Ares, God of War",
+   "scryfall_name": "Ares, God of War",
+   "match": "full",
+   "gih": 4432,
+   "gih_wr": 0.5703971119133574
+  },
+  {
+   "card_17lands": "Agent of Atlas",
+   "scryfall_name": "Agent of Atlas",
+   "match": "full",
+   "gih": 32390,
+   "gih_wr": 0.5702686014201914
+  },
+  {
+   "card_17lands": "Unnatural Growth",
+   "scryfall_name": "Unnatural Growth",
+   "match": "non-set (bonus/token/other)",
+   "gih": 121,
+   "gih_wr": 0.5702479338842975
+  },
+  {
+   "card_17lands": "Klaw, Sonic Subjugator",
+   "scryfall_name": "Klaw, Sonic Subjugator",
+   "match": "full",
+   "gih": 17325,
+   "gih_wr": 0.57004329004329
+  },
+  {
+   "card_17lands": "Surveillance Room",
+   "scryfall_name": "Surveillance Room",
+   "match": "full",
+   "gih": 45264,
+   "gih_wr": 0.5699893955461294
+  },
+  {
+   "card_17lands": "The Astonishing Ant-Man",
+   "scryfall_name": "The Astonishing Ant-Man",
+   "match": "full",
+   "gih": 5191,
+   "gih_wr": 0.5698324022346368
+  },
+  {
+   "card_17lands": "Training Compound",
+   "scryfall_name": "Training Compound",
+   "match": "full",
+   "gih": 4376,
+   "gih_wr": 0.5694698354661791
+  },
+  {
+   "card_17lands": "Hour of Defeat",
+   "scryfall_name": "Hour of Defeat",
+   "match": "full",
+   "gih": 37110,
+   "gih_wr": 0.5689302074912422
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 209777,
+   "gih_wr": 0.5687325111904546
+  },
+  {
+   "card_17lands": "Birnin Zana Plaza",
+   "scryfall_name": "Birnin Zana Plaza",
+   "match": "full",
+   "gih": 18558,
+   "gih_wr": 0.5685418687358551
+  },
+  {
+   "card_17lands": "Pym Technologies",
+   "scryfall_name": "Pym Technologies",
+   "match": "full",
+   "gih": 17440,
+   "gih_wr": 0.5681192660550459
+  },
+  {
+   "card_17lands": "Guerrilla Gorilla",
+   "scryfall_name": "Guerrilla Gorilla",
+   "match": "full",
+   "gih": 25561,
+   "gih_wr": 0.5677790383787802
+  },
+  {
+   "card_17lands": "Titania, Rugged Rumbler",
+   "scryfall_name": "Titania, Rugged Rumbler",
+   "match": "full",
+   "gih": 12235,
+   "gih_wr": 0.5677155700858194
+  },
+  {
+   "card_17lands": "HYDRA Infiltration",
+   "scryfall_name": "HYDRA Infiltration",
+   "match": "full",
+   "gih": 13102,
+   "gih_wr": 0.5675469393985652
+  },
+  {
+   "card_17lands": "Subterranean Cavern",
+   "scryfall_name": "Subterranean Cavern",
+   "match": "full",
+   "gih": 16361,
+   "gih_wr": 0.5665301631929589
+  },
+  {
+   "card_17lands": "Namor the Sub-Mariner",
+   "scryfall_name": "Namor the Sub-Mariner",
+   "match": "full",
+   "gih": 2723,
+   "gih_wr": 0.5662871832537643
+  },
+  {
+   "card_17lands": "Asgardian Citadel",
+   "scryfall_name": "Asgardian Citadel",
+   "match": "full",
+   "gih": 16462,
+   "gih_wr": 0.5659093670270927
+  },
+  {
+   "card_17lands": "Hellcat, Undying Vigilante",
+   "scryfall_name": "Hellcat, Undying Vigilante",
+   "match": "full",
+   "gih": 10033,
+   "gih_wr": 0.5658327519186684
+  },
+  {
+   "card_17lands": "Depower",
+   "scryfall_name": "Depower",
+   "match": "full",
+   "gih": 22429,
+   "gih_wr": 0.5658299522939052
+  },
+  {
+   "card_17lands": "Widow's Bite",
+   "scryfall_name": "Widow's Bite",
+   "match": "full",
+   "gih": 32380,
+   "gih_wr": 0.5655342804200123
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 147695,
+   "gih_wr": 0.5653271945563493
+  },
+  {
+   "card_17lands": "Captain America's Shield",
+   "scryfall_name": "Captain America's Shield",
+   "match": "full",
+   "gih": 8178,
+   "gih_wr": 0.5650525800929322
+  },
+  {
+   "card_17lands": "Fisk Tower",
+   "scryfall_name": "Fisk Tower",
+   "match": "full",
+   "gih": 16729,
+   "gih_wr": 0.5642895570566083
+  },
+  {
+   "card_17lands": "Super Villain Lockup",
+   "scryfall_name": "Super Villain Lockup",
+   "match": "full",
+   "gih": 16897,
+   "gih_wr": 0.5642421731668343
+  },
+  {
+   "card_17lands": "Hidden Lair",
+   "scryfall_name": "Hidden Lair",
+   "match": "full",
+   "gih": 5339,
+   "gih_wr": 0.564150589998127
+  },
+  {
+   "card_17lands": "Baron Strucker, HYDRA Overlord",
+   "scryfall_name": "Baron Strucker, HYDRA Overlord",
+   "match": "full",
+   "gih": 13388,
+   "gih_wr": 0.563489692261727
+  },
+  {
+   "card_17lands": "Final Act",
+   "scryfall_name": "Final Act",
+   "match": "non-set (bonus/token/other)",
+   "gih": 197,
+   "gih_wr": 0.5634517766497462
+  },
+  {
+   "card_17lands": "Crowd of True Believers",
+   "scryfall_name": "Crowd of True Believers",
+   "match": "full",
+   "gih": 16411,
+   "gih_wr": 0.563402595819877
+  },
+  {
+   "card_17lands": "White Widow, Free Agent",
+   "scryfall_name": "White Widow, Free Agent",
+   "match": "full",
+   "gih": 16593,
+   "gih_wr": 0.56337009582354
+  },
+  {
+   "card_17lands": "Stark Industries",
+   "scryfall_name": "Stark Industries",
+   "match": "full",
+   "gih": 16748,
+   "gih_wr": 0.5633508478624313
+  },
+  {
+   "card_17lands": "Gathering Place",
+   "scryfall_name": "Gathering Place",
+   "match": "full",
+   "gih": 5724,
+   "gih_wr": 0.5623689727463312
+  },
+  {
+   "card_17lands": "Agents of S.H.I.E.L.D.",
+   "scryfall_name": "Agents of S.H.I.E.L.D.",
+   "match": "full",
+   "gih": 27589,
+   "gih_wr": 0.5622893182065316
+  },
+  {
+   "card_17lands": "Savage Land Dinosaur",
+   "scryfall_name": "Savage Land Dinosaur",
+   "match": "full",
+   "gih": 28560,
+   "gih_wr": 0.5622549019607843
+  },
+  {
+   "card_17lands": "Wakandan Royal Guard",
+   "scryfall_name": "Wakandan Royal Guard",
+   "match": "full",
+   "gih": 18603,
+   "gih_wr": 0.5621136375853357
+  },
+  {
+   "card_17lands": "Shuri, Wakandan Inventor",
+   "scryfall_name": "Shuri, Wakandan Inventor",
+   "match": "full",
+   "gih": 10622,
+   "gih_wr": 0.5620410468838261
+  },
+  {
+   "card_17lands": "I Am Iron Man",
+   "scryfall_name": "I Am Iron Man",
+   "match": "full",
+   "gih": 17302,
+   "gih_wr": 0.5620159519130736
+  },
+  {
+   "card_17lands": "Photon Blast Barrage",
+   "scryfall_name": "Photon Blast Barrage",
+   "match": "full",
+   "gih": 12208,
+   "gih_wr": 0.5617627785058977
+  },
+  {
+   "card_17lands": "A.I.M. Labs",
+   "scryfall_name": "A.I.M. Labs",
+   "match": "full",
+   "gih": 17474,
+   "gih_wr": 0.5616916561748884
+  },
+  {
+   "card_17lands": "Wiccan, Rising Magician",
+   "scryfall_name": "Wiccan, Rising Magician",
+   "match": "full",
+   "gih": 13919,
+   "gih_wr": 0.561678281485739
+  },
+  {
+   "card_17lands": "Mechanized Production",
+   "scryfall_name": "Mechanized Production",
+   "match": "non-set (bonus/token/other)",
+   "gih": 73,
+   "gih_wr": 0.5616438356164384
+  },
+  {
+   "card_17lands": "Black Panther, Vanguard",
+   "scryfall_name": "Black Panther, Vanguard",
+   "match": "full",
+   "gih": 13194,
+   "gih_wr": 0.5613157495831439
+  },
+  {
+   "card_17lands": "Mister Hyde, Monster Within",
+   "scryfall_name": "Mister Hyde, Monster Within",
+   "match": "full",
+   "gih": 11351,
+   "gih_wr": 0.5612721346136904
+  },
+  {
+   "card_17lands": "Los Diablos Missile Base",
+   "scryfall_name": "Los Diablos Missile Base",
+   "match": "full",
+   "gih": 13973,
+   "gih_wr": 0.561010520289129
+  },
+  {
+   "card_17lands": "Giant Growth",
+   "scryfall_name": "Giant Growth",
+   "match": "full",
+   "gih": 8780,
+   "gih_wr": 0.5609339407744874
+  },
+  {
+   "card_17lands": "Hulk, Gamma Goliath",
+   "scryfall_name": "Hulk, Gamma Goliath",
+   "match": "full",
+   "gih": 7635,
+   "gih_wr": 0.5607072691552063
+  },
+  {
+   "card_17lands": "Black Widow, Double Agent",
+   "scryfall_name": "Black Widow, Double Agent",
+   "match": "full",
+   "gih": 10701,
+   "gih_wr": 0.5605083637043267
+  },
+  {
+   "card_17lands": "Dig Through Time",
+   "scryfall_name": "Dig Through Time",
+   "match": "non-set (bonus/token/other)",
+   "gih": 218,
+   "gih_wr": 0.5596330275229358
+  },
+  {
+   "card_17lands": "Swordsman, Sharp Scoundrel",
+   "scryfall_name": "Swordsman, Sharp Scoundrel",
+   "match": "full",
+   "gih": 8250,
+   "gih_wr": 0.559030303030303
+  },
+  {
+   "card_17lands": "Moon Girl and Devil Dinosaur",
+   "scryfall_name": "Moon Girl and Devil Dinosaur",
+   "match": "full",
+   "gih": 4778,
+   "gih_wr": 0.5590205106739221
+  },
+  {
+   "card_17lands": "Super Suit",
+   "scryfall_name": "Super Suit",
+   "match": "full",
+   "gih": 12668,
+   "gih_wr": 0.558414903694348
+  },
+  {
+   "card_17lands": "Ronin, Shadow Stalker",
+   "scryfall_name": "Ronin, Shadow Stalker",
+   "match": "full",
+   "gih": 5036,
+   "gih_wr": 0.5583796664019063
+  },
+  {
+   "card_17lands": "Yellowjacket, Heartless Marauder",
+   "scryfall_name": "Yellowjacket, Heartless Marauder",
+   "match": "full",
+   "gih": 12924,
+   "gih_wr": 0.5575673166202414
+  },
+  {
+   "card_17lands": "Iron Lad, Diverging Destiny",
+   "scryfall_name": "Iron Lad, Diverging Destiny",
+   "match": "full",
+   "gih": 12093,
+   "gih_wr": 0.557429918134458
+  },
+  {
+   "card_17lands": "Quake, Agent of S.H.I.E.L.D.",
+   "scryfall_name": "Quake, Agent of S.H.I.E.L.D.",
+   "match": "full",
+   "gih": 12251,
+   "gih_wr": 0.5572606317851604
+  },
+  {
+   "card_17lands": "Colleen Wing, Street Samurai",
+   "scryfall_name": "Colleen Wing, Street Samurai",
+   "match": "full",
+   "gih": 10796,
+   "gih_wr": 0.5565950351982215
+  },
+  {
+   "card_17lands": "Ms. Marvel, Kamala Khan",
+   "scryfall_name": "Ms. Marvel, Kamala Khan",
+   "match": "full",
+   "gih": 4108,
+   "gih_wr": 0.5562317429406037
+  },
+  {
+   "card_17lands": "Red Room Recruit",
+   "scryfall_name": "Red Room Recruit",
+   "match": "full",
+   "gih": 32257,
+   "gih_wr": 0.5560653501565551
+  },
+  {
+   "card_17lands": "Counterspell",
+   "scryfall_name": "Counterspell",
+   "match": "non-set (bonus/token/other)",
+   "gih": 313,
+   "gih_wr": 0.5559105431309904
+  },
+  {
+   "card_17lands": "The Mind Stone",
+   "scryfall_name": "The Mind Stone",
+   "match": "full",
+   "gih": 3438,
+   "gih_wr": 0.555846422338569
+  },
+  {
+   "card_17lands": "Stolen Stark Tech",
+   "scryfall_name": "Stolen Stark Tech",
+   "match": "full",
+   "gih": 15739,
+   "gih_wr": 0.5555626151597941
+  },
+  {
+   "card_17lands": "Lightning Strike",
+   "scryfall_name": "Lightning Strike",
+   "match": "full",
+   "gih": 28626,
+   "gih_wr": 0.5553692447425418
+  },
+  {
+   "card_17lands": "Spider-Man, To the Rescue",
+   "scryfall_name": "Spider-Man, To the Rescue",
+   "match": "full",
+   "gih": 15339,
+   "gih_wr": 0.5552513201642871
+  },
+  {
+   "card_17lands": "Kang, Temporal Tyrant",
+   "scryfall_name": "Kang, Temporal Tyrant",
+   "match": "full",
+   "gih": 10590,
+   "gih_wr": 0.5545797922568461
+  },
+  {
+   "card_17lands": "Hercules, Prince of Power",
+   "scryfall_name": "Hercules, Prince of Power",
+   "match": "full",
+   "gih": 9882,
+   "gih_wr": 0.5545436146529042
+  },
+  {
+   "card_17lands": "HULK SMASH!",
+   "scryfall_name": "HULK SMASH!",
+   "match": "full",
+   "gih": 22976,
+   "gih_wr": 0.553708217270195
+  },
+  {
+   "card_17lands": "Reconnaissance Mission",
+   "scryfall_name": "Reconnaissance Mission",
+   "match": "non-set (bonus/token/other)",
+   "gih": 190,
+   "gih_wr": 0.5526315789473685
+  },
+  {
+   "card_17lands": "Iron Man, Master of Machines",
+   "scryfall_name": "Iron Man, Master of Machines",
+   "match": "full",
+   "gih": 8781,
+   "gih_wr": 0.5525566564172646
+  },
+  {
+   "card_17lands": "Dark Fortress",
+   "scryfall_name": "Dark Fortress",
+   "match": "full",
+   "gih": 4462,
+   "gih_wr": 0.5522187359928283
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 139622,
+   "gih_wr": 0.5519688874246179
+  },
+  {
+   "card_17lands": "Roaming Throne",
+   "scryfall_name": "Roaming Throne",
+   "match": "non-set (bonus/token/other)",
+   "gih": 328,
+   "gih_wr": 0.551829268292683
+  },
+  {
+   "card_17lands": "Ninja of the Hand",
+   "scryfall_name": "Ninja of the Hand",
+   "match": "full",
+   "gih": 19608,
+   "gih_wr": 0.5516625866993065
+  },
+  {
+   "card_17lands": "Taskmaster, Mercenary Mimic",
+   "scryfall_name": "Taskmaster, Mercenary Mimic",
+   "match": "full",
+   "gih": 4772,
+   "gih_wr": 0.5505029337803856
+  },
+  {
+   "card_17lands": "Hell's Kitchen",
+   "scryfall_name": "Hell's Kitchen",
+   "match": "full",
+   "gih": 14218,
+   "gih_wr": 0.5502883668589112
+  },
+  {
+   "card_17lands": "Super-Soldier Serum",
+   "scryfall_name": "Super-Soldier Serum",
+   "match": "full",
+   "gih": 3452,
+   "gih_wr": 0.5498261877172653
+  },
+  {
+   "card_17lands": "Hydraulic Helper",
+   "scryfall_name": "Hydraulic Helper",
+   "match": "full",
+   "gih": 15667,
+   "gih_wr": 0.5496904321184656
+  },
+  {
+   "card_17lands": "Attuma, Atlantean Warlord",
+   "scryfall_name": "Attuma, Atlantean Warlord",
+   "match": "full",
+   "gih": 9240,
+   "gih_wr": 0.5494588744588744
+  },
+  {
+   "card_17lands": "Dependable Quinjet",
+   "scryfall_name": "Dependable Quinjet",
+   "match": "full",
+   "gih": 13325,
+   "gih_wr": 0.5483677298311445
+  },
+  {
+   "card_17lands": "Ephemerate",
+   "scryfall_name": "Ephemerate",
+   "match": "non-set (bonus/token/other)",
+   "gih": 177,
+   "gih_wr": 0.5480225988700564
+  },
+  {
+   "card_17lands": "Cyberdrive Awakener",
+   "scryfall_name": "Cyberdrive Awakener",
+   "match": "non-set (bonus/token/other)",
+   "gih": 137,
+   "gih_wr": 0.5474452554744526
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 130685,
+   "gih_wr": 0.5473925852240119
+  },
+  {
+   "card_17lands": "Captain Mar-Vell, Space-Born",
+   "scryfall_name": "Captain Mar-Vell, Space-Born",
+   "match": "full",
+   "gih": 9577,
+   "gih_wr": 0.5471441996449827
+  },
+  {
+   "card_17lands": "Bullseye, Death Dealer",
+   "scryfall_name": "Bullseye, Death Dealer",
+   "match": "full",
+   "gih": 10671,
+   "gih_wr": 0.547090244588136
+  },
+  {
+   "card_17lands": "Ant-Man, Colony Commander",
+   "scryfall_name": "Ant-Man, Colony Commander",
+   "match": "full",
+   "gih": 7808,
+   "gih_wr": 0.5458504098360656
+  },
+  {
+   "card_17lands": "Mole Man, Moloid Master",
+   "scryfall_name": "Mole Man, Moloid Master",
+   "match": "full",
+   "gih": 3897,
+   "gih_wr": 0.5458044649730562
+  },
+  {
+   "card_17lands": "Roxxon Brutes",
+   "scryfall_name": "Roxxon Brutes",
+   "match": "full",
+   "gih": 27566,
+   "gih_wr": 0.545418268881956
+  },
+  {
+   "card_17lands": "Crimson Operative",
+   "scryfall_name": "Crimson Operative",
+   "match": "full",
+   "gih": 20073,
+   "gih_wr": 0.5440143476311463
+  },
+  {
+   "card_17lands": "Panther Pounce",
+   "scryfall_name": "Panther Pounce",
+   "match": "full",
+   "gih": 11498,
+   "gih_wr": 0.5439206818577144
+  },
+  {
+   "card_17lands": "Unliving Legionnaire",
+   "scryfall_name": "Unliving Legionnaire",
+   "match": "full",
+   "gih": 11154,
+   "gih_wr": 0.5438407746100054
+  },
+  {
+   "card_17lands": "Rick Jones, Destined Sidekick",
+   "scryfall_name": "Rick Jones, Destined Sidekick",
+   "match": "full",
+   "gih": 2085,
+   "gih_wr": 0.5429256594724221
+  },
+  {
+   "card_17lands": "The Masters of Evil",
+   "scryfall_name": "The Masters of Evil",
+   "match": "full",
+   "gih": 11144,
+   "gih_wr": 0.5428930366116296
+  },
+  {
+   "card_17lands": "Kingpin's Enforcers",
+   "scryfall_name": "Kingpin's Enforcers",
+   "match": "full",
+   "gih": 15592,
+   "gih_wr": 0.5428424833247819
+  },
+  {
+   "card_17lands": "Kree Sentinel",
+   "scryfall_name": "Kree Sentinel",
+   "match": "full",
+   "gih": 22417,
+   "gih_wr": 0.5422224204844538
+  },
+  {
+   "card_17lands": "Ultron Drone",
+   "scryfall_name": "Ultron Drone",
+   "match": "full",
+   "gih": 12395,
+   "gih_wr": 0.5419120613150464
+  },
+  {
+   "card_17lands": "Avengers Disassembled",
+   "scryfall_name": "Avengers Disassembled",
+   "match": "full",
+   "gih": 3233,
+   "gih_wr": 0.5419115372718837
+  },
+  {
+   "card_17lands": "Kid Loki",
+   "scryfall_name": "Kid Loki",
+   "match": "full",
+   "gih": 10027,
+   "gih_wr": 0.5415378478109105
+  },
+  {
+   "card_17lands": "Speed, Young Avenger",
+   "scryfall_name": "Speed, Young Avenger",
+   "match": "full",
+   "gih": 4200,
+   "gih_wr": 0.5395238095238095
+  },
+  {
+   "card_17lands": "Tigra, Feline Fury",
+   "scryfall_name": "Tigra, Feline Fury",
+   "match": "full",
+   "gih": 6914,
+   "gih_wr": 0.5389065663870408
+  },
+  {
+   "card_17lands": "Visions of Villainy",
+   "scryfall_name": "Visions of Villainy",
+   "match": "full",
+   "gih": 21621,
+   "gih_wr": 0.538134221358864
+  },
+  {
+   "card_17lands": "Viv Vision, Teen Synthezoid",
+   "scryfall_name": "Viv Vision, Teen Synthezoid",
+   "match": "full",
+   "gih": 9473,
+   "gih_wr": 0.5379499630528871
+  },
+  {
+   "card_17lands": "The Sentry, Golden Guardian",
+   "scryfall_name": "The Sentry, Golden Guardian",
+   "match": "full",
+   "gih": 5181,
+   "gih_wr": 0.5379270411117545
+  },
+  {
+   "card_17lands": "Ultron, Artificial Malevolence",
+   "scryfall_name": "Ultron, Artificial Malevolence",
+   "match": "full",
+   "gih": 2907,
+   "gih_wr": 0.5376676986584107
+  },
+  {
+   "card_17lands": "Shang-Chi, Master of Kung Fu",
+   "scryfall_name": "Shang-Chi, Master of Kung Fu",
+   "match": "full",
+   "gih": 2140,
+   "gih_wr": 0.5373831775700935
+  },
+  {
+   "card_17lands": "Misty Knight, Hero for Hire",
+   "scryfall_name": "Misty Knight, Hero for Hire",
+   "match": "full",
+   "gih": 7719,
+   "gih_wr": 0.5363389040031092
+  },
+  {
+   "card_17lands": "Echo, Perceptive Prodigy",
+   "scryfall_name": "Echo, Perceptive Prodigy",
+   "match": "full",
+   "gih": 11989,
+   "gih_wr": 0.5359913253815998
+  },
+  {
+   "card_17lands": "Fin Fang Foom",
+   "scryfall_name": "Fin Fang Foom",
+   "match": "full",
+   "gih": 4322,
+   "gih_wr": 0.5358630263766775
+  },
+  {
+   "card_17lands": "Mister Fantastic, Reed Richards",
+   "scryfall_name": "Mister Fantastic, Reed Richards",
+   "match": "full",
+   "gih": 6204,
+   "gih_wr": 0.5356221792392005
+  },
+  {
+   "card_17lands": "Baron Helmut Zemo",
+   "scryfall_name": "Baron Helmut Zemo",
+   "match": "full",
+   "gih": 2293,
+   "gih_wr": 0.5351068469254252
+  },
+  {
+   "card_17lands": "HYDRA Troopers",
+   "scryfall_name": "HYDRA Troopers",
+   "match": "full",
+   "gih": 17039,
+   "gih_wr": 0.5347144785492106
+  },
+  {
+   "card_17lands": "Super Intelligence",
+   "scryfall_name": "Super Intelligence",
+   "match": "full",
+   "gih": 6029,
+   "gih_wr": 0.5344169845745563
+  },
+  {
+   "card_17lands": "Doc Samson, Super Psychiatrist",
+   "scryfall_name": "Doc Samson, Super Psychiatrist",
+   "match": "full",
+   "gih": 7125,
+   "gih_wr": 0.5338947368421053
+  },
+  {
+   "card_17lands": "Ironheart, Clever Champion",
+   "scryfall_name": "Ironheart, Clever Champion",
+   "match": "full",
+   "gih": 3881,
+   "gih_wr": 0.5336253542901314
+  },
+  {
+   "card_17lands": "Doom Reigns Supreme",
+   "scryfall_name": "Doom Reigns Supreme",
+   "match": "full",
+   "gih": 4344,
+   "gih_wr": 0.5324585635359116
+  },
+  {
+   "card_17lands": "Evil's Thrall",
+   "scryfall_name": "Evil's Thrall",
+   "match": "full",
+   "gih": 1469,
+   "gih_wr": 0.5323349217154527
+  },
+  {
+   "card_17lands": "Project Deathlok Soldier",
+   "scryfall_name": "Project Deathlok Soldier",
+   "match": "full",
+   "gih": 8647,
+   "gih_wr": 0.5322077020932116
+  },
+  {
+   "card_17lands": "Restorative Technique",
+   "scryfall_name": "Restorative Technique",
+   "match": "full",
+   "gih": 8903,
+   "gih_wr": 0.5316185555430754
+  },
+  {
+   "card_17lands": "Atlantean Cavalry",
+   "scryfall_name": "Atlantean Cavalry",
+   "match": "full",
+   "gih": 11201,
+   "gih_wr": 0.5313811266851174
+  },
+  {
+   "card_17lands": "Heroic Feast",
+   "scryfall_name": "Heroic Feast",
+   "match": "full",
+   "gih": 2803,
+   "gih_wr": 0.5305030324652158
+  },
+  {
+   "card_17lands": "A.I.M. Synthoids",
+   "scryfall_name": "A.I.M. Synthoids",
+   "match": "full",
+   "gih": 17036,
+   "gih_wr": 0.5302888001878375
+  },
+  {
+   "card_17lands": "Loki Laufeyson",
+   "scryfall_name": "Loki Laufeyson",
+   "match": "full",
+   "gih": 10329,
+   "gih_wr": 0.5300609933197793
+  },
+  {
+   "card_17lands": "Knight of Wundagore",
+   "scryfall_name": "Knight of Wundagore",
+   "match": "full",
+   "gih": 18370,
+   "gih_wr": 0.5298312465977136
+  },
+  {
+   "card_17lands": "The Thing, Ben Grimm",
+   "scryfall_name": "The Thing, Ben Grimm",
+   "match": "full",
+   "gih": 7298,
+   "gih_wr": 0.5294601260619348
+  },
+  {
+   "card_17lands": "Agents of HYDRA",
+   "scryfall_name": "Agents of HYDRA",
+   "match": "full",
+   "gih": 17957,
+   "gih_wr": 0.5293757309127359
+  },
+  {
+   "card_17lands": "Blazing Crescendo",
+   "scryfall_name": "Blazing Crescendo",
+   "match": "full",
+   "gih": 7417,
+   "gih_wr": 0.5291896993393556
+  },
+  {
+   "card_17lands": "Training Regimen",
+   "scryfall_name": "Training Regimen",
+   "match": "full",
+   "gih": 6400,
+   "gih_wr": 0.5290625
+  },
+  {
+   "card_17lands": "Castle Doom",
+   "scryfall_name": "Castle Doom",
+   "match": "full",
+   "gih": 3018,
+   "gih_wr": 0.5288270377733598
+  },
+  {
+   "card_17lands": "World War Hulk",
+   "scryfall_name": "World War Hulk",
+   "match": "full",
+   "gih": 3518,
+   "gih_wr": 0.5281409891984082
+  },
+  {
+   "card_17lands": "Ghost, Spectral Saboteur",
+   "scryfall_name": "Ghost, Spectral Saboteur",
+   "match": "full",
+   "gih": 5798,
+   "gih_wr": 0.5281131424629183
+  },
+  {
+   "card_17lands": "K'un-Lun Warrior",
+   "scryfall_name": "K'un-Lun Warrior",
+   "match": "full",
+   "gih": 10524,
+   "gih_wr": 0.5277461041429115
+  },
+  {
+   "card_17lands": "Pym Particles",
+   "scryfall_name": "Pym Particles",
+   "match": "full",
+   "gih": 5230,
+   "gih_wr": 0.5277246653919694
+  },
+  {
+   "card_17lands": "War Machine, Legacy of Iron",
+   "scryfall_name": "War Machine, Legacy of Iron",
+   "match": "full",
+   "gih": 9998,
+   "gih_wr": 0.5277055411082217
+  },
+  {
+   "card_17lands": "Crossbones, Malicious Mercenary",
+   "scryfall_name": "Crossbones, Malicious Mercenary",
+   "match": "full",
+   "gih": 9785,
+   "gih_wr": 0.5271333673990802
+  },
+  {
+   "card_17lands": "Hawkeye's Bow",
+   "scryfall_name": "Hawkeye's Bow",
+   "match": "full",
+   "gih": 6978,
+   "gih_wr": 0.5269418171395815
+  },
+  {
+   "card_17lands": "Luke Cage, Power Man",
+   "scryfall_name": "Luke Cage, Power Man",
+   "match": "full",
+   "gih": 4778,
+   "gih_wr": 0.5265801590623692
+  },
+  {
+   "card_17lands": "Hulkling, Burgeoning Bruiser",
+   "scryfall_name": "Hulkling, Burgeoning Bruiser",
+   "match": "full",
+   "gih": 7214,
+   "gih_wr": 0.5256445799833657
+  },
+  {
+   "card_17lands": "Force of Vigor",
+   "scryfall_name": "Force of Vigor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 40,
+   "gih_wr": 0.525
+  },
+  {
+   "card_17lands": "Grim Reaper, Lethal Legionnaire",
+   "scryfall_name": "Grim Reaper, Lethal Legionnaire",
+   "match": "full",
+   "gih": 5542,
+   "gih_wr": 0.5249007578491519
+  },
+  {
+   "card_17lands": "Repulsor Blast",
+   "scryfall_name": "Repulsor Blast",
+   "match": "full",
+   "gih": 21915,
+   "gih_wr": 0.524207164042893
+  },
+  {
+   "card_17lands": "Truck Toss",
+   "scryfall_name": "Truck Toss",
+   "match": "full",
+   "gih": 8963,
+   "gih_wr": 0.5240432890773179
+  },
+  {
+   "card_17lands": "Powerful Broker",
+   "scryfall_name": "Powerful Broker",
+   "match": "full",
+   "gih": 6507,
+   "gih_wr": 0.5237436606731213
+  },
+  {
+   "card_17lands": "Thirst for Knowledge",
+   "scryfall_name": "Thirst for Knowledge",
+   "match": "full",
+   "gih": 4443,
+   "gih_wr": 0.5235201440468152
+  },
+  {
+   "card_17lands": "HYDRA Assault Robot",
+   "scryfall_name": "HYDRA Assault Robot",
+   "match": "full",
+   "gih": 16672,
+   "gih_wr": 0.5231525911708254
+  },
+  {
+   "card_17lands": "Thor Odinson",
+   "scryfall_name": "Thor Odinson",
+   "match": "full",
+   "gih": 6791,
+   "gih_wr": 0.523045206891474
+  },
+  {
+   "card_17lands": "Call Damage Control",
+   "scryfall_name": "Call Damage Control",
+   "match": "full",
+   "gih": 5762,
+   "gih_wr": 0.5211732037486984
+  },
+  {
+   "card_17lands": "Hawkeye, Young Avenger",
+   "scryfall_name": "Hawkeye, Young Avenger",
+   "match": "full",
+   "gih": 7285,
+   "gih_wr": 0.5203843514070007
+  },
+  {
+   "card_17lands": "Wonder Man, Hollywood Hero",
+   "scryfall_name": "Wonder Man, Hollywood Hero",
+   "match": "full",
+   "gih": 4166,
+   "gih_wr": 0.5201632261161786
+  },
+  {
+   "card_17lands": "Kree Commandos",
+   "scryfall_name": "Kree Commandos",
+   "match": "full",
+   "gih": 6839,
+   "gih_wr": 0.5201052785494955
+  },
+  {
+   "card_17lands": "Super Strength",
+   "scryfall_name": "Super Strength",
+   "match": "full",
+   "gih": 1842,
+   "gih_wr": 0.5200868621064061
+  },
+  {
+   "card_17lands": "Mockingbird, Ace Agent",
+   "scryfall_name": "Mockingbird, Ace Agent",
+   "match": "full",
+   "gih": 4847,
+   "gih_wr": 0.5188776562822365
+  },
+  {
+   "card_17lands": "Human Torch, Johnny Storm",
+   "scryfall_name": "Human Torch, Johnny Storm",
+   "match": "full",
+   "gih": 6290,
+   "gih_wr": 0.5187599364069952
+  },
+  {
+   "card_17lands": "Scientist Supreme of A.I.M.",
+   "scryfall_name": "Scientist Supreme of A.I.M.",
+   "match": "full",
+   "gih": 2080,
+   "gih_wr": 0.51875
+  },
+  {
+   "card_17lands": "Decoy Ploy",
+   "scryfall_name": "Decoy Ploy",
+   "match": "full",
+   "gih": 9657,
+   "gih_wr": 0.5157916537226882
+  },
+  {
+   "card_17lands": "Stark Industries Executive",
+   "scryfall_name": "Stark Industries Executive",
+   "match": "full",
+   "gih": 13631,
+   "gih_wr": 0.514855843298364
+  },
+  {
+   "card_17lands": "Red Hulk",
+   "scryfall_name": "Red Hulk",
+   "match": "full",
+   "gih": 6532,
+   "gih_wr": 0.5148499693815064
+  },
+  {
+   "card_17lands": "Too Evil to Stay Dead",
+   "scryfall_name": "Too Evil to Stay Dead",
+   "match": "full",
+   "gih": 4839,
+   "gih_wr": 0.5141558173176276
+  },
+  {
+   "card_17lands": "Claim the Kingdom",
+   "scryfall_name": "Claim the Kingdom",
+   "match": "full",
+   "gih": 5603,
+   "gih_wr": 0.5132964483312511
+  },
+  {
+   "card_17lands": "Machinesmith Automaton",
+   "scryfall_name": "Machinesmith Automaton",
+   "match": "full",
+   "gih": 9407,
+   "gih_wr": 0.5128096098649941
+  },
+  {
+   "card_17lands": "Quicksilver, Brash Blur",
+   "scryfall_name": "Quicksilver, Brash Blur",
+   "match": "full",
+   "gih": 1348,
+   "gih_wr": 0.5118694362017804
+  },
+  {
+   "card_17lands": "Speedball, New Warrior",
+   "scryfall_name": "Speedball, New Warrior",
+   "match": "full",
+   "gih": 5775,
+   "gih_wr": 0.5113419913419913
+  },
+  {
+   "card_17lands": "Moonstone, Harsh Mistress",
+   "scryfall_name": "Moonstone, Harsh Mistress",
+   "match": "full",
+   "gih": 7242,
+   "gih_wr": 0.5111847555923777
+  },
+  {
+   "card_17lands": "Arnim Zola, Bio-Fanatic",
+   "scryfall_name": "Arnim Zola, Bio-Fanatic",
+   "match": "full",
+   "gih": 8658,
+   "gih_wr": 0.5106260106260107
+  },
+  {
+   "card_17lands": "Iron Fist, Living Weapon",
+   "scryfall_name": "Iron Fist, Living Weapon",
+   "match": "full",
+   "gih": 3745,
+   "gih_wr": 0.5100133511348465
+  },
+  {
+   "card_17lands": "Vibranium Energy Daggers",
+   "scryfall_name": "Vibranium Energy Daggers",
+   "match": "full",
+   "gih": 4302,
+   "gih_wr": 0.5097629009762901
+  },
+  {
+   "card_17lands": "Multiversal Incursion",
+   "scryfall_name": "Multiversal Incursion",
+   "match": "full",
+   "gih": 2329,
+   "gih_wr": 0.5096607986260198
+  },
+  {
+   "card_17lands": "Wolverine, Best There Is",
+   "scryfall_name": "Wolverine, Best There Is",
+   "match": "non-set (bonus/token/other)",
+   "gih": 165,
+   "gih_wr": 0.509090909090909
+  },
+  {
+   "card_17lands": "The Ten Rings",
+   "scryfall_name": "The Ten Rings",
+   "match": "full",
+   "gih": 450,
+   "gih_wr": 0.5088888888888888
+  },
+  {
+   "card_17lands": "Alien Invasion",
+   "scryfall_name": "Alien Invasion",
+   "match": "full",
+   "gih": 3746,
+   "gih_wr": 0.5024025627335825
+  },
+  {
+   "card_17lands": "Vision of Love",
+   "scryfall_name": "Vision of Love",
+   "match": "full",
+   "gih": 5333,
+   "gih_wr": 0.5023438964935308
+  },
+  {
+   "card_17lands": "Madame Hydra",
+   "scryfall_name": "Madame Hydra",
+   "match": "full",
+   "gih": 7722,
+   "gih_wr": 0.5002590002590003
+  },
+  {
+   "card_17lands": "Beast Within",
+   "scryfall_name": "Beast Within",
+   "match": "non-set (bonus/token/other)",
+   "gih": 22,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Fiery Emancipation",
+   "scryfall_name": "Fiery Emancipation",
+   "match": "non-set (bonus/token/other)",
+   "gih": 76,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Thunderbolts Conspiracy",
+   "scryfall_name": "Thunderbolts Conspiracy",
+   "match": "full",
+   "gih": 2920,
+   "gih_wr": 0.49965753424657533
+  },
+  {
+   "card_17lands": "Team Tactics",
+   "scryfall_name": "Team Tactics",
+   "match": "full",
+   "gih": 3392,
+   "gih_wr": 0.497936320754717
+  },
+  {
+   "card_17lands": "Beast, Erudite Aerialist",
+   "scryfall_name": "Beast, Erudite Aerialist",
+   "match": "full",
+   "gih": 5655,
+   "gih_wr": 0.4970822281167109
+  },
+  {
+   "card_17lands": "Construct a Cosmic Cube",
+   "scryfall_name": "Construct a Cosmic Cube",
+   "match": "full",
+   "gih": 3420,
+   "gih_wr": 0.4956140350877193
+  },
+  {
+   "card_17lands": "Privileged Position",
+   "scryfall_name": "Privileged Position",
+   "match": "non-set (bonus/token/other)",
+   "gih": 67,
+   "gih_wr": 0.4925373134328358
+  },
+  {
+   "card_17lands": "Storm, Force of Nature",
+   "scryfall_name": "Storm, Force of Nature",
+   "match": "non-set (bonus/token/other)",
+   "gih": 134,
+   "gih_wr": 0.4925373134328358
+  },
+  {
+   "card_17lands": "Rewrite History",
+   "scryfall_name": "Rewrite History",
+   "match": "full",
+   "gih": 2689,
+   "gih_wr": 0.49126069170695424
+  },
+  {
+   "card_17lands": "Volcanic Villain",
+   "scryfall_name": "Volcanic Villain",
+   "match": "full",
+   "gih": 3154,
+   "gih_wr": 0.49112238427393784
+  },
+  {
+   "card_17lands": "Chaos Warp",
+   "scryfall_name": "Chaos Warp",
+   "match": "non-set (bonus/token/other)",
+   "gih": 55,
+   "gih_wr": 0.4909090909090909
+  },
+  {
+   "card_17lands": "Armor Wars",
+   "scryfall_name": "Armor Wars",
+   "match": "full",
+   "gih": 1703,
+   "gih_wr": 0.4903112155020552
+  },
+  {
+   "card_17lands": "Super Speed",
+   "scryfall_name": "Super Speed",
+   "match": "full",
+   "gih": 1571,
+   "gih_wr": 0.49013367281986
+  },
+  {
+   "card_17lands": "Robot Domination",
+   "scryfall_name": "Robot Domination",
+   "match": "full",
+   "gih": 5629,
+   "gih_wr": 0.48818617871735653
+  },
+  {
+   "card_17lands": "The Scarlet Witch",
+   "scryfall_name": "The Scarlet Witch",
+   "match": "full",
+   "gih": 741,
+   "gih_wr": 0.48313090418353577
+  },
+  {
+   "card_17lands": "Teferi's Protection",
+   "scryfall_name": "Teferi's Protection",
+   "match": "non-set (bonus/token/other)",
+   "gih": 83,
+   "gih_wr": 0.4819277108433735
+  },
+  {
+   "card_17lands": "Hire a Crew",
+   "scryfall_name": "Hire a Crew",
+   "match": "full",
+   "gih": 1649,
+   "gih_wr": 0.4675560946027896
+  },
+  {
+   "card_17lands": "Death to Our Enemies",
+   "scryfall_name": "Death to Our Enemies",
+   "match": "full",
+   "gih": 2801,
+   "gih_wr": 0.4630489111031774
+  },
+  {
+   "card_17lands": "Invisible Woman, Sue Storm",
+   "scryfall_name": "Invisible Woman, Sue Storm",
+   "match": "full",
+   "gih": 3124,
+   "gih_wr": 0.4612676056338028
+  },
+  {
+   "card_17lands": "Hex Magic",
+   "scryfall_name": "Hex Magic",
+   "match": "full",
+   "gih": 875,
+   "gih_wr": 0.45485714285714285
+  },
+  {
+   "card_17lands": "Narset's Reversal",
+   "scryfall_name": "Narset's Reversal",
+   "match": "non-set (bonus/token/other)",
+   "gih": 78,
+   "gih_wr": 0.44871794871794873
+  },
+  {
+   "card_17lands": "Concerted Effort",
+   "scryfall_name": "Concerted Effort",
+   "match": "non-set (bonus/token/other)",
+   "gih": 79,
+   "gih_wr": 0.4430379746835443
+  },
+  {
+   "card_17lands": "Steely Resolve",
+   "scryfall_name": "Steely Resolve",
+   "match": "non-set (bonus/token/other)",
+   "gih": 55,
+   "gih_wr": 0.43636363636363634
+  },
+  {
+   "card_17lands": "Worlds Within Worlds",
+   "scryfall_name": "Worlds Within Worlds",
+   "match": "full",
+   "gih": 138,
+   "gih_wr": 0.43478260869565216
+  },
+  {
+   "card_17lands": "Arc Reactor",
+   "scryfall_name": "Arc Reactor",
+   "match": "full",
+   "gih": 391,
+   "gih_wr": 0.4296675191815857
+  },
+  {
+   "card_17lands": "Show and Tell",
+   "scryfall_name": "Show and Tell",
+   "match": "non-set (bonus/token/other)",
+   "gih": 5,
+   "gih_wr": 0.4
+  },
+  {
+   "card_17lands": "Sundering Growth",
+   "scryfall_name": "Sundering Growth",
+   "match": "non-set (bonus/token/other)",
+   "gih": 49,
+   "gih_wr": 0.3877551020408163
+  },
+  {
+   "card_17lands": "Seize the Day",
+   "scryfall_name": "Seize the Day",
+   "match": "non-set (bonus/token/other)",
+   "gih": 34,
+   "gih_wr": 0.38235294117647056
+  },
+  {
+   "card_17lands": "Fight to the Death",
+   "scryfall_name": "Fight to the Death",
+   "match": "non-set (bonus/token/other)",
+   "gih": 25,
+   "gih_wr": 0.36
+  },
+  {
+   "card_17lands": "Fury of the Horde",
+   "scryfall_name": "Fury of the Horde",
+   "match": "non-set (bonus/token/other)",
+   "gih": 29,
+   "gih_wr": 0.3448275862068966
+  },
+  {
+   "card_17lands": "Bedlam",
+   "scryfall_name": "Bedlam",
+   "match": "non-set (bonus/token/other)",
+   "gih": 13,
+   "gih_wr": 0.3076923076923077
+  },
+  {
+   "card_17lands": "Primal Vigor",
+   "scryfall_name": "Primal Vigor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 29,
+   "gih_wr": 0.2413793103448276
+  },
+  {
+   "card_17lands": "Horn of Greed",
+   "scryfall_name": "Horn of Greed",
+   "match": "non-set (bonus/token/other)",
+   "gih": 14,
+   "gih_wr": 0.14285714285714285
+  },
+  {
+   "card_17lands": "Harbinger of the Seas",
+   "scryfall_name": "Harbinger of the Seas",
+   "match": "non-set (bonus/token/other)",
+   "gih": 4,
+   "gih_wr": 0.0
+  }
+ ]
+}

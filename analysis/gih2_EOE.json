@@ -1,0 +1,2254 @@
+{
+ "set": "EOE",
+ "games": 563418,
+ "wins": 311657,
+ "cards": [
+  {
+   "card_17lands": "Sliver Overlord",
+   "scryfall_name": "Sliver Overlord",
+   "match": "non-set (bonus/token/other)",
+   "gih": 12,
+   "gih_wr": 0.75
+  },
+  {
+   "card_17lands": "Ouroboroid",
+   "scryfall_name": "Ouroboroid",
+   "match": "full",
+   "gih": 6239,
+   "gih_wr": 0.6727039589677833
+  },
+  {
+   "card_17lands": "Quantum Riddler",
+   "scryfall_name": "Quantum Riddler",
+   "match": "full",
+   "gih": 7155,
+   "gih_wr": 0.6651292802236198
+  },
+  {
+   "card_17lands": "Elegy Acolyte",
+   "scryfall_name": "Elegy Acolyte",
+   "match": "full",
+   "gih": 13353,
+   "gih_wr": 0.6555830150527971
+  },
+  {
+   "card_17lands": "Cosmogrand Zenith",
+   "scryfall_name": "Cosmogrand Zenith",
+   "match": "full",
+   "gih": 6086,
+   "gih_wr": 0.6373644429838975
+  },
+  {
+   "card_17lands": "Genemorph Imago",
+   "scryfall_name": "Genemorph Imago",
+   "match": "full",
+   "gih": 13327,
+   "gih_wr": 0.6249718616342763
+  },
+  {
+   "card_17lands": "Celestial Colonnade",
+   "scryfall_name": "Celestial Colonnade",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3064,
+   "gih_wr": 0.6220626631853786
+  },
+  {
+   "card_17lands": "Nova Hellkite",
+   "scryfall_name": "Nova Hellkite",
+   "match": "full",
+   "gih": 11486,
+   "gih_wr": 0.6219745777468222
+  },
+  {
+   "card_17lands": "Warmaker Gunship",
+   "scryfall_name": "Warmaker Gunship",
+   "match": "full",
+   "gih": 11738,
+   "gih_wr": 0.6197819049241778
+  },
+  {
+   "card_17lands": "Dust Bowl",
+   "scryfall_name": "Dust Bowl",
+   "match": "non-set (bonus/token/other)",
+   "gih": 94,
+   "gih_wr": 0.6170212765957447
+  },
+  {
+   "card_17lands": "Sunset Saboteur",
+   "scryfall_name": "Sunset Saboteur",
+   "match": "full",
+   "gih": 13186,
+   "gih_wr": 0.6159563173062339
+  },
+  {
+   "card_17lands": "Possibility Technician",
+   "scryfall_name": "Possibility Technician",
+   "match": "full",
+   "gih": 12737,
+   "gih_wr": 0.612075056920782
+  },
+  {
+   "card_17lands": "Dubious Delicacy",
+   "scryfall_name": "Dubious Delicacy",
+   "match": "full",
+   "gih": 34383,
+   "gih_wr": 0.6103016025361371
+  },
+  {
+   "card_17lands": "Creeping Tar Pit",
+   "scryfall_name": "Creeping Tar Pit",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3112,
+   "gih_wr": 0.6098971722365039
+  },
+  {
+   "card_17lands": "Sunstar Chaplain",
+   "scryfall_name": "Sunstar Chaplain",
+   "match": "full",
+   "gih": 11451,
+   "gih_wr": 0.6090297790585975
+  },
+  {
+   "card_17lands": "Biomechan Engineer",
+   "scryfall_name": "Biomechan Engineer",
+   "match": "full",
+   "gih": 32863,
+   "gih_wr": 0.6078264309405714
+  },
+  {
+   "card_17lands": "Mutinous Massacre",
+   "scryfall_name": "Mutinous Massacre",
+   "match": "full",
+   "gih": 9296,
+   "gih_wr": 0.6044535283993115
+  },
+  {
+   "card_17lands": "Syr Vondam, Sunstar Exemplar",
+   "scryfall_name": "Syr Vondam, Sunstar Exemplar",
+   "match": "full",
+   "gih": 7974,
+   "gih_wr": 0.6039628793579133
+  },
+  {
+   "card_17lands": "Lumen-Class Frigate",
+   "scryfall_name": "Lumen-Class Frigate",
+   "match": "full",
+   "gih": 10924,
+   "gih_wr": 0.6038081288905163
+  },
+  {
+   "card_17lands": "The Seriema",
+   "scryfall_name": "The Seriema",
+   "match": "full",
+   "gih": 6641,
+   "gih_wr": 0.6023189278723083
+  },
+  {
+   "card_17lands": "Glacier Godmaw",
+   "scryfall_name": "Glacier Godmaw",
+   "match": "full",
+   "gih": 32766,
+   "gih_wr": 0.6022706464017579
+  },
+  {
+   "card_17lands": "Codecracker Hound",
+   "scryfall_name": "Codecracker Hound",
+   "match": "full",
+   "gih": 41821,
+   "gih_wr": 0.6021615934578322
+  },
+  {
+   "card_17lands": "Biotech Specialist",
+   "scryfall_name": "Biotech Specialist",
+   "match": "full",
+   "gih": 9639,
+   "gih_wr": 0.6015146799460525
+  },
+  {
+   "card_17lands": "All-Fates Stalker",
+   "scryfall_name": "All-Fates Stalker",
+   "match": "full",
+   "gih": 28792,
+   "gih_wr": 0.6007918866351765
+  },
+  {
+   "card_17lands": "Fell Gravship",
+   "scryfall_name": "Fell Gravship",
+   "match": "full",
+   "gih": 32292,
+   "gih_wr": 0.6003963830050787
+  },
+  {
+   "card_17lands": "Terrapact Intimidator",
+   "scryfall_name": "Terrapact Intimidator",
+   "match": "full",
+   "gih": 29223,
+   "gih_wr": 0.600383259761147
+  },
+  {
+   "card_17lands": "Anticausal Vestige",
+   "scryfall_name": "Anticausal Vestige",
+   "match": "full",
+   "gih": 13337,
+   "gih_wr": 0.5994601484591737
+  },
+  {
+   "card_17lands": "Synthesizer Labship",
+   "scryfall_name": "Synthesizer Labship",
+   "match": "full",
+   "gih": 12995,
+   "gih_wr": 0.5991535205848403
+  },
+  {
+   "card_17lands": "Haliya, Guided by Light",
+   "scryfall_name": "Haliya, Guided by Light",
+   "match": "full",
+   "gih": 9933,
+   "gih_wr": 0.5980066445182725
+  },
+  {
+   "card_17lands": "Larval Scoutlander",
+   "scryfall_name": "Larval Scoutlander",
+   "match": "full",
+   "gih": 31511,
+   "gih_wr": 0.5965535844625687
+  },
+  {
+   "card_17lands": "Secluded Starforge",
+   "scryfall_name": "Secluded Starforge",
+   "match": "full",
+   "gih": 14863,
+   "gih_wr": 0.5952364933055238
+  },
+  {
+   "card_17lands": "Lavaclaw Reaches",
+   "scryfall_name": "Lavaclaw Reaches",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2165,
+   "gih_wr": 0.5949191685912241
+  },
+  {
+   "card_17lands": "Monoist Circuit-Feeder",
+   "scryfall_name": "Monoist Circuit-Feeder",
+   "match": "full",
+   "gih": 31571,
+   "gih_wr": 0.5945012828228438
+  },
+  {
+   "card_17lands": "Mightform Harmonizer",
+   "scryfall_name": "Mightform Harmonizer",
+   "match": "full",
+   "gih": 10992,
+   "gih_wr": 0.5943413391557496
+  },
+  {
+   "card_17lands": "Singularity Rupture",
+   "scryfall_name": "Singularity Rupture",
+   "match": "full",
+   "gih": 10729,
+   "gih_wr": 0.5936247553360052
+  },
+  {
+   "card_17lands": "Cryogen Relic",
+   "scryfall_name": "Cryogen Relic",
+   "match": "full",
+   "gih": 80584,
+   "gih_wr": 0.5916807306661372
+  },
+  {
+   "card_17lands": "Beyond the Quiet",
+   "scryfall_name": "Beyond the Quiet",
+   "match": "full",
+   "gih": 9304,
+   "gih_wr": 0.5915735167669819
+  },
+  {
+   "card_17lands": "Alpharael, Dreaming Acolyte",
+   "scryfall_name": "Alpharael, Dreaming Acolyte",
+   "match": "full",
+   "gih": 19465,
+   "gih_wr": 0.5909581299768816
+  },
+  {
+   "card_17lands": "Swarmyard",
+   "scryfall_name": "Swarmyard",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1858,
+   "gih_wr": 0.5904198062432723
+  },
+  {
+   "card_17lands": "Station Monitor",
+   "scryfall_name": "Station Monitor",
+   "match": "full",
+   "gih": 22245,
+   "gih_wr": 0.5900651831872331
+  },
+  {
+   "card_17lands": "Meltstrider's Resolve",
+   "scryfall_name": "Meltstrider's Resolve",
+   "match": "full",
+   "gih": 30022,
+   "gih_wr": 0.5900339750849377
+  },
+  {
+   "card_17lands": "Harmonious Grovestrider",
+   "scryfall_name": "Harmonious Grovestrider",
+   "match": "full",
+   "gih": 30254,
+   "gih_wr": 0.5889799695907979
+  },
+  {
+   "card_17lands": "Rayblade Trooper",
+   "scryfall_name": "Rayblade Trooper",
+   "match": "full",
+   "gih": 24977,
+   "gih_wr": 0.588501421307603
+  },
+  {
+   "card_17lands": "Lumbering Falls",
+   "scryfall_name": "Lumbering Falls",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2595,
+   "gih_wr": 0.5876685934489403
+  },
+  {
+   "card_17lands": "Tractor Beam",
+   "scryfall_name": "Tractor Beam",
+   "match": "full",
+   "gih": 35537,
+   "gih_wr": 0.5875847708022625
+  },
+  {
+   "card_17lands": "Rust Harvester",
+   "scryfall_name": "Rust Harvester",
+   "match": "full",
+   "gih": 9818,
+   "gih_wr": 0.5868812385414545
+  },
+  {
+   "card_17lands": "Starfield Shepherd",
+   "scryfall_name": "Starfield Shepherd",
+   "match": "full",
+   "gih": 26574,
+   "gih_wr": 0.5864002408369082
+  },
+  {
+   "card_17lands": "Mouth of the Storm",
+   "scryfall_name": "Mouth of the Storm",
+   "match": "full",
+   "gih": 36448,
+   "gih_wr": 0.586232440737489
+  },
+  {
+   "card_17lands": "Galactic Wayfarer",
+   "scryfall_name": "Galactic Wayfarer",
+   "match": "full",
+   "gih": 77754,
+   "gih_wr": 0.5860020063276488
+  },
+  {
+   "card_17lands": "Seedship Impact",
+   "scryfall_name": "Seedship Impact",
+   "match": "full",
+   "gih": 27292,
+   "gih_wr": 0.585885973911769
+  },
+  {
+   "card_17lands": "Weftwalking",
+   "scryfall_name": "Weftwalking",
+   "match": "full",
+   "gih": 7165,
+   "gih_wr": 0.58506629448709
+  },
+  {
+   "card_17lands": "Pinnacle Emissary",
+   "scryfall_name": "Pinnacle Emissary",
+   "match": "full",
+   "gih": 8663,
+   "gih_wr": 0.5846704374927854
+  },
+  {
+   "card_17lands": "Raging Ravine",
+   "scryfall_name": "Raging Ravine",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2323,
+   "gih_wr": 0.5837279380111924
+  },
+  {
+   "card_17lands": "Mutavault",
+   "scryfall_name": "Mutavault",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1290,
+   "gih_wr": 0.5837209302325581
+  },
+  {
+   "card_17lands": "Extinguisher Battleship",
+   "scryfall_name": "Extinguisher Battleship",
+   "match": "full",
+   "gih": 12039,
+   "gih_wr": 0.5830218456682449
+  },
+  {
+   "card_17lands": "Shambling Vent",
+   "scryfall_name": "Shambling Vent",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1846,
+   "gih_wr": 0.5828819068255688
+  },
+  {
+   "card_17lands": "Banishing Light",
+   "scryfall_name": "Banishing Light",
+   "match": "full",
+   "gih": 57627,
+   "gih_wr": 0.5823832578478838
+  },
+  {
+   "card_17lands": "Stirring Wildwood",
+   "scryfall_name": "Stirring Wildwood",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1882,
+   "gih_wr": 0.5823591923485654
+  },
+  {
+   "card_17lands": "Hissing Quagmire",
+   "scryfall_name": "Hissing Quagmire",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1873,
+   "gih_wr": 0.5819540843566471
+  },
+  {
+   "card_17lands": "Thrumming Hivepool",
+   "scryfall_name": "Thrumming Hivepool",
+   "match": "full",
+   "gih": 13742,
+   "gih_wr": 0.5818658128365595
+  },
+  {
+   "card_17lands": "Blinkmoth Nexus",
+   "scryfall_name": "Blinkmoth Nexus",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2835,
+   "gih_wr": 0.581657848324515
+  },
+  {
+   "card_17lands": "Knight Luminary",
+   "scryfall_name": "Knight Luminary",
+   "match": "full",
+   "gih": 56604,
+   "gih_wr": 0.5811780086212989
+  },
+  {
+   "card_17lands": "Faller's Faithful",
+   "scryfall_name": "Faller's Faithful",
+   "match": "full",
+   "gih": 29440,
+   "gih_wr": 0.5807065217391304
+  },
+  {
+   "card_17lands": "Exalted Sunborn",
+   "scryfall_name": "Exalted Sunborn",
+   "match": "full",
+   "gih": 4561,
+   "gih_wr": 0.5801359351019513
+  },
+  {
+   "card_17lands": "Lightstall Inquisitor",
+   "scryfall_name": "Lightstall Inquisitor",
+   "match": "full",
+   "gih": 8082,
+   "gih_wr": 0.5800544419698095
+  },
+  {
+   "card_17lands": "Sunstar Expansionist",
+   "scryfall_name": "Sunstar Expansionist",
+   "match": "full",
+   "gih": 25039,
+   "gih_wr": 0.5798154878389712
+  },
+  {
+   "card_17lands": "Edge Rover",
+   "scryfall_name": "Edge Rover",
+   "match": "full",
+   "gih": 30416,
+   "gih_wr": 0.5793332456601789
+  },
+  {
+   "card_17lands": "Gene Pollinator",
+   "scryfall_name": "Gene Pollinator",
+   "match": "full",
+   "gih": 70370,
+   "gih_wr": 0.5790677845672872
+  },
+  {
+   "card_17lands": "Sunken Citadel",
+   "scryfall_name": "Sunken Citadel",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2387,
+   "gih_wr": 0.5781315458734814
+  },
+  {
+   "card_17lands": "Syr Vondam, the Lucent",
+   "scryfall_name": "Syr Vondam, the Lucent",
+   "match": "full",
+   "gih": 16536,
+   "gih_wr": 0.5774068698597
+  },
+  {
+   "card_17lands": "Tragic Trajectory",
+   "scryfall_name": "Tragic Trajectory",
+   "match": "full",
+   "gih": 28370,
+   "gih_wr": 0.5773704617553754
+  },
+  {
+   "card_17lands": "Umbral Collar Zealot",
+   "scryfall_name": "Umbral Collar Zealot",
+   "match": "full",
+   "gih": 28277,
+   "gih_wr": 0.5773243271917106
+  },
+  {
+   "card_17lands": "Needle Spires",
+   "scryfall_name": "Needle Spires",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1265,
+   "gih_wr": 0.5770750988142292
+  },
+  {
+   "card_17lands": "Zero Point Ballad",
+   "scryfall_name": "Zero Point Ballad",
+   "match": "full",
+   "gih": 11826,
+   "gih_wr": 0.5764417385421952
+  },
+  {
+   "card_17lands": "Desculpting Blast",
+   "scryfall_name": "Desculpting Blast",
+   "match": "full",
+   "gih": 31799,
+   "gih_wr": 0.5762445359916979
+  },
+  {
+   "card_17lands": "Orbital Plunge",
+   "scryfall_name": "Orbital Plunge",
+   "match": "full",
+   "gih": 63688,
+   "gih_wr": 0.5755558346941338
+  },
+  {
+   "card_17lands": "Uthros Psionicist",
+   "scryfall_name": "Uthros Psionicist",
+   "match": "full",
+   "gih": 31753,
+   "gih_wr": 0.5755361698107265
+  },
+  {
+   "card_17lands": "Dyadrine, Synthesis Amalgam",
+   "scryfall_name": "Dyadrine, Synthesis Amalgam",
+   "match": "full",
+   "gih": 8220,
+   "gih_wr": 0.5753041362530413
+  },
+  {
+   "card_17lands": "Kavaron, Memorial World",
+   "scryfall_name": "Kavaron, Memorial World",
+   "match": "full",
+   "gih": 4873,
+   "gih_wr": 0.5750051303098708
+  },
+  {
+   "card_17lands": "Eusocial Engineering",
+   "scryfall_name": "Eusocial Engineering",
+   "match": "full",
+   "gih": 25546,
+   "gih_wr": 0.5743364910357786
+  },
+  {
+   "card_17lands": "Emissary Escort",
+   "scryfall_name": "Emissary Escort",
+   "match": "full",
+   "gih": 10884,
+   "gih_wr": 0.5742374127159132
+  },
+  {
+   "card_17lands": "Interceptor Mechan",
+   "scryfall_name": "Interceptor Mechan",
+   "match": "full",
+   "gih": 20555,
+   "gih_wr": 0.5741182194113355
+  },
+  {
+   "card_17lands": "Gigastorm Titan",
+   "scryfall_name": "Gigastorm Titan",
+   "match": "full",
+   "gih": 32161,
+   "gih_wr": 0.5740182208264668
+  },
+  {
+   "card_17lands": "Biosynthic Burst",
+   "scryfall_name": "Biosynthic Burst",
+   "match": "full",
+   "gih": 46546,
+   "gih_wr": 0.5734327332101576
+  },
+  {
+   "card_17lands": "Focus Fire",
+   "scryfall_name": "Focus Fire",
+   "match": "full",
+   "gih": 51434,
+   "gih_wr": 0.5729089707197573
+  },
+  {
+   "card_17lands": "Consult the Star Charts",
+   "scryfall_name": "Consult the Star Charts",
+   "match": "full",
+   "gih": 12025,
+   "gih_wr": 0.5728898128898129
+  },
+  {
+   "card_17lands": "Selfcraft Mechan",
+   "scryfall_name": "Selfcraft Mechan",
+   "match": "full",
+   "gih": 61766,
+   "gih_wr": 0.5721918207428035
+  },
+  {
+   "card_17lands": "Close Encounter",
+   "scryfall_name": "Close Encounter",
+   "match": "full",
+   "gih": 28011,
+   "gih_wr": 0.5720609760451252
+  },
+  {
+   "card_17lands": "Starwinder",
+   "scryfall_name": "Starwinder",
+   "match": "full",
+   "gih": 11026,
+   "gih_wr": 0.5718302194812261
+  },
+  {
+   "card_17lands": "Diplomatic Relations",
+   "scryfall_name": "Diplomatic Relations",
+   "match": "full",
+   "gih": 64632,
+   "gih_wr": 0.5718220076742171
+  },
+  {
+   "card_17lands": "Eumidian Terrabotanist",
+   "scryfall_name": "Eumidian Terrabotanist",
+   "match": "full",
+   "gih": 27570,
+   "gih_wr": 0.5716358360536815
+  },
+  {
+   "card_17lands": "Divert Disaster",
+   "scryfall_name": "Divert Disaster",
+   "match": "full",
+   "gih": 34891,
+   "gih_wr": 0.57160872431286
+  },
+  {
+   "card_17lands": "Bonders' Enclave",
+   "scryfall_name": "Bonders' Enclave",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2285,
+   "gih_wr": 0.5715536105032822
+  },
+  {
+   "card_17lands": "Gravpack Monoist",
+   "scryfall_name": "Gravpack Monoist",
+   "match": "full",
+   "gih": 59027,
+   "gih_wr": 0.5712978806308977
+  },
+  {
+   "card_17lands": "Dauntless Scrapbot",
+   "scryfall_name": "Dauntless Scrapbot",
+   "match": "full",
+   "gih": 37180,
+   "gih_wr": 0.5712748789671867
+  },
+  {
+   "card_17lands": "Uthros Scanship",
+   "scryfall_name": "Uthros Scanship",
+   "match": "full",
+   "gih": 25608,
+   "gih_wr": 0.5708762886597938
+  },
+  {
+   "card_17lands": "Devastating Onslaught",
+   "scryfall_name": "Devastating Onslaught",
+   "match": "full",
+   "gih": 4004,
+   "gih_wr": 0.5706793206793207
+  },
+  {
+   "card_17lands": "Seedship Agrarian",
+   "scryfall_name": "Seedship Agrarian",
+   "match": "full",
+   "gih": 27676,
+   "gih_wr": 0.5706388206388207
+  },
+  {
+   "card_17lands": "Archenemy's Charm",
+   "scryfall_name": "Archenemy's Charm",
+   "match": "full",
+   "gih": 8409,
+   "gih_wr": 0.5703413009870377
+  },
+  {
+   "card_17lands": "Green Sun's Zenith",
+   "scryfall_name": "Green Sun's Zenith",
+   "match": "non-set (bonus/token/other)",
+   "gih": 847,
+   "gih_wr": 0.5702479338842975
+  },
+  {
+   "card_17lands": "Astelli Reclaimer",
+   "scryfall_name": "Astelli Reclaimer",
+   "match": "full",
+   "gih": 8735,
+   "gih_wr": 0.5701202060675443
+  },
+  {
+   "card_17lands": "Pinnacle Kill-Ship",
+   "scryfall_name": "Pinnacle Kill-Ship",
+   "match": "full",
+   "gih": 57550,
+   "gih_wr": 0.5700434404865334
+  },
+  {
+   "card_17lands": "Wandering Fumarole",
+   "scryfall_name": "Wandering Fumarole",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2021,
+   "gih_wr": 0.570014844136566
+  },
+  {
+   "card_17lands": "Virus Beetle",
+   "scryfall_name": "Virus Beetle",
+   "match": "full",
+   "gih": 68500,
+   "gih_wr": 0.569985401459854
+  },
+  {
+   "card_17lands": "Depressurize",
+   "scryfall_name": "Depressurize",
+   "match": "full",
+   "gih": 64021,
+   "gih_wr": 0.5699379890973274
+  },
+  {
+   "card_17lands": "Nebula Dragon",
+   "scryfall_name": "Nebula Dragon",
+   "match": "full",
+   "gih": 30811,
+   "gih_wr": 0.5691798383694135
+  },
+  {
+   "card_17lands": "Dual-Sun Adepts",
+   "scryfall_name": "Dual-Sun Adepts",
+   "match": "full",
+   "gih": 21473,
+   "gih_wr": 0.5687607693382387
+  },
+  {
+   "card_17lands": "Cathedral of War",
+   "scryfall_name": "Cathedral of War",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2265,
+   "gih_wr": 0.5682119205298013
+  },
+  {
+   "card_17lands": "Breeding Pool",
+   "scryfall_name": "Breeding Pool",
+   "match": "full",
+   "gih": 8916,
+   "gih_wr": 0.5679676985195155
+  },
+  {
+   "card_17lands": "Perigee Beckoner",
+   "scryfall_name": "Perigee Beckoner",
+   "match": "full",
+   "gih": 47257,
+   "gih_wr": 0.5677042554542184
+  },
+  {
+   "card_17lands": "Frenzied Baloth",
+   "scryfall_name": "Frenzied Baloth",
+   "match": "full",
+   "gih": 6894,
+   "gih_wr": 0.5673049028140412
+  },
+  {
+   "card_17lands": "Adagia, Windswept Bastion",
+   "scryfall_name": "Adagia, Windswept Bastion",
+   "match": "full",
+   "gih": 3903,
+   "gih_wr": 0.5672559569561876
+  },
+  {
+   "card_17lands": "Sledge-Class Seedship",
+   "scryfall_name": "Sledge-Class Seedship",
+   "match": "full",
+   "gih": 7918,
+   "gih_wr": 0.5669360949734782
+  },
+  {
+   "card_17lands": "Lost in Space",
+   "scryfall_name": "Lost in Space",
+   "match": "full",
+   "gih": 44999,
+   "gih_wr": 0.5668570412675837
+  },
+  {
+   "card_17lands": "Sunstar Lightsmith",
+   "scryfall_name": "Sunstar Lightsmith",
+   "match": "full",
+   "gih": 24233,
+   "gih_wr": 0.5664176948788842
+  },
+  {
+   "card_17lands": "Systems Override",
+   "scryfall_name": "Systems Override",
+   "match": "full",
+   "gih": 8288,
+   "gih_wr": 0.5661196911196911
+  },
+  {
+   "card_17lands": "Tannuk, Memorial Ensign",
+   "scryfall_name": "Tannuk, Memorial Ensign",
+   "match": "full",
+   "gih": 18981,
+   "gih_wr": 0.5660924081976714
+  },
+  {
+   "card_17lands": "Honored Knight-Captain",
+   "scryfall_name": "Honored Knight-Captain",
+   "match": "full",
+   "gih": 20989,
+   "gih_wr": 0.5659154795369002
+  },
+  {
+   "card_17lands": "Cryoshatter",
+   "scryfall_name": "Cryoshatter",
+   "match": "full",
+   "gih": 66624,
+   "gih_wr": 0.5658321325648416
+  },
+  {
+   "card_17lands": "Kav Landseeker",
+   "scryfall_name": "Kav Landseeker",
+   "match": "full",
+   "gih": 50173,
+   "gih_wr": 0.5658222549977079
+  },
+  {
+   "card_17lands": "Kavaron Harrier",
+   "scryfall_name": "Kavaron Harrier",
+   "match": "full",
+   "gih": 18262,
+   "gih_wr": 0.565381666849195
+  },
+  {
+   "card_17lands": "Specimen Freighter",
+   "scryfall_name": "Specimen Freighter",
+   "match": "full",
+   "gih": 25638,
+   "gih_wr": 0.565059677041891
+  },
+  {
+   "card_17lands": "Thawbringer",
+   "scryfall_name": "Thawbringer",
+   "match": "full",
+   "gih": 47936,
+   "gih_wr": 0.5648990320427236
+  },
+  {
+   "card_17lands": "Germinating Wurm",
+   "scryfall_name": "Germinating Wurm",
+   "match": "full",
+   "gih": 49666,
+   "gih_wr": 0.5648129505094028
+  },
+  {
+   "card_17lands": "Cut Propulsion",
+   "scryfall_name": "Cut Propulsion",
+   "match": "full",
+   "gih": 23509,
+   "gih_wr": 0.5645072100046791
+  },
+  {
+   "card_17lands": "Gravkill",
+   "scryfall_name": "Gravkill",
+   "match": "full",
+   "gih": 61832,
+   "gih_wr": 0.5643356190969078
+  },
+  {
+   "card_17lands": "Melded Moxite",
+   "scryfall_name": "Melded Moxite",
+   "match": "full",
+   "gih": 37022,
+   "gih_wr": 0.5640970233914969
+  },
+  {
+   "card_17lands": "Zookeeper Mechan",
+   "scryfall_name": "Zookeeper Mechan",
+   "match": "full",
+   "gih": 56981,
+   "gih_wr": 0.5639423667538302
+  },
+  {
+   "card_17lands": "Honor",
+   "scryfall_name": "Honor",
+   "match": "full",
+   "gih": 17922,
+   "gih_wr": 0.5638879589331548
+  },
+  {
+   "card_17lands": "Icecave Crasher",
+   "scryfall_name": "Icecave Crasher",
+   "match": "full",
+   "gih": 47540,
+   "gih_wr": 0.5636095919225915
+  },
+  {
+   "card_17lands": "Timeline Culler",
+   "scryfall_name": "Timeline Culler",
+   "match": "full",
+   "gih": 18514,
+   "gih_wr": 0.5633574592200497
+  },
+  {
+   "card_17lands": "Survey Mechan",
+   "scryfall_name": "Survey Mechan",
+   "match": "full",
+   "gih": 20765,
+   "gih_wr": 0.5623404767637852
+  },
+  {
+   "card_17lands": "Crystal Quarry",
+   "scryfall_name": "Crystal Quarry",
+   "match": "non-set (bonus/token/other)",
+   "gih": 274,
+   "gih_wr": 0.5620437956204379
+  },
+  {
+   "card_17lands": "Invasive Maneuvers",
+   "scryfall_name": "Invasive Maneuvers",
+   "match": "full",
+   "gih": 21586,
+   "gih_wr": 0.5620309459835078
+  },
+  {
+   "card_17lands": "Hullcarver",
+   "scryfall_name": "Hullcarver",
+   "match": "full",
+   "gih": 43783,
+   "gih_wr": 0.5620217892789439
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 257764,
+   "gih_wr": 0.5620102108905821
+  },
+  {
+   "card_17lands": "Vote Out",
+   "scryfall_name": "Vote Out",
+   "match": "full",
+   "gih": 25141,
+   "gih_wr": 0.56199037428901
+  },
+  {
+   "card_17lands": "Embrace Oblivion",
+   "scryfall_name": "Embrace Oblivion",
+   "match": "full",
+   "gih": 49472,
+   "gih_wr": 0.5617116752910737
+  },
+  {
+   "card_17lands": "Stomping Ground",
+   "scryfall_name": "Stomping Ground",
+   "match": "full",
+   "gih": 7238,
+   "gih_wr": 0.5610665929814866
+  },
+  {
+   "card_17lands": "Territorial Bruntar",
+   "scryfall_name": "Territorial Bruntar",
+   "match": "full",
+   "gih": 19800,
+   "gih_wr": 0.561060606060606
+  },
+  {
+   "card_17lands": "Blooming Stinger",
+   "scryfall_name": "Blooming Stinger",
+   "match": "full",
+   "gih": 51993,
+   "gih_wr": 0.5608062623814745
+  },
+  {
+   "card_17lands": "Inventors' Fair",
+   "scryfall_name": "Inventors' Fair",
+   "match": "non-set (bonus/token/other)",
+   "gih": 707,
+   "gih_wr": 0.5601131541725601
+  },
+  {
+   "card_17lands": "Eldrazi Temple",
+   "scryfall_name": "Eldrazi Temple",
+   "match": "non-set (bonus/token/other)",
+   "gih": 75,
+   "gih_wr": 0.56
+  },
+  {
+   "card_17lands": "Radiant Strike",
+   "scryfall_name": "Radiant Strike",
+   "match": "full",
+   "gih": 35876,
+   "gih_wr": 0.5588415653919054
+  },
+  {
+   "card_17lands": "Mechan Navigator",
+   "scryfall_name": "Mechan Navigator",
+   "match": "full",
+   "gih": 26137,
+   "gih_wr": 0.5587481348280215
+  },
+  {
+   "card_17lands": "Mechanozoa",
+   "scryfall_name": "Mechanozoa",
+   "match": "full",
+   "gih": 46696,
+   "gih_wr": 0.5584418365598767
+  },
+  {
+   "card_17lands": "Plasma Bolt",
+   "scryfall_name": "Plasma Bolt",
+   "match": "full",
+   "gih": 46345,
+   "gih_wr": 0.5583989642895674
+  },
+  {
+   "card_17lands": "Requiem Monolith",
+   "scryfall_name": "Requiem Monolith",
+   "match": "full",
+   "gih": 10710,
+   "gih_wr": 0.5579831932773109
+  },
+  {
+   "card_17lands": "Illvoi Light Jammer",
+   "scryfall_name": "Illvoi Light Jammer",
+   "match": "full",
+   "gih": 19284,
+   "gih_wr": 0.5579236672889442
+  },
+  {
+   "card_17lands": "The Endstone",
+   "scryfall_name": "The Endstone",
+   "match": "full",
+   "gih": 6526,
+   "gih_wr": 0.5577689243027888
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 272389,
+   "gih_wr": 0.5566818043313055
+  },
+  {
+   "card_17lands": "Fungal Colossus",
+   "scryfall_name": "Fungal Colossus",
+   "match": "full",
+   "gih": 28103,
+   "gih_wr": 0.5566309646656941
+  },
+  {
+   "card_17lands": "Pulsar Squadron Ace",
+   "scryfall_name": "Pulsar Squadron Ace",
+   "match": "full",
+   "gih": 20735,
+   "gih_wr": 0.5564504461056186
+  },
+  {
+   "card_17lands": "Famished Worldsire",
+   "scryfall_name": "Famished Worldsire",
+   "match": "full",
+   "gih": 4062,
+   "gih_wr": 0.5561299852289513
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 214917,
+   "gih_wr": 0.5554144157977265
+  },
+  {
+   "card_17lands": "Beamsaw Prospector",
+   "scryfall_name": "Beamsaw Prospector",
+   "match": "full",
+   "gih": 54558,
+   "gih_wr": 0.5552806187910114
+  },
+  {
+   "card_17lands": "Blast Zone",
+   "scryfall_name": "Blast Zone",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1245,
+   "gih_wr": 0.5550200803212851
+  },
+  {
+   "card_17lands": "Molecular Modifier",
+   "scryfall_name": "Molecular Modifier",
+   "match": "full",
+   "gih": 16143,
+   "gih_wr": 0.5546057114538809
+  },
+  {
+   "card_17lands": "Nutrient Block",
+   "scryfall_name": "Nutrient Block",
+   "match": "full",
+   "gih": 42241,
+   "gih_wr": 0.5544376316848559
+  },
+  {
+   "card_17lands": "Lashwhip Predator",
+   "scryfall_name": "Lashwhip Predator",
+   "match": "full",
+   "gih": 18991,
+   "gih_wr": 0.5541572323732294
+  },
+  {
+   "card_17lands": "Haliya, Ascendant Cadet",
+   "scryfall_name": "Haliya, Ascendant Cadet",
+   "match": "full",
+   "gih": 14461,
+   "gih_wr": 0.5539727543046815
+  },
+  {
+   "card_17lands": "Unravel",
+   "scryfall_name": "Unravel",
+   "match": "full",
+   "gih": 13805,
+   "gih_wr": 0.5537124230351322
+  },
+  {
+   "card_17lands": "Cerebral Download",
+   "scryfall_name": "Cerebral Download",
+   "match": "full",
+   "gih": 23107,
+   "gih_wr": 0.5536417535811659
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 247152,
+   "gih_wr": 0.5534124749142229
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 220357,
+   "gih_wr": 0.5531433083587088
+  },
+  {
+   "card_17lands": "Auxiliary Boosters",
+   "scryfall_name": "Auxiliary Boosters",
+   "match": "full",
+   "gih": 31573,
+   "gih_wr": 0.5528457859563551
+  },
+  {
+   "card_17lands": "Seedship Broodtender",
+   "scryfall_name": "Seedship Broodtender",
+   "match": "full",
+   "gih": 13516,
+   "gih_wr": 0.5527522935779816
+  },
+  {
+   "card_17lands": "Ancient Tomb",
+   "scryfall_name": "Ancient Tomb",
+   "match": "non-set (bonus/token/other)",
+   "gih": 822,
+   "gih_wr": 0.5523114355231143
+  },
+  {
+   "card_17lands": "Intrepid Tenderfoot",
+   "scryfall_name": "Intrepid Tenderfoot",
+   "match": "full",
+   "gih": 41938,
+   "gih_wr": 0.5520053412179885
+  },
+  {
+   "card_17lands": "Watery Grave",
+   "scryfall_name": "Watery Grave",
+   "match": "full",
+   "gih": 8369,
+   "gih_wr": 0.5517983032620385
+  },
+  {
+   "card_17lands": "Strip Mine",
+   "scryfall_name": "Strip Mine",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1256,
+   "gih_wr": 0.5517515923566879
+  },
+  {
+   "card_17lands": "Plaza of Heroes",
+   "scryfall_name": "Plaza of Heroes",
+   "match": "non-set (bonus/token/other)",
+   "gih": 145,
+   "gih_wr": 0.5517241379310345
+  },
+  {
+   "card_17lands": "Xu-Ifit, Osteoharmonist",
+   "scryfall_name": "Xu-Ifit, Osteoharmonist",
+   "match": "full",
+   "gih": 8696,
+   "gih_wr": 0.5516329346826127
+  },
+  {
+   "card_17lands": "Illvoi Galeblade",
+   "scryfall_name": "Illvoi Galeblade",
+   "match": "full",
+   "gih": 32334,
+   "gih_wr": 0.5513700748438176
+  },
+  {
+   "card_17lands": "Susurian Voidborn",
+   "scryfall_name": "Susurian Voidborn",
+   "match": "full",
+   "gih": 19545,
+   "gih_wr": 0.5505755947812739
+  },
+  {
+   "card_17lands": "Mirrorpool",
+   "scryfall_name": "Mirrorpool",
+   "match": "non-set (bonus/token/other)",
+   "gih": 231,
+   "gih_wr": 0.5497835497835498
+  },
+  {
+   "card_17lands": "All-Fates Scroll",
+   "scryfall_name": "All-Fates Scroll",
+   "match": "full",
+   "gih": 17530,
+   "gih_wr": 0.5491728465487735
+  },
+  {
+   "card_17lands": "Flight-Deck Coordinator",
+   "scryfall_name": "Flight-Deck Coordinator",
+   "match": "full",
+   "gih": 14026,
+   "gih_wr": 0.5488378725224583
+  },
+  {
+   "card_17lands": "Hylderblade",
+   "scryfall_name": "Hylderblade",
+   "match": "full",
+   "gih": 14179,
+   "gih_wr": 0.5484871993793639
+  },
+  {
+   "card_17lands": "Godless Shrine",
+   "scryfall_name": "Godless Shrine",
+   "match": "full",
+   "gih": 5654,
+   "gih_wr": 0.5482844004244782
+  },
+  {
+   "card_17lands": "Tannuk, Steadfast Second",
+   "scryfall_name": "Tannuk, Steadfast Second",
+   "match": "full",
+   "gih": 3541,
+   "gih_wr": 0.548150240045185
+  },
+  {
+   "card_17lands": "Scour for Scrap",
+   "scryfall_name": "Scour for Scrap",
+   "match": "full",
+   "gih": 12036,
+   "gih_wr": 0.5481056829511466
+  },
+  {
+   "card_17lands": "Wedgelight Rammer",
+   "scryfall_name": "Wedgelight Rammer",
+   "match": "full",
+   "gih": 12819,
+   "gih_wr": 0.5478586473203838
+  },
+  {
+   "card_17lands": "Illvoi Infiltrator",
+   "scryfall_name": "Illvoi Infiltrator",
+   "match": "full",
+   "gih": 25625,
+   "gih_wr": 0.5478243902439024
+  },
+  {
+   "card_17lands": "Dockworker Drone",
+   "scryfall_name": "Dockworker Drone",
+   "match": "full",
+   "gih": 43687,
+   "gih_wr": 0.5477373131595211
+  },
+  {
+   "card_17lands": "Susurian Dirgecraft",
+   "scryfall_name": "Susurian Dirgecraft",
+   "match": "full",
+   "gih": 15660,
+   "gih_wr": 0.5474457215836526
+  },
+  {
+   "card_17lands": "Bombard",
+   "scryfall_name": "Bombard",
+   "match": "full",
+   "gih": 43331,
+   "gih_wr": 0.5473217788650158
+  },
+  {
+   "card_17lands": "Seam Rip",
+   "scryfall_name": "Seam Rip",
+   "match": "full",
+   "gih": 10958,
+   "gih_wr": 0.5469063697755064
+  },
+  {
+   "card_17lands": "Nanoform Sentinel",
+   "scryfall_name": "Nanoform Sentinel",
+   "match": "full",
+   "gih": 25581,
+   "gih_wr": 0.5468511786091239
+  },
+  {
+   "card_17lands": "Hemosymbic Mite",
+   "scryfall_name": "Hemosymbic Mite",
+   "match": "full",
+   "gih": 8304,
+   "gih_wr": 0.5463631984585742
+  },
+  {
+   "card_17lands": "Comet Crawler",
+   "scryfall_name": "Comet Crawler",
+   "match": "full",
+   "gih": 19779,
+   "gih_wr": 0.5463370241164872
+  },
+  {
+   "card_17lands": "Slagdrill Scrapper",
+   "scryfall_name": "Slagdrill Scrapper",
+   "match": "full",
+   "gih": 25381,
+   "gih_wr": 0.5462353729167487
+  },
+  {
+   "card_17lands": "Drix Fatemaker",
+   "scryfall_name": "Drix Fatemaker",
+   "match": "full",
+   "gih": 35451,
+   "gih_wr": 0.5459366449465459
+  },
+  {
+   "card_17lands": "Sami's Curiosity",
+   "scryfall_name": "Sami's Curiosity",
+   "match": "full",
+   "gih": 44765,
+   "gih_wr": 0.5458282140064783
+  },
+  {
+   "card_17lands": "Pain for All",
+   "scryfall_name": "Pain for All",
+   "match": "full",
+   "gih": 7842,
+   "gih_wr": 0.5457791379750063
+  },
+  {
+   "card_17lands": "Mana Confluence",
+   "scryfall_name": "Mana Confluence",
+   "match": "non-set (bonus/token/other)",
+   "gih": 590,
+   "gih_wr": 0.5457627118644067
+  },
+  {
+   "card_17lands": "Starfield Vocalist",
+   "scryfall_name": "Starfield Vocalist",
+   "match": "full",
+   "gih": 10747,
+   "gih_wr": 0.5437796594398436
+  },
+  {
+   "card_17lands": "Weftblade Enhancer",
+   "scryfall_name": "Weftblade Enhancer",
+   "match": "full",
+   "gih": 28293,
+   "gih_wr": 0.5433146007846463
+  },
+  {
+   "card_17lands": "Starfighter Pilot",
+   "scryfall_name": "Starfighter Pilot",
+   "match": "full",
+   "gih": 35838,
+   "gih_wr": 0.5428037278866008
+  },
+  {
+   "card_17lands": "Tapestry Warden",
+   "scryfall_name": "Tapestry Warden",
+   "match": "full",
+   "gih": 11277,
+   "gih_wr": 0.5427862020040791
+  },
+  {
+   "card_17lands": "Brightspear Zealot",
+   "scryfall_name": "Brightspear Zealot",
+   "match": "full",
+   "gih": 12912,
+   "gih_wr": 0.5423636926889716
+  },
+  {
+   "card_17lands": "Meltstrider Eulogist",
+   "scryfall_name": "Meltstrider Eulogist",
+   "match": "full",
+   "gih": 13469,
+   "gih_wr": 0.541985299576806
+  },
+  {
+   "card_17lands": "Illvoi Operative",
+   "scryfall_name": "Illvoi Operative",
+   "match": "full",
+   "gih": 30721,
+   "gih_wr": 0.5418117899807949
+  },
+  {
+   "card_17lands": "Memorial Team Leader",
+   "scryfall_name": "Memorial Team Leader",
+   "match": "full",
+   "gih": 10290,
+   "gih_wr": 0.5415937803692906
+  },
+  {
+   "card_17lands": "Wurmwall Sweeper",
+   "scryfall_name": "Wurmwall Sweeper",
+   "match": "full",
+   "gih": 32932,
+   "gih_wr": 0.5403558848536378
+  },
+  {
+   "card_17lands": "Mental Modulation",
+   "scryfall_name": "Mental Modulation",
+   "match": "full",
+   "gih": 20082,
+   "gih_wr": 0.540284832188029
+  },
+  {
+   "card_17lands": "Mechan Assembler",
+   "scryfall_name": "Mechan Assembler",
+   "match": "full",
+   "gih": 22583,
+   "gih_wr": 0.5400522516937519
+  },
+  {
+   "card_17lands": "Squire's Lightblade",
+   "scryfall_name": "Squire's Lightblade",
+   "match": "full",
+   "gih": 6799,
+   "gih_wr": 0.5394911016325931
+  },
+  {
+   "card_17lands": "Lightless Evangel",
+   "scryfall_name": "Lightless Evangel",
+   "match": "full",
+   "gih": 17614,
+   "gih_wr": 0.5393437038719201
+  },
+  {
+   "card_17lands": "Starport Security",
+   "scryfall_name": "Starport Security",
+   "match": "full",
+   "gih": 20319,
+   "gih_wr": 0.5392489787883262
+  },
+  {
+   "card_17lands": "Skystinger",
+   "scryfall_name": "Skystinger",
+   "match": "full",
+   "gih": 15744,
+   "gih_wr": 0.5385543699186992
+  },
+  {
+   "card_17lands": "Weftstalker Ardent",
+   "scryfall_name": "Weftstalker Ardent",
+   "match": "full",
+   "gih": 12692,
+   "gih_wr": 0.5385282067444059
+  },
+  {
+   "card_17lands": "Terrain Generator",
+   "scryfall_name": "Terrain Generator",
+   "match": "non-set (bonus/token/other)",
+   "gih": 312,
+   "gih_wr": 0.5384615384615384
+  },
+  {
+   "card_17lands": "Emergency Eject",
+   "scryfall_name": "Emergency Eject",
+   "match": "full",
+   "gih": 11856,
+   "gih_wr": 0.5379554655870445
+  },
+  {
+   "card_17lands": "Vaultguard Trooper",
+   "scryfall_name": "Vaultguard Trooper",
+   "match": "full",
+   "gih": 13015,
+   "gih_wr": 0.5379177871686516
+  },
+  {
+   "card_17lands": "Oreplate Pangolin",
+   "scryfall_name": "Oreplate Pangolin",
+   "match": "full",
+   "gih": 40825,
+   "gih_wr": 0.5378077158603797
+  },
+  {
+   "card_17lands": "Starbreach Whale",
+   "scryfall_name": "Starbreach Whale",
+   "match": "full",
+   "gih": 33080,
+   "gih_wr": 0.5376058041112455
+  },
+  {
+   "card_17lands": "Broodguard Elite",
+   "scryfall_name": "Broodguard Elite",
+   "match": "full",
+   "gih": 15168,
+   "gih_wr": 0.5373154008438819
+  },
+  {
+   "card_17lands": "Sothera, the Supervoid",
+   "scryfall_name": "Sothera, the Supervoid",
+   "match": "full",
+   "gih": 3965,
+   "gih_wr": 0.5364438839848676
+  },
+  {
+   "card_17lands": "Monoist Sentry",
+   "scryfall_name": "Monoist Sentry",
+   "match": "full",
+   "gih": 11390,
+   "gih_wr": 0.5362598770851624
+  },
+  {
+   "card_17lands": "Blade of the Swarm",
+   "scryfall_name": "Blade of the Swarm",
+   "match": "full",
+   "gih": 4037,
+   "gih_wr": 0.5355461976715382
+  },
+  {
+   "card_17lands": "Roving Actuator",
+   "scryfall_name": "Roving Actuator",
+   "match": "full",
+   "gih": 6323,
+   "gih_wr": 0.5353471453424008
+  },
+  {
+   "card_17lands": "Command Bridge",
+   "scryfall_name": "Command Bridge",
+   "match": "full",
+   "gih": 49172,
+   "gih_wr": 0.5350199300414871
+  },
+  {
+   "card_17lands": "Endless Sands",
+   "scryfall_name": "Endless Sands",
+   "match": "non-set (bonus/token/other)",
+   "gih": 750,
+   "gih_wr": 0.5346666666666666
+  },
+  {
+   "card_17lands": "Space-Time Anomaly",
+   "scryfall_name": "Space-Time Anomaly",
+   "match": "full",
+   "gih": 3139,
+   "gih_wr": 0.5345651481363491
+  },
+  {
+   "card_17lands": "High Market",
+   "scryfall_name": "High Market",
+   "match": "non-set (bonus/token/other)",
+   "gih": 835,
+   "gih_wr": 0.5341317365269461
+  },
+  {
+   "card_17lands": "Mm'menon, Uthros Exile",
+   "scryfall_name": "Mm'menon, Uthros Exile",
+   "match": "full",
+   "gih": 14397,
+   "gih_wr": 0.5330971730221574
+  },
+  {
+   "card_17lands": "Debris Field Crusher",
+   "scryfall_name": "Debris Field Crusher",
+   "match": "full",
+   "gih": 10888,
+   "gih_wr": 0.5328802351212344
+  },
+  {
+   "card_17lands": "Voidforged Titan",
+   "scryfall_name": "Voidforged Titan",
+   "match": "full",
+   "gih": 20403,
+   "gih_wr": 0.5326667646914669
+  },
+  {
+   "card_17lands": "Chrome Companion",
+   "scryfall_name": "Chrome Companion",
+   "match": "full",
+   "gih": 20305,
+   "gih_wr": 0.5324796848066978
+  },
+  {
+   "card_17lands": "Mechan Shieldmate",
+   "scryfall_name": "Mechan Shieldmate",
+   "match": "full",
+   "gih": 23803,
+   "gih_wr": 0.5322858463218922
+  },
+  {
+   "card_17lands": "Tezzeret, Cruel Captain",
+   "scryfall_name": "Tezzeret, Cruel Captain",
+   "match": "full",
+   "gih": 4135,
+   "gih_wr": 0.532285368802902
+  },
+  {
+   "card_17lands": "Exosuit Savior",
+   "scryfall_name": "Exosuit Savior",
+   "match": "full",
+   "gih": 25314,
+   "gih_wr": 0.5306944773643043
+  },
+  {
+   "card_17lands": "Steelswarm Operator",
+   "scryfall_name": "Steelswarm Operator",
+   "match": "full",
+   "gih": 16258,
+   "gih_wr": 0.530569565752245
+  },
+  {
+   "card_17lands": "Rescue Skiff",
+   "scryfall_name": "Rescue Skiff",
+   "match": "full",
+   "gih": 11552,
+   "gih_wr": 0.5303843490304709
+  },
+  {
+   "card_17lands": "Entropic Battlecruiser",
+   "scryfall_name": "Entropic Battlecruiser",
+   "match": "full",
+   "gih": 5393,
+   "gih_wr": 0.5297608010383831
+  },
+  {
+   "card_17lands": "Memorial Vault",
+   "scryfall_name": "Memorial Vault",
+   "match": "full",
+   "gih": 1826,
+   "gih_wr": 0.5295728368017525
+  },
+  {
+   "card_17lands": "Decode Transmissions",
+   "scryfall_name": "Decode Transmissions",
+   "match": "full",
+   "gih": 24100,
+   "gih_wr": 0.5295435684647303
+  },
+  {
+   "card_17lands": "Grove of the Burnwillows",
+   "scryfall_name": "Grove of the Burnwillows",
+   "match": "non-set (bonus/token/other)",
+   "gih": 752,
+   "gih_wr": 0.5292553191489362
+  },
+  {
+   "card_17lands": "Nexus of Fate",
+   "scryfall_name": "Nexus of Fate",
+   "match": "non-set (bonus/token/other)",
+   "gih": 924,
+   "gih_wr": 0.5292207792207793
+  },
+  {
+   "card_17lands": "Dawnstrike Vanguard",
+   "scryfall_name": "Dawnstrike Vanguard",
+   "match": "full",
+   "gih": 11987,
+   "gih_wr": 0.5278218069575373
+  },
+  {
+   "card_17lands": "Full Bore",
+   "scryfall_name": "Full Bore",
+   "match": "full",
+   "gih": 3804,
+   "gih_wr": 0.5273396424815984
+  },
+  {
+   "card_17lands": "Dark Endurance",
+   "scryfall_name": "Dark Endurance",
+   "match": "full",
+   "gih": 3052,
+   "gih_wr": 0.526867627785059
+  },
+  {
+   "card_17lands": "Swarm Culler",
+   "scryfall_name": "Swarm Culler",
+   "match": "full",
+   "gih": 29437,
+   "gih_wr": 0.5264123382138125
+  },
+  {
+   "card_17lands": "Remnant Elemental",
+   "scryfall_name": "Remnant Elemental",
+   "match": "full",
+   "gih": 7405,
+   "gih_wr": 0.5259959486833221
+  },
+  {
+   "card_17lands": "Reroute Systems",
+   "scryfall_name": "Reroute Systems",
+   "match": "full",
+   "gih": 11336,
+   "gih_wr": 0.5259350741002117
+  },
+  {
+   "card_17lands": "Thespian's Stage",
+   "scryfall_name": "Thespian's Stage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 194,
+   "gih_wr": 0.5257731958762887
+  },
+  {
+   "card_17lands": "Hardlight Containment",
+   "scryfall_name": "Hardlight Containment",
+   "match": "full",
+   "gih": 3742,
+   "gih_wr": 0.5251202565473009
+  },
+  {
+   "card_17lands": "Susur Secundi, Void Altar",
+   "scryfall_name": "Susur Secundi, Void Altar",
+   "match": "full",
+   "gih": 3270,
+   "gih_wr": 0.5247706422018349
+  },
+  {
+   "card_17lands": "Mystifying Maze",
+   "scryfall_name": "Mystifying Maze",
+   "match": "non-set (bonus/token/other)",
+   "gih": 839,
+   "gih_wr": 0.5244338498212158
+  },
+  {
+   "card_17lands": "Reflecting Pool",
+   "scryfall_name": "Reflecting Pool",
+   "match": "non-set (bonus/token/other)",
+   "gih": 494,
+   "gih_wr": 0.5242914979757085
+  },
+  {
+   "card_17lands": "Rig for War",
+   "scryfall_name": "Rig for War",
+   "match": "full",
+   "gih": 3602,
+   "gih_wr": 0.524153248195447
+  },
+  {
+   "card_17lands": "Kavaron Skywarden",
+   "scryfall_name": "Kavaron Skywarden",
+   "match": "full",
+   "gih": 10170,
+   "gih_wr": 0.523598820058997
+  },
+  {
+   "card_17lands": "Temporal Intervention",
+   "scryfall_name": "Temporal Intervention",
+   "match": "full",
+   "gih": 3070,
+   "gih_wr": 0.5231270358306189
+  },
+  {
+   "card_17lands": "Cloudsculpt Technician",
+   "scryfall_name": "Cloudsculpt Technician",
+   "match": "full",
+   "gih": 14568,
+   "gih_wr": 0.5229269632070291
+  },
+  {
+   "card_17lands": "Sacred Foundry",
+   "scryfall_name": "Sacred Foundry",
+   "match": "full",
+   "gih": 4167,
+   "gih_wr": 0.5229181665466762
+  },
+  {
+   "card_17lands": "Insatiable Skittermaw",
+   "scryfall_name": "Insatiable Skittermaw",
+   "match": "full",
+   "gih": 15566,
+   "gih_wr": 0.5224206604137223
+  },
+  {
+   "card_17lands": "Kavaron Turbodrone",
+   "scryfall_name": "Kavaron Turbodrone",
+   "match": "full",
+   "gih": 19241,
+   "gih_wr": 0.5222181799282781
+  },
+  {
+   "card_17lands": "Shattered Wings",
+   "scryfall_name": "Shattered Wings",
+   "match": "full",
+   "gih": 13561,
+   "gih_wr": 0.52090553793968
+  },
+  {
+   "card_17lands": "Hymn of the Faller",
+   "scryfall_name": "Hymn of the Faller",
+   "match": "full",
+   "gih": 17530,
+   "gih_wr": 0.5204791785510553
+  },
+  {
+   "card_17lands": "Sami, Ship's Engineer",
+   "scryfall_name": "Sami, Ship's Engineer",
+   "match": "full",
+   "gih": 7660,
+   "gih_wr": 0.5201044386422976
+  },
+  {
+   "card_17lands": "Gemstone Caverns",
+   "scryfall_name": "Gemstone Caverns",
+   "match": "non-set (bonus/token/other)",
+   "gih": 304,
+   "gih_wr": 0.5197368421052632
+  },
+  {
+   "card_17lands": "Dual-Sun Technique",
+   "scryfall_name": "Dual-Sun Technique",
+   "match": "full",
+   "gih": 6446,
+   "gih_wr": 0.5192367359602854
+  },
+  {
+   "card_17lands": "Icetill Explorer",
+   "scryfall_name": "Icetill Explorer",
+   "match": "full",
+   "gih": 5906,
+   "gih_wr": 0.5191330849983068
+  },
+  {
+   "card_17lands": "Lithobraking",
+   "scryfall_name": "Lithobraking",
+   "match": "full",
+   "gih": 5619,
+   "gih_wr": 0.5185976152340274
+  },
+  {
+   "card_17lands": "Luxknight Breacher",
+   "scryfall_name": "Luxknight Breacher",
+   "match": "full",
+   "gih": 11468,
+   "gih_wr": 0.5185734216951517
+  },
+  {
+   "card_17lands": "Inkmoth Nexus",
+   "scryfall_name": "Inkmoth Nexus",
+   "match": "non-set (bonus/token/other)",
+   "gih": 856,
+   "gih_wr": 0.5163551401869159
+  },
+  {
+   "card_17lands": "Scout for Survivors",
+   "scryfall_name": "Scout for Survivors",
+   "match": "full",
+   "gih": 6843,
+   "gih_wr": 0.5149788104632471
+  },
+  {
+   "card_17lands": "Annul",
+   "scryfall_name": "Annul",
+   "match": "full",
+   "gih": 6746,
+   "gih_wr": 0.5146753631781796
+  },
+  {
+   "card_17lands": "Zealous Display",
+   "scryfall_name": "Zealous Display",
+   "match": "full",
+   "gih": 5425,
+   "gih_wr": 0.5137327188940092
+  },
+  {
+   "card_17lands": "Evendo, Waking Haven",
+   "scryfall_name": "Evendo, Waking Haven",
+   "match": "full",
+   "gih": 1337,
+   "gih_wr": 0.5115931189229619
+  },
+  {
+   "card_17lands": "Atmospheric Greenhouse",
+   "scryfall_name": "Atmospheric Greenhouse",
+   "match": "full",
+   "gih": 12613,
+   "gih_wr": 0.5105050344882265
+  },
+  {
+   "card_17lands": "Uthros, Titanic Godcore",
+   "scryfall_name": "Uthros, Titanic Godcore",
+   "match": "full",
+   "gih": 1110,
+   "gih_wr": 0.5099099099099099
+  },
+  {
+   "card_17lands": "Gravblade Heavy",
+   "scryfall_name": "Gravblade Heavy",
+   "match": "full",
+   "gih": 6950,
+   "gih_wr": 0.5089208633093525
+  },
+  {
+   "card_17lands": "Ragost, Deft Gastronaut",
+   "scryfall_name": "Ragost, Deft Gastronaut",
+   "match": "full",
+   "gih": 2537,
+   "gih_wr": 0.5088687426093812
+  },
+  {
+   "card_17lands": "Mm'menon, the Right Hand",
+   "scryfall_name": "Mm'menon, the Right Hand",
+   "match": "full",
+   "gih": 7228,
+   "gih_wr": 0.5076092971776425
+  },
+  {
+   "card_17lands": "Red Tiger Mechan",
+   "scryfall_name": "Red Tiger Mechan",
+   "match": "full",
+   "gih": 10146,
+   "gih_wr": 0.5073920756948551
+  },
+  {
+   "card_17lands": "Thaumaton Torpedo",
+   "scryfall_name": "Thaumaton Torpedo",
+   "match": "full",
+   "gih": 5295,
+   "gih_wr": 0.5053824362606232
+  },
+  {
+   "card_17lands": "Sami, Wildcat Captain",
+   "scryfall_name": "Sami, Wildcat Captain",
+   "match": "full",
+   "gih": 1282,
+   "gih_wr": 0.5046801872074883
+  },
+  {
+   "card_17lands": "Scrounge for Eternity",
+   "scryfall_name": "Scrounge for Eternity",
+   "match": "full",
+   "gih": 7500,
+   "gih_wr": 0.504
+  },
+  {
+   "card_17lands": "Atomic Microsizer",
+   "scryfall_name": "Atomic Microsizer",
+   "match": "full",
+   "gih": 2402,
+   "gih_wr": 0.5020815986677769
+  },
+  {
+   "card_17lands": "Meltstrider's Gear",
+   "scryfall_name": "Meltstrider's Gear",
+   "match": "full",
+   "gih": 1502,
+   "gih_wr": 0.5019973368841545
+  },
+  {
+   "card_17lands": "Alpharael, Stonechosen",
+   "scryfall_name": "Alpharael, Stonechosen",
+   "match": "full",
+   "gih": 1842,
+   "gih_wr": 0.501628664495114
+  },
+  {
+   "card_17lands": "Magus of the Moon",
+   "scryfall_name": "Magus of the Moon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 22,
+   "gih_wr": 0.5
+  },
+  {
+   "card_17lands": "Frontline War-Rager",
+   "scryfall_name": "Frontline War-Rager",
+   "match": "full",
+   "gih": 8055,
+   "gih_wr": 0.49956548727498445
+  },
+  {
+   "card_17lands": "Galvanizing Sawship",
+   "scryfall_name": "Galvanizing Sawship",
+   "match": "full",
+   "gih": 10812,
+   "gih_wr": 0.4989826119126896
+  },
+  {
+   "card_17lands": "Power Depot",
+   "scryfall_name": "Power Depot",
+   "match": "non-set (bonus/token/other)",
+   "gih": 908,
+   "gih_wr": 0.4988986784140969
+  },
+  {
+   "card_17lands": "Pull Through the Weft",
+   "scryfall_name": "Pull Through the Weft",
+   "match": "full",
+   "gih": 3895,
+   "gih_wr": 0.4988446726572529
+  },
+  {
+   "card_17lands": "The Dominion Bracelet",
+   "scryfall_name": "The Dominion Bracelet",
+   "match": "full",
+   "gih": 1443,
+   "gih_wr": 0.4961884961884962
+  },
+  {
+   "card_17lands": "Drill Too Deep",
+   "scryfall_name": "Drill Too Deep",
+   "match": "full",
+   "gih": 2484,
+   "gih_wr": 0.4943639291465378
+  },
+  {
+   "card_17lands": "Virulent Silencer",
+   "scryfall_name": "Virulent Silencer",
+   "match": "full",
+   "gih": 3903,
+   "gih_wr": 0.49269792467332824
+  },
+  {
+   "card_17lands": "Meteor Crater",
+   "scryfall_name": "Meteor Crater",
+   "match": "non-set (bonus/token/other)",
+   "gih": 371,
+   "gih_wr": 0.49056603773584906
+  },
+  {
+   "card_17lands": "Nesting Grounds",
+   "scryfall_name": "Nesting Grounds",
+   "match": "non-set (bonus/token/other)",
+   "gih": 314,
+   "gih_wr": 0.49044585987261147
+  },
+  {
+   "card_17lands": "Weapons Manufacturing",
+   "scryfall_name": "Weapons Manufacturing",
+   "match": "full",
+   "gih": 3029,
+   "gih_wr": 0.48993067018818093
+  },
+  {
+   "card_17lands": "Dawnsire, Sunstar Dreadnought",
+   "scryfall_name": "Dawnsire, Sunstar Dreadnought",
+   "match": "full",
+   "gih": 3201,
+   "gih_wr": 0.48922211808809746
+  },
+  {
+   "card_17lands": "Chorale of the Void",
+   "scryfall_name": "Chorale of the Void",
+   "match": "full",
+   "gih": 4897,
+   "gih_wr": 0.48254033081478453
+  },
+  {
+   "card_17lands": "Pinnacle Starcage",
+   "scryfall_name": "Pinnacle Starcage",
+   "match": "full",
+   "gih": 1404,
+   "gih_wr": 0.4821937321937322
+  },
+  {
+   "card_17lands": "Terrasymbiosis",
+   "scryfall_name": "Terrasymbiosis",
+   "match": "full",
+   "gih": 3000,
+   "gih_wr": 0.481
+  },
+  {
+   "card_17lands": "Deserted Temple",
+   "scryfall_name": "Deserted Temple",
+   "match": "non-set (bonus/token/other)",
+   "gih": 50,
+   "gih_wr": 0.48
+  },
+  {
+   "card_17lands": "Sinister Cryologist",
+   "scryfall_name": "Sinister Cryologist",
+   "match": "full",
+   "gih": 3092,
+   "gih_wr": 0.4799482535575679
+  },
+  {
+   "card_17lands": "Echoing Deeps",
+   "scryfall_name": "Echoing Deeps",
+   "match": "non-set (bonus/token/other)",
+   "gih": 221,
+   "gih_wr": 0.4751131221719457
+  },
+  {
+   "card_17lands": "Scavenger Grounds",
+   "scryfall_name": "Scavenger Grounds",
+   "match": "non-set (bonus/token/other)",
+   "gih": 140,
+   "gih_wr": 0.4714285714285714
+  },
+  {
+   "card_17lands": "Infinite Guideline Station",
+   "scryfall_name": "Infinite Guideline Station",
+   "match": "full",
+   "gih": 371,
+   "gih_wr": 0.46900269541778977
+  },
+  {
+   "card_17lands": "Terminal Velocity",
+   "scryfall_name": "Terminal Velocity",
+   "match": "full",
+   "gih": 1020,
+   "gih_wr": 0.4676470588235294
+  },
+  {
+   "card_17lands": "Cascading Cataracts",
+   "scryfall_name": "Cascading Cataracts",
+   "match": "non-set (bonus/token/other)",
+   "gih": 381,
+   "gih_wr": 0.4671916010498688
+  },
+  {
+   "card_17lands": "Burgeoning",
+   "scryfall_name": "Burgeoning",
+   "match": "non-set (bonus/token/other)",
+   "gih": 106,
+   "gih_wr": 0.46226415094339623
+  },
+  {
+   "card_17lands": "Lotus Field",
+   "scryfall_name": "Lotus Field",
+   "match": "non-set (bonus/token/other)",
+   "gih": 258,
+   "gih_wr": 0.46124031007751937
+  },
+  {
+   "card_17lands": "Bygone Colossus",
+   "scryfall_name": "Bygone Colossus",
+   "match": "full",
+   "gih": 2001,
+   "gih_wr": 0.4577711144427786
+  },
+  {
+   "card_17lands": "The Eternity Elevator",
+   "scryfall_name": "The Eternity Elevator",
+   "match": "full",
+   "gih": 269,
+   "gih_wr": 0.45724907063197023
+  },
+  {
+   "card_17lands": "Robe of Stars",
+   "scryfall_name": "Robe of Stars",
+   "match": "non-set (bonus/token/other)",
+   "gih": 154,
+   "gih_wr": 0.45454545454545453
+  },
+  {
+   "card_17lands": "Bioengineered Future",
+   "scryfall_name": "Bioengineered Future",
+   "match": "full",
+   "gih": 2509,
+   "gih_wr": 0.45157433240334793
+  },
+  {
+   "card_17lands": "Petrified Field",
+   "scryfall_name": "Petrified Field",
+   "match": "non-set (bonus/token/other)",
+   "gih": 80,
+   "gih_wr": 0.45
+  },
+  {
+   "card_17lands": "Darkness",
+   "scryfall_name": "Darkness",
+   "match": "non-set (bonus/token/other)",
+   "gih": 60,
+   "gih_wr": 0.45
+  },
+  {
+   "card_17lands": "Ruinous Rampage",
+   "scryfall_name": "Ruinous Rampage",
+   "match": "full",
+   "gih": 426,
+   "gih_wr": 0.4460093896713615
+  },
+  {
+   "card_17lands": "Warping Wail",
+   "scryfall_name": "Warping Wail",
+   "match": "non-set (bonus/token/other)",
+   "gih": 19,
+   "gih_wr": 0.42105263157894735
+  },
+  {
+   "card_17lands": "Moonlit Meditation",
+   "scryfall_name": "Moonlit Meditation",
+   "match": "full",
+   "gih": 964,
+   "gih_wr": 0.4118257261410788
+  },
+  {
+   "card_17lands": "Loading Zone",
+   "scryfall_name": "Loading Zone",
+   "match": "full",
+   "gih": 1230,
+   "gih_wr": 0.4065040650406504
+  },
+  {
+   "card_17lands": "Contested War Zone",
+   "scryfall_name": "Contested War Zone",
+   "match": "non-set (bonus/token/other)",
+   "gih": 69,
+   "gih_wr": 0.391304347826087
+  },
+  {
+   "card_17lands": "Cosmogoyf",
+   "scryfall_name": "Cosmogoyf",
+   "match": "full",
+   "gih": 89,
+   "gih_wr": 0.3707865168539326
+  },
+  {
+   "card_17lands": "Deafening Silence",
+   "scryfall_name": "Deafening Silence",
+   "match": "non-set (bonus/token/other)",
+   "gih": 21,
+   "gih_wr": 0.3333333333333333
+  },
+  {
+   "card_17lands": "Paradox Haze",
+   "scryfall_name": "Paradox Haze",
+   "match": "non-set (bonus/token/other)",
+   "gih": 5,
+   "gih_wr": 0.2
+  }
+ ]
+}

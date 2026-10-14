@@ -1,0 +1,1473 @@
+{
+ "set": "ECL",
+ "file": "/opt/mtg-data/17lands/sets/ECL/game_data_public.ECL.PremierDraft.csv.gz",
+ "games": 536566,
+ "wins": 295045,
+ "cards": [
+  {
+   "card": "Ashling's Command",
+   "gih": 13544,
+   "gih_wr": 0.6666420555227407
+  },
+  {
+   "card": "Gloom Ripper",
+   "gih": 11147,
+   "gih_wr": 0.6642145868843635
+  },
+  {
+   "card": "Kinbinding",
+   "gih": 12276,
+   "gih_wr": 0.6471977842945585
+  },
+  {
+   "card": "Trystan's Command",
+   "gih": 11913,
+   "gih_wr": 0.6456811886174767
+  },
+  {
+   "card": "Sunderflock",
+   "gih": 11366,
+   "gih_wr": 0.6453457680802394
+  },
+  {
+   "card": "Soul Immolation",
+   "gih": 7541,
+   "gih_wr": 0.6420899085001989
+  },
+  {
+   "card": "Figure of Fable",
+   "gih": 12879,
+   "gih_wr": 0.6408106219426974
+  },
+  {
+   "card": "Chronicle of Victory",
+   "gih": 7323,
+   "gih_wr": 0.6396285675269698
+  },
+  {
+   "card": "Spinerock Tyrant",
+   "gih": 6531,
+   "gih_wr": 0.6348185576481397
+  },
+  {
+   "card": "Eclipsed Elf",
+   "gih": 25815,
+   "gih_wr": 0.6306411001355801
+  },
+  {
+   "card": "Curious Colossus",
+   "gih": 5968,
+   "gih_wr": 0.630529490616622
+  },
+  {
+   "card": "Deepchannel Duelist",
+   "gih": 23799,
+   "gih_wr": 0.6299844531282827
+  },
+  {
+   "card": "Champions of the Shoal",
+   "gih": 10489,
+   "gih_wr": 0.6277052149871294
+  },
+  {
+   "card": "Eclipsed Kithkin",
+   "gih": 22390,
+   "gih_wr": 0.625547119249665
+  },
+  {
+   "card": "Grub's Command",
+   "gih": 8632,
+   "gih_wr": 0.6252316960148285
+  },
+  {
+   "card": "Loch Mare",
+   "gih": 7227,
+   "gih_wr": 0.6207278262072783
+  },
+  {
+   "card": "High Perfect Morcant",
+   "gih": 9847,
+   "gih_wr": 0.6200873362445415
+  },
+  {
+   "card": "Vibrance",
+   "gih": 6404,
+   "gih_wr": 0.6194565896314803
+  },
+  {
+   "card": "Eclipsed Merrow",
+   "gih": 24809,
+   "gih_wr": 0.6186464589463501
+  },
+  {
+   "card": "Disruptor of Currents",
+   "gih": 12549,
+   "gih_wr": 0.618535341461471
+  },
+  {
+   "card": "Morcant's Loyalist",
+   "gih": 24704,
+   "gih_wr": 0.6154468911917098
+  },
+  {
+   "card": "Eirdu, Carrier of Dawn",
+   "gih": 5737,
+   "gih_wr": 0.615304165940387
+  },
+  {
+   "card": "Brigid, Clachan's Heart",
+   "gih": 9567,
+   "gih_wr": 0.6152398871119473
+  },
+  {
+   "card": "Risen Reef",
+   "gih": 534,
+   "gih_wr": 0.6142322097378277
+  },
+  {
+   "card": "Trystan, Callous Cultivator",
+   "gih": 10281,
+   "gih_wr": 0.6133644587102421
+  },
+  {
+   "card": "Champions of the Perfect",
+   "gih": 10178,
+   "gih_wr": 0.6125957948516408
+  },
+  {
+   "card": "Sanar, Innovative First-Year",
+   "gih": 13928,
+   "gih_wr": 0.610137851809305
+  },
+  {
+   "card": "Wistfulness",
+   "gih": 6487,
+   "gih_wr": 0.6092184368737475
+  },
+  {
+   "card": "Maralen, Fae Ascendant",
+   "gih": 9377,
+   "gih_wr": 0.6091500479897621
+  },
+  {
+   "card": "Ajani, Outland Chaperone",
+   "gih": 5448,
+   "gih_wr": 0.6086637298091042
+  },
+  {
+   "card": "Goblin Sharpshooter",
+   "gih": 608,
+   "gih_wr": 0.6085526315789473
+  },
+  {
+   "card": "Sygg, Wanderwine Wisdom",
+   "gih": 11399,
+   "gih_wr": 0.608211246600579
+  },
+  {
+   "card": "Aurora Awakener",
+   "gih": 6694,
+   "gih_wr": 0.6075590080669256
+  },
+  {
+   "card": "Taster of Wares",
+   "gih": 10358,
+   "gih_wr": 0.6073566325545472
+  },
+  {
+   "card": "Brigid's Command",
+   "gih": 7692,
+   "gih_wr": 0.6064742589703588
+  },
+  {
+   "card": "End-Blaze Epiphany",
+   "gih": 12600,
+   "gih_wr": 0.6058730158730159
+  },
+  {
+   "card": "Flitterwing Nuisance",
+   "gih": 11315,
+   "gih_wr": 0.605037560760053
+  },
+  {
+   "card": "Rimekin Recluse",
+   "gih": 33291,
+   "gih_wr": 0.6049382716049383
+  },
+  {
+   "card": "Ashling, Rekindled",
+   "gih": 10634,
+   "gih_wr": 0.6048523603535828
+  },
+  {
+   "card": "Silvergill Mentor",
+   "gih": 23250,
+   "gih_wr": 0.6043870967741936
+  },
+  {
+   "card": "Morcant's Eyes",
+   "gih": 24404,
+   "gih_wr": 0.6037125061465334
+  },
+  {
+   "card": "Slumbering Walker",
+   "gih": 10311,
+   "gih_wr": 0.602657356221511
+  },
+  {
+   "card": "Bristlebane Battler",
+   "gih": 10029,
+   "gih_wr": 0.6013560674045269
+  },
+  {
+   "card": "Wanderbrine Trapper",
+   "gih": 25852,
+   "gih_wr": 0.5996054463871268
+  },
+  {
+   "card": "Champion of the Weird",
+   "gih": 7472,
+   "gih_wr": 0.5982334047109208
+  },
+  {
+   "card": "Eclipsed Flamekin",
+   "gih": 27812,
+   "gih_wr": 0.59654106141234
+  },
+  {
+   "card": "Lluwen, Imperfect Naturalist",
+   "gih": 10455,
+   "gih_wr": 0.5951219512195122
+  },
+  {
+   "card": "Deceit",
+   "gih": 5924,
+   "gih_wr": 0.5931802835921675
+  },
+  {
+   "card": "Bloodline Bidding",
+   "gih": 9047,
+   "gih_wr": 0.59290372499171
+  },
+  {
+   "card": "Dawnhand Dissident",
+   "gih": 11061,
+   "gih_wr": 0.5917186511165355
+  },
+  {
+   "card": "Flamebraider",
+   "gih": 26790,
+   "gih_wr": 0.5903322135125046
+  },
+  {
+   "card": "Kinscaer Sentry",
+   "gih": 8923,
+   "gih_wr": 0.5902723299338788
+  },
+  {
+   "card": "Thoughtweft Lieutenant",
+   "gih": 17493,
+   "gih_wr": 0.5896072714800206
+  },
+  {
+   "card": "Glen Elendra's Answer",
+   "gih": 5096,
+   "gih_wr": 0.5894819466248038
+  },
+  {
+   "card": "Moon-Vigil Adherents",
+   "gih": 25187,
+   "gih_wr": 0.5892722436177393
+  },
+  {
+   "card": "Sygg's Command",
+   "gih": 8536,
+   "gih_wr": 0.5892689784442362
+  },
+  {
+   "card": "Virulent Emissary",
+   "gih": 24351,
+   "gih_wr": 0.5892160486222332
+  },
+  {
+   "card": "Gathering Stone",
+   "gih": 30587,
+   "gih_wr": 0.5887795468663157
+  },
+  {
+   "card": "Leaf-Crowned Visionary",
+   "gih": 520,
+   "gih_wr": 0.5884615384615385
+  },
+  {
+   "card": "Thoughtweft Imbuer",
+   "gih": 17924,
+   "gih_wr": 0.5884289221155992
+  },
+  {
+   "card": "Shinestriker",
+   "gih": 27930,
+   "gih_wr": 0.5881847475832438
+  },
+  {
+   "card": "Pyrrhic Strike",
+   "gih": 25560,
+   "gih_wr": 0.5880672926447574
+  },
+  {
+   "card": "Kinsbaile Aspirant",
+   "gih": 16609,
+   "gih_wr": 0.5879944608344874
+  },
+  {
+   "card": "Eclipsed Boggart",
+   "gih": 16821,
+   "gih_wr": 0.587361036799239
+  },
+  {
+   "card": "Grub, Storied Matriarch",
+   "gih": 6923,
+   "gih_wr": 0.5871731908132313
+  },
+  {
+   "card": "Pitiless Fists",
+   "gih": 26216,
+   "gih_wr": 0.5869697894415624
+  },
+  {
+   "card": "Assert Perfection",
+   "gih": 63773,
+   "gih_wr": 0.5862512348486036
+  },
+  {
+   "card": "Explosive Prodigy",
+   "gih": 28075,
+   "gih_wr": 0.5851113089937667
+  },
+  {
+   "card": "Dawnhand Eulogist",
+   "gih": 46373,
+   "gih_wr": 0.5830763590882626
+  },
+  {
+   "card": "Iron-Shield Elf",
+   "gih": 22566,
+   "gih_wr": 0.5830009749180183
+  },
+  {
+   "card": "Abigale, Eloquent First-Year",
+   "gih": 10887,
+   "gih_wr": 0.5818866538072931
+  },
+  {
+   "card": "Lys Alana Dignitary",
+   "gih": 21954,
+   "gih_wr": 0.5813974674319031
+  },
+  {
+   "card": "Scarblade Scout",
+   "gih": 48404,
+   "gih_wr": 0.5813362532022147
+  },
+  {
+   "card": "Doran, Besieged by Time",
+   "gih": 6384,
+   "gih_wr": 0.581296992481203
+  },
+  {
+   "card": "Noggle Robber",
+   "gih": 25739,
+   "gih_wr": 0.5808694976494814
+  },
+  {
+   "card": "Bitterbloom Bearer",
+   "gih": 4944,
+   "gih_wr": 0.5807038834951457
+  },
+  {
+   "card": "Mudbutton Cursetosser",
+   "gih": 14074,
+   "gih_wr": 0.5806451612903226
+  },
+  {
+   "card": "Adept Watershaper",
+   "gih": 9848,
+   "gih_wr": 0.5790008123476849
+  },
+  {
+   "card": "Formidable Speaker",
+   "gih": 9622,
+   "gih_wr": 0.5783620868842236
+  },
+  {
+   "card": "Creakwood Safewright",
+   "gih": 22239,
+   "gih_wr": 0.5780385808714421
+  },
+  {
+   "card": "Bitterblossom",
+   "gih": 496,
+   "gih_wr": 0.5766129032258065
+  },
+  {
+   "card": "Wanderwine Farewell",
+   "gih": 18999,
+   "gih_wr": 0.5762408547818306
+  },
+  {
+   "card": "Lys Alana Informant",
+   "gih": 54750,
+   "gih_wr": 0.5755068493150685
+  },
+  {
+   "card": "Clachan Festival",
+   "gih": 17773,
+   "gih_wr": 0.5754233950374164
+  },
+  {
+   "card": "Protective Response",
+   "gih": 22630,
+   "gih_wr": 0.5752098983650022
+  },
+  {
+   "card": "Emptiness",
+   "gih": 5259,
+   "gih_wr": 0.5748241110477277
+  },
+  {
+   "card": "Oko, Lorwyn Liege",
+   "gih": 5479,
+   "gih_wr": 0.5745574009855813
+  },
+  {
+   "card": "Twinflame Travelers",
+   "gih": 23634,
+   "gih_wr": 0.5736650588135737
+  },
+  {
+   "card": "Moonshadow",
+   "gih": 4617,
+   "gih_wr": 0.573316006064544
+  },
+  {
+   "card": "Kinsbaile Cavalier",
+   "gih": 255,
+   "gih_wr": 0.5725490196078431
+  },
+  {
+   "card": "Boggart Cursecrafter",
+   "gih": 16030,
+   "gih_wr": 0.5722395508421709
+  },
+  {
+   "card": "Sapling Nursery",
+   "gih": 8106,
+   "gih_wr": 0.5720453984702689
+  },
+  {
+   "card": "Merrow Skyswimmer",
+   "gih": 57137,
+   "gih_wr": 0.5713810665593223
+  },
+  {
+   "card": "Prismabasher",
+   "gih": 21159,
+   "gih_wr": 0.5711990169667753
+  },
+  {
+   "card": "Selfless Safewright",
+   "gih": 9166,
+   "gih_wr": 0.5705869517783112
+  },
+  {
+   "card": "Deepway Navigator",
+   "gih": 7944,
+   "gih_wr": 0.5699899295065458
+  },
+  {
+   "card": "Glamer Gifter",
+   "gih": 24751,
+   "gih_wr": 0.5689467092238697
+  },
+  {
+   "card": "Encumbered Reejerey",
+   "gih": 21772,
+   "gih_wr": 0.5687121072937719
+  },
+  {
+   "card": "Mistmeadow Council",
+   "gih": 42517,
+   "gih_wr": 0.5684314509490321
+  },
+  {
+   "card": "Safewright Cavalry",
+   "gih": 46069,
+   "gih_wr": 0.5683865506088693
+  },
+  {
+   "card": "Midnight Tilling",
+   "gih": 33880,
+   "gih_wr": 0.5682998819362456
+  },
+  {
+   "card": "Nameless Inversion",
+   "gih": 23954,
+   "gih_wr": 0.5679218502129081
+  },
+  {
+   "card": "Sear",
+   "gih": 26115,
+   "gih_wr": 0.5676814091518284
+  },
+  {
+   "card": "Reaping Willow",
+   "gih": 19704,
+   "gih_wr": 0.5671944782785221
+  },
+  {
+   "card": "Unwelcome Sprite",
+   "gih": 22459,
+   "gih_wr": 0.5667661071285454
+  },
+  {
+   "card": "Kulrath Zealot",
+   "gih": 55224,
+   "gih_wr": 0.5667644502390266
+  },
+  {
+   "card": "Tanufel Rimespeaker",
+   "gih": 24868,
+   "gih_wr": 0.5667524529515844
+  },
+  {
+   "card": "Flamekin Gildweaver",
+   "gih": 47087,
+   "gih_wr": 0.5664196062607514
+  },
+  {
+   "card": "Bristlebane Outrider",
+   "gih": 16973,
+   "gih_wr": 0.566311200141401
+  },
+  {
+   "card": "Glen Elendra Guardian",
+   "gih": 10834,
+   "gih_wr": 0.5661805427358316
+  },
+  {
+   "card": "Gravelgill Scoundrel",
+   "gih": 38064,
+   "gih_wr": 0.5659415720891131
+  },
+  {
+   "card": "Pummeler for Hire",
+   "gih": 18127,
+   "gih_wr": 0.5656203453412038
+  },
+  {
+   "card": "Boggart Mischief",
+   "gih": 15394,
+   "gih_wr": 0.565285176042614
+  },
+  {
+   "card": "Blossoming Defense",
+   "gih": 19953,
+   "gih_wr": 0.565228286473212
+  },
+  {
+   "card": "Twilight Diviner",
+   "gih": 7501,
+   "gih_wr": 0.5649913344887348
+  },
+  {
+   "card": "Temporal Cleansing",
+   "gih": 48170,
+   "gih_wr": 0.5644176873572763
+  },
+  {
+   "card": "Bogslither's Embrace",
+   "gih": 52800,
+   "gih_wr": 0.5640909090909091
+  },
+  {
+   "card": "Goblin Chieftain",
+   "gih": 314,
+   "gih_wr": 0.5636942675159236
+  },
+  {
+   "card": "Champion of the Clachan",
+   "gih": 6865,
+   "gih_wr": 0.5635833940276767
+  },
+  {
+   "card": "Unexpected Assistance",
+   "gih": 54449,
+   "gih_wr": 0.563536520413598
+  },
+  {
+   "card": "Vinebred Brawler",
+   "gih": 17795,
+   "gih_wr": 0.5634728856420342
+  },
+  {
+   "card": "Bre of Clan Stoutarm",
+   "gih": 7728,
+   "gih_wr": 0.5632763975155279
+  },
+  {
+   "card": "Dundoolin Weaver",
+   "gih": 24332,
+   "gih_wr": 0.5630445503863225
+  },
+  {
+   "card": "Liminal Hold",
+   "gih": 53541,
+   "gih_wr": 0.5622233428587438
+  },
+  {
+   "card": "Wanderbrine Preacher",
+   "gih": 42549,
+   "gih_wr": 0.5621283696444099
+  },
+  {
+   "card": "Mirrorform",
+   "gih": 4578,
+   "gih_wr": 0.5615989515072084
+  },
+  {
+   "card": "Cinder Strike",
+   "gih": 62067,
+   "gih_wr": 0.5614577794963507
+  },
+  {
+   "card": "Boulder Dash",
+   "gih": 22821,
+   "gih_wr": 0.5610183602821962
+  },
+  {
+   "card": "Tributary Vaulter",
+   "gih": 31987,
+   "gih_wr": 0.5605714821646294
+  },
+  {
+   "card": "Omni-Changeling",
+   "gih": 26627,
+   "gih_wr": 0.5598452698388854
+  },
+  {
+   "card": "Crossroads Watcher",
+   "gih": 32827,
+   "gih_wr": 0.5597526426417279
+  },
+  {
+   "card": "Blight Rot",
+   "gih": 49977,
+   "gih_wr": 0.5592972767473038
+  },
+  {
+   "card": "Scuzzback Scrounger",
+   "gih": 9159,
+   "gih_wr": 0.558576263784256
+  },
+  {
+   "card": "Noggle the Mind",
+   "gih": 18052,
+   "gih_wr": 0.558386882339907
+  },
+  {
+   "card": "Sourbread Auntie",
+   "gih": 16022,
+   "gih_wr": 0.5575458744226688
+  },
+  {
+   "card": "Moonlit Lamenter",
+   "gih": 16634,
+   "gih_wr": 0.557532764217867
+  },
+  {
+   "card": "Rooftop Percher",
+   "gih": 36685,
+   "gih_wr": 0.5574758075507701
+  },
+  {
+   "card": "Unbury",
+   "gih": 21283,
+   "gih_wr": 0.5565004933515012
+  },
+  {
+   "card": "Forest",
+   "gih": 257132,
+   "gih_wr": 0.5561423704556414
+  },
+  {
+   "card": "Flaring Cinder",
+   "gih": 40926,
+   "gih_wr": 0.5561012559253287
+  },
+  {
+   "card": "Soulbright Seeker",
+   "gih": 16924,
+   "gih_wr": 0.5559560387615221
+  },
+  {
+   "card": "Lofty Dreams",
+   "gih": 15848,
+   "gih_wr": 0.5554644119131752
+  },
+  {
+   "card": "Dawn's Light Archer",
+   "gih": 35190,
+   "gih_wr": 0.5553282182438193
+  },
+  {
+   "card": "Blossombind",
+   "gih": 56341,
+   "gih_wr": 0.5552617099448004
+  },
+  {
+   "card": "Wary Farmer",
+   "gih": 38333,
+   "gih_wr": 0.5551874364124906
+  },
+  {
+   "card": "Silvergill Peddler",
+   "gih": 31835,
+   "gih_wr": 0.5541699387466624
+  },
+  {
+   "card": "Goliath Daydreamer",
+   "gih": 9755,
+   "gih_wr": 0.5536647872885699
+  },
+  {
+   "card": "Timid Shieldbearer",
+   "gih": 40325,
+   "gih_wr": 0.5536515809051457
+  },
+  {
+   "card": "Flock Impostor",
+   "gih": 19018,
+   "gih_wr": 0.5534230728783258
+  },
+  {
+   "card": "Plains",
+   "gih": 230306,
+   "gih_wr": 0.5532856286853143
+  },
+  {
+   "card": "Gilt-Leaf's Embrace",
+   "gih": 24547,
+   "gih_wr": 0.5526540921497536
+  },
+  {
+   "card": "Kindle the Inner Flame",
+   "gih": 10295,
+   "gih_wr": 0.5524040796503157
+  },
+  {
+   "card": "Island",
+   "gih": 244880,
+   "gih_wr": 0.5518662201894806
+  },
+  {
+   "card": "Gallant Fowlknight",
+   "gih": 24052,
+   "gih_wr": 0.5512639281556627
+  },
+  {
+   "card": "Feed the Flames",
+   "gih": 50656,
+   "gih_wr": 0.5511884080859129
+  },
+  {
+   "card": "Thoughtweft Charge",
+   "gih": 13269,
+   "gih_wr": 0.5511342226241616
+  },
+  {
+   "card": "Stratosoarer",
+   "gih": 34510,
+   "gih_wr": 0.5509997102289191
+  },
+  {
+   "card": "Pestered Wellguard",
+   "gih": 18184,
+   "gih_wr": 0.5508688957325121
+  },
+  {
+   "card": "Mutable Explorer",
+   "gih": 7718,
+   "gih_wr": 0.5505312257061414
+  },
+  {
+   "card": "Evolving Wilds",
+   "gih": 69107,
+   "gih_wr": 0.5504941612282402
+  },
+  {
+   "card": "Swat Away",
+   "gih": 18830,
+   "gih_wr": 0.550292087095061
+  },
+  {
+   "card": "Tweeze",
+   "gih": 51612,
+   "gih_wr": 0.5500077501356274
+  },
+  {
+   "card": "Personify",
+   "gih": 13097,
+   "gih_wr": 0.5498969229594564
+  },
+  {
+   "card": "Overgrown Tomb",
+   "gih": 6336,
+   "gih_wr": 0.5498737373737373
+  },
+  {
+   "card": "Morningtide's Light",
+   "gih": 2938,
+   "gih_wr": 0.5483321987746766
+  },
+  {
+   "card": "Swamp",
+   "gih": 226738,
+   "gih_wr": 0.5482671629810618
+  },
+  {
+   "card": "Spiral into Solitude",
+   "gih": 47651,
+   "gih_wr": 0.5470399362028079
+  },
+  {
+   "card": "Shimmercreep",
+   "gih": 14223,
+   "gih_wr": 0.5470013358644449
+  },
+  {
+   "card": "Bloom Tender",
+   "gih": 4287,
+   "gih_wr": 0.5463027758339165
+  },
+  {
+   "card": "Eclipsed Realms",
+   "gih": 13043,
+   "gih_wr": 0.5462700299010964
+  },
+  {
+   "card": "Dawn-Blessed Pennant",
+   "gih": 12367,
+   "gih_wr": 0.546049971698876
+  },
+  {
+   "card": "Great Forest Druid",
+   "gih": 37398,
+   "gih_wr": 0.5458313278784962
+  },
+  {
+   "card": "Puca's Eye",
+   "gih": 6463,
+   "gih_wr": 0.5457218010211976
+  },
+  {
+   "card": "Shore Lurker",
+   "gih": 22528,
+   "gih_wr": 0.5453657670454546
+  },
+  {
+   "card": "Champion of the Path",
+   "gih": 8178,
+   "gih_wr": 0.5449987772071411
+  },
+  {
+   "card": "Scarblade's Malice",
+   "gih": 19944,
+   "gih_wr": 0.5449759326113117
+  },
+  {
+   "card": "Gnarlbark Elm",
+   "gih": 15819,
+   "gih_wr": 0.5444718376635691
+  },
+  {
+   "card": "Surly Farrier",
+   "gih": 29752,
+   "gih_wr": 0.5440642645872547
+  },
+  {
+   "card": "Gangly Stompling",
+   "gih": 41994,
+   "gih_wr": 0.5438634090584369
+  },
+  {
+   "card": "Sizzling Changeling",
+   "gih": 22871,
+   "gih_wr": 0.5436579073936426
+  },
+  {
+   "card": "Summit Sentinel",
+   "gih": 31768,
+   "gih_wr": 0.5435343742130446
+  },
+  {
+   "card": "Graveshifter",
+   "gih": 21950,
+   "gih_wr": 0.5434168564920273
+  },
+  {
+   "card": "Kulrath Mystic",
+   "gih": 21824,
+   "gih_wr": 0.5433925953079178
+  },
+  {
+   "card": "Giantfall",
+   "gih": 14774,
+   "gih_wr": 0.54331934479491
+  },
+  {
+   "card": "Meanders Guide",
+   "gih": 14739,
+   "gih_wr": 0.5432525951557093
+  },
+  {
+   "card": "Gristle Glutton",
+   "gih": 38609,
+   "gih_wr": 0.542619596467145
+  },
+  {
+   "card": "Mountain",
+   "gih": 209457,
+   "gih_wr": 0.5419537184243066
+  },
+  {
+   "card": "Evershrike's Gift",
+   "gih": 8756,
+   "gih_wr": 0.5412288716308817
+  },
+  {
+   "card": "Tam, Mindful First-Year",
+   "gih": 10145,
+   "gih_wr": 0.5409561360275998
+  },
+  {
+   "card": "Changeling Wayfinder",
+   "gih": 50376,
+   "gih_wr": 0.5405351754803874
+  },
+  {
+   "card": "Kithkeeper",
+   "gih": 12581,
+   "gih_wr": 0.5403386058341945
+  },
+  {
+   "card": "Aquitect's Defenses",
+   "gih": 12612,
+   "gih_wr": 0.5397240723120837
+  },
+  {
+   "card": "Foraging Wickermaw",
+   "gih": 42950,
+   "gih_wr": 0.53965075669383
+  },
+  {
+   "card": "Flame-Chain Mauler",
+   "gih": 32019,
+   "gih_wr": 0.5394609450638683
+  },
+  {
+   "card": "Auntie's Sentence",
+   "gih": 26662,
+   "gih_wr": 0.5393818918310704
+  },
+  {
+   "card": "Glamermite",
+   "gih": 18485,
+   "gih_wr": 0.5391939410332702
+  },
+  {
+   "card": "Wild Unraveling",
+   "gih": 15161,
+   "gih_wr": 0.5379592375173141
+  },
+  {
+   "card": "Celestial Reunion",
+   "gih": 1963,
+   "gih_wr": 0.5379521141110545
+  },
+  {
+   "card": "Shadow Urchin",
+   "gih": 8202,
+   "gih_wr": 0.5377956595952207
+  },
+  {
+   "card": "Steam Vents",
+   "gih": 6658,
+   "gih_wr": 0.5376990087113247
+  },
+  {
+   "card": "Barbed Bloodletter",
+   "gih": 9891,
+   "gih_wr": 0.5368516833484986
+  },
+  {
+   "card": "Stoic Grove-Guide",
+   "gih": 31386,
+   "gih_wr": 0.53676798572612
+  },
+  {
+   "card": "Hovel Hurler",
+   "gih": 16469,
+   "gih_wr": 0.5366446050154836
+  },
+  {
+   "card": "Winnowing",
+   "gih": 4462,
+   "gih_wr": 0.5365307037203048
+  },
+  {
+   "card": "Retched Wretch",
+   "gih": 10872,
+   "gih_wr": 0.5361479028697572
+  },
+  {
+   "card": "Door of Destinies",
+   "gih": 403,
+   "gih_wr": 0.5359801488833746
+  },
+  {
+   "card": "Sun-Dappled Celebrant",
+   "gih": 23922,
+   "gih_wr": 0.5358247638157345
+  },
+  {
+   "card": "Thirst for Identity",
+   "gih": 9942,
+   "gih_wr": 0.5355059344196339
+  },
+  {
+   "card": "Prideful Feastling",
+   "gih": 40567,
+   "gih_wr": 0.5354352059555797
+  },
+  {
+   "card": "Spry and Mighty",
+   "gih": 7902,
+   "gih_wr": 0.5353075170842825
+  },
+  {
+   "card": "Harmonized Crescendo",
+   "gih": 6304,
+   "gih_wr": 0.5350571065989848
+  },
+  {
+   "card": "Enraged Flamecaster",
+   "gih": 22303,
+   "gih_wr": 0.534950455095727
+  },
+  {
+   "card": "Riverguard's Reflexes",
+   "gih": 11844,
+   "gih_wr": 0.5344478216818642
+  },
+  {
+   "card": "Burdened Stoneback",
+   "gih": 12627,
+   "gih_wr": 0.5343311950582086
+  },
+  {
+   "card": "Goldmeadow Nomad",
+   "gih": 18455,
+   "gih_wr": 0.5343267407206719
+  },
+  {
+   "card": "Kirol, Attentive First-Year",
+   "gih": 8884,
+   "gih_wr": 0.5337685727149932
+  },
+  {
+   "card": "Hallowed Fountain",
+   "gih": 6409,
+   "gih_wr": 0.533000468091746
+  },
+  {
+   "card": "Requiting Hex",
+   "gih": 12423,
+   "gih_wr": 0.5328825565483377
+  },
+  {
+   "card": "Keep Out",
+   "gih": 27529,
+   "gih_wr": 0.5316575247920375
+  },
+  {
+   "card": "Brambleback Brute",
+   "gih": 16497,
+   "gih_wr": 0.5312481057161909
+  },
+  {
+   "card": "Catharsis",
+   "gih": 4034,
+   "gih_wr": 0.5309866137828458
+  },
+  {
+   "card": "Mischievous Sneakling",
+   "gih": 49974,
+   "gih_wr": 0.529955576899988
+  },
+  {
+   "card": "Boggart Prankster",
+   "gih": 21242,
+   "gih_wr": 0.5293757649938801
+  },
+  {
+   "card": "Bile-Vial Boggart",
+   "gih": 20208,
+   "gih_wr": 0.5288004750593824
+  },
+  {
+   "card": "Blood Crypt",
+   "gih": 5000,
+   "gih_wr": 0.5286
+  },
+  {
+   "card": "Boldwyr Aggressor",
+   "gih": 5203,
+   "gih_wr": 0.5285412262156448
+  },
+  {
+   "card": "Glister Bairn",
+   "gih": 11235,
+   "gih_wr": 0.528437917222964
+  },
+  {
+   "card": "Rime Chill",
+   "gih": 9088,
+   "gih_wr": 0.528169014084507
+  },
+  {
+   "card": "Elder Auntie",
+   "gih": 22540,
+   "gih_wr": 0.5273291925465838
+  },
+  {
+   "card": "Rhys, the Evermore",
+   "gih": 7109,
+   "gih_wr": 0.5267970178646786
+  },
+  {
+   "card": "Temple Garden",
+   "gih": 5482,
+   "gih_wr": 0.5264502006566947
+  },
+  {
+   "card": "Wildvine Pummeler",
+   "gih": 25167,
+   "gih_wr": 0.5240195494099416
+  },
+  {
+   "card": "Moonglove Extractor",
+   "gih": 20147,
+   "gih_wr": 0.5238993398520871
+  },
+  {
+   "card": "Heat Shimmer",
+   "gih": 84,
+   "gih_wr": 0.5238095238095238
+  },
+  {
+   "card": "Squawkroaster",
+   "gih": 10594,
+   "gih_wr": 0.5225599395884463
+  },
+  {
+   "card": "Reluctant Dounguard",
+   "gih": 17319,
+   "gih_wr": 0.5224897511403661
+  },
+  {
+   "card": "Voracious Tome-Skimmer",
+   "gih": 7154,
+   "gih_wr": 0.5218059826670394
+  },
+  {
+   "card": "Burning Curiosity",
+   "gih": 20006,
+   "gih_wr": 0.521593521943417
+  },
+  {
+   "card": "Stalactite Dagger",
+   "gih": 12472,
+   "gih_wr": 0.5209268762026941
+  },
+  {
+   "card": "Run Away Together",
+   "gih": 13470,
+   "gih_wr": 0.5207869339272457
+  },
+  {
+   "card": "Gutsplitter Gang",
+   "gih": 10176,
+   "gih_wr": 0.5194575471698113
+  },
+  {
+   "card": "Sting-Slinger",
+   "gih": 12035,
+   "gih_wr": 0.5194017449106771
+  },
+  {
+   "card": "Wanderwine Distracter",
+   "gih": 10718,
+   "gih_wr": 0.51931330472103
+  },
+  {
+   "card": "Illusion Spinners",
+   "gih": 5921,
+   "gih_wr": 0.5191690592805269
+  },
+  {
+   "card": "Luminollusk",
+   "gih": 8906,
+   "gih_wr": 0.5185268358410061
+  },
+  {
+   "card": "Warren Torchmaster",
+   "gih": 10845,
+   "gih_wr": 0.5181189488243431
+  },
+  {
+   "card": "Chitinous Graspling",
+   "gih": 26442,
+   "gih_wr": 0.5173209288253536
+  },
+  {
+   "card": "Feisty Spikeling",
+   "gih": 34224,
+   "gih_wr": 0.5166257597007947
+  },
+  {
+   "card": "Unforgiving Aim",
+   "gih": 10691,
+   "gih_wr": 0.5160415302590964
+  },
+  {
+   "card": "Dream Seizer",
+   "gih": 13945,
+   "gih_wr": 0.5157404087486555
+  },
+  {
+   "card": "Firdoch Core",
+   "gih": 14753,
+   "gih_wr": 0.5154205924218803
+  },
+  {
+   "card": "Devoted Druid",
+   "gih": 389,
+   "gih_wr": 0.5141388174807198
+  },
+  {
+   "card": "Boneclub Berserker",
+   "gih": 12927,
+   "gih_wr": 0.5132668059101106
+  },
+  {
+   "card": "Dose of Dawnglow",
+   "gih": 7629,
+   "gih_wr": 0.5125180233320226
+  },
+  {
+   "card": "Bark of Doran",
+   "gih": 2850,
+   "gih_wr": 0.512280701754386
+  },
+  {
+   "card": "Chaos Spewer",
+   "gih": 19231,
+   "gih_wr": 0.5113098642816286
+  },
+  {
+   "card": "Nightmare Sower",
+   "gih": 7272,
+   "gih_wr": 0.5112761276127613
+  },
+  {
+   "card": "Shimmerwilds Growth",
+   "gih": 10872,
+   "gih_wr": 0.5097498160412067
+  },
+  {
+   "card": "Dream Harvest",
+   "gih": 4272,
+   "gih_wr": 0.5091292134831461
+  },
+  {
+   "card": "Hexing Squelcher",
+   "gih": 5181,
+   "gih_wr": 0.5072379849449913
+  },
+  {
+   "card": "Appeal to Eirdu",
+   "gih": 5217,
+   "gih_wr": 0.5060379528464635
+  },
+  {
+   "card": "Blighted Blackthorn",
+   "gih": 14749,
+   "gih_wr": 0.5057970031866568
+  },
+  {
+   "card": "Springleaf Drum",
+   "gih": 4752,
+   "gih_wr": 0.5050505050505051
+  },
+  {
+   "card": "Tend the Sprigs",
+   "gih": 10634,
+   "gih_wr": 0.5046078615760767
+  },
+  {
+   "card": "Crib Swap",
+   "gih": 4940,
+   "gih_wr": 0.5040485829959515
+  },
+  {
+   "card": "Regal Force",
+   "gih": 354,
+   "gih_wr": 0.5028248587570622
+  },
+  {
+   "card": "Reckless Ransacking",
+   "gih": 5457,
+   "gih_wr": 0.502473886750962
+  },
+  {
+   "card": "Chomping Changeling",
+   "gih": 9917,
+   "gih_wr": 0.5010587879399012
+  },
+  {
+   "card": "Manamorphose",
+   "gih": 224,
+   "gih_wr": 0.5
+  },
+  {
+   "card": "Collective Inferno",
+   "gih": 3119,
+   "gih_wr": 0.49470984289836484
+  },
+  {
+   "card": "Goatnap",
+   "gih": 1075,
+   "gih_wr": 0.49116279069767443
+  },
+  {
+   "card": "Prismatic Undercurrents",
+   "gih": 4459,
+   "gih_wr": 0.49114151154967484
+  },
+  {
+   "card": "Heirloom Auntie",
+   "gih": 15488,
+   "gih_wr": 0.490702479338843
+  },
+  {
+   "card": "Wanderwine Prophets",
+   "gih": 183,
+   "gih_wr": 0.48633879781420764
+  },
+  {
+   "card": "Darkness Descends",
+   "gih": 2966,
+   "gih_wr": 0.4851652056641942
+  },
+  {
+   "card": "Faerie Macabre",
+   "gih": 31,
+   "gih_wr": 0.4838709677419355
+  },
+  {
+   "card": "Mistbind Clique",
+   "gih": 246,
+   "gih_wr": 0.483739837398374
+  },
+  {
+   "card": "Spell Snare",
+   "gih": 2737,
+   "gih_wr": 0.4826452320058458
+  },
+  {
+   "card": "Perfect Intimidation",
+   "gih": 1937,
+   "gih_wr": 0.481672689726381
+  },
+  {
+   "card": "Lasting Tarfire",
+   "gih": 6790,
+   "gih_wr": 0.47452135493372605
+  },
+  {
+   "card": "Mornsong Aria",
+   "gih": 264,
+   "gih_wr": 0.4734848484848485
+  },
+  {
+   "card": "Lavaleaper",
+   "gih": 781,
+   "gih_wr": 0.47247119078104993
+  },
+  {
+   "card": "Dolmen Gate",
+   "gih": 165,
+   "gih_wr": 0.4666666666666667
+  },
+  {
+   "card": "Painter's Servant",
+   "gih": 102,
+   "gih_wr": 0.46078431372549017
+  },
+  {
+   "card": "Impolite Entrance",
+   "gih": 1858,
+   "gih_wr": 0.4461786867599569
+  },
+  {
+   "card": "Rimefire Torque",
+   "gih": 386,
+   "gih_wr": 0.4170984455958549
+  },
+  {
+   "card": "Slippery Bogle",
+   "gih": 34,
+   "gih_wr": 0.4117647058823529
+  },
+  {
+   "card": "Idyllic Tutor",
+   "gih": 17,
+   "gih_wr": 0.4117647058823529
+  },
+  {
+   "card": "Raiding Schemes",
+   "gih": 229,
+   "gih_wr": 0.3930131004366812
+  },
+  {
+   "card": "Mirrormind Crown",
+   "gih": 415,
+   "gih_wr": 0.39036144578313253
+  },
+  {
+   "card": "Meek Attack",
+   "gih": 40,
+   "gih_wr": 0.325
+  },
+  {
+   "card": "Thousand-Year Elixir",
+   "gih": 3,
+   "gih_wr": 0.0
+  },
+  {
+   "card": "Helix Pinnacle",
+   "gih": 1,
+   "gih_wr": 0.0
+  }
+ ]
+}

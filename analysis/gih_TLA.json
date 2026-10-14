@@ -1,0 +1,1738 @@
+{
+ "set": "TLA",
+ "file": "/opt/mtg-data/17lands/sets/TLA/game_data_public.TLA.PremierDraft.csv.gz",
+ "games": 562924,
+ "wins": 315286,
+ "cards": [
+  {
+   "card": "Noxious Gearhulk",
+   "gih": 542,
+   "gih_wr": 0.6808118081180812
+  },
+  {
+   "card": "The Rise of Sozin",
+   "gih": 8745,
+   "gih_wr": 0.6715837621497999
+  },
+  {
+   "card": "The Fire Nation Drill",
+   "gih": 14420,
+   "gih_wr": 0.6682385575589459
+  },
+  {
+   "card": "The Legend of Kuruk",
+   "gih": 9494,
+   "gih_wr": 0.6669475458184116
+  },
+  {
+   "card": "The Legend of Yangchen",
+   "gih": 8553,
+   "gih_wr": 0.6616391909271601
+  },
+  {
+   "card": "Koma, Cosmos Serpent",
+   "gih": 450,
+   "gih_wr": 0.66
+  },
+  {
+   "card": "Wan Shi Tong, Librarian",
+   "gih": 8885,
+   "gih_wr": 0.6585256049521666
+  },
+  {
+   "card": "Aang, Swift Savior",
+   "gih": 14696,
+   "gih_wr": 0.6538513881328253
+  },
+  {
+   "card": "The Earth King",
+   "gih": 13276,
+   "gih_wr": 0.6536607411871046
+  },
+  {
+   "card": "United Front",
+   "gih": 7926,
+   "gih_wr": 0.6529144587433763
+  },
+  {
+   "card": "Agent of Treachery",
+   "gih": 543,
+   "gih_wr": 0.6445672191528545
+  },
+  {
+   "card": "Volcanic Torrent",
+   "gih": 373,
+   "gih_wr": 0.6434316353887399
+  },
+  {
+   "card": "Bumi, Unleashed",
+   "gih": 6991,
+   "gih_wr": 0.6423973680446288
+  },
+  {
+   "card": "Koh, the Face Stealer",
+   "gih": 7951,
+   "gih_wr": 0.6418060621305496
+  },
+  {
+   "card": "Badgermole Cub",
+   "gih": 6652,
+   "gih_wr": 0.637702946482261
+  },
+  {
+   "card": "The Legend of Roku",
+   "gih": 8225,
+   "gih_wr": 0.6346504559270517
+  },
+  {
+   "card": "Azula, Cunning Usurper",
+   "gih": 14487,
+   "gih_wr": 0.6328432387657901
+  },
+  {
+   "card": "Earthbender Ascension",
+   "gih": 12971,
+   "gih_wr": 0.6293269601418549
+  },
+  {
+   "card": "Great Divide Guide",
+   "gih": 11894,
+   "gih_wr": 0.6284681351942155
+  },
+  {
+   "card": "Raven Eagle",
+   "gih": 14847,
+   "gih_wr": 0.62713005994477
+  },
+  {
+   "card": "Phoenix Fleet Airship",
+   "gih": 7566,
+   "gih_wr": 0.6258260639703939
+  },
+  {
+   "card": "Suki, Courageous Rescuer",
+   "gih": 12895,
+   "gih_wr": 0.6249709189608376
+  },
+  {
+   "card": "Invasion Submersible",
+   "gih": 41982,
+   "gih_wr": 0.6223619646515173
+  },
+  {
+   "card": "Katara, Water Tribe's Hope",
+   "gih": 14854,
+   "gih_wr": 0.620775548673758
+  },
+  {
+   "card": "Aang, at the Crossroads",
+   "gih": 12630,
+   "gih_wr": 0.6182106096595408
+  },
+  {
+   "card": "Cityscape Leveler",
+   "gih": 459,
+   "gih_wr": 0.616557734204793
+  },
+  {
+   "card": "Abandoned Air Temple",
+   "gih": 14069,
+   "gih_wr": 0.616106333072713
+  },
+  {
+   "card": "Black Sun's Zenith",
+   "gih": 406,
+   "gih_wr": 0.6157635467980296
+  },
+  {
+   "card": "Aang, the Last Airbender",
+   "gih": 29486,
+   "gih_wr": 0.6150376449840602
+  },
+  {
+   "card": "The Great Henge",
+   "gih": 397,
+   "gih_wr": 0.6146095717884131
+  },
+  {
+   "card": "Ty Lee, Chi Blocker",
+   "gih": 15565,
+   "gih_wr": 0.6131705750080308
+  },
+  {
+   "card": "Earth Kingdom Jailer",
+   "gih": 29097,
+   "gih_wr": 0.6117812832938103
+  },
+  {
+   "card": "South Pole Voyager",
+   "gih": 12682,
+   "gih_wr": 0.6108657940387952
+  },
+  {
+   "card": "The Unagi of Kyoshi Island",
+   "gih": 15404,
+   "gih_wr": 0.6059465074006751
+  },
+  {
+   "card": "Earth King's Lieutenant",
+   "gih": 8904,
+   "gih_wr": 0.6048966756513926
+  },
+  {
+   "card": "Day of Black Sun",
+   "gih": 12511,
+   "gih_wr": 0.603788665973943
+  },
+  {
+   "card": "Beifong's Bounty Hunters",
+   "gih": 10753,
+   "gih_wr": 0.603738491583744
+  },
+  {
+   "card": "Appa, Steadfast Guardian",
+   "gih": 6930,
+   "gih_wr": 0.603030303030303
+  },
+  {
+   "card": "The Legend of Kyoshi",
+   "gih": 6290,
+   "gih_wr": 0.6019077901430843
+  },
+  {
+   "card": "The Cave of Two Lovers",
+   "gih": 25320,
+   "gih_wr": 0.6009873617693523
+  },
+  {
+   "card": "Heartless Act",
+   "gih": 25795,
+   "gih_wr": 0.6006978096530335
+  },
+  {
+   "card": "Ba Sing Se",
+   "gih": 12090,
+   "gih_wr": 0.5985938792390405
+  },
+  {
+   "card": "Gran-Gran",
+   "gih": 31574,
+   "gih_wr": 0.5985937796921518
+  },
+  {
+   "card": "Rhys the Redeemed",
+   "gih": 397,
+   "gih_wr": 0.5969773299748111
+  },
+  {
+   "card": "Treetop Village",
+   "gih": 305,
+   "gih_wr": 0.5967213114754099
+  },
+  {
+   "card": "Water Tribe Rallier",
+   "gih": 31536,
+   "gih_wr": 0.5966197361745307
+  },
+  {
+   "card": "The Mechanist, Aerial Artisan",
+   "gih": 15881,
+   "gih_wr": 0.5961841193879479
+  },
+  {
+   "card": "Insurrection",
+   "gih": 146,
+   "gih_wr": 0.5958904109589042
+  },
+  {
+   "card": "Foggy Swamp Spirit Keeper",
+   "gih": 26583,
+   "gih_wr": 0.5955685964714291
+  },
+  {
+   "card": "Iroh, Grand Lotus",
+   "gih": 11868,
+   "gih_wr": 0.5946241995281429
+  },
+  {
+   "card": "Visions of Beyond",
+   "gih": 128,
+   "gih_wr": 0.59375
+  },
+  {
+   "card": "Obsessive Pursuit",
+   "gih": 12456,
+   "gih_wr": 0.5932883750802826
+  },
+  {
+   "card": "Allies at Last",
+   "gih": 23603,
+   "gih_wr": 0.5931449392026438
+  },
+  {
+   "card": "Iroh's Demonstration",
+   "gih": 27205,
+   "gih_wr": 0.5927586840654292
+  },
+  {
+   "card": "Heroic Intervention",
+   "gih": 108,
+   "gih_wr": 0.5925925925925926
+  },
+  {
+   "card": "Blasphemous Act",
+   "gih": 417,
+   "gih_wr": 0.592326139088729
+  },
+  {
+   "card": "Sokka, Lateral Strategist",
+   "gih": 32293,
+   "gih_wr": 0.5903446567367541
+  },
+  {
+   "card": "Combustion Technique",
+   "gih": 27613,
+   "gih_wr": 0.5901568101980951
+  },
+  {
+   "card": "Ozai, the Phoenix King",
+   "gih": 4533,
+   "gih_wr": 0.5898963159055813
+  },
+  {
+   "card": "Wartime Protestors",
+   "gih": 11439,
+   "gih_wr": 0.5898242853396276
+  },
+  {
+   "card": "Glider Staff",
+   "gih": 28578,
+   "gih_wr": 0.5894044369794947
+  },
+  {
+   "card": "Momo, Friendly Flier",
+   "gih": 9009,
+   "gih_wr": 0.5892995892995893
+  },
+  {
+   "card": "Epic Downfall",
+   "gih": 25093,
+   "gih_wr": 0.5892081456980034
+  },
+  {
+   "card": "Mirrorwing Dragon",
+   "gih": 355,
+   "gih_wr": 0.5887323943661972
+  },
+  {
+   "card": "Lost Days",
+   "gih": 86516,
+   "gih_wr": 0.5885963290027278
+  },
+  {
+   "card": "Toph, Hardheaded Teacher",
+   "gih": 11323,
+   "gih_wr": 0.5885366069062969
+  },
+  {
+   "card": "Firebending Lesson",
+   "gih": 67705,
+   "gih_wr": 0.5866774979691308
+  },
+  {
+   "card": "Fated Firepower",
+   "gih": 4291,
+   "gih_wr": 0.5865765555814495
+  },
+  {
+   "card": "Knowledge Seeker",
+   "gih": 36142,
+   "gih_wr": 0.5864368324940512
+  },
+  {
+   "card": "It'll Quench Ya!",
+   "gih": 70790,
+   "gih_wr": 0.5860432264444131
+  },
+  {
+   "card": "Ran and Shaw",
+   "gih": 12542,
+   "gih_wr": 0.5858714718545687
+  },
+  {
+   "card": "Lita, Mechanical Engineer",
+   "gih": 367,
+   "gih_wr": 0.5858310626702997
+  },
+  {
+   "card": "White Lotus Reinforcements",
+   "gih": 17459,
+   "gih_wr": 0.5853714416633256
+  },
+  {
+   "card": "Rending Volley",
+   "gih": 41,
+   "gih_wr": 0.5853658536585366
+  },
+  {
+   "card": "Toph, the Blind Bandit",
+   "gih": 21997,
+   "gih_wr": 0.5852616265854435
+  },
+  {
+   "card": "Momo, Playful Pet",
+   "gih": 23825,
+   "gih_wr": 0.5850577124868835
+  },
+  {
+   "card": "Secret Tunnel",
+   "gih": 12750,
+   "gih_wr": 0.5836862745098039
+  },
+  {
+   "card": "Planetarium of Wan Shi Tong",
+   "gih": 8010,
+   "gih_wr": 0.5835205992509364
+  },
+  {
+   "card": "The Lion-Turtle",
+   "gih": 7777,
+   "gih_wr": 0.5833869101195834
+  },
+  {
+   "card": "Dragonfly Swarm",
+   "gih": 23792,
+   "gih_wr": 0.5826328177538669
+  },
+  {
+   "card": "Watery Grasp",
+   "gih": 71612,
+   "gih_wr": 0.5824163548008714
+  },
+  {
+   "card": "Valakut, the Molten Pinnacle",
+   "gih": 79,
+   "gih_wr": 0.5822784810126582
+  },
+  {
+   "card": "Benevolent River Spirit",
+   "gih": 28650,
+   "gih_wr": 0.5815706806282722
+  },
+  {
+   "card": "Fire Nation Warship",
+   "gih": 21223,
+   "gih_wr": 0.5815388964802337
+  },
+  {
+   "card": "Hakoda, Selfless Commander",
+   "gih": 11881,
+   "gih_wr": 0.5814325393485397
+  },
+  {
+   "card": "Guru Pathik",
+   "gih": 24012,
+   "gih_wr": 0.5813343328335832
+  },
+  {
+   "card": "Tolls of War",
+   "gih": 14695,
+   "gih_wr": 0.5812181013950323
+  },
+  {
+   "card": "Gather the White Lotus",
+   "gih": 15059,
+   "gih_wr": 0.5794541470217146
+  },
+  {
+   "card": "Forecasting Fortune Teller",
+   "gih": 83116,
+   "gih_wr": 0.5789859954762019
+  },
+  {
+   "card": "Jet, Freedom Fighter",
+   "gih": 21992,
+   "gih_wr": 0.5784830847580938
+  },
+  {
+   "card": "Path to Redemption",
+   "gih": 60483,
+   "gih_wr": 0.5784435295868261
+  },
+  {
+   "card": "Invasion Reinforcements",
+   "gih": 24706,
+   "gih_wr": 0.5778353436412208
+  },
+  {
+   "card": "Octopus Form",
+   "gih": 62029,
+   "gih_wr": 0.5778103790162666
+  },
+  {
+   "card": "Agna Qel'a",
+   "gih": 14945,
+   "gih_wr": 0.5775175644028103
+  },
+  {
+   "card": "Compassionate Healer",
+   "gih": 59848,
+   "gih_wr": 0.5771621440983826
+  },
+  {
+   "card": "Cat-Gator",
+   "gih": 15188,
+   "gih_wr": 0.5770345009217803
+  },
+  {
+   "card": "Sokka's Haiku",
+   "gih": 15687,
+   "gih_wr": 0.5768470708229745
+  },
+  {
+   "card": "Earth Kingdom Protectors",
+   "gih": 24000,
+   "gih_wr": 0.5762083333333333
+  },
+  {
+   "card": "Realm of Koh",
+   "gih": 10656,
+   "gih_wr": 0.5761073573573574
+  },
+  {
+   "card": "Serpent's Pass",
+   "gih": 30583,
+   "gih_wr": 0.5754504136284864
+  },
+  {
+   "card": "Ostrich-Horse",
+   "gih": 41816,
+   "gih_wr": 0.5754256743830113
+  },
+  {
+   "card": "Lightning Bolt",
+   "gih": 325,
+   "gih_wr": 0.5753846153846154
+  },
+  {
+   "card": "Messenger Hawk",
+   "gih": 78052,
+   "gih_wr": 0.5748731614820889
+  },
+  {
+   "card": "Lightning Strike",
+   "gih": 57329,
+   "gih_wr": 0.5747178565821836
+  },
+  {
+   "card": "Iroh, Tea Master",
+   "gih": 7799,
+   "gih_wr": 0.5743043979997435
+  },
+  {
+   "card": "Airbending Lesson",
+   "gih": 65172,
+   "gih_wr": 0.5742036457374332
+  },
+  {
+   "card": "Hermitic Herbalist",
+   "gih": 17850,
+   "gih_wr": 0.5736694677871148
+  },
+  {
+   "card": "Kyoshi Warriors",
+   "gih": 57956,
+   "gih_wr": 0.5734005107322797
+  },
+  {
+   "card": "Yuyan Archers",
+   "gih": 48736,
+   "gih_wr": 0.5731492120814182
+  },
+  {
+   "card": "Teo, Spirited Glider",
+   "gih": 25676,
+   "gih_wr": 0.5730643402399127
+  },
+  {
+   "card": "Aang's Iceberg",
+   "gih": 11427,
+   "gih_wr": 0.5728537673930165
+  },
+  {
+   "card": "Fire Nation Cadets",
+   "gih": 40703,
+   "gih_wr": 0.5724639461464757
+  },
+  {
+   "card": "Jasmine Dragon Tea Shop",
+   "gih": 9716,
+   "gih_wr": 0.5722519555372582
+  },
+  {
+   "card": "Badgermole",
+   "gih": 38620,
+   "gih_wr": 0.5719575349559813
+  },
+  {
+   "card": "Enter the Avatar State",
+   "gih": 16780,
+   "gih_wr": 0.5715137067938022
+  },
+  {
+   "card": "Yip Yip!",
+   "gih": 39303,
+   "gih_wr": 0.5708215657837824
+  },
+  {
+   "card": "Rumble Arena",
+   "gih": 50301,
+   "gih_wr": 0.5706248384723962
+  },
+  {
+   "card": "Toph, the First Metalbender",
+   "gih": 7406,
+   "gih_wr": 0.5702133405347016
+  },
+  {
+   "card": "Sold Out",
+   "gih": 55449,
+   "gih_wr": 0.5701275045537341
+  },
+  {
+   "card": "Dai Li Agents",
+   "gih": 13117,
+   "gih_wr": 0.5699473965083479
+  },
+  {
+   "card": "Raucous Audience",
+   "gih": 44240,
+   "gih_wr": 0.5698010849909584
+  },
+  {
+   "card": "Waterbending Lesson",
+   "gih": 64884,
+   "gih_wr": 0.5693391282904876
+  },
+  {
+   "card": "Eladamri's Call",
+   "gih": 65,
+   "gih_wr": 0.5692307692307692
+  },
+  {
+   "card": "The Boulder, Ready to Rumble",
+   "gih": 16616,
+   "gih_wr": 0.5690298507462687
+  },
+  {
+   "card": "Rocky Rebuke",
+   "gih": 45508,
+   "gih_wr": 0.5686912191263075
+  },
+  {
+   "card": "Glider Kids",
+   "gih": 57669,
+   "gih_wr": 0.5683642858381452
+  },
+  {
+   "card": "North Pole Gates",
+   "gih": 31216,
+   "gih_wr": 0.5681381342901076
+  },
+  {
+   "card": "First-Time Flyer",
+   "gih": 60595,
+   "gih_wr": 0.5679016420496741
+  },
+  {
+   "card": "Plains",
+   "gih": 286198,
+   "gih_wr": 0.5676908993074724
+  },
+  {
+   "card": "Deadly Precision",
+   "gih": 51513,
+   "gih_wr": 0.5676819443635587
+  },
+  {
+   "card": "Boomerang Basics",
+   "gih": 27940,
+   "gih_wr": 0.5675733715103793
+  },
+  {
+   "card": "Diligent Zookeeper",
+   "gih": 7625,
+   "gih_wr": 0.5669508196721311
+  },
+  {
+   "card": "Earth Kingdom General",
+   "gih": 17941,
+   "gih_wr": 0.5669137729223566
+  },
+  {
+   "card": "Accumulate Wisdom",
+   "gih": 28604,
+   "gih_wr": 0.5668088379247658
+  },
+  {
+   "card": "Twin Blades",
+   "gih": 13554,
+   "gih_wr": 0.5662535045005165
+  },
+  {
+   "card": "Boiling Rock Rioter",
+   "gih": 9915,
+   "gih_wr": 0.5662128088754412
+  },
+  {
+   "card": "Origin of Metalbending",
+   "gih": 27509,
+   "gih_wr": 0.5655603620633247
+  },
+  {
+   "card": "Jeong Jeong's Deserters",
+   "gih": 56367,
+   "gih_wr": 0.5653485195238349
+  },
+  {
+   "card": "Fire Nation Engineer",
+   "gih": 16525,
+   "gih_wr": 0.5648411497730711
+  },
+  {
+   "card": "Water Tribe Captain",
+   "gih": 48770,
+   "gih_wr": 0.564732417469756
+  },
+  {
+   "card": "Pillar Launch",
+   "gih": 12509,
+   "gih_wr": 0.5646334639059877
+  },
+  {
+   "card": "Ozai's Cruelty",
+   "gih": 9434,
+   "gih_wr": 0.5645537417850328
+  },
+  {
+   "card": "Razor Rings",
+   "gih": 45647,
+   "gih_wr": 0.5642649024032248
+  },
+  {
+   "card": "Kyoshi Battle Fan",
+   "gih": 53263,
+   "gih_wr": 0.5639374425022999
+  },
+  {
+   "card": "Fire Sages",
+   "gih": 20906,
+   "gih_wr": 0.5636181000669664
+  },
+  {
+   "card": "Island",
+   "gih": 308605,
+   "gih_wr": 0.5634840653910338
+  },
+  {
+   "card": "North Pole Patrol",
+   "gih": 24502,
+   "gih_wr": 0.5628111990857889
+  },
+  {
+   "card": "Seismic Sense",
+   "gih": 17486,
+   "gih_wr": 0.5626215257920623
+  },
+  {
+   "card": "Spirit Water Revival",
+   "gih": 12173,
+   "gih_wr": 0.5623100303951368
+  },
+  {
+   "card": "Corrupt Court Official",
+   "gih": 49267,
+   "gih_wr": 0.5620800941806889
+  },
+  {
+   "card": "Airship Engine Room",
+   "gih": 30445,
+   "gih_wr": 0.5615700443422565
+  },
+  {
+   "card": "Professor Zei, Anthropologist",
+   "gih": 21700,
+   "gih_wr": 0.5612903225806452
+  },
+  {
+   "card": "Flopsie, Bumi's Buddy",
+   "gih": 16255,
+   "gih_wr": 0.5608120578283605
+  },
+  {
+   "card": "Forest",
+   "gih": 216379,
+   "gih_wr": 0.5604333137688963
+  },
+  {
+   "card": "Tiger-Dillo",
+   "gih": 5816,
+   "gih_wr": 0.5603507565337001
+  },
+  {
+   "card": "Master Piandao",
+   "gih": 17526,
+   "gih_wr": 0.5603103959831108
+  },
+  {
+   "card": "Earth Kingdom Soldier",
+   "gih": 25459,
+   "gih_wr": 0.560155544208335
+  },
+  {
+   "card": "Tarnished Citadel",
+   "gih": 100,
+   "gih_wr": 0.56
+  },
+  {
+   "card": "Pretending Poxbearers",
+   "gih": 55704,
+   "gih_wr": 0.5595648427401982
+  },
+  {
+   "card": "Wandering Musicians",
+   "gih": 35837,
+   "gih_wr": 0.5591148812679633
+  },
+  {
+   "card": "Aang's Journey",
+   "gih": 42571,
+   "gih_wr": 0.5590895210354466
+  },
+  {
+   "card": "Fire Nation Attacks",
+   "gih": 16075,
+   "gih_wr": 0.5590046656298601
+  },
+  {
+   "card": "Bribery",
+   "gih": 374,
+   "gih_wr": 0.5588235294117647
+  },
+  {
+   "card": "Suki, Kyoshi Warrior",
+   "gih": 17868,
+   "gih_wr": 0.5586523393776583
+  },
+  {
+   "card": "Misty Palms Oasis",
+   "gih": 19872,
+   "gih_wr": 0.5585748792270532
+  },
+  {
+   "card": "Katara, Bending Prodigy",
+   "gih": 26567,
+   "gih_wr": 0.5581736741069748
+  },
+  {
+   "card": "Mountain",
+   "gih": 225621,
+   "gih_wr": 0.5581351026721804
+  },
+  {
+   "card": "Omashu City",
+   "gih": 24863,
+   "gih_wr": 0.5578570566705546
+  },
+  {
+   "card": "Rebellious Captives",
+   "gih": 42692,
+   "gih_wr": 0.5576923076923077
+  },
+  {
+   "card": "Meditation Pools",
+   "gih": 28434,
+   "gih_wr": 0.5570092143208835
+  },
+  {
+   "card": "Swamp",
+   "gih": 203223,
+   "gih_wr": 0.5569399132972154
+  },
+  {
+   "card": "Fire Navy Trebuchet",
+   "gih": 15418,
+   "gih_wr": 0.5568167077441951
+  },
+  {
+   "card": "Abandon Attachments",
+   "gih": 54686,
+   "gih_wr": 0.5566872691365249
+  },
+  {
+   "card": "Joo Dee, One of Many",
+   "gih": 20809,
+   "gih_wr": 0.5566822048152242
+  },
+  {
+   "card": "Earthen Ally",
+   "gih": 4773,
+   "gih_wr": 0.5562539283469516
+  },
+  {
+   "card": "Walltop Sentries",
+   "gih": 37993,
+   "gih_wr": 0.5561814018371806
+  },
+  {
+   "card": "True Ancestry",
+   "gih": 20331,
+   "gih_wr": 0.5559982293050022
+  },
+  {
+   "card": "Callous Inspector",
+   "gih": 38435,
+   "gih_wr": 0.5557954988942371
+  },
+  {
+   "card": "Sokka, Tenacious Tactician",
+   "gih": 7215,
+   "gih_wr": 0.5557865557865558
+  },
+  {
+   "card": "Canyon Crawler",
+   "gih": 27925,
+   "gih_wr": 0.5554879140555058
+  },
+  {
+   "card": "Tiger-Seal",
+   "gih": 2033,
+   "gih_wr": 0.5548450565666503
+  },
+  {
+   "card": "Azula Always Lies",
+   "gih": 25956,
+   "gih_wr": 0.5540915395284327
+  },
+  {
+   "card": "Avatar Enthusiasts",
+   "gih": 39656,
+   "gih_wr": 0.5540901755093807
+  },
+  {
+   "card": "Air Nomad Legacy",
+   "gih": 10792,
+   "gih_wr": 0.5539288361749444
+  },
+  {
+   "card": "Foggy Bottom Swamp",
+   "gih": 19223,
+   "gih_wr": 0.5538677625760807
+  },
+  {
+   "card": "Clone",
+   "gih": 289,
+   "gih_wr": 0.5536332179930796
+  },
+  {
+   "card": "Treetop Freedom Fighters",
+   "gih": 28805,
+   "gih_wr": 0.553619163339698
+  },
+  {
+   "card": "Otter-Penguin",
+   "gih": 40667,
+   "gih_wr": 0.5532249735657905
+  },
+  {
+   "card": "Kyoshi Village",
+   "gih": 24619,
+   "gih_wr": 0.5530687680246964
+  },
+  {
+   "card": "Team Avatar",
+   "gih": 18709,
+   "gih_wr": 0.5527286332781014
+  },
+  {
+   "card": "Barrels of Blasting Jelly",
+   "gih": 42596,
+   "gih_wr": 0.5522584280214105
+  },
+  {
+   "card": "Merchant of Many Hats",
+   "gih": 32885,
+   "gih_wr": 0.5513151892960316
+  },
+  {
+   "card": "Rockalanche",
+   "gih": 8782,
+   "gih_wr": 0.5507856980186746
+  },
+  {
+   "card": "June, Bounty Hunter",
+   "gih": 21162,
+   "gih_wr": 0.5502788016255552
+  },
+  {
+   "card": "Shared Roots",
+   "gih": 17355,
+   "gih_wr": 0.5496974935177182
+  },
+  {
+   "card": "Cunning Maneuver",
+   "gih": 17366,
+   "gih_wr": 0.5496948059426465
+  },
+  {
+   "card": "Captain Sisay",
+   "gih": 182,
+   "gih_wr": 0.5494505494505495
+  },
+  {
+   "card": "Azula, On the Hunt",
+   "gih": 19340,
+   "gih_wr": 0.5493795243019648
+  },
+  {
+   "card": "Sun-Blessed Peak",
+   "gih": 22996,
+   "gih_wr": 0.5491824665159158
+  },
+  {
+   "card": "Vindictive Warden",
+   "gih": 20293,
+   "gih_wr": 0.549154880993446
+  },
+  {
+   "card": "Hama, the Bloodbender",
+   "gih": 22330,
+   "gih_wr": 0.5491267353336319
+  },
+  {
+   "card": "Boiling Rock Prison",
+   "gih": 17852,
+   "gih_wr": 0.5487900515348421
+  },
+  {
+   "card": "Sokka, Bold Boomeranger",
+   "gih": 6664,
+   "gih_wr": 0.5480192076830732
+  },
+  {
+   "card": "Bumi, King of Three Trials",
+   "gih": 14417,
+   "gih_wr": 0.547964208920025
+  },
+  {
+   "card": "Curious Farm Animals",
+   "gih": 8097,
+   "gih_wr": 0.5473632209460294
+  },
+  {
+   "card": "Elemental Bond",
+   "gih": 117,
+   "gih_wr": 0.5470085470085471
+  },
+  {
+   "card": "Lo and Li, Twin Tutors",
+   "gih": 6589,
+   "gih_wr": 0.5469722264380027
+  },
+  {
+   "card": "Airbender's Reversal",
+   "gih": 17522,
+   "gih_wr": 0.5465129551421071
+  },
+  {
+   "card": "Swampsnare Trap",
+   "gih": 36850,
+   "gih_wr": 0.5458344640434193
+  },
+  {
+   "card": "Giant Koi",
+   "gih": 32673,
+   "gih_wr": 0.5457411318213816
+  },
+  {
+   "card": "Earth Rumble",
+   "gih": 15100,
+   "gih_wr": 0.5456953642384106
+  },
+  {
+   "card": "Avatar's Wrath",
+   "gih": 6720,
+   "gih_wr": 0.5455357142857142
+  },
+  {
+   "card": "Waterbending Scroll",
+   "gih": 13552,
+   "gih_wr": 0.5444214876033058
+  },
+  {
+   "card": "Iguana Parrot",
+   "gih": 29840,
+   "gih_wr": 0.5439678284182305
+  },
+  {
+   "card": "Ty Lee, Artful Acrobat",
+   "gih": 14763,
+   "gih_wr": 0.5435887014834383
+  },
+  {
+   "card": "Deserter's Disciple",
+   "gih": 27402,
+   "gih_wr": 0.5433544996715568
+  },
+  {
+   "card": "Unlucky Cabbage Merchant",
+   "gih": 18185,
+   "gih_wr": 0.5429749793786087
+  },
+  {
+   "card": "Mai, Scornful Striker",
+   "gih": 6105,
+   "gih_wr": 0.5428337428337429
+  },
+  {
+   "card": "Wolfbat",
+   "gih": 10236,
+   "gih_wr": 0.5424970691676436
+  },
+  {
+   "card": "Jet's Brainwashing",
+   "gih": 3733,
+   "gih_wr": 0.5424591481382266
+  },
+  {
+   "card": "Avatar Aang",
+   "gih": 3915,
+   "gih_wr": 0.5420178799489145
+  },
+  {
+   "card": "Fancy Footwork",
+   "gih": 12075,
+   "gih_wr": 0.5416977225672878
+  },
+  {
+   "card": "Serpent of the Pass",
+   "gih": 16693,
+   "gih_wr": 0.5415443599113401
+  },
+  {
+   "card": "Earth Village Ruffians",
+   "gih": 24885,
+   "gih_wr": 0.5406469760900141
+  },
+  {
+   "card": "War Balloon",
+   "gih": 10698,
+   "gih_wr": 0.5403813796971396
+  },
+  {
+   "card": "Tundra Tank",
+   "gih": 4621,
+   "gih_wr": 0.5403592296039819
+  },
+  {
+   "card": "Bender's Waterskin",
+   "gih": 15166,
+   "gih_wr": 0.5403534221284452
+  },
+  {
+   "card": "Dai Li Indoctrination",
+   "gih": 10965,
+   "gih_wr": 0.5400820793433653
+  },
+  {
+   "card": "Cat-Owl",
+   "gih": 20943,
+   "gih_wr": 0.539607506087953
+  },
+  {
+   "card": "Hei Bai, Spirit of Balance",
+   "gih": 15377,
+   "gih_wr": 0.5395070559927164
+  },
+  {
+   "card": "Fabled Passage",
+   "gih": 408,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card": "Sun Warriors",
+   "gih": 12801,
+   "gih_wr": 0.5388641512381845
+  },
+  {
+   "card": "Fire Nation Palace",
+   "gih": 5502,
+   "gih_wr": 0.5379861868411486
+  },
+  {
+   "card": "Flexible Waterbender",
+   "gih": 8217,
+   "gih_wr": 0.5376658147742485
+  },
+  {
+   "card": "Mongoose Lizard",
+   "gih": 11480,
+   "gih_wr": 0.5372822299651568
+  },
+  {
+   "card": "Master Pakku",
+   "gih": 12312,
+   "gih_wr": 0.5370370370370371
+  },
+  {
+   "card": "Crescent Island Temple",
+   "gih": 3912,
+   "gih_wr": 0.5368098159509203
+  },
+  {
+   "card": "Return of the Wildspeaker",
+   "gih": 125,
+   "gih_wr": 0.536
+  },
+  {
+   "card": "Airbender Ascension",
+   "gih": 8103,
+   "gih_wr": 0.5359743304948784
+  },
+  {
+   "card": "Sandbenders' Storm",
+   "gih": 17694,
+   "gih_wr": 0.5358313552616706
+  },
+  {
+   "card": "Saber-Tooth Moose-Lion",
+   "gih": 24177,
+   "gih_wr": 0.5356744012904827
+  },
+  {
+   "card": "Zhao, the Moon Slayer",
+   "gih": 4916,
+   "gih_wr": 0.5355980471928397
+  },
+  {
+   "card": "Earth Rumble Wrestlers",
+   "gih": 8555,
+   "gih_wr": 0.535593220338983
+  },
+  {
+   "card": "Haru, Hidden Talent",
+   "gih": 13122,
+   "gih_wr": 0.5351318396585887
+  },
+  {
+   "card": "Combustion Man",
+   "gih": 10204,
+   "gih_wr": 0.5349862798902392
+  },
+  {
+   "card": "Platypus-Bear",
+   "gih": 22277,
+   "gih_wr": 0.5349463572294294
+  },
+  {
+   "card": "Turtle-Duck",
+   "gih": 10215,
+   "gih_wr": 0.534312285854136
+  },
+  {
+   "card": "How to Start a Riot",
+   "gih": 17645,
+   "gih_wr": 0.5336355908189289
+  },
+  {
+   "card": "Mai, Jaded Edge",
+   "gih": 16300,
+   "gih_wr": 0.5336196319018405
+  },
+  {
+   "card": "Foggy Swamp Vinebender",
+   "gih": 14033,
+   "gih_wr": 0.5333143305066629
+  },
+  {
+   "card": "Rabaroo Troop",
+   "gih": 10321,
+   "gih_wr": 0.5327003197364596
+  },
+  {
+   "card": "Zuko, Exiled Prince",
+   "gih": 13906,
+   "gih_wr": 0.5324320437221344
+  },
+  {
+   "card": "Leaves from the Vine",
+   "gih": 5351,
+   "gih_wr": 0.5324238460100915
+  },
+  {
+   "card": "Sunbaked Canyon",
+   "gih": 248,
+   "gih_wr": 0.532258064516129
+  },
+  {
+   "card": "Appa, Loyal Sky Bison",
+   "gih": 9894,
+   "gih_wr": 0.5320396199717
+  },
+  {
+   "card": "White Lotus Hideout",
+   "gih": 9954,
+   "gih_wr": 0.5317460317460317
+  },
+  {
+   "card": "Uncle Iroh",
+   "gih": 11702,
+   "gih_wr": 0.5307639719706033
+  },
+  {
+   "card": "Foggy Swamp Hunters",
+   "gih": 6689,
+   "gih_wr": 0.5307220810285543
+  },
+  {
+   "card": "Firebender Ascension",
+   "gih": 7015,
+   "gih_wr": 0.5287241625089095
+  },
+  {
+   "card": "Bumi Bash",
+   "gih": 24202,
+   "gih_wr": 0.5275597058094372
+  },
+  {
+   "card": "Sparring Dummy",
+   "gih": 10712,
+   "gih_wr": 0.5272591486183719
+  },
+  {
+   "card": "Energybending",
+   "gih": 5145,
+   "gih_wr": 0.5269193391642372
+  },
+  {
+   "card": "Rough Rhino Cavalry",
+   "gih": 6817,
+   "gih_wr": 0.5266246149332551
+  },
+  {
+   "card": "Solstice Revelations",
+   "gih": 3625,
+   "gih_wr": 0.5266206896551724
+  },
+  {
+   "card": "Bitter Work",
+   "gih": 8556,
+   "gih_wr": 0.5262973352033661
+  },
+  {
+   "card": "Long Feng, Grand Secretariat",
+   "gih": 11811,
+   "gih_wr": 0.5261197189061044
+  },
+  {
+   "card": "Jeong Jeong, the Deserter",
+   "gih": 15253,
+   "gih_wr": 0.5255359601389891
+  },
+  {
+   "card": "Hog-Monkey",
+   "gih": 6625,
+   "gih_wr": 0.525433962264151
+  },
+  {
+   "card": "Join the Dance",
+   "gih": 118,
+   "gih_wr": 0.5254237288135594
+  },
+  {
+   "card": "Teferi's Protection",
+   "gih": 99,
+   "gih_wr": 0.5252525252525253
+  },
+  {
+   "card": "Meteor Sword",
+   "gih": 8474,
+   "gih_wr": 0.5251357092282275
+  },
+  {
+   "card": "Firebending Student",
+   "gih": 6323,
+   "gih_wr": 0.5249090621540408
+  },
+  {
+   "card": "Crashing Wave",
+   "gih": 6893,
+   "gih_wr": 0.5247352386479037
+  },
+  {
+   "card": "Yue, the Moon Spirit",
+   "gih": 7528,
+   "gih_wr": 0.5245749202975558
+  },
+  {
+   "card": "Boar-q-pine",
+   "gih": 12462,
+   "gih_wr": 0.5242336703578879
+  },
+  {
+   "card": "Cruel Administrator",
+   "gih": 7249,
+   "gih_wr": 0.5242102358946061
+  },
+  {
+   "card": "Beetle-Headed Merchants",
+   "gih": 18420,
+   "gih_wr": 0.5239413680781759
+  },
+  {
+   "card": "Northern Air Temple",
+   "gih": 3096,
+   "gih_wr": 0.5239018087855297
+  },
+  {
+   "card": "Zuko's Conviction",
+   "gih": 10912,
+   "gih_wr": 0.5238269794721407
+  },
+  {
+   "card": "Katara, the Fearless",
+   "gih": 5276,
+   "gih_wr": 0.523502653525398
+  },
+  {
+   "card": "The Spirit Oasis",
+   "gih": 4068,
+   "gih_wr": 0.5233529990167158
+  },
+  {
+   "card": "Earthbending Lesson",
+   "gih": 19695,
+   "gih_wr": 0.5226707286113227
+  },
+  {
+   "card": "Ember Island Production",
+   "gih": 6038,
+   "gih_wr": 0.5223583968201391
+  },
+  {
+   "card": "Zhao, Ruthless Admiral",
+   "gih": 6443,
+   "gih_wr": 0.5214961974235605
+  },
+  {
+   "card": "Pirate Peddlers",
+   "gih": 20574,
+   "gih_wr": 0.5212404005054924
+  },
+  {
+   "card": "Sandbender Scavengers",
+   "gih": 4499,
+   "gih_wr": 0.5201155812402756
+  },
+  {
+   "card": "Rowdy Snowballers",
+   "gih": 19926,
+   "gih_wr": 0.5194720465723176
+  },
+  {
+   "card": "Meteorite",
+   "gih": 54,
+   "gih_wr": 0.5185185185185185
+  },
+  {
+   "card": "Ruinous Waterbending",
+   "gih": 3634,
+   "gih_wr": 0.5173362685745735
+  },
+  {
+   "card": "Vengeful Villagers",
+   "gih": 4429,
+   "gih_wr": 0.5172725220139986
+  },
+  {
+   "card": "Geyser Leaper",
+   "gih": 17744,
+   "gih_wr": 0.5164562669071235
+  },
+  {
+   "card": "Redirect Lightning",
+   "gih": 4360,
+   "gih_wr": 0.5162844036697247
+  },
+  {
+   "card": "Buzzard-Wasp Colony",
+   "gih": 8362,
+   "gih_wr": 0.5159052858167903
+  },
+  {
+   "card": "Invasion Tactics",
+   "gih": 6716,
+   "gih_wr": 0.5147409172126266
+  },
+  {
+   "card": "Southern Air Temple",
+   "gih": 5978,
+   "gih_wr": 0.5138842422214788
+  },
+  {
+   "card": "Fire Nation Raider",
+   "gih": 8724,
+   "gih_wr": 0.5131820265933058
+  },
+  {
+   "card": "Cycle of Renewal",
+   "gih": 23685,
+   "gih_wr": 0.5108296390120329
+  },
+  {
+   "card": "Searing Blood",
+   "gih": 231,
+   "gih_wr": 0.5108225108225108
+  },
+  {
+   "card": "Honest Work",
+   "gih": 4689,
+   "gih_wr": 0.508637236084453
+  },
+  {
+   "card": "Fire Lord Azula",
+   "gih": 5143,
+   "gih_wr": 0.506319268909197
+  },
+  {
+   "card": "Zuko, Conflicted",
+   "gih": 2393,
+   "gih_wr": 0.5039699122440451
+  },
+  {
+   "card": "The Last Agni Kai",
+   "gih": 3957,
+   "gih_wr": 0.49861005812484205
+  },
+  {
+   "card": "Price of Freedom",
+   "gih": 1717,
+   "gih_wr": 0.49854397204426326
+  },
+  {
+   "card": "Kyoshi Island Plaza",
+   "gih": 3528,
+   "gih_wr": 0.4923469387755102
+  },
+  {
+   "card": "Sakashima of a Thousand Faces",
+   "gih": 130,
+   "gih_wr": 0.49230769230769234
+  },
+  {
+   "card": "Drannith Magistrate",
+   "gih": 195,
+   "gih_wr": 0.49230769230769234
+  },
+  {
+   "card": "Zuko's Exile",
+   "gih": 10698,
+   "gih_wr": 0.48878295008412787
+  },
+  {
+   "card": "Scout's Warning",
+   "gih": 117,
+   "gih_wr": 0.48717948717948717
+  },
+  {
+   "card": "Brought Back",
+   "gih": 89,
+   "gih_wr": 0.48314606741573035
+  },
+  {
+   "card": "Avatar Destiny",
+   "gih": 2083,
+   "gih_wr": 0.47911665866538644
+  },
+  {
+   "card": "Imprisoned in the Moon",
+   "gih": 90,
+   "gih_wr": 0.4777777777777778
+  },
+  {
+   "card": "Dockside Extortionist",
+   "gih": 42,
+   "gih_wr": 0.47619047619047616
+  },
+  {
+   "card": "Dark Depths",
+   "gih": 19,
+   "gih_wr": 0.47368421052631576
+  },
+  {
+   "card": "Sozin's Comet",
+   "gih": 313,
+   "gih_wr": 0.4728434504792332
+  },
+  {
+   "card": "Secret of Bloodbending",
+   "gih": 674,
+   "gih_wr": 0.47181008902077154
+  },
+  {
+   "card": "Fevered Visions",
+   "gih": 51,
+   "gih_wr": 0.47058823529411764
+  },
+  {
+   "card": "Fire Lord Zuko",
+   "gih": 1299,
+   "gih_wr": 0.46882217090069284
+  },
+  {
+   "card": "Fatal Fissure",
+   "gih": 1965,
+   "gih_wr": 0.46513994910941475
+  },
+  {
+   "card": "Destined Confrontation",
+   "gih": 1962,
+   "gih_wr": 0.46279306829765543
+  },
+  {
+   "card": "Release to Memory",
+   "gih": 50,
+   "gih_wr": 0.46
+  },
+  {
+   "card": "Trusty Boomerang",
+   "gih": 734,
+   "gih_wr": 0.45776566757493187
+  },
+  {
+   "card": "Force of Negation",
+   "gih": 116,
+   "gih_wr": 0.45689655172413796
+  },
+  {
+   "card": "Foggy Swamp Visions",
+   "gih": 717,
+   "gih_wr": 0.4560669456066946
+  },
+  {
+   "card": "Waterbender Ascension",
+   "gih": 3966,
+   "gih_wr": 0.4546142208774584
+  },
+  {
+   "card": "Warstorm Surge",
+   "gih": 88,
+   "gih_wr": 0.45454545454545453
+  },
+  {
+   "card": "Beastmaster Ascension",
+   "gih": 83,
+   "gih_wr": 0.4457831325301205
+  },
+  {
+   "card": "Elemental Teachings",
+   "gih": 273,
+   "gih_wr": 0.4432234432234432
+  },
+  {
+   "card": "Standstill",
+   "gih": 158,
+   "gih_wr": 0.43670886075949367
+  },
+  {
+   "card": "Clone Legion",
+   "gih": 97,
+   "gih_wr": 0.4329896907216495
+  },
+  {
+   "card": "White Lotus Tile",
+   "gih": 228,
+   "gih_wr": 0.4298245614035088
+  },
+  {
+   "card": "The Walls of Ba Sing Se",
+   "gih": 392,
+   "gih_wr": 0.42857142857142855
+  },
+  {
+   "card": "Bloodchief Ascension",
+   "gih": 83,
+   "gih_wr": 0.42168674698795183
+  },
+  {
+   "card": "Taunting Challenge",
+   "gih": 38,
+   "gih_wr": 0.42105263157894735
+  },
+  {
+   "card": "Humble Defector",
+   "gih": 87,
+   "gih_wr": 0.40229885057471265
+  },
+  {
+   "card": "Empty City Ruse",
+   "gih": 15,
+   "gih_wr": 0.4
+  },
+  {
+   "card": "Cruel Tutor",
+   "gih": 23,
+   "gih_wr": 0.391304347826087
+  },
+  {
+   "card": "Diaochan, Artful Beauty",
+   "gih": 17,
+   "gih_wr": 0.35294117647058826
+  },
+  {
+   "card": "Heartbeat of Spring",
+   "gih": 9,
+   "gih_wr": 0.3333333333333333
+  },
+  {
+   "card": "Fervor",
+   "gih": 17,
+   "gih_wr": 0.29411764705882354
+  },
+  {
+   "card": "Prosperity",
+   "gih": 7,
+   "gih_wr": 0.2857142857142857
+  },
+  {
+   "card": "Rites of Flourishing",
+   "gih": 7,
+   "gih_wr": 0.2857142857142857
+  },
+  {
+   "card": "Mystic Remora",
+   "gih": 12,
+   "gih_wr": 0.25
+  },
+  {
+   "card": "Training Grounds",
+   "gih": 9,
+   "gih_wr": 0.2222222222222222
+  },
+  {
+   "card": "Intruder Alarm",
+   "gih": 11,
+   "gih_wr": 0.18181818181818182
+  },
+  {
+   "card": "Sundial of the Infinite",
+   "gih": 2,
+   "gih_wr": 0.0
+  },
+  {
+   "card": "Shattering Spree",
+   "gih": 1,
+   "gih_wr": 0.0
+  }
+ ]
+}

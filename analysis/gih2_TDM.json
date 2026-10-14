@@ -1,0 +1,2009 @@
+{
+ "set": "TDM",
+ "games": 552428,
+ "wins": 303928,
+ "cards": [
+  {
+   "card_17lands": "Ugin, Eye of the Storms",
+   "scryfall_name": "Ugin, Eye of the Storms",
+   "match": "full",
+   "gih": 7318,
+   "gih_wr": 0.6852965291063132
+  },
+  {
+   "card_17lands": "Jeskai Revelation",
+   "scryfall_name": "Jeskai Revelation",
+   "match": "full",
+   "gih": 8792,
+   "gih_wr": 0.6850545950864422
+  },
+  {
+   "card_17lands": "Ureni, the Song Unending",
+   "scryfall_name": "Ureni, the Song Unending",
+   "match": "full",
+   "gih": 7797,
+   "gih_wr": 0.6796203668077466
+  },
+  {
+   "card_17lands": "Dragonback Assault",
+   "scryfall_name": "Dragonback Assault",
+   "match": "full",
+   "gih": 7564,
+   "gih_wr": 0.6751718667371761
+  },
+  {
+   "card_17lands": "Marang River Regent",
+   "scryfall_name": "Marang River Regent [MULTI]",
+   "match": "first-face",
+   "gih": 16373,
+   "gih_wr": 0.6736089904110426
+  },
+  {
+   "card_17lands": "Elspeth, Storm Slayer",
+   "scryfall_name": "Elspeth, Storm Slayer",
+   "match": "full",
+   "gih": 6532,
+   "gih_wr": 0.6680955296999388
+  },
+  {
+   "card_17lands": "Roar of Endless Song",
+   "scryfall_name": "Roar of Endless Song",
+   "match": "full",
+   "gih": 16382,
+   "gih_wr": 0.6537663288975705
+  },
+  {
+   "card_17lands": "Sage of the Skies",
+   "scryfall_name": "Sage of the Skies",
+   "match": "full",
+   "gih": 14557,
+   "gih_wr": 0.6491722195507316
+  },
+  {
+   "card_17lands": "Shiko, Paragon of the Way",
+   "scryfall_name": "Shiko, Paragon of the Way",
+   "match": "full",
+   "gih": 6939,
+   "gih_wr": 0.6346735840899265
+  },
+  {
+   "card_17lands": "Betor, Kin to All",
+   "scryfall_name": "Betor, Kin to All",
+   "match": "full",
+   "gih": 6192,
+   "gih_wr": 0.6206395348837209
+  },
+  {
+   "card_17lands": "Inspired Ultimatum",
+   "scryfall_name": "Inspired Ultimatum",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1031,
+   "gih_wr": 0.6188166828322017
+  },
+  {
+   "card_17lands": "Teval, Arbiter of Virtue",
+   "scryfall_name": "Teval, Arbiter of Virtue",
+   "match": "full",
+   "gih": 7223,
+   "gih_wr": 0.6162259448982417
+  },
+  {
+   "card_17lands": "Revival of the Ancestors",
+   "scryfall_name": "Revival of the Ancestors",
+   "match": "full",
+   "gih": 10293,
+   "gih_wr": 0.6146895948703002
+  },
+  {
+   "card_17lands": "Qarsi Revenant",
+   "scryfall_name": "Qarsi Revenant",
+   "match": "full",
+   "gih": 11132,
+   "gih_wr": 0.6116600790513834
+  },
+  {
+   "card_17lands": "Death Begets Life",
+   "scryfall_name": "Death Begets Life",
+   "match": "full",
+   "gih": 7413,
+   "gih_wr": 0.6110886280857952
+  },
+  {
+   "card_17lands": "Eshki Dragonclaw",
+   "scryfall_name": "Eshki Dragonclaw",
+   "match": "full",
+   "gih": 15056,
+   "gih_wr": 0.6110520722635494
+  },
+  {
+   "card_17lands": "Warden of the Grove",
+   "scryfall_name": "Warden of the Grove",
+   "match": "full",
+   "gih": 13301,
+   "gih_wr": 0.6095782272009623
+  },
+  {
+   "card_17lands": "Fangkeeper's Familiar",
+   "scryfall_name": "Fangkeeper's Familiar",
+   "match": "full",
+   "gih": 13764,
+   "gih_wr": 0.6092705608834641
+  },
+  {
+   "card_17lands": "Surrak, Elusive Hunter",
+   "scryfall_name": "Surrak, Elusive Hunter",
+   "match": "full",
+   "gih": 13589,
+   "gih_wr": 0.6086540584296122
+  },
+  {
+   "card_17lands": "Sonic Shrieker",
+   "scryfall_name": "Sonic Shrieker",
+   "match": "full",
+   "gih": 27113,
+   "gih_wr": 0.6083059786818131
+  },
+  {
+   "card_17lands": "Winternight Stories",
+   "scryfall_name": "Winternight Stories",
+   "match": "full",
+   "gih": 16412,
+   "gih_wr": 0.6077260541067512
+  },
+  {
+   "card_17lands": "Ambling Stormshell",
+   "scryfall_name": "Ambling Stormshell",
+   "match": "full",
+   "gih": 16607,
+   "gih_wr": 0.6020955018967905
+  },
+  {
+   "card_17lands": "Voice of Victory",
+   "scryfall_name": "Voice of Victory",
+   "match": "full",
+   "gih": 11459,
+   "gih_wr": 0.6018849812374553
+  },
+  {
+   "card_17lands": "Karakyk Guardian",
+   "scryfall_name": "Karakyk Guardian",
+   "match": "full",
+   "gih": 33685,
+   "gih_wr": 0.6015734006234229
+  },
+  {
+   "card_17lands": "Sinkhole Surveyor",
+   "scryfall_name": "Sinkhole Surveyor",
+   "match": "full",
+   "gih": 11195,
+   "gih_wr": 0.6008932559178205
+  },
+  {
+   "card_17lands": "Inevitable Defeat",
+   "scryfall_name": "Inevitable Defeat",
+   "match": "full",
+   "gih": 10041,
+   "gih_wr": 0.6001394283437904
+  },
+  {
+   "card_17lands": "All-Out Assault",
+   "scryfall_name": "All-Out Assault",
+   "match": "full",
+   "gih": 4703,
+   "gih_wr": 0.5989793748671061
+  },
+  {
+   "card_17lands": "Awaken the Honored Dead",
+   "scryfall_name": "Awaken the Honored Dead",
+   "match": "full",
+   "gih": 13711,
+   "gih_wr": 0.5989351615491212
+  },
+  {
+   "card_17lands": "Scavenger Regent",
+   "scryfall_name": "Scavenger Regent [MULTI]",
+   "match": "first-face",
+   "gih": 12549,
+   "gih_wr": 0.5960634313491114
+  },
+  {
+   "card_17lands": "Cori-Steel Cutter",
+   "scryfall_name": "Cori-Steel Cutter",
+   "match": "full",
+   "gih": 13094,
+   "gih_wr": 0.5959217962425538
+  },
+  {
+   "card_17lands": "Genesis Ultimatum",
+   "scryfall_name": "Genesis Ultimatum",
+   "match": "non-set (bonus/token/other)",
+   "gih": 629,
+   "gih_wr": 0.5930047694753577
+  },
+  {
+   "card_17lands": "Rally the Monastery",
+   "scryfall_name": "Rally the Monastery",
+   "match": "full",
+   "gih": 27555,
+   "gih_wr": 0.5929595354745055
+  },
+  {
+   "card_17lands": "Traveling Botanist",
+   "scryfall_name": "Traveling Botanist",
+   "match": "full",
+   "gih": 33115,
+   "gih_wr": 0.5923599577230863
+  },
+  {
+   "card_17lands": "Glacial Dragonhunt",
+   "scryfall_name": "Glacial Dragonhunt",
+   "match": "full",
+   "gih": 31103,
+   "gih_wr": 0.5913255956017105
+  },
+  {
+   "card_17lands": "Temur Battlecrier",
+   "scryfall_name": "Temur Battlecrier",
+   "match": "full",
+   "gih": 11992,
+   "gih_wr": 0.591310873915944
+  },
+  {
+   "card_17lands": "Dragonologist",
+   "scryfall_name": "Dragonologist",
+   "match": "full",
+   "gih": 15560,
+   "gih_wr": 0.5910668380462725
+  },
+  {
+   "card_17lands": "Roiling Dragonstorm",
+   "scryfall_name": "Roiling Dragonstorm",
+   "match": "full",
+   "gih": 34224,
+   "gih_wr": 0.5904336138382422
+  },
+  {
+   "card_17lands": "Rediscover the Way",
+   "scryfall_name": "Rediscover the Way",
+   "match": "full",
+   "gih": 11532,
+   "gih_wr": 0.5898369753728755
+  },
+  {
+   "card_17lands": "Mardu Monument",
+   "scryfall_name": "Mardu Monument",
+   "match": "full",
+   "gih": 23068,
+   "gih_wr": 0.5896913473209641
+  },
+  {
+   "card_17lands": "Cori Mountain Monastery",
+   "scryfall_name": "Cori Mountain Monastery",
+   "match": "full",
+   "gih": 13258,
+   "gih_wr": 0.5896817016141198
+  },
+  {
+   "card_17lands": "Tersa Lightshatter",
+   "scryfall_name": "Tersa Lightshatter",
+   "match": "full",
+   "gih": 12243,
+   "gih_wr": 0.5893163440333251
+  },
+  {
+   "card_17lands": "Sibsig Appraiser",
+   "scryfall_name": "Sibsig Appraiser",
+   "match": "full",
+   "gih": 97063,
+   "gih_wr": 0.5892255545367442
+  },
+  {
+   "card_17lands": "Twinmaw Stormbrood",
+   "scryfall_name": "Twinmaw Stormbrood [MULTI]",
+   "match": "first-face",
+   "gih": 32306,
+   "gih_wr": 0.589209434779917
+  },
+  {
+   "card_17lands": "Windcrag Siege",
+   "scryfall_name": "Windcrag Siege",
+   "match": "full",
+   "gih": 10668,
+   "gih_wr": 0.5885826771653543
+  },
+  {
+   "card_17lands": "Magmatic Hellkite",
+   "scryfall_name": "Magmatic Hellkite",
+   "match": "full",
+   "gih": 12140,
+   "gih_wr": 0.5877265238879736
+  },
+  {
+   "card_17lands": "Knockout Maneuver",
+   "scryfall_name": "Knockout Maneuver",
+   "match": "full",
+   "gih": 28791,
+   "gih_wr": 0.5872668542252787
+  },
+  {
+   "card_17lands": "Bloomvine Regent",
+   "scryfall_name": "Bloomvine Regent [MULTI]",
+   "match": "first-face",
+   "gih": 13334,
+   "gih_wr": 0.5856457177141143
+  },
+  {
+   "card_17lands": "Lasyd Prowler",
+   "scryfall_name": "Lasyd Prowler",
+   "match": "full",
+   "gih": 12859,
+   "gih_wr": 0.5844155844155844
+  },
+  {
+   "card_17lands": "Rakshasa's Bargain",
+   "scryfall_name": "Rakshasa's Bargain",
+   "match": "full",
+   "gih": 30645,
+   "gih_wr": 0.5843041279164627
+  },
+  {
+   "card_17lands": "Mardu Devotee",
+   "scryfall_name": "Mardu Devotee",
+   "match": "full",
+   "gih": 52511,
+   "gih_wr": 0.5842775799356326
+  },
+  {
+   "card_17lands": "Lotuslight Dancers",
+   "scryfall_name": "Lotuslight Dancers",
+   "match": "full",
+   "gih": 10662,
+   "gih_wr": 0.583380228850122
+  },
+  {
+   "card_17lands": "Stadium Headliner",
+   "scryfall_name": "Stadium Headliner",
+   "match": "full",
+   "gih": 10115,
+   "gih_wr": 0.5827978250123579
+  },
+  {
+   "card_17lands": "Jeskai Shrinekeeper",
+   "scryfall_name": "Jeskai Shrinekeeper",
+   "match": "full",
+   "gih": 26451,
+   "gih_wr": 0.582095194888662
+  },
+  {
+   "card_17lands": "Riverwheel Sweep",
+   "scryfall_name": "Riverwheel Sweep",
+   "match": "full",
+   "gih": 23523,
+   "gih_wr": 0.5820261021128258
+  },
+  {
+   "card_17lands": "Dragonbroods' Relic",
+   "scryfall_name": "Dragonbroods' Relic",
+   "match": "full",
+   "gih": 27501,
+   "gih_wr": 0.5819061125049998
+  },
+  {
+   "card_17lands": "Descendant of Storms",
+   "scryfall_name": "Descendant of Storms",
+   "match": "full",
+   "gih": 23188,
+   "gih_wr": 0.5815076763843368
+  },
+  {
+   "card_17lands": "Disruptive Stormbrood",
+   "scryfall_name": "Disruptive Stormbrood [MULTI]",
+   "match": "first-face",
+   "gih": 29215,
+   "gih_wr": 0.5810713674482286
+  },
+  {
+   "card_17lands": "Dragon Sniper",
+   "scryfall_name": "Dragon Sniper",
+   "match": "full",
+   "gih": 26658,
+   "gih_wr": 0.5809888213669443
+  },
+  {
+   "card_17lands": "Jeskai Monument",
+   "scryfall_name": "Jeskai Monument",
+   "match": "full",
+   "gih": 26576,
+   "gih_wr": 0.5796959662853702
+  },
+  {
+   "card_17lands": "Zurgo, Thunder's Decree",
+   "scryfall_name": "Zurgo, Thunder's Decree",
+   "match": "full",
+   "gih": 7728,
+   "gih_wr": 0.5791925465838509
+  },
+  {
+   "card_17lands": "Molten Exhale",
+   "scryfall_name": "Molten Exhale",
+   "match": "full",
+   "gih": 79816,
+   "gih_wr": 0.578843840833918
+  },
+  {
+   "card_17lands": "Sunset Strikemaster",
+   "scryfall_name": "Sunset Strikemaster",
+   "match": "full",
+   "gih": 29495,
+   "gih_wr": 0.578809967791151
+  },
+  {
+   "card_17lands": "Dispelling Exhale",
+   "scryfall_name": "Dispelling Exhale",
+   "match": "full",
+   "gih": 80398,
+   "gih_wr": 0.5786337968606184
+  },
+  {
+   "card_17lands": "Wingblade Disciple",
+   "scryfall_name": "Wingblade Disciple",
+   "match": "full",
+   "gih": 32580,
+   "gih_wr": 0.5784837323511357
+  },
+  {
+   "card_17lands": "Shocking Sharpshooter",
+   "scryfall_name": "Shocking Sharpshooter",
+   "match": "full",
+   "gih": 25294,
+   "gih_wr": 0.577093381829683
+  },
+  {
+   "card_17lands": "Frontline Rush",
+   "scryfall_name": "Frontline Rush",
+   "match": "full",
+   "gih": 22936,
+   "gih_wr": 0.5764300662713638
+  },
+  {
+   "card_17lands": "Spectral Denial",
+   "scryfall_name": "Spectral Denial",
+   "match": "full",
+   "gih": 25633,
+   "gih_wr": 0.5764054148948621
+  },
+  {
+   "card_17lands": "Great Arashin City",
+   "scryfall_name": "Great Arashin City",
+   "match": "full",
+   "gih": 7615,
+   "gih_wr": 0.5763624425476034
+  },
+  {
+   "card_17lands": "Craterhoof Behemoth",
+   "scryfall_name": "Craterhoof Behemoth",
+   "match": "full",
+   "gih": 4647,
+   "gih_wr": 0.5760705831719389
+  },
+  {
+   "card_17lands": "Fresh Start",
+   "scryfall_name": "Fresh Start",
+   "match": "full",
+   "gih": 35054,
+   "gih_wr": 0.575825868659782
+  },
+  {
+   "card_17lands": "Piercing Exhale",
+   "scryfall_name": "Piercing Exhale",
+   "match": "full",
+   "gih": 66938,
+   "gih_wr": 0.5747557441214258
+  },
+  {
+   "card_17lands": "Salt Road Packbeast",
+   "scryfall_name": "Salt Road Packbeast",
+   "match": "full",
+   "gih": 59795,
+   "gih_wr": 0.574496195334058
+  },
+  {
+   "card_17lands": "Kishla Skimmer",
+   "scryfall_name": "Kishla Skimmer",
+   "match": "full",
+   "gih": 29642,
+   "gih_wr": 0.5743876931381149
+  },
+  {
+   "card_17lands": "Ainok Wayfarer",
+   "scryfall_name": "Ainok Wayfarer",
+   "match": "full",
+   "gih": 69343,
+   "gih_wr": 0.5732373851722596
+  },
+  {
+   "card_17lands": "Kishla Trawlers",
+   "scryfall_name": "Kishla Trawlers",
+   "match": "full",
+   "gih": 32836,
+   "gih_wr": 0.5729686928980388
+  },
+  {
+   "card_17lands": "Temur Tawnyback",
+   "scryfall_name": "Temur Tawnyback",
+   "match": "full",
+   "gih": 55167,
+   "gih_wr": 0.5712835571990501
+  },
+  {
+   "card_17lands": "Fortress Kin-Guard",
+   "scryfall_name": "Fortress Kin-Guard",
+   "match": "full",
+   "gih": 53048,
+   "gih_wr": 0.5709169054441261
+  },
+  {
+   "card_17lands": "Maelstrom of the Spirit Dragon",
+   "scryfall_name": "Maelstrom of the Spirit Dragon",
+   "match": "full",
+   "gih": 5572,
+   "gih_wr": 0.5707106963388371
+  },
+  {
+   "card_17lands": "Lie in Wait",
+   "scryfall_name": "Lie in Wait",
+   "match": "full",
+   "gih": 25187,
+   "gih_wr": 0.570532417516973
+  },
+  {
+   "card_17lands": "Riverwalk Technique",
+   "scryfall_name": "Riverwalk Technique",
+   "match": "full",
+   "gih": 59466,
+   "gih_wr": 0.5704940638347964
+  },
+  {
+   "card_17lands": "Dalkovan Packbeasts",
+   "scryfall_name": "Dalkovan Packbeasts",
+   "match": "full",
+   "gih": 20998,
+   "gih_wr": 0.569911420135251
+  },
+  {
+   "card_17lands": "Channeled Dragonfire",
+   "scryfall_name": "Channeled Dragonfire",
+   "match": "full",
+   "gih": 24173,
+   "gih_wr": 0.5696851859512679
+  },
+  {
+   "card_17lands": "Herd Heirloom",
+   "scryfall_name": "Herd Heirloom",
+   "match": "full",
+   "gih": 11019,
+   "gih_wr": 0.5695616662129049
+  },
+  {
+   "card_17lands": "Sultai Monument",
+   "scryfall_name": "Sultai Monument",
+   "match": "full",
+   "gih": 25399,
+   "gih_wr": 0.569549982282767
+  },
+  {
+   "card_17lands": "Clarion Conqueror",
+   "scryfall_name": "Clarion Conqueror",
+   "match": "full",
+   "gih": 9407,
+   "gih_wr": 0.568938024875093
+  },
+  {
+   "card_17lands": "Sarkhan, Dragon Ascendant",
+   "scryfall_name": "Sarkhan, Dragon Ascendant",
+   "match": "full",
+   "gih": 9453,
+   "gih_wr": 0.5689199196022426
+  },
+  {
+   "card_17lands": "Ureni's Rebuff",
+   "scryfall_name": "Ureni's Rebuff",
+   "match": "full",
+   "gih": 27687,
+   "gih_wr": 0.5686062050781956
+  },
+  {
+   "card_17lands": "Caustic Exhale",
+   "scryfall_name": "Caustic Exhale",
+   "match": "full",
+   "gih": 60949,
+   "gih_wr": 0.5685245040935865
+  },
+  {
+   "card_17lands": "Anafenza, Unyielding Lineage",
+   "scryfall_name": "Anafenza, Unyielding Lineage",
+   "match": "full",
+   "gih": 9697,
+   "gih_wr": 0.568423223677426
+  },
+  {
+   "card_17lands": "Severance Priest",
+   "scryfall_name": "Severance Priest",
+   "match": "full",
+   "gih": 3947,
+   "gih_wr": 0.5680263491259184
+  },
+  {
+   "card_17lands": "Unending Whisper",
+   "scryfall_name": "Unending Whisper",
+   "match": "full",
+   "gih": 49770,
+   "gih_wr": 0.5675105485232067
+  },
+  {
+   "card_17lands": "Teeming Dragonstorm",
+   "scryfall_name": "Teeming Dragonstorm",
+   "match": "full",
+   "gih": 26658,
+   "gih_wr": 0.5673718958661566
+  },
+  {
+   "card_17lands": "Zurgo's Vanguard",
+   "scryfall_name": "Zurgo's Vanguard",
+   "match": "full",
+   "gih": 21089,
+   "gih_wr": 0.5671677177675566
+  },
+  {
+   "card_17lands": "Purging Stormbrood",
+   "scryfall_name": "Purging Stormbrood [MULTI]",
+   "match": "first-face",
+   "gih": 20266,
+   "gih_wr": 0.5666140333563604
+  },
+  {
+   "card_17lands": "War Effort",
+   "scryfall_name": "War Effort",
+   "match": "full",
+   "gih": 19883,
+   "gih_wr": 0.5665644017502389
+  },
+  {
+   "card_17lands": "Dragonstorm Forecaster",
+   "scryfall_name": "Dragonstorm Forecaster",
+   "match": "full",
+   "gih": 14640,
+   "gih_wr": 0.5665300546448088
+  },
+  {
+   "card_17lands": "Synchronized Charge",
+   "scryfall_name": "Synchronized Charge",
+   "match": "full",
+   "gih": 16034,
+   "gih_wr": 0.5664213546214295
+  },
+  {
+   "card_17lands": "Stormscale Scion",
+   "scryfall_name": "Stormscale Scion",
+   "match": "full",
+   "gih": 5104,
+   "gih_wr": 0.5664184952978056
+  },
+  {
+   "card_17lands": "Sunpearl Kirin",
+   "scryfall_name": "Sunpearl Kirin",
+   "match": "full",
+   "gih": 25157,
+   "gih_wr": 0.5662837381245777
+  },
+  {
+   "card_17lands": "Songcrafter Mage",
+   "scryfall_name": "Songcrafter Mage",
+   "match": "full",
+   "gih": 11166,
+   "gih_wr": 0.5658248253627082
+  },
+  {
+   "card_17lands": "Yathan Roadwatcher",
+   "scryfall_name": "Yathan Roadwatcher",
+   "match": "full",
+   "gih": 6487,
+   "gih_wr": 0.5657468783721289
+  },
+  {
+   "card_17lands": "Bewildering Blizzard",
+   "scryfall_name": "Bewildering Blizzard",
+   "match": "full",
+   "gih": 29825,
+   "gih_wr": 0.5652305113160101
+  },
+  {
+   "card_17lands": "Static Snare",
+   "scryfall_name": "Static Snare",
+   "match": "full",
+   "gih": 24923,
+   "gih_wr": 0.5647795209244473
+  },
+  {
+   "card_17lands": "Iridescent Tiger",
+   "scryfall_name": "Iridescent Tiger",
+   "match": "full",
+   "gih": 14537,
+   "gih_wr": 0.5646969801196946
+  },
+  {
+   "card_17lands": "Naga Fleshcrafter",
+   "scryfall_name": "Naga Fleshcrafter",
+   "match": "full",
+   "gih": 13239,
+   "gih_wr": 0.5643175466424957
+  },
+  {
+   "card_17lands": "Dragonclaw Strike",
+   "scryfall_name": "Dragonclaw Strike",
+   "match": "full",
+   "gih": 20504,
+   "gih_wr": 0.5641825985173625
+  },
+  {
+   "card_17lands": "Temur Monument",
+   "scryfall_name": "Temur Monument",
+   "match": "full",
+   "gih": 28695,
+   "gih_wr": 0.5641052448161701
+  },
+  {
+   "card_17lands": "Snakeskin Veil",
+   "scryfall_name": "Snakeskin Veil",
+   "match": "full",
+   "gih": 43549,
+   "gih_wr": 0.5640542836804519
+  },
+  {
+   "card_17lands": "Sagu Wildling",
+   "scryfall_name": "Sagu Wildling [MULTI]",
+   "match": "first-face",
+   "gih": 69163,
+   "gih_wr": 0.5640009831846508
+  },
+  {
+   "card_17lands": "Equilibrium Adept",
+   "scryfall_name": "Equilibrium Adept",
+   "match": "full",
+   "gih": 25735,
+   "gih_wr": 0.563551583446668
+  },
+  {
+   "card_17lands": "Dragonstorm Globe",
+   "scryfall_name": "Dragonstorm Globe",
+   "match": "full",
+   "gih": 59518,
+   "gih_wr": 0.5628549346416211
+  },
+  {
+   "card_17lands": "Sarkhan's Resolve",
+   "scryfall_name": "Sarkhan's Resolve",
+   "match": "full",
+   "gih": 33708,
+   "gih_wr": 0.5628040821170048
+  },
+  {
+   "card_17lands": "Kin-Tree Severance",
+   "scryfall_name": "Kin-Tree Severance",
+   "match": "full",
+   "gih": 19068,
+   "gih_wr": 0.5625655548563038
+  },
+  {
+   "card_17lands": "Shock Brigade",
+   "scryfall_name": "Shock Brigade",
+   "match": "full",
+   "gih": 52158,
+   "gih_wr": 0.5625407415928525
+  },
+  {
+   "card_17lands": "Thornwood Falls",
+   "scryfall_name": "Thornwood Falls",
+   "match": "full",
+   "gih": 65172,
+   "gih_wr": 0.5621279076904192
+  },
+  {
+   "card_17lands": "Swiftwater Cliffs",
+   "scryfall_name": "Swiftwater Cliffs",
+   "match": "full",
+   "gih": 64910,
+   "gih_wr": 0.5612232321676167
+  },
+  {
+   "card_17lands": "Cori Mountain Stalwart",
+   "scryfall_name": "Cori Mountain Stalwart",
+   "match": "full",
+   "gih": 22331,
+   "gih_wr": 0.5611929604585554
+  },
+  {
+   "card_17lands": "Iceridge Serpent",
+   "scryfall_name": "Iceridge Serpent",
+   "match": "full",
+   "gih": 35994,
+   "gih_wr": 0.5609823859532145
+  },
+  {
+   "card_17lands": "Misty Rainforest",
+   "scryfall_name": "Misty Rainforest",
+   "match": "non-set (bonus/token/other)",
+   "gih": 831,
+   "gih_wr": 0.5607701564380265
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 316192,
+   "gih_wr": 0.5603082936949701
+  },
+  {
+   "card_17lands": "Tranquil Cove",
+   "scryfall_name": "Tranquil Cove",
+   "match": "full",
+   "gih": 52806,
+   "gih_wr": 0.5596523122372458
+  },
+  {
+   "card_17lands": "Dismal Backwater",
+   "scryfall_name": "Dismal Backwater",
+   "match": "full",
+   "gih": 53615,
+   "gih_wr": 0.5596381609624173
+  },
+  {
+   "card_17lands": "Dalkovan Encampment",
+   "scryfall_name": "Dalkovan Encampment",
+   "match": "full",
+   "gih": 8426,
+   "gih_wr": 0.5595774982197959
+  },
+  {
+   "card_17lands": "Rugged Highlands",
+   "scryfall_name": "Rugged Highlands",
+   "match": "full",
+   "gih": 58017,
+   "gih_wr": 0.5595601289277281
+  },
+  {
+   "card_17lands": "Reigning Victor",
+   "scryfall_name": "Reigning Victor",
+   "match": "full",
+   "gih": 27403,
+   "gih_wr": 0.5593913075210744
+  },
+  {
+   "card_17lands": "Narset, Jeskai Waymaster",
+   "scryfall_name": "Narset, Jeskai Waymaster",
+   "match": "full",
+   "gih": 8455,
+   "gih_wr": 0.559077468953282
+  },
+  {
+   "card_17lands": "Kishla Village",
+   "scryfall_name": "Kishla Village",
+   "match": "full",
+   "gih": 8346,
+   "gih_wr": 0.5588305775221664
+  },
+  {
+   "card_17lands": "Narset's Rebuke",
+   "scryfall_name": "Narset's Rebuke",
+   "match": "full",
+   "gih": 49811,
+   "gih_wr": 0.5580092750597258
+  },
+  {
+   "card_17lands": "Duty Beyond Death",
+   "scryfall_name": "Duty Beyond Death",
+   "match": "full",
+   "gih": 17416,
+   "gih_wr": 0.5579926504363804
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 288324,
+   "gih_wr": 0.5577544706649464
+  },
+  {
+   "card_17lands": "Stormplain Detainment",
+   "scryfall_name": "Stormplain Detainment",
+   "match": "full",
+   "gih": 52184,
+   "gih_wr": 0.5576996780622413
+  },
+  {
+   "card_17lands": "Gurmag Nightwatch",
+   "scryfall_name": "Gurmag Nightwatch",
+   "match": "full",
+   "gih": 21132,
+   "gih_wr": 0.5573537762634867
+  },
+  {
+   "card_17lands": "Mystic Monastery",
+   "scryfall_name": "Mystic Monastery",
+   "match": "full",
+   "gih": 30302,
+   "gih_wr": 0.5571579433700746
+  },
+  {
+   "card_17lands": "Sultai Devotee",
+   "scryfall_name": "Sultai Devotee",
+   "match": "full",
+   "gih": 56899,
+   "gih_wr": 0.5571275417845656
+  },
+  {
+   "card_17lands": "Frontier Bivouac",
+   "scryfall_name": "Frontier Bivouac",
+   "match": "full",
+   "gih": 32350,
+   "gih_wr": 0.5570633693972179
+  },
+  {
+   "card_17lands": "Runescale Stormbrood",
+   "scryfall_name": "Runescale Stormbrood [MULTI]",
+   "match": "first-face",
+   "gih": 23879,
+   "gih_wr": 0.5565140918798944
+  },
+  {
+   "card_17lands": "Dirgur Island Dragon",
+   "scryfall_name": "Dirgur Island Dragon [MULTI]",
+   "match": "first-face",
+   "gih": 61442,
+   "gih_wr": 0.5563620975879692
+  },
+  {
+   "card_17lands": "Dusyut Earthcarver",
+   "scryfall_name": "Dusyut Earthcarver",
+   "match": "full",
+   "gih": 29427,
+   "gih_wr": 0.5561219288408604
+  },
+  {
+   "card_17lands": "Rebellious Strike",
+   "scryfall_name": "Rebellious Strike",
+   "match": "full",
+   "gih": 25311,
+   "gih_wr": 0.5560823357433526
+  },
+  {
+   "card_17lands": "Fleeting Effigy",
+   "scryfall_name": "Fleeting Effigy",
+   "match": "full",
+   "gih": 14736,
+   "gih_wr": 0.555442453854506
+  },
+  {
+   "card_17lands": "Champion of Dusan",
+   "scryfall_name": "Champion of Dusan",
+   "match": "full",
+   "gih": 50514,
+   "gih_wr": 0.5553707882963139
+  },
+  {
+   "card_17lands": "Evolving Wilds",
+   "scryfall_name": "Evolving Wilds",
+   "match": "full",
+   "gih": 72957,
+   "gih_wr": 0.5550529764107625
+  },
+  {
+   "card_17lands": "Furious Forebear",
+   "scryfall_name": "Furious Forebear",
+   "match": "full",
+   "gih": 20356,
+   "gih_wr": 0.5549223816073885
+  },
+  {
+   "card_17lands": "Neriv, Heart of the Storm",
+   "scryfall_name": "Neriv, Heart of the Storm",
+   "match": "full",
+   "gih": 3560,
+   "gih_wr": 0.5542134831460674
+  },
+  {
+   "card_17lands": "Taigam, Master Opportunist",
+   "scryfall_name": "Taigam, Master Opportunist",
+   "match": "full",
+   "gih": 5625,
+   "gih_wr": 0.5541333333333334
+  },
+  {
+   "card_17lands": "Coordinated Maneuver",
+   "scryfall_name": "Coordinated Maneuver",
+   "match": "full",
+   "gih": 38156,
+   "gih_wr": 0.5540413041199287
+  },
+  {
+   "card_17lands": "Inspirited Vanguard",
+   "scryfall_name": "Inspirited Vanguard",
+   "match": "full",
+   "gih": 17874,
+   "gih_wr": 0.5539330871657155
+  },
+  {
+   "card_17lands": "Focus the Mind",
+   "scryfall_name": "Focus the Mind",
+   "match": "full",
+   "gih": 51791,
+   "gih_wr": 0.553571083779035
+  },
+  {
+   "card_17lands": "Venerated Stormsinger",
+   "scryfall_name": "Venerated Stormsinger",
+   "match": "full",
+   "gih": 14425,
+   "gih_wr": 0.5535528596187175
+  },
+  {
+   "card_17lands": "Dragon's Prey",
+   "scryfall_name": "Dragon's Prey",
+   "match": "full",
+   "gih": 52883,
+   "gih_wr": 0.5535427263960063
+  },
+  {
+   "card_17lands": "Armament Dragon",
+   "scryfall_name": "Armament Dragon",
+   "match": "full",
+   "gih": 16368,
+   "gih_wr": 0.553396871945259
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 304217,
+   "gih_wr": 0.553177501586039
+  },
+  {
+   "card_17lands": "Opulent Palace",
+   "scryfall_name": "Opulent Palace",
+   "match": "full",
+   "gih": 29775,
+   "gih_wr": 0.5529806884970613
+  },
+  {
+   "card_17lands": "Mardu Siegebreaker",
+   "scryfall_name": "Mardu Siegebreaker",
+   "match": "full",
+   "gih": 7876,
+   "gih_wr": 0.5528186896901981
+  },
+  {
+   "card_17lands": "Whirlwing Stormbrood",
+   "scryfall_name": "Whirlwing Stormbrood [MULTI]",
+   "match": "first-face",
+   "gih": 23889,
+   "gih_wr": 0.5527648708610657
+  },
+  {
+   "card_17lands": "Salt Road Skirmish",
+   "scryfall_name": "Salt Road Skirmish",
+   "match": "full",
+   "gih": 17754,
+   "gih_wr": 0.5527205136870564
+  },
+  {
+   "card_17lands": "Sage of the Fang",
+   "scryfall_name": "Sage of the Fang",
+   "match": "full",
+   "gih": 18525,
+   "gih_wr": 0.5526045883940621
+  },
+  {
+   "card_17lands": "Avenger of the Fallen",
+   "scryfall_name": "Avenger of the Fallen",
+   "match": "full",
+   "gih": 8150,
+   "gih_wr": 0.5522699386503067
+  },
+  {
+   "card_17lands": "Stormshriek Feral",
+   "scryfall_name": "Stormshriek Feral [MULTI]",
+   "match": "first-face",
+   "gih": 46237,
+   "gih_wr": 0.5521984557821658
+  },
+  {
+   "card_17lands": "Sagu Pummeler",
+   "scryfall_name": "Sagu Pummeler",
+   "match": "full",
+   "gih": 55076,
+   "gih_wr": 0.5521824388118237
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 297525,
+   "gih_wr": 0.5521082261994791
+  },
+  {
+   "card_17lands": "Wind-Scarred Crag",
+   "scryfall_name": "Wind-Scarred Crag",
+   "match": "full",
+   "gih": 54140,
+   "gih_wr": 0.5521056520132989
+  },
+  {
+   "card_17lands": "Meticulous Artisan",
+   "scryfall_name": "Meticulous Artisan",
+   "match": "full",
+   "gih": 14194,
+   "gih_wr": 0.5517824432858954
+  },
+  {
+   "card_17lands": "Jungle Hollow",
+   "scryfall_name": "Jungle Hollow",
+   "match": "full",
+   "gih": 51882,
+   "gih_wr": 0.551655680197371
+  },
+  {
+   "card_17lands": "Scalding Tarn",
+   "scryfall_name": "Scalding Tarn",
+   "match": "non-set (bonus/token/other)",
+   "gih": 872,
+   "gih_wr": 0.551605504587156
+  },
+  {
+   "card_17lands": "Humbling Elder",
+   "scryfall_name": "Humbling Elder",
+   "match": "full",
+   "gih": 16364,
+   "gih_wr": 0.551148863358592
+  },
+  {
+   "card_17lands": "Flamehold Grappler",
+   "scryfall_name": "Flamehold Grappler",
+   "match": "full",
+   "gih": 8946,
+   "gih_wr": 0.5508607198748043
+  },
+  {
+   "card_17lands": "Skirmish Rhino",
+   "scryfall_name": "Skirmish Rhino",
+   "match": "full",
+   "gih": 10991,
+   "gih_wr": 0.5508143026112273
+  },
+  {
+   "card_17lands": "Gurmag Rakshasa",
+   "scryfall_name": "Gurmag Rakshasa",
+   "match": "full",
+   "gih": 10864,
+   "gih_wr": 0.5508100147275405
+  },
+  {
+   "card_17lands": "Osseous Exhale",
+   "scryfall_name": "Osseous Exhale",
+   "match": "full",
+   "gih": 43036,
+   "gih_wr": 0.5505390835579514
+  },
+  {
+   "card_17lands": "Nomad Outpost",
+   "scryfall_name": "Nomad Outpost",
+   "match": "full",
+   "gih": 25126,
+   "gih_wr": 0.5504258536973653
+  },
+  {
+   "card_17lands": "Mammoth Bellow",
+   "scryfall_name": "Mammoth Bellow",
+   "match": "full",
+   "gih": 23424,
+   "gih_wr": 0.5500341530054644
+  },
+  {
+   "card_17lands": "Verdant Catacombs",
+   "scryfall_name": "Verdant Catacombs",
+   "match": "non-set (bonus/token/other)",
+   "gih": 611,
+   "gih_wr": 0.5499181669394435
+  },
+  {
+   "card_17lands": "Strategic Betrayal",
+   "scryfall_name": "Strategic Betrayal",
+   "match": "full",
+   "gih": 10499,
+   "gih_wr": 0.5496713972759311
+  },
+  {
+   "card_17lands": "Formation Breaker",
+   "scryfall_name": "Formation Breaker",
+   "match": "full",
+   "gih": 17145,
+   "gih_wr": 0.5493729950422864
+  },
+  {
+   "card_17lands": "Hollowmurk Siege",
+   "scryfall_name": "Hollowmurk Siege",
+   "match": "full",
+   "gih": 8340,
+   "gih_wr": 0.5492805755395683
+  },
+  {
+   "card_17lands": "Jeskai Devotee",
+   "scryfall_name": "Jeskai Devotee",
+   "match": "full",
+   "gih": 44990,
+   "gih_wr": 0.5490997999555457
+  },
+  {
+   "card_17lands": "Temur Devotee",
+   "scryfall_name": "Temur Devotee",
+   "match": "full",
+   "gih": 43920,
+   "gih_wr": 0.5490892531876138
+  },
+  {
+   "card_17lands": "Bearer of Glory",
+   "scryfall_name": "Bearer of Glory",
+   "match": "full",
+   "gih": 47236,
+   "gih_wr": 0.5489668896604285
+  },
+  {
+   "card_17lands": "Bloodfell Caves",
+   "scryfall_name": "Bloodfell Caves",
+   "match": "full",
+   "gih": 45443,
+   "gih_wr": 0.5489074224853112
+  },
+  {
+   "card_17lands": "Kheru Goldkeeper",
+   "scryfall_name": "Kheru Goldkeeper",
+   "match": "full",
+   "gih": 19437,
+   "gih_wr": 0.5487986829243195
+  },
+  {
+   "card_17lands": "Aggressive Negotiations",
+   "scryfall_name": "Aggressive Negotiations",
+   "match": "full",
+   "gih": 16446,
+   "gih_wr": 0.548522437066764
+  },
+  {
+   "card_17lands": "Kin-Tree Nurturer",
+   "scryfall_name": "Kin-Tree Nurturer",
+   "match": "full",
+   "gih": 22639,
+   "gih_wr": 0.5483457749900614
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 248133,
+   "gih_wr": 0.5482060024261183
+  },
+  {
+   "card_17lands": "New Way Forward",
+   "scryfall_name": "New Way Forward",
+   "match": "full",
+   "gih": 7694,
+   "gih_wr": 0.5479594489212374
+  },
+  {
+   "card_17lands": "Arid Mesa",
+   "scryfall_name": "Arid Mesa",
+   "match": "non-set (bonus/token/other)",
+   "gih": 686,
+   "gih_wr": 0.5466472303206997
+  },
+  {
+   "card_17lands": "Encroaching Dragonstorm",
+   "scryfall_name": "Encroaching Dragonstorm",
+   "match": "full",
+   "gih": 16471,
+   "gih_wr": 0.546414911055795
+  },
+  {
+   "card_17lands": "Nature's Rhythm",
+   "scryfall_name": "Nature's Rhythm",
+   "match": "full",
+   "gih": 1343,
+   "gih_wr": 0.5457930007446017
+  },
+  {
+   "card_17lands": "Wayspeaker Bodyguard",
+   "scryfall_name": "Wayspeaker Bodyguard",
+   "match": "full",
+   "gih": 15376,
+   "gih_wr": 0.5457856399583767
+  },
+  {
+   "card_17lands": "Wail of War",
+   "scryfall_name": "Wail of War",
+   "match": "full",
+   "gih": 10562,
+   "gih_wr": 0.5453512592312062
+  },
+  {
+   "card_17lands": "Blossoming Sands",
+   "scryfall_name": "Blossoming Sands",
+   "match": "full",
+   "gih": 42513,
+   "gih_wr": 0.5452685061040152
+  },
+  {
+   "card_17lands": "Rescue Leopard",
+   "scryfall_name": "Rescue Leopard",
+   "match": "full",
+   "gih": 23535,
+   "gih_wr": 0.5452305077544083
+  },
+  {
+   "card_17lands": "Overwhelming Surge",
+   "scryfall_name": "Overwhelming Surge",
+   "match": "full",
+   "gih": 17514,
+   "gih_wr": 0.5452209660842754
+  },
+  {
+   "card_17lands": "Constrictor Sage",
+   "scryfall_name": "Constrictor Sage",
+   "match": "full",
+   "gih": 20364,
+   "gih_wr": 0.5445393832252996
+  },
+  {
+   "card_17lands": "Frostcliff Siege",
+   "scryfall_name": "Frostcliff Siege",
+   "match": "full",
+   "gih": 8648,
+   "gih_wr": 0.5445189639222942
+  },
+  {
+   "card_17lands": "Underfoot Underdogs",
+   "scryfall_name": "Underfoot Underdogs",
+   "match": "full",
+   "gih": 24455,
+   "gih_wr": 0.5441423021876917
+  },
+  {
+   "card_17lands": "Undergrowth Leopard",
+   "scryfall_name": "Undergrowth Leopard",
+   "match": "full",
+   "gih": 33992,
+   "gih_wr": 0.5439515180042362
+  },
+  {
+   "card_17lands": "Veteran Ice Climber",
+   "scryfall_name": "Veteran Ice Climber",
+   "match": "full",
+   "gih": 15890,
+   "gih_wr": 0.5438640654499686
+  },
+  {
+   "card_17lands": "Snowmelt Stag",
+   "scryfall_name": "Snowmelt Stag",
+   "match": "full",
+   "gih": 12342,
+   "gih_wr": 0.543509965969859
+  },
+  {
+   "card_17lands": "Auroral Procession",
+   "scryfall_name": "Auroral Procession",
+   "match": "full",
+   "gih": 14550,
+   "gih_wr": 0.5432989690721649
+  },
+  {
+   "card_17lands": "Marsh Flats",
+   "scryfall_name": "Marsh Flats",
+   "match": "non-set (bonus/token/other)",
+   "gih": 593,
+   "gih_wr": 0.5430016863406408
+  },
+  {
+   "card_17lands": "Scoured Barrens",
+   "scryfall_name": "Scoured Barrens",
+   "match": "full",
+   "gih": 43406,
+   "gih_wr": 0.542620835829148
+  },
+  {
+   "card_17lands": "Unsparing Boltcaster",
+   "scryfall_name": "Unsparing Boltcaster",
+   "match": "full",
+   "gih": 12674,
+   "gih_wr": 0.5419756982799432
+  },
+  {
+   "card_17lands": "Defibrillating Current",
+   "scryfall_name": "Defibrillating Current",
+   "match": "full",
+   "gih": 12651,
+   "gih_wr": 0.5415382183226622
+  },
+  {
+   "card_17lands": "Watcher of the Wayside",
+   "scryfall_name": "Watcher of the Wayside",
+   "match": "full",
+   "gih": 4055,
+   "gih_wr": 0.5413070283600493
+  },
+  {
+   "card_17lands": "Sandsteppe Citadel",
+   "scryfall_name": "Sandsteppe Citadel",
+   "match": "full",
+   "gih": 23781,
+   "gih_wr": 0.5408939910012195
+  },
+  {
+   "card_17lands": "Ruinous Ultimatum",
+   "scryfall_name": "Ruinous Ultimatum",
+   "match": "non-set (bonus/token/other)",
+   "gih": 466,
+   "gih_wr": 0.5407725321888412
+  },
+  {
+   "card_17lands": "Host of the Hereafter",
+   "scryfall_name": "Host of the Hereafter",
+   "match": "full",
+   "gih": 14371,
+   "gih_wr": 0.54046343330318
+  },
+  {
+   "card_17lands": "Embermouth Sentinel",
+   "scryfall_name": "Embermouth Sentinel",
+   "match": "full",
+   "gih": 28676,
+   "gih_wr": 0.5398939880039058
+  },
+  {
+   "card_17lands": "Alchemist's Assistant",
+   "scryfall_name": "Alchemist's Assistant",
+   "match": "full",
+   "gih": 14867,
+   "gih_wr": 0.5398533665164458
+  },
+  {
+   "card_17lands": "Riling Dawnbreaker",
+   "scryfall_name": "Riling Dawnbreaker [MULTI]",
+   "match": "first-face",
+   "gih": 42301,
+   "gih_wr": 0.5395853525921372
+  },
+  {
+   "card_17lands": "Aegis Sculptor",
+   "scryfall_name": "Aegis Sculptor",
+   "match": "full",
+   "gih": 12879,
+   "gih_wr": 0.5389393586458576
+  },
+  {
+   "card_17lands": "Perennation",
+   "scryfall_name": "Perennation",
+   "match": "full",
+   "gih": 3422,
+   "gih_wr": 0.5388661601402689
+  },
+  {
+   "card_17lands": "Abzan Monument",
+   "scryfall_name": "Abzan Monument",
+   "match": "full",
+   "gih": 14042,
+   "gih_wr": 0.5386697051702036
+  },
+  {
+   "card_17lands": "Marshal of the Lost",
+   "scryfall_name": "Marshal of the Lost",
+   "match": "full",
+   "gih": 12854,
+   "gih_wr": 0.5382760230278513
+  },
+  {
+   "card_17lands": "Twin Bolt",
+   "scryfall_name": "Twin Bolt",
+   "match": "full",
+   "gih": 16783,
+   "gih_wr": 0.5382232020496931
+  },
+  {
+   "card_17lands": "Thunder of Unity",
+   "scryfall_name": "Thunder of Unity",
+   "match": "full",
+   "gih": 6329,
+   "gih_wr": 0.5372096697740559
+  },
+  {
+   "card_17lands": "Attuned Hunter",
+   "scryfall_name": "Attuned Hunter",
+   "match": "full",
+   "gih": 15895,
+   "gih_wr": 0.5353884869455804
+  },
+  {
+   "card_17lands": "Dragonfire Blade",
+   "scryfall_name": "Dragonfire Blade",
+   "match": "full",
+   "gih": 7255,
+   "gih_wr": 0.5346657477601654
+  },
+  {
+   "card_17lands": "Tempest Hawk",
+   "scryfall_name": "Tempest Hawk",
+   "match": "full",
+   "gih": 10657,
+   "gih_wr": 0.5331706859341278
+  },
+  {
+   "card_17lands": "Trade Route Envoy",
+   "scryfall_name": "Trade Route Envoy",
+   "match": "full",
+   "gih": 31094,
+   "gih_wr": 0.5330932012606934
+  },
+  {
+   "card_17lands": "Lightfoot Technique",
+   "scryfall_name": "Lightfoot Technique",
+   "match": "full",
+   "gih": 13000,
+   "gih_wr": 0.533
+  },
+  {
+   "card_17lands": "Monastery Messenger",
+   "scryfall_name": "Monastery Messenger",
+   "match": "full",
+   "gih": 25072,
+   "gih_wr": 0.5329850031908104
+  },
+  {
+   "card_17lands": "Stalwart Successor",
+   "scryfall_name": "Stalwart Successor",
+   "match": "full",
+   "gih": 13631,
+   "gih_wr": 0.5325361308781454
+  },
+  {
+   "card_17lands": "Abzan Devotee",
+   "scryfall_name": "Abzan Devotee",
+   "match": "full",
+   "gih": 29224,
+   "gih_wr": 0.5313783191897071
+  },
+  {
+   "card_17lands": "Feral Deathgorger",
+   "scryfall_name": "Feral Deathgorger [MULTI]",
+   "match": "first-face",
+   "gih": 29545,
+   "gih_wr": 0.5303435437468269
+  },
+  {
+   "card_17lands": "Nightblade Brigade",
+   "scryfall_name": "Nightblade Brigade",
+   "match": "full",
+   "gih": 22751,
+   "gih_wr": 0.5299547272647356
+  },
+  {
+   "card_17lands": "Fire-Rim Form",
+   "scryfall_name": "Fire-Rim Form",
+   "match": "full",
+   "gih": 8035,
+   "gih_wr": 0.5293092719352831
+  },
+  {
+   "card_17lands": "Kotis, the Fangkeeper",
+   "scryfall_name": "Kotis, the Fangkeeper",
+   "match": "full",
+   "gih": 6118,
+   "gih_wr": 0.5281137626675384
+  },
+  {
+   "card_17lands": "Reputable Merchant",
+   "scryfall_name": "Reputable Merchant",
+   "match": "full",
+   "gih": 11875,
+   "gih_wr": 0.5279157894736842
+  },
+  {
+   "card_17lands": "Devoted Duelist",
+   "scryfall_name": "Devoted Duelist",
+   "match": "full",
+   "gih": 26011,
+   "gih_wr": 0.5276998193072162
+  },
+  {
+   "card_17lands": "Poised Practitioner",
+   "scryfall_name": "Poised Practitioner",
+   "match": "full",
+   "gih": 14933,
+   "gih_wr": 0.5272215897676288
+  },
+  {
+   "card_17lands": "Hardened Tactician",
+   "scryfall_name": "Hardened Tactician",
+   "match": "full",
+   "gih": 11761,
+   "gih_wr": 0.5268259501743049
+  },
+  {
+   "card_17lands": "Rot-Curse Rakshasa",
+   "scryfall_name": "Rot-Curse Rakshasa",
+   "match": "full",
+   "gih": 3203,
+   "gih_wr": 0.5263815173275055
+  },
+  {
+   "card_17lands": "Seize Opportunity",
+   "scryfall_name": "Seize Opportunity",
+   "match": "full",
+   "gih": 12011,
+   "gih_wr": 0.5261843310298893
+  },
+  {
+   "card_17lands": "Loxodon Battle Priest",
+   "scryfall_name": "Loxodon Battle Priest",
+   "match": "full",
+   "gih": 9406,
+   "gih_wr": 0.5259408887943866
+  },
+  {
+   "card_17lands": "Felothar, Dawn of the Abzan",
+   "scryfall_name": "Felothar, Dawn of the Abzan",
+   "match": "full",
+   "gih": 5273,
+   "gih_wr": 0.525696946709653
+  },
+  {
+   "card_17lands": "Adorned Crocodile",
+   "scryfall_name": "Adorned Crocodile",
+   "match": "full",
+   "gih": 9707,
+   "gih_wr": 0.5256000824147522
+  },
+  {
+   "card_17lands": "Breaching Dragonstorm",
+   "scryfall_name": "Breaching Dragonstorm",
+   "match": "full",
+   "gih": 11817,
+   "gih_wr": 0.5254294660235255
+  },
+  {
+   "card_17lands": "Krumar Initiate",
+   "scryfall_name": "Krumar Initiate",
+   "match": "full",
+   "gih": 13433,
+   "gih_wr": 0.5252735799895779
+  },
+  {
+   "card_17lands": "Effortless Master",
+   "scryfall_name": "Effortless Master",
+   "match": "full",
+   "gih": 11147,
+   "gih_wr": 0.5252534314165246
+  },
+  {
+   "card_17lands": "Essence Anchor",
+   "scryfall_name": "Essence Anchor",
+   "match": "full",
+   "gih": 6812,
+   "gih_wr": 0.5251027598355843
+  },
+  {
+   "card_17lands": "Ringing Strike Mastery",
+   "scryfall_name": "Ringing Strike Mastery",
+   "match": "full",
+   "gih": 9783,
+   "gih_wr": 0.5249923336399878
+  },
+  {
+   "card_17lands": "Bone-Cairn Butcher",
+   "scryfall_name": "Bone-Cairn Butcher",
+   "match": "full",
+   "gih": 11514,
+   "gih_wr": 0.5245787736668404
+  },
+  {
+   "card_17lands": "Rite of Renewal",
+   "scryfall_name": "Rite of Renewal",
+   "match": "full",
+   "gih": 7792,
+   "gih_wr": 0.5239989733059548
+  },
+  {
+   "card_17lands": "Sandskitter Outrider",
+   "scryfall_name": "Sandskitter Outrider",
+   "match": "full",
+   "gih": 10148,
+   "gih_wr": 0.5237485218762318
+  },
+  {
+   "card_17lands": "Sidisi, Regent of the Mire",
+   "scryfall_name": "Sidisi, Regent of the Mire",
+   "match": "full",
+   "gih": 4110,
+   "gih_wr": 0.5233576642335767
+  },
+  {
+   "card_17lands": "Agent of Kotis",
+   "scryfall_name": "Agent of Kotis",
+   "match": "full",
+   "gih": 23236,
+   "gih_wr": 0.5232828369771045
+  },
+  {
+   "card_17lands": "Jade-Cast Sentinel",
+   "scryfall_name": "Jade-Cast Sentinel",
+   "match": "full",
+   "gih": 5625,
+   "gih_wr": 0.5230222222222223
+  },
+  {
+   "card_17lands": "Emergent Ultimatum",
+   "scryfall_name": "Emergent Ultimatum",
+   "match": "non-set (bonus/token/other)",
+   "gih": 199,
+   "gih_wr": 0.5226130653266332
+  },
+  {
+   "card_17lands": "Desperate Measures",
+   "scryfall_name": "Desperate Measures",
+   "match": "full",
+   "gih": 7436,
+   "gih_wr": 0.5225927918235611
+  },
+  {
+   "card_17lands": "Roamer's Routine",
+   "scryfall_name": "Roamer's Routine",
+   "match": "full",
+   "gih": 23307,
+   "gih_wr": 0.5225468743296006
+  },
+  {
+   "card_17lands": "Starry-Eyed Skyrider",
+   "scryfall_name": "Starry-Eyed Skyrider",
+   "match": "full",
+   "gih": 14044,
+   "gih_wr": 0.5217174594132725
+  },
+  {
+   "card_17lands": "Smile at Death",
+   "scryfall_name": "Smile at Death",
+   "match": "full",
+   "gih": 3131,
+   "gih_wr": 0.5202810603641009
+  },
+  {
+   "card_17lands": "Jeskai Brushmaster",
+   "scryfall_name": "Jeskai Brushmaster",
+   "match": "full",
+   "gih": 8074,
+   "gih_wr": 0.5200644042605895
+  },
+  {
+   "card_17lands": "Mistrise Village",
+   "scryfall_name": "Mistrise Village",
+   "match": "full",
+   "gih": 2235,
+   "gih_wr": 0.5194630872483221
+  },
+  {
+   "card_17lands": "Arashin Sunshield",
+   "scryfall_name": "Arashin Sunshield",
+   "match": "full",
+   "gih": 7124,
+   "gih_wr": 0.5189500280741156
+  },
+  {
+   "card_17lands": "Barrensteppe Siege",
+   "scryfall_name": "Barrensteppe Siege",
+   "match": "full",
+   "gih": 8202,
+   "gih_wr": 0.5184101438673494
+  },
+  {
+   "card_17lands": "Highspire Bell-Ringer",
+   "scryfall_name": "Highspire Bell-Ringer",
+   "match": "full",
+   "gih": 10223,
+   "gih_wr": 0.5181453585053312
+  },
+  {
+   "card_17lands": "Summit Intimidator",
+   "scryfall_name": "Summit Intimidator",
+   "match": "full",
+   "gih": 10230,
+   "gih_wr": 0.5179863147605083
+  },
+  {
+   "card_17lands": "Wild Ride",
+   "scryfall_name": "Wild Ride",
+   "match": "full",
+   "gih": 8740,
+   "gih_wr": 0.5161327231121281
+  },
+  {
+   "card_17lands": "Boulderborn Dragon",
+   "scryfall_name": "Boulderborn Dragon",
+   "match": "full",
+   "gih": 23449,
+   "gih_wr": 0.5157576016034799
+  },
+  {
+   "card_17lands": "Rainveil Rejuvenator",
+   "scryfall_name": "Rainveil Rejuvenator",
+   "match": "full",
+   "gih": 9153,
+   "gih_wr": 0.515350158418005
+  },
+  {
+   "card_17lands": "Worthy Cost",
+   "scryfall_name": "Worthy Cost",
+   "match": "full",
+   "gih": 17520,
+   "gih_wr": 0.5143835616438356
+  },
+  {
+   "card_17lands": "Yathan Tombguard",
+   "scryfall_name": "Yathan Tombguard",
+   "match": "full",
+   "gih": 11926,
+   "gih_wr": 0.511990608753983
+  },
+  {
+   "card_17lands": "Delta Bloodflies",
+   "scryfall_name": "Delta Bloodflies",
+   "match": "full",
+   "gih": 9290,
+   "gih_wr": 0.511194833153929
+  },
+  {
+   "card_17lands": "Dragonback Lancer",
+   "scryfall_name": "Dragonback Lancer",
+   "match": "full",
+   "gih": 16832,
+   "gih_wr": 0.5108721482889734
+  },
+  {
+   "card_17lands": "Krotiq Nestguard",
+   "scryfall_name": "Krotiq Nestguard",
+   "match": "full",
+   "gih": 7979,
+   "gih_wr": 0.5094623386389272
+  },
+  {
+   "card_17lands": "Unburied Earthcarver",
+   "scryfall_name": "Unburied Earthcarver",
+   "match": "full",
+   "gih": 12804,
+   "gih_wr": 0.5088253670727898
+  },
+  {
+   "card_17lands": "Corroding Dragonstorm",
+   "scryfall_name": "Corroding Dragonstorm",
+   "match": "full",
+   "gih": 7057,
+   "gih_wr": 0.5064474989372254
+  },
+  {
+   "card_17lands": "Alesha's Legacy",
+   "scryfall_name": "Alesha's Legacy",
+   "match": "full",
+   "gih": 7100,
+   "gih_wr": 0.5035211267605634
+  },
+  {
+   "card_17lands": "Heritage Reclamation",
+   "scryfall_name": "Heritage Reclamation",
+   "match": "full",
+   "gih": 7451,
+   "gih_wr": 0.5018118373372702
+  },
+  {
+   "card_17lands": "Stormbeacon Blade",
+   "scryfall_name": "Stormbeacon Blade",
+   "match": "full",
+   "gih": 7618,
+   "gih_wr": 0.5011814124442111
+  },
+  {
+   "card_17lands": "Cruel Truths",
+   "scryfall_name": "Cruel Truths",
+   "match": "full",
+   "gih": 6616,
+   "gih_wr": 0.5010580411124547
+  },
+  {
+   "card_17lands": "Glacierwood Siege",
+   "scryfall_name": "Glacierwood Siege",
+   "match": "full",
+   "gih": 3331,
+   "gih_wr": 0.49714800360252176
+  },
+  {
+   "card_17lands": "Hundred-Battle Veteran",
+   "scryfall_name": "Hundred-Battle Veteran",
+   "match": "full",
+   "gih": 8499,
+   "gih_wr": 0.4959406989057536
+  },
+  {
+   "card_17lands": "Unrooted Ancestor",
+   "scryfall_name": "Unrooted Ancestor",
+   "match": "full",
+   "gih": 5741,
+   "gih_wr": 0.49573245079254485
+  },
+  {
+   "card_17lands": "Wingspan Stride",
+   "scryfall_name": "Wingspan Stride",
+   "match": "full",
+   "gih": 2402,
+   "gih_wr": 0.4954204829308909
+  },
+  {
+   "card_17lands": "Reverberating Summons",
+   "scryfall_name": "Reverberating Summons",
+   "match": "full",
+   "gih": 3571,
+   "gih_wr": 0.48585830299635957
+  },
+  {
+   "card_17lands": "Call the Spirit Dragons",
+   "scryfall_name": "Call the Spirit Dragons",
+   "match": "full",
+   "gih": 1376,
+   "gih_wr": 0.47674418604651164
+  },
+  {
+   "card_17lands": "Eerie Ultimatum",
+   "scryfall_name": "Eerie Ultimatum",
+   "match": "non-set (bonus/token/other)",
+   "gih": 338,
+   "gih_wr": 0.47633136094674555
+  },
+  {
+   "card_17lands": "Stillness in Motion",
+   "scryfall_name": "Stillness in Motion",
+   "match": "full",
+   "gih": 246,
+   "gih_wr": 0.44308943089430897
+  },
+  {
+   "card_17lands": "Mox Jasper",
+   "scryfall_name": "Mox Jasper",
+   "match": "full",
+   "gih": 210,
+   "gih_wr": 0.44285714285714284
+  },
+  {
+   "card_17lands": "Dracogenesis",
+   "scryfall_name": "Dracogenesis",
+   "match": "full",
+   "gih": 67,
+   "gih_wr": 0.40298507462686567
+  },
+  {
+   "card_17lands": "The Sibsig Ceremony",
+   "scryfall_name": "The Sibsig Ceremony",
+   "match": "full",
+   "gih": 35,
+   "gih_wr": 0.4
+  },
+  {
+   "card_17lands": "United Battlefront",
+   "scryfall_name": "United Battlefront",
+   "match": "full",
+   "gih": 218,
+   "gih_wr": 0.37155963302752293
+  }
+ ]
+}

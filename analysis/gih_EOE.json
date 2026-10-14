@@ -1,0 +1,1613 @@
+{
+ "set": "EOE",
+ "file": "/opt/mtg-data/17lands/sets/EOE/game_data_public.EOE.PremierDraft.csv.gz",
+ "games": 563418,
+ "wins": 311657,
+ "cards": [
+  {
+   "card": "Sliver Overlord",
+   "gih": 12,
+   "gih_wr": 0.75
+  },
+  {
+   "card": "Ouroboroid",
+   "gih": 6239,
+   "gih_wr": 0.6727039589677833
+  },
+  {
+   "card": "Quantum Riddler",
+   "gih": 7155,
+   "gih_wr": 0.6651292802236198
+  },
+  {
+   "card": "Elegy Acolyte",
+   "gih": 13353,
+   "gih_wr": 0.6555830150527971
+  },
+  {
+   "card": "Cosmogrand Zenith",
+   "gih": 6086,
+   "gih_wr": 0.6373644429838975
+  },
+  {
+   "card": "Genemorph Imago",
+   "gih": 13327,
+   "gih_wr": 0.6249718616342763
+  },
+  {
+   "card": "Celestial Colonnade",
+   "gih": 3064,
+   "gih_wr": 0.6220626631853786
+  },
+  {
+   "card": "Nova Hellkite",
+   "gih": 11486,
+   "gih_wr": 0.6219745777468222
+  },
+  {
+   "card": "Warmaker Gunship",
+   "gih": 11738,
+   "gih_wr": 0.6197819049241778
+  },
+  {
+   "card": "Dust Bowl",
+   "gih": 94,
+   "gih_wr": 0.6170212765957447
+  },
+  {
+   "card": "Sunset Saboteur",
+   "gih": 13186,
+   "gih_wr": 0.6159563173062339
+  },
+  {
+   "card": "Possibility Technician",
+   "gih": 12737,
+   "gih_wr": 0.612075056920782
+  },
+  {
+   "card": "Dubious Delicacy",
+   "gih": 34383,
+   "gih_wr": 0.6103016025361371
+  },
+  {
+   "card": "Creeping Tar Pit",
+   "gih": 3112,
+   "gih_wr": 0.6098971722365039
+  },
+  {
+   "card": "Sunstar Chaplain",
+   "gih": 11451,
+   "gih_wr": 0.6090297790585975
+  },
+  {
+   "card": "Biomechan Engineer",
+   "gih": 32863,
+   "gih_wr": 0.6078264309405714
+  },
+  {
+   "card": "Mutinous Massacre",
+   "gih": 9296,
+   "gih_wr": 0.6044535283993115
+  },
+  {
+   "card": "Syr Vondam, Sunstar Exemplar",
+   "gih": 7974,
+   "gih_wr": 0.6039628793579133
+  },
+  {
+   "card": "Lumen-Class Frigate",
+   "gih": 10924,
+   "gih_wr": 0.6038081288905163
+  },
+  {
+   "card": "The Seriema",
+   "gih": 6641,
+   "gih_wr": 0.6023189278723083
+  },
+  {
+   "card": "Glacier Godmaw",
+   "gih": 32766,
+   "gih_wr": 0.6022706464017579
+  },
+  {
+   "card": "Codecracker Hound",
+   "gih": 41821,
+   "gih_wr": 0.6021615934578322
+  },
+  {
+   "card": "Biotech Specialist",
+   "gih": 9639,
+   "gih_wr": 0.6015146799460525
+  },
+  {
+   "card": "All-Fates Stalker",
+   "gih": 28792,
+   "gih_wr": 0.6007918866351765
+  },
+  {
+   "card": "Fell Gravship",
+   "gih": 32292,
+   "gih_wr": 0.6003963830050787
+  },
+  {
+   "card": "Terrapact Intimidator",
+   "gih": 29223,
+   "gih_wr": 0.600383259761147
+  },
+  {
+   "card": "Anticausal Vestige",
+   "gih": 13337,
+   "gih_wr": 0.5994601484591737
+  },
+  {
+   "card": "Synthesizer Labship",
+   "gih": 12995,
+   "gih_wr": 0.5991535205848403
+  },
+  {
+   "card": "Haliya, Guided by Light",
+   "gih": 9933,
+   "gih_wr": 0.5980066445182725
+  },
+  {
+   "card": "Larval Scoutlander",
+   "gih": 31511,
+   "gih_wr": 0.5965535844625687
+  },
+  {
+   "card": "Secluded Starforge",
+   "gih": 14863,
+   "gih_wr": 0.5952364933055238
+  },
+  {
+   "card": "Lavaclaw Reaches",
+   "gih": 2165,
+   "gih_wr": 0.5949191685912241
+  },
+  {
+   "card": "Monoist Circuit-Feeder",
+   "gih": 31571,
+   "gih_wr": 0.5945012828228438
+  },
+  {
+   "card": "Mightform Harmonizer",
+   "gih": 10992,
+   "gih_wr": 0.5943413391557496
+  },
+  {
+   "card": "Singularity Rupture",
+   "gih": 10729,
+   "gih_wr": 0.5936247553360052
+  },
+  {
+   "card": "Cryogen Relic",
+   "gih": 80584,
+   "gih_wr": 0.5916807306661372
+  },
+  {
+   "card": "Beyond the Quiet",
+   "gih": 9304,
+   "gih_wr": 0.5915735167669819
+  },
+  {
+   "card": "Alpharael, Dreaming Acolyte",
+   "gih": 19465,
+   "gih_wr": 0.5909581299768816
+  },
+  {
+   "card": "Swarmyard",
+   "gih": 1858,
+   "gih_wr": 0.5904198062432723
+  },
+  {
+   "card": "Station Monitor",
+   "gih": 22245,
+   "gih_wr": 0.5900651831872331
+  },
+  {
+   "card": "Meltstrider's Resolve",
+   "gih": 30022,
+   "gih_wr": 0.5900339750849377
+  },
+  {
+   "card": "Harmonious Grovestrider",
+   "gih": 30254,
+   "gih_wr": 0.5889799695907979
+  },
+  {
+   "card": "Rayblade Trooper",
+   "gih": 24977,
+   "gih_wr": 0.588501421307603
+  },
+  {
+   "card": "Lumbering Falls",
+   "gih": 2595,
+   "gih_wr": 0.5876685934489403
+  },
+  {
+   "card": "Tractor Beam",
+   "gih": 35537,
+   "gih_wr": 0.5875847708022625
+  },
+  {
+   "card": "Rust Harvester",
+   "gih": 9818,
+   "gih_wr": 0.5868812385414545
+  },
+  {
+   "card": "Starfield Shepherd",
+   "gih": 26574,
+   "gih_wr": 0.5864002408369082
+  },
+  {
+   "card": "Mouth of the Storm",
+   "gih": 36448,
+   "gih_wr": 0.586232440737489
+  },
+  {
+   "card": "Galactic Wayfarer",
+   "gih": 77754,
+   "gih_wr": 0.5860020063276488
+  },
+  {
+   "card": "Seedship Impact",
+   "gih": 27292,
+   "gih_wr": 0.585885973911769
+  },
+  {
+   "card": "Weftwalking",
+   "gih": 7165,
+   "gih_wr": 0.58506629448709
+  },
+  {
+   "card": "Pinnacle Emissary",
+   "gih": 8663,
+   "gih_wr": 0.5846704374927854
+  },
+  {
+   "card": "Raging Ravine",
+   "gih": 2323,
+   "gih_wr": 0.5837279380111924
+  },
+  {
+   "card": "Mutavault",
+   "gih": 1290,
+   "gih_wr": 0.5837209302325581
+  },
+  {
+   "card": "Extinguisher Battleship",
+   "gih": 12039,
+   "gih_wr": 0.5830218456682449
+  },
+  {
+   "card": "Shambling Vent",
+   "gih": 1846,
+   "gih_wr": 0.5828819068255688
+  },
+  {
+   "card": "Banishing Light",
+   "gih": 57627,
+   "gih_wr": 0.5823832578478838
+  },
+  {
+   "card": "Stirring Wildwood",
+   "gih": 1882,
+   "gih_wr": 0.5823591923485654
+  },
+  {
+   "card": "Hissing Quagmire",
+   "gih": 1873,
+   "gih_wr": 0.5819540843566471
+  },
+  {
+   "card": "Thrumming Hivepool",
+   "gih": 13742,
+   "gih_wr": 0.5818658128365595
+  },
+  {
+   "card": "Blinkmoth Nexus",
+   "gih": 2835,
+   "gih_wr": 0.581657848324515
+  },
+  {
+   "card": "Knight Luminary",
+   "gih": 56604,
+   "gih_wr": 0.5811780086212989
+  },
+  {
+   "card": "Faller's Faithful",
+   "gih": 29440,
+   "gih_wr": 0.5807065217391304
+  },
+  {
+   "card": "Exalted Sunborn",
+   "gih": 4561,
+   "gih_wr": 0.5801359351019513
+  },
+  {
+   "card": "Lightstall Inquisitor",
+   "gih": 8082,
+   "gih_wr": 0.5800544419698095
+  },
+  {
+   "card": "Sunstar Expansionist",
+   "gih": 25039,
+   "gih_wr": 0.5798154878389712
+  },
+  {
+   "card": "Edge Rover",
+   "gih": 30416,
+   "gih_wr": 0.5793332456601789
+  },
+  {
+   "card": "Gene Pollinator",
+   "gih": 70370,
+   "gih_wr": 0.5790677845672872
+  },
+  {
+   "card": "Sunken Citadel",
+   "gih": 2387,
+   "gih_wr": 0.5781315458734814
+  },
+  {
+   "card": "Syr Vondam, the Lucent",
+   "gih": 16536,
+   "gih_wr": 0.5774068698597
+  },
+  {
+   "card": "Tragic Trajectory",
+   "gih": 28370,
+   "gih_wr": 0.5773704617553754
+  },
+  {
+   "card": "Umbral Collar Zealot",
+   "gih": 28277,
+   "gih_wr": 0.5773243271917106
+  },
+  {
+   "card": "Needle Spires",
+   "gih": 1265,
+   "gih_wr": 0.5770750988142292
+  },
+  {
+   "card": "Zero Point Ballad",
+   "gih": 11826,
+   "gih_wr": 0.5764417385421952
+  },
+  {
+   "card": "Desculpting Blast",
+   "gih": 31799,
+   "gih_wr": 0.5762445359916979
+  },
+  {
+   "card": "Orbital Plunge",
+   "gih": 63688,
+   "gih_wr": 0.5755558346941338
+  },
+  {
+   "card": "Uthros Psionicist",
+   "gih": 31753,
+   "gih_wr": 0.5755361698107265
+  },
+  {
+   "card": "Dyadrine, Synthesis Amalgam",
+   "gih": 8220,
+   "gih_wr": 0.5753041362530413
+  },
+  {
+   "card": "Kavaron, Memorial World",
+   "gih": 4873,
+   "gih_wr": 0.5750051303098708
+  },
+  {
+   "card": "Eusocial Engineering",
+   "gih": 25546,
+   "gih_wr": 0.5743364910357786
+  },
+  {
+   "card": "Emissary Escort",
+   "gih": 10884,
+   "gih_wr": 0.5742374127159132
+  },
+  {
+   "card": "Interceptor Mechan",
+   "gih": 20555,
+   "gih_wr": 0.5741182194113355
+  },
+  {
+   "card": "Gigastorm Titan",
+   "gih": 32161,
+   "gih_wr": 0.5740182208264668
+  },
+  {
+   "card": "Biosynthic Burst",
+   "gih": 46546,
+   "gih_wr": 0.5734327332101576
+  },
+  {
+   "card": "Focus Fire",
+   "gih": 51434,
+   "gih_wr": 0.5729089707197573
+  },
+  {
+   "card": "Consult the Star Charts",
+   "gih": 12025,
+   "gih_wr": 0.5728898128898129
+  },
+  {
+   "card": "Selfcraft Mechan",
+   "gih": 61766,
+   "gih_wr": 0.5721918207428035
+  },
+  {
+   "card": "Close Encounter",
+   "gih": 28011,
+   "gih_wr": 0.5720609760451252
+  },
+  {
+   "card": "Starwinder",
+   "gih": 11026,
+   "gih_wr": 0.5718302194812261
+  },
+  {
+   "card": "Diplomatic Relations",
+   "gih": 64632,
+   "gih_wr": 0.5718220076742171
+  },
+  {
+   "card": "Eumidian Terrabotanist",
+   "gih": 27570,
+   "gih_wr": 0.5716358360536815
+  },
+  {
+   "card": "Divert Disaster",
+   "gih": 34891,
+   "gih_wr": 0.57160872431286
+  },
+  {
+   "card": "Bonders' Enclave",
+   "gih": 2285,
+   "gih_wr": 0.5715536105032822
+  },
+  {
+   "card": "Gravpack Monoist",
+   "gih": 59027,
+   "gih_wr": 0.5712978806308977
+  },
+  {
+   "card": "Dauntless Scrapbot",
+   "gih": 37180,
+   "gih_wr": 0.5712748789671867
+  },
+  {
+   "card": "Uthros Scanship",
+   "gih": 25608,
+   "gih_wr": 0.5708762886597938
+  },
+  {
+   "card": "Devastating Onslaught",
+   "gih": 4004,
+   "gih_wr": 0.5706793206793207
+  },
+  {
+   "card": "Seedship Agrarian",
+   "gih": 27676,
+   "gih_wr": 0.5706388206388207
+  },
+  {
+   "card": "Archenemy's Charm",
+   "gih": 8409,
+   "gih_wr": 0.5703413009870377
+  },
+  {
+   "card": "Green Sun's Zenith",
+   "gih": 847,
+   "gih_wr": 0.5702479338842975
+  },
+  {
+   "card": "Astelli Reclaimer",
+   "gih": 8735,
+   "gih_wr": 0.5701202060675443
+  },
+  {
+   "card": "Pinnacle Kill-Ship",
+   "gih": 57550,
+   "gih_wr": 0.5700434404865334
+  },
+  {
+   "card": "Wandering Fumarole",
+   "gih": 2021,
+   "gih_wr": 0.570014844136566
+  },
+  {
+   "card": "Virus Beetle",
+   "gih": 68500,
+   "gih_wr": 0.569985401459854
+  },
+  {
+   "card": "Depressurize",
+   "gih": 64021,
+   "gih_wr": 0.5699379890973274
+  },
+  {
+   "card": "Nebula Dragon",
+   "gih": 30811,
+   "gih_wr": 0.5691798383694135
+  },
+  {
+   "card": "Dual-Sun Adepts",
+   "gih": 21473,
+   "gih_wr": 0.5687607693382387
+  },
+  {
+   "card": "Cathedral of War",
+   "gih": 2265,
+   "gih_wr": 0.5682119205298013
+  },
+  {
+   "card": "Breeding Pool",
+   "gih": 8916,
+   "gih_wr": 0.5679676985195155
+  },
+  {
+   "card": "Perigee Beckoner",
+   "gih": 47257,
+   "gih_wr": 0.5677042554542184
+  },
+  {
+   "card": "Frenzied Baloth",
+   "gih": 6894,
+   "gih_wr": 0.5673049028140412
+  },
+  {
+   "card": "Adagia, Windswept Bastion",
+   "gih": 3903,
+   "gih_wr": 0.5672559569561876
+  },
+  {
+   "card": "Sledge-Class Seedship",
+   "gih": 7918,
+   "gih_wr": 0.5669360949734782
+  },
+  {
+   "card": "Lost in Space",
+   "gih": 44999,
+   "gih_wr": 0.5668570412675837
+  },
+  {
+   "card": "Sunstar Lightsmith",
+   "gih": 24233,
+   "gih_wr": 0.5664176948788842
+  },
+  {
+   "card": "Systems Override",
+   "gih": 8288,
+   "gih_wr": 0.5661196911196911
+  },
+  {
+   "card": "Tannuk, Memorial Ensign",
+   "gih": 18981,
+   "gih_wr": 0.5660924081976714
+  },
+  {
+   "card": "Honored Knight-Captain",
+   "gih": 20989,
+   "gih_wr": 0.5659154795369002
+  },
+  {
+   "card": "Cryoshatter",
+   "gih": 66624,
+   "gih_wr": 0.5658321325648416
+  },
+  {
+   "card": "Kav Landseeker",
+   "gih": 50173,
+   "gih_wr": 0.5658222549977079
+  },
+  {
+   "card": "Kavaron Harrier",
+   "gih": 18262,
+   "gih_wr": 0.565381666849195
+  },
+  {
+   "card": "Specimen Freighter",
+   "gih": 25638,
+   "gih_wr": 0.565059677041891
+  },
+  {
+   "card": "Thawbringer",
+   "gih": 47936,
+   "gih_wr": 0.5648990320427236
+  },
+  {
+   "card": "Germinating Wurm",
+   "gih": 49666,
+   "gih_wr": 0.5648129505094028
+  },
+  {
+   "card": "Cut Propulsion",
+   "gih": 23509,
+   "gih_wr": 0.5645072100046791
+  },
+  {
+   "card": "Gravkill",
+   "gih": 61832,
+   "gih_wr": 0.5643356190969078
+  },
+  {
+   "card": "Melded Moxite",
+   "gih": 37022,
+   "gih_wr": 0.5640970233914969
+  },
+  {
+   "card": "Zookeeper Mechan",
+   "gih": 56981,
+   "gih_wr": 0.5639423667538302
+  },
+  {
+   "card": "Honor",
+   "gih": 17922,
+   "gih_wr": 0.5638879589331548
+  },
+  {
+   "card": "Icecave Crasher",
+   "gih": 47540,
+   "gih_wr": 0.5636095919225915
+  },
+  {
+   "card": "Timeline Culler",
+   "gih": 18514,
+   "gih_wr": 0.5633574592200497
+  },
+  {
+   "card": "Survey Mechan",
+   "gih": 20765,
+   "gih_wr": 0.5623404767637852
+  },
+  {
+   "card": "Crystal Quarry",
+   "gih": 274,
+   "gih_wr": 0.5620437956204379
+  },
+  {
+   "card": "Invasive Maneuvers",
+   "gih": 21586,
+   "gih_wr": 0.5620309459835078
+  },
+  {
+   "card": "Hullcarver",
+   "gih": 43783,
+   "gih_wr": 0.5620217892789439
+  },
+  {
+   "card": "Forest",
+   "gih": 257764,
+   "gih_wr": 0.5620102108905821
+  },
+  {
+   "card": "Vote Out",
+   "gih": 25141,
+   "gih_wr": 0.56199037428901
+  },
+  {
+   "card": "Embrace Oblivion",
+   "gih": 49472,
+   "gih_wr": 0.5617116752910737
+  },
+  {
+   "card": "Stomping Ground",
+   "gih": 7238,
+   "gih_wr": 0.5610665929814866
+  },
+  {
+   "card": "Territorial Bruntar",
+   "gih": 19800,
+   "gih_wr": 0.561060606060606
+  },
+  {
+   "card": "Blooming Stinger",
+   "gih": 51993,
+   "gih_wr": 0.5608062623814745
+  },
+  {
+   "card": "Inventors' Fair",
+   "gih": 707,
+   "gih_wr": 0.5601131541725601
+  },
+  {
+   "card": "Eldrazi Temple",
+   "gih": 75,
+   "gih_wr": 0.56
+  },
+  {
+   "card": "Radiant Strike",
+   "gih": 35876,
+   "gih_wr": 0.5588415653919054
+  },
+  {
+   "card": "Mechan Navigator",
+   "gih": 26137,
+   "gih_wr": 0.5587481348280215
+  },
+  {
+   "card": "Mechanozoa",
+   "gih": 46696,
+   "gih_wr": 0.5584418365598767
+  },
+  {
+   "card": "Plasma Bolt",
+   "gih": 46345,
+   "gih_wr": 0.5583989642895674
+  },
+  {
+   "card": "Requiem Monolith",
+   "gih": 10710,
+   "gih_wr": 0.5579831932773109
+  },
+  {
+   "card": "Illvoi Light Jammer",
+   "gih": 19284,
+   "gih_wr": 0.5579236672889442
+  },
+  {
+   "card": "The Endstone",
+   "gih": 6526,
+   "gih_wr": 0.5577689243027888
+  },
+  {
+   "card": "Island",
+   "gih": 272389,
+   "gih_wr": 0.5566818043313055
+  },
+  {
+   "card": "Fungal Colossus",
+   "gih": 28103,
+   "gih_wr": 0.5566309646656941
+  },
+  {
+   "card": "Pulsar Squadron Ace",
+   "gih": 20735,
+   "gih_wr": 0.5564504461056186
+  },
+  {
+   "card": "Famished Worldsire",
+   "gih": 4062,
+   "gih_wr": 0.5561299852289513
+  },
+  {
+   "card": "Plains",
+   "gih": 214917,
+   "gih_wr": 0.5554144157977265
+  },
+  {
+   "card": "Beamsaw Prospector",
+   "gih": 54558,
+   "gih_wr": 0.5552806187910114
+  },
+  {
+   "card": "Blast Zone",
+   "gih": 1245,
+   "gih_wr": 0.5550200803212851
+  },
+  {
+   "card": "Molecular Modifier",
+   "gih": 16143,
+   "gih_wr": 0.5546057114538809
+  },
+  {
+   "card": "Nutrient Block",
+   "gih": 42241,
+   "gih_wr": 0.5544376316848559
+  },
+  {
+   "card": "Lashwhip Predator",
+   "gih": 18991,
+   "gih_wr": 0.5541572323732294
+  },
+  {
+   "card": "Haliya, Ascendant Cadet",
+   "gih": 14461,
+   "gih_wr": 0.5539727543046815
+  },
+  {
+   "card": "Unravel",
+   "gih": 13805,
+   "gih_wr": 0.5537124230351322
+  },
+  {
+   "card": "Cerebral Download",
+   "gih": 23107,
+   "gih_wr": 0.5536417535811659
+  },
+  {
+   "card": "Swamp",
+   "gih": 247152,
+   "gih_wr": 0.5534124749142229
+  },
+  {
+   "card": "Burgeoning",
+   "gih": 563418,
+   "gih_wr": 0.553154141330238
+  },
+  {
+   "card": "Magus of the Moon",
+   "gih": 563418,
+   "gih_wr": 0.553154141330238
+  },
+  {
+   "card": "Mountain",
+   "gih": 220357,
+   "gih_wr": 0.5531433083587088
+  },
+  {
+   "card": "Auxiliary Boosters",
+   "gih": 31573,
+   "gih_wr": 0.5528457859563551
+  },
+  {
+   "card": "Seedship Broodtender",
+   "gih": 13516,
+   "gih_wr": 0.5527522935779816
+  },
+  {
+   "card": "Ancient Tomb",
+   "gih": 822,
+   "gih_wr": 0.5523114355231143
+  },
+  {
+   "card": "Intrepid Tenderfoot",
+   "gih": 41938,
+   "gih_wr": 0.5520053412179885
+  },
+  {
+   "card": "Watery Grave",
+   "gih": 8369,
+   "gih_wr": 0.5517983032620385
+  },
+  {
+   "card": "Strip Mine",
+   "gih": 1256,
+   "gih_wr": 0.5517515923566879
+  },
+  {
+   "card": "Plaza of Heroes",
+   "gih": 145,
+   "gih_wr": 0.5517241379310345
+  },
+  {
+   "card": "Xu-Ifit, Osteoharmonist",
+   "gih": 8696,
+   "gih_wr": 0.5516329346826127
+  },
+  {
+   "card": "Illvoi Galeblade",
+   "gih": 32334,
+   "gih_wr": 0.5513700748438176
+  },
+  {
+   "card": "Susurian Voidborn",
+   "gih": 19545,
+   "gih_wr": 0.5505755947812739
+  },
+  {
+   "card": "Mirrorpool",
+   "gih": 231,
+   "gih_wr": 0.5497835497835498
+  },
+  {
+   "card": "All-Fates Scroll",
+   "gih": 17530,
+   "gih_wr": 0.5491728465487735
+  },
+  {
+   "card": "Flight-Deck Coordinator",
+   "gih": 14026,
+   "gih_wr": 0.5488378725224583
+  },
+  {
+   "card": "Hylderblade",
+   "gih": 14179,
+   "gih_wr": 0.5484871993793639
+  },
+  {
+   "card": "Godless Shrine",
+   "gih": 5654,
+   "gih_wr": 0.5482844004244782
+  },
+  {
+   "card": "Tannuk, Steadfast Second",
+   "gih": 3541,
+   "gih_wr": 0.548150240045185
+  },
+  {
+   "card": "Scour for Scrap",
+   "gih": 12036,
+   "gih_wr": 0.5481056829511466
+  },
+  {
+   "card": "Wedgelight Rammer",
+   "gih": 12819,
+   "gih_wr": 0.5478586473203838
+  },
+  {
+   "card": "Illvoi Infiltrator",
+   "gih": 25625,
+   "gih_wr": 0.5478243902439024
+  },
+  {
+   "card": "Dockworker Drone",
+   "gih": 43687,
+   "gih_wr": 0.5477373131595211
+  },
+  {
+   "card": "Susurian Dirgecraft",
+   "gih": 15660,
+   "gih_wr": 0.5474457215836526
+  },
+  {
+   "card": "Bombard",
+   "gih": 43331,
+   "gih_wr": 0.5473217788650158
+  },
+  {
+   "card": "Seam Rip",
+   "gih": 10958,
+   "gih_wr": 0.5469063697755064
+  },
+  {
+   "card": "Nanoform Sentinel",
+   "gih": 25581,
+   "gih_wr": 0.5468511786091239
+  },
+  {
+   "card": "Hemosymbic Mite",
+   "gih": 8304,
+   "gih_wr": 0.5463631984585742
+  },
+  {
+   "card": "Comet Crawler",
+   "gih": 19779,
+   "gih_wr": 0.5463370241164872
+  },
+  {
+   "card": "Slagdrill Scrapper",
+   "gih": 25381,
+   "gih_wr": 0.5462353729167487
+  },
+  {
+   "card": "Drix Fatemaker",
+   "gih": 35451,
+   "gih_wr": 0.5459366449465459
+  },
+  {
+   "card": "Sami's Curiosity",
+   "gih": 44765,
+   "gih_wr": 0.5458282140064783
+  },
+  {
+   "card": "Pain for All",
+   "gih": 7842,
+   "gih_wr": 0.5457791379750063
+  },
+  {
+   "card": "Mana Confluence",
+   "gih": 590,
+   "gih_wr": 0.5457627118644067
+  },
+  {
+   "card": "Starfield Vocalist",
+   "gih": 10747,
+   "gih_wr": 0.5437796594398436
+  },
+  {
+   "card": "Weftblade Enhancer",
+   "gih": 28293,
+   "gih_wr": 0.5433146007846463
+  },
+  {
+   "card": "Starfighter Pilot",
+   "gih": 35838,
+   "gih_wr": 0.5428037278866008
+  },
+  {
+   "card": "Tapestry Warden",
+   "gih": 11277,
+   "gih_wr": 0.5427862020040791
+  },
+  {
+   "card": "Brightspear Zealot",
+   "gih": 12912,
+   "gih_wr": 0.5423636926889716
+  },
+  {
+   "card": "Meltstrider Eulogist",
+   "gih": 13469,
+   "gih_wr": 0.541985299576806
+  },
+  {
+   "card": "Illvoi Operative",
+   "gih": 30721,
+   "gih_wr": 0.5418117899807949
+  },
+  {
+   "card": "Memorial Team Leader",
+   "gih": 10290,
+   "gih_wr": 0.5415937803692906
+  },
+  {
+   "card": "Wurmwall Sweeper",
+   "gih": 32932,
+   "gih_wr": 0.5403558848536378
+  },
+  {
+   "card": "Mental Modulation",
+   "gih": 20082,
+   "gih_wr": 0.540284832188029
+  },
+  {
+   "card": "Mechan Assembler",
+   "gih": 22583,
+   "gih_wr": 0.5400522516937519
+  },
+  {
+   "card": "Squire's Lightblade",
+   "gih": 6799,
+   "gih_wr": 0.5394911016325931
+  },
+  {
+   "card": "Lightless Evangel",
+   "gih": 17614,
+   "gih_wr": 0.5393437038719201
+  },
+  {
+   "card": "Starport Security",
+   "gih": 20319,
+   "gih_wr": 0.5392489787883262
+  },
+  {
+   "card": "Skystinger",
+   "gih": 15744,
+   "gih_wr": 0.5385543699186992
+  },
+  {
+   "card": "Weftstalker Ardent",
+   "gih": 12692,
+   "gih_wr": 0.5385282067444059
+  },
+  {
+   "card": "Terrain Generator",
+   "gih": 312,
+   "gih_wr": 0.5384615384615384
+  },
+  {
+   "card": "Emergency Eject",
+   "gih": 11856,
+   "gih_wr": 0.5379554655870445
+  },
+  {
+   "card": "Vaultguard Trooper",
+   "gih": 13015,
+   "gih_wr": 0.5379177871686516
+  },
+  {
+   "card": "Oreplate Pangolin",
+   "gih": 40825,
+   "gih_wr": 0.5378077158603797
+  },
+  {
+   "card": "Starbreach Whale",
+   "gih": 33080,
+   "gih_wr": 0.5376058041112455
+  },
+  {
+   "card": "Broodguard Elite",
+   "gih": 15168,
+   "gih_wr": 0.5373154008438819
+  },
+  {
+   "card": "Sothera, the Supervoid",
+   "gih": 3965,
+   "gih_wr": 0.5364438839848676
+  },
+  {
+   "card": "Monoist Sentry",
+   "gih": 11390,
+   "gih_wr": 0.5362598770851624
+  },
+  {
+   "card": "Blade of the Swarm",
+   "gih": 4037,
+   "gih_wr": 0.5355461976715382
+  },
+  {
+   "card": "Roving Actuator",
+   "gih": 6323,
+   "gih_wr": 0.5353471453424008
+  },
+  {
+   "card": "Command Bridge",
+   "gih": 49172,
+   "gih_wr": 0.5350199300414871
+  },
+  {
+   "card": "Endless Sands",
+   "gih": 750,
+   "gih_wr": 0.5346666666666666
+  },
+  {
+   "card": "Space-Time Anomaly",
+   "gih": 3139,
+   "gih_wr": 0.5345651481363491
+  },
+  {
+   "card": "High Market",
+   "gih": 835,
+   "gih_wr": 0.5341317365269461
+  },
+  {
+   "card": "Mm'menon, Uthros Exile",
+   "gih": 14397,
+   "gih_wr": 0.5330971730221574
+  },
+  {
+   "card": "Debris Field Crusher",
+   "gih": 10888,
+   "gih_wr": 0.5328802351212344
+  },
+  {
+   "card": "Voidforged Titan",
+   "gih": 20403,
+   "gih_wr": 0.5326667646914669
+  },
+  {
+   "card": "Chrome Companion",
+   "gih": 20305,
+   "gih_wr": 0.5324796848066978
+  },
+  {
+   "card": "Mechan Shieldmate",
+   "gih": 23803,
+   "gih_wr": 0.5322858463218922
+  },
+  {
+   "card": "Tezzeret, Cruel Captain",
+   "gih": 4135,
+   "gih_wr": 0.532285368802902
+  },
+  {
+   "card": "Exosuit Savior",
+   "gih": 25314,
+   "gih_wr": 0.5306944773643043
+  },
+  {
+   "card": "Steelswarm Operator",
+   "gih": 16258,
+   "gih_wr": 0.530569565752245
+  },
+  {
+   "card": "Rescue Skiff",
+   "gih": 11552,
+   "gih_wr": 0.5303843490304709
+  },
+  {
+   "card": "Entropic Battlecruiser",
+   "gih": 5393,
+   "gih_wr": 0.5297608010383831
+  },
+  {
+   "card": "Memorial Vault",
+   "gih": 1826,
+   "gih_wr": 0.5295728368017525
+  },
+  {
+   "card": "Decode Transmissions",
+   "gih": 24100,
+   "gih_wr": 0.5295435684647303
+  },
+  {
+   "card": "Grove of the Burnwillows",
+   "gih": 752,
+   "gih_wr": 0.5292553191489362
+  },
+  {
+   "card": "Nexus of Fate",
+   "gih": 924,
+   "gih_wr": 0.5292207792207793
+  },
+  {
+   "card": "Dawnstrike Vanguard",
+   "gih": 11987,
+   "gih_wr": 0.5278218069575373
+  },
+  {
+   "card": "Full Bore",
+   "gih": 3804,
+   "gih_wr": 0.5273396424815984
+  },
+  {
+   "card": "Dark Endurance",
+   "gih": 3052,
+   "gih_wr": 0.526867627785059
+  },
+  {
+   "card": "Swarm Culler",
+   "gih": 29437,
+   "gih_wr": 0.5264123382138125
+  },
+  {
+   "card": "Remnant Elemental",
+   "gih": 7405,
+   "gih_wr": 0.5259959486833221
+  },
+  {
+   "card": "Reroute Systems",
+   "gih": 11336,
+   "gih_wr": 0.5259350741002117
+  },
+  {
+   "card": "Thespian's Stage",
+   "gih": 194,
+   "gih_wr": 0.5257731958762887
+  },
+  {
+   "card": "Hardlight Containment",
+   "gih": 3742,
+   "gih_wr": 0.5251202565473009
+  },
+  {
+   "card": "Susur Secundi, Void Altar",
+   "gih": 3270,
+   "gih_wr": 0.5247706422018349
+  },
+  {
+   "card": "Mystifying Maze",
+   "gih": 839,
+   "gih_wr": 0.5244338498212158
+  },
+  {
+   "card": "Reflecting Pool",
+   "gih": 494,
+   "gih_wr": 0.5242914979757085
+  },
+  {
+   "card": "Rig for War",
+   "gih": 3602,
+   "gih_wr": 0.524153248195447
+  },
+  {
+   "card": "Kavaron Skywarden",
+   "gih": 10170,
+   "gih_wr": 0.523598820058997
+  },
+  {
+   "card": "Temporal Intervention",
+   "gih": 3070,
+   "gih_wr": 0.5231270358306189
+  },
+  {
+   "card": "Cloudsculpt Technician",
+   "gih": 14568,
+   "gih_wr": 0.5229269632070291
+  },
+  {
+   "card": "Sacred Foundry",
+   "gih": 4167,
+   "gih_wr": 0.5229181665466762
+  },
+  {
+   "card": "Insatiable Skittermaw",
+   "gih": 15566,
+   "gih_wr": 0.5224206604137223
+  },
+  {
+   "card": "Kavaron Turbodrone",
+   "gih": 19241,
+   "gih_wr": 0.5222181799282781
+  },
+  {
+   "card": "Shattered Wings",
+   "gih": 13561,
+   "gih_wr": 0.52090553793968
+  },
+  {
+   "card": "Hymn of the Faller",
+   "gih": 17530,
+   "gih_wr": 0.5204791785510553
+  },
+  {
+   "card": "Sami, Ship's Engineer",
+   "gih": 7660,
+   "gih_wr": 0.5201044386422976
+  },
+  {
+   "card": "Gemstone Caverns",
+   "gih": 304,
+   "gih_wr": 0.5197368421052632
+  },
+  {
+   "card": "Dual-Sun Technique",
+   "gih": 6446,
+   "gih_wr": 0.5192367359602854
+  },
+  {
+   "card": "Icetill Explorer",
+   "gih": 5906,
+   "gih_wr": 0.5191330849983068
+  },
+  {
+   "card": "Lithobraking",
+   "gih": 5619,
+   "gih_wr": 0.5185976152340274
+  },
+  {
+   "card": "Luxknight Breacher",
+   "gih": 11468,
+   "gih_wr": 0.5185734216951517
+  },
+  {
+   "card": "Inkmoth Nexus",
+   "gih": 856,
+   "gih_wr": 0.5163551401869159
+  },
+  {
+   "card": "Scout for Survivors",
+   "gih": 6843,
+   "gih_wr": 0.5149788104632471
+  },
+  {
+   "card": "Annul",
+   "gih": 6746,
+   "gih_wr": 0.5146753631781796
+  },
+  {
+   "card": "Zealous Display",
+   "gih": 5425,
+   "gih_wr": 0.5137327188940092
+  },
+  {
+   "card": "Evendo, Waking Haven",
+   "gih": 1337,
+   "gih_wr": 0.5115931189229619
+  },
+  {
+   "card": "Atmospheric Greenhouse",
+   "gih": 12613,
+   "gih_wr": 0.5105050344882265
+  },
+  {
+   "card": "Uthros, Titanic Godcore",
+   "gih": 1110,
+   "gih_wr": 0.5099099099099099
+  },
+  {
+   "card": "Gravblade Heavy",
+   "gih": 6950,
+   "gih_wr": 0.5089208633093525
+  },
+  {
+   "card": "Ragost, Deft Gastronaut",
+   "gih": 2537,
+   "gih_wr": 0.5088687426093812
+  },
+  {
+   "card": "Mm'menon, the Right Hand",
+   "gih": 7228,
+   "gih_wr": 0.5076092971776425
+  },
+  {
+   "card": "Red Tiger Mechan",
+   "gih": 10146,
+   "gih_wr": 0.5073920756948551
+  },
+  {
+   "card": "Thaumaton Torpedo",
+   "gih": 5295,
+   "gih_wr": 0.5053824362606232
+  },
+  {
+   "card": "Sami, Wildcat Captain",
+   "gih": 1282,
+   "gih_wr": 0.5046801872074883
+  },
+  {
+   "card": "Scrounge for Eternity",
+   "gih": 7500,
+   "gih_wr": 0.504
+  },
+  {
+   "card": "Atomic Microsizer",
+   "gih": 2402,
+   "gih_wr": 0.5020815986677769
+  },
+  {
+   "card": "Meltstrider's Gear",
+   "gih": 1502,
+   "gih_wr": 0.5019973368841545
+  },
+  {
+   "card": "Alpharael, Stonechosen",
+   "gih": 1842,
+   "gih_wr": 0.501628664495114
+  },
+  {
+   "card": "Frontline War-Rager",
+   "gih": 8055,
+   "gih_wr": 0.49956548727498445
+  },
+  {
+   "card": "Galvanizing Sawship",
+   "gih": 10812,
+   "gih_wr": 0.4989826119126896
+  },
+  {
+   "card": "Power Depot",
+   "gih": 908,
+   "gih_wr": 0.4988986784140969
+  },
+  {
+   "card": "Pull Through the Weft",
+   "gih": 3895,
+   "gih_wr": 0.4988446726572529
+  },
+  {
+   "card": "The Dominion Bracelet",
+   "gih": 1443,
+   "gih_wr": 0.4961884961884962
+  },
+  {
+   "card": "Drill Too Deep",
+   "gih": 2484,
+   "gih_wr": 0.4943639291465378
+  },
+  {
+   "card": "Virulent Silencer",
+   "gih": 3903,
+   "gih_wr": 0.49269792467332824
+  },
+  {
+   "card": "Meteor Crater",
+   "gih": 371,
+   "gih_wr": 0.49056603773584906
+  },
+  {
+   "card": "Nesting Grounds",
+   "gih": 314,
+   "gih_wr": 0.49044585987261147
+  },
+  {
+   "card": "Weapons Manufacturing",
+   "gih": 3029,
+   "gih_wr": 0.48993067018818093
+  },
+  {
+   "card": "Dawnsire, Sunstar Dreadnought",
+   "gih": 3201,
+   "gih_wr": 0.48922211808809746
+  },
+  {
+   "card": "Chorale of the Void",
+   "gih": 4897,
+   "gih_wr": 0.48254033081478453
+  },
+  {
+   "card": "Pinnacle Starcage",
+   "gih": 1404,
+   "gih_wr": 0.4821937321937322
+  },
+  {
+   "card": "Terrasymbiosis",
+   "gih": 3000,
+   "gih_wr": 0.481
+  },
+  {
+   "card": "Deserted Temple",
+   "gih": 50,
+   "gih_wr": 0.48
+  },
+  {
+   "card": "Sinister Cryologist",
+   "gih": 3092,
+   "gih_wr": 0.4799482535575679
+  },
+  {
+   "card": "Echoing Deeps",
+   "gih": 221,
+   "gih_wr": 0.4751131221719457
+  },
+  {
+   "card": "Scavenger Grounds",
+   "gih": 140,
+   "gih_wr": 0.4714285714285714
+  },
+  {
+   "card": "Infinite Guideline Station",
+   "gih": 371,
+   "gih_wr": 0.46900269541778977
+  },
+  {
+   "card": "Terminal Velocity",
+   "gih": 1020,
+   "gih_wr": 0.4676470588235294
+  },
+  {
+   "card": "Cascading Cataracts",
+   "gih": 381,
+   "gih_wr": 0.4671916010498688
+  },
+  {
+   "card": "Lotus Field",
+   "gih": 258,
+   "gih_wr": 0.46124031007751937
+  },
+  {
+   "card": "Bygone Colossus",
+   "gih": 2001,
+   "gih_wr": 0.4577711144427786
+  },
+  {
+   "card": "The Eternity Elevator",
+   "gih": 269,
+   "gih_wr": 0.45724907063197023
+  },
+  {
+   "card": "Robe of Stars",
+   "gih": 154,
+   "gih_wr": 0.45454545454545453
+  },
+  {
+   "card": "Bioengineered Future",
+   "gih": 2509,
+   "gih_wr": 0.45157433240334793
+  },
+  {
+   "card": "Petrified Field",
+   "gih": 80,
+   "gih_wr": 0.45
+  },
+  {
+   "card": "Darkness",
+   "gih": 60,
+   "gih_wr": 0.45
+  },
+  {
+   "card": "Ruinous Rampage",
+   "gih": 426,
+   "gih_wr": 0.4460093896713615
+  },
+  {
+   "card": "Warping Wail",
+   "gih": 19,
+   "gih_wr": 0.42105263157894735
+  },
+  {
+   "card": "Moonlit Meditation",
+   "gih": 964,
+   "gih_wr": 0.4118257261410788
+  },
+  {
+   "card": "Loading Zone",
+   "gih": 1230,
+   "gih_wr": 0.4065040650406504
+  },
+  {
+   "card": "Contested War Zone",
+   "gih": 69,
+   "gih_wr": 0.391304347826087
+  },
+  {
+   "card": "Cosmogoyf",
+   "gih": 89,
+   "gih_wr": 0.3707865168539326
+  },
+  {
+   "card": "Deafening Silence",
+   "gih": 21,
+   "gih_wr": 0.3333333333333333
+  },
+  {
+   "card": "Paradox Haze",
+   "gih": 5,
+   "gih_wr": 0.2
+  }
+ ]
+}

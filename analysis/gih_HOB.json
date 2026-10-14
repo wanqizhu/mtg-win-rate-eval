@@ -1,0 +1,973 @@
+{
+ "set": "HOB",
+ "file": "/opt/mtg-data/17lands/sets/HOB/game_data_public.HOB.PremierDraft.csv.gz",
+ "games": 323114,
+ "wins": 181467,
+ "cards": [
+  {
+   "card": "F\u00edli the Pathfinder",
+   "gih": 9687,
+   "gih_wr": 0.6626406524207701
+  },
+  {
+   "card": "An Unexpected Party",
+   "gih": 10770,
+   "gih_wr": 0.6593314763231197
+  },
+  {
+   "card": "Beorn the Fierce",
+   "gih": 3703,
+   "gih_wr": 0.6440723737510127
+  },
+  {
+   "card": "Gollum, Riddle Master",
+   "gih": 4529,
+   "gih_wr": 0.6409803488628837
+  },
+  {
+   "card": "Bard's Company",
+   "gih": 11705,
+   "gih_wr": 0.6409226826142674
+  },
+  {
+   "card": "Smaug the Magnificent",
+   "gih": 4125,
+   "gih_wr": 0.6353939393939394
+  },
+  {
+   "card": "Thorin, Mountain-king",
+   "gih": 4117,
+   "gih_wr": 0.6339567646344425
+  },
+  {
+   "card": "K\u00edli the Resourceful",
+   "gih": 7998,
+   "gih_wr": 0.6336584146036509
+  },
+  {
+   "card": "D\u00e1in's Company",
+   "gih": 6183,
+   "gih_wr": 0.6272036228368106
+  },
+  {
+   "card": "Chief Warg's Company",
+   "gih": 8000,
+   "gih_wr": 0.623875
+  },
+  {
+   "card": "Celebrate the Mountain-king",
+   "gih": 30687,
+   "gih_wr": 0.6215987225861114
+  },
+  {
+   "card": "Thranduil's Company",
+   "gih": 7550,
+   "gih_wr": 0.6213245033112583
+  },
+  {
+   "card": "Rhovanion Rampager",
+   "gih": 8696,
+   "gih_wr": 0.6184452621895125
+  },
+  {
+   "card": "Head of the Hunt",
+   "gih": 8563,
+   "gih_wr": 0.6170734555646386
+  },
+  {
+   "card": "Great Gilded Boat",
+   "gih": 11603,
+   "gih_wr": 0.6157890200810135
+  },
+  {
+   "card": "D\u00e1in Ironfoot",
+   "gih": 8599,
+   "gih_wr": 0.6135597162460751
+  },
+  {
+   "card": "Desolation Prowler",
+   "gih": 30018,
+   "gih_wr": 0.6119994669864748
+  },
+  {
+   "card": "The Mountain-king's Return",
+   "gih": 29924,
+   "gih_wr": 0.6113153321748429
+  },
+  {
+   "card": "Bothersome Noisemaker",
+   "gih": 27882,
+   "gih_wr": 0.6102144752887168
+  },
+  {
+   "card": "Crude Bent Blade",
+   "gih": 60413,
+   "gih_wr": 0.604058729081489
+  },
+  {
+   "card": "Bejeweled Warg",
+   "gih": 6572,
+   "gih_wr": 0.6030127814972611
+  },
+  {
+   "card": "Bilbo, Luckwearer",
+   "gih": 29559,
+   "gih_wr": 0.6029635643966305
+  },
+  {
+   "card": "Stone by Sunlight",
+   "gih": 28322,
+   "gih_wr": 0.6027116729044559
+  },
+  {
+   "card": "The Arkenstone",
+   "gih": 5032,
+   "gih_wr": 0.6025437201907791
+  },
+  {
+   "card": "Burn, Burn, Tree and Fern",
+   "gih": 25422,
+   "gih_wr": 0.6005035009047281
+  },
+  {
+   "card": "The Eagles Are Coming!",
+   "gih": 9517,
+   "gih_wr": 0.5989282336870863
+  },
+  {
+   "card": "Nasty Little Rabbit",
+   "gih": 17848,
+   "gih_wr": 0.5965934558493949
+  },
+  {
+   "card": "Mirkwood Pathmaker",
+   "gih": 19147,
+   "gih_wr": 0.5955502167441374
+  },
+  {
+   "card": "Nighthowl Pursuer",
+   "gih": 23491,
+   "gih_wr": 0.5955472308543698
+  },
+  {
+   "card": "The Queen of Dale",
+   "gih": 3858,
+   "gih_wr": 0.5951270088128564
+  },
+  {
+   "card": "Gandalf, Spark Starter",
+   "gih": 23184,
+   "gih_wr": 0.5946342305037957
+  },
+  {
+   "card": "Pinecone Strike",
+   "gih": 55706,
+   "gih_wr": 0.593706243492622
+  },
+  {
+   "card": "Down, Down to Goblin-town",
+   "gih": 27443,
+   "gih_wr": 0.5933024815071238
+  },
+  {
+   "card": "Dwalin, Weaponmaster",
+   "gih": 8259,
+   "gih_wr": 0.5932921661218065
+  },
+  {
+   "card": "The Sackville-Bagginses",
+   "gih": 7837,
+   "gih_wr": 0.5930840882990941
+  },
+  {
+   "card": "Gollum, Silent Slinker",
+   "gih": 52853,
+   "gih_wr": 0.5921896581083382
+  },
+  {
+   "card": "Dancing from Dark to Dawn",
+   "gih": 3206,
+   "gih_wr": 0.5920149719276356
+  },
+  {
+   "card": "Settle the Wreckage",
+   "gih": 7646,
+   "gih_wr": 0.5893277530735025
+  },
+  {
+   "card": "Bard the Bowman",
+   "gih": 24682,
+   "gih_wr": 0.5880803824649542
+  },
+  {
+   "card": "Stone-Giant of High Pass",
+   "gih": 7252,
+   "gih_wr": 0.5861831218974076
+  },
+  {
+   "card": "Bilbo, Thief in the Night",
+   "gih": 3914,
+   "gih_wr": 0.5858456821665815
+  },
+  {
+   "card": "Plunder the Trollshaws",
+   "gih": 50977,
+   "gih_wr": 0.585342409321851
+  },
+  {
+   "card": "Misty Mountains Raider",
+   "gih": 23696,
+   "gih_wr": 0.5853308575286968
+  },
+  {
+   "card": "The Lonely Mountain",
+   "gih": 7702,
+   "gih_wr": 0.5837444819527395
+  },
+  {
+   "card": "Thranduil, Sindarin Liege",
+   "gih": 19439,
+   "gih_wr": 0.5834662276866094
+  },
+  {
+   "card": "Patient Instructor",
+   "gih": 55365,
+   "gih_wr": 0.5833830037027002
+  },
+  {
+   "card": "Master's Councillors",
+   "gih": 28347,
+   "gih_wr": 0.5809785867993086
+  },
+  {
+   "card": "Iron Hills Blacksmith",
+   "gih": 22521,
+   "gih_wr": 0.5803028284712046
+  },
+  {
+   "card": "Tom, Bert, and William",
+   "gih": 6704,
+   "gih_wr": 0.5799522673031027
+  },
+  {
+   "card": "Gl\u00f3in the Mighty",
+   "gih": 19149,
+   "gih_wr": 0.5795602903545877
+  },
+  {
+   "card": "Dori, Bearer of Friends",
+   "gih": 44509,
+   "gih_wr": 0.5780628636904895
+  },
+  {
+   "card": "Bilbo's Deadly Slice",
+   "gih": 47704,
+   "gih_wr": 0.5771633406003689
+  },
+  {
+   "card": "Long Lake Nuisance",
+   "gih": 49140,
+   "gih_wr": 0.577065527065527
+  },
+  {
+   "card": "Ravening Warg",
+   "gih": 46145,
+   "gih_wr": 0.576747209881894
+  },
+  {
+   "card": "The Misty Mountains Cold",
+   "gih": 6138,
+   "gih_wr": 0.5765721733463669
+  },
+  {
+   "card": "Great Ugly-Looking Goblin",
+   "gih": 21083,
+   "gih_wr": 0.5759616752834037
+  },
+  {
+   "card": "Bilbo Baggins, Burglar",
+   "gih": 51284,
+   "gih_wr": 0.5745651665236721
+  },
+  {
+   "card": "Gandalf, Goblins' Bane",
+   "gih": 3275,
+   "gih_wr": 0.5734351145038168
+  },
+  {
+   "card": "Goblin Plate Mail",
+   "gih": 59344,
+   "gih_wr": 0.572930709086007
+  },
+  {
+   "card": "Dwarven Mauler",
+   "gih": 18479,
+   "gih_wr": 0.5728123816223821
+  },
+  {
+   "card": "Mountain",
+   "gih": 156122,
+   "gih_wr": 0.5710854331868667
+  },
+  {
+   "card": "Gollum the Abandoned",
+   "gih": 20830,
+   "gih_wr": 0.5706673067690831
+  },
+  {
+   "card": "Lakeshore Apothecary",
+   "gih": 52839,
+   "gih_wr": 0.5704120062832377
+  },
+  {
+   "card": "Swamp",
+   "gih": 173691,
+   "gih_wr": 0.5703231600946509
+  },
+  {
+   "card": "Down in the Valley",
+   "gih": 4334,
+   "gih_wr": 0.5701430549146285
+  },
+  {
+   "card": "Stir Up Trouble",
+   "gih": 48095,
+   "gih_wr": 0.569830543715563
+  },
+  {
+   "card": "Quarrel",
+   "gih": 34443,
+   "gih_wr": 0.5696948581714717
+  },
+  {
+   "card": "Bofur, Reliable Guardian",
+   "gih": 17850,
+   "gih_wr": 0.5684033613445378
+  },
+  {
+   "card": "Thorin Oakenshield",
+   "gih": 14847,
+   "gih_wr": 0.5681282413955682
+  },
+  {
+   "card": "Magnificent End",
+   "gih": 46144,
+   "gih_wr": 0.5675060679611651
+  },
+  {
+   "card": "Large Bear",
+   "gih": 18958,
+   "gih_wr": 0.5673066779196118
+  },
+  {
+   "card": "Roads Go Ever, Ever On",
+   "gih": 5944,
+   "gih_wr": 0.5671265141318977
+  },
+  {
+   "card": "Lake-town",
+   "gih": 31676,
+   "gih_wr": 0.5671170602348782
+  },
+  {
+   "card": "Smaug, the Great Calamity",
+   "gih": 33601,
+   "gih_wr": 0.5667390851462754
+  },
+  {
+   "card": "Eagle's Rescue",
+   "gih": 14793,
+   "gih_wr": 0.5660109511255323
+  },
+  {
+   "card": "Esgaroth Garrison",
+   "gih": 14974,
+   "gih_wr": 0.5655135568318419
+  },
+  {
+   "card": "The Great Goblin",
+   "gih": 6348,
+   "gih_wr": 0.5653749212350346
+  },
+  {
+   "card": "Hobbit Hole",
+   "gih": 60133,
+   "gih_wr": 0.5649975886784295
+  },
+  {
+   "card": "Plains",
+   "gih": 133410,
+   "gih_wr": 0.5645528820927966
+  },
+  {
+   "card": "Gundabad Opportunist",
+   "gih": 37178,
+   "gih_wr": 0.5633170154392383
+  },
+  {
+   "card": "Tidings of War",
+   "gih": 31344,
+   "gih_wr": 0.5632976008167432
+  },
+  {
+   "card": "Gnashing of Teeth",
+   "gih": 19973,
+   "gih_wr": 0.5627597256296
+  },
+  {
+   "card": "Uneasy Partings",
+   "gih": 38308,
+   "gih_wr": 0.5624673697400021
+  },
+  {
+   "card": "Dreaded Bat-Cloud",
+   "gih": 17043,
+   "gih_wr": 0.5622249603942968
+  },
+  {
+   "card": "Sound the Trumpets",
+   "gih": 9128,
+   "gih_wr": 0.5610210341805434
+  },
+  {
+   "card": "Attercop",
+   "gih": 30096,
+   "gih_wr": 0.560971557682084
+  },
+  {
+   "card": "Rage into the Valley",
+   "gih": 43147,
+   "gih_wr": 0.560571998053167
+  },
+  {
+   "card": "Ragged Short Spear",
+   "gih": 26261,
+   "gih_wr": 0.5597273523475876
+  },
+  {
+   "card": "Dwarven Mattock",
+   "gih": 13141,
+   "gih_wr": 0.5588615782664942
+  },
+  {
+   "card": "Mirkwood",
+   "gih": 23661,
+   "gih_wr": 0.5579645830691856
+  },
+  {
+   "card": "Mirkwood Nurturer",
+   "gih": 34167,
+   "gih_wr": 0.5577018760792578
+  },
+  {
+   "card": "Stony-Voiced Goblins",
+   "gih": 40456,
+   "gih_wr": 0.5575439984180344
+  },
+  {
+   "card": "Smaug, Wicked Worm",
+   "gih": 5435,
+   "gih_wr": 0.5574977000919963
+  },
+  {
+   "card": "Front Porch Sentries",
+   "gih": 29032,
+   "gih_wr": 0.5572471755304491
+  },
+  {
+   "card": "Goblin-town",
+   "gih": 29259,
+   "gih_wr": 0.5571618989029017
+  },
+  {
+   "card": "Duskwatch Hunter",
+   "gih": 33195,
+   "gih_wr": 0.5568609730381081
+  },
+  {
+   "card": "\u00d3in the Brave",
+   "gih": 31738,
+   "gih_wr": 0.5567458567017456
+  },
+  {
+   "card": "Forest",
+   "gih": 98029,
+   "gih_wr": 0.5566005977822889
+  },
+  {
+   "card": "Dwarven Provisioner",
+   "gih": 34547,
+   "gih_wr": 0.5561119634121632
+  },
+  {
+   "card": "Enchanted River's Grasp",
+   "gih": 41489,
+   "gih_wr": 0.5560510014702692
+  },
+  {
+   "card": "Most Decrepit Old Bird",
+   "gih": 4022,
+   "gih_wr": 0.5556936847339632
+  },
+  {
+   "card": "Ori, Keeper of Songs",
+   "gih": 22499,
+   "gih_wr": 0.5532245877594559
+  },
+  {
+   "card": "Island",
+   "gih": 112333,
+   "gih_wr": 0.5519393232620868
+  },
+  {
+   "card": "Thr\u00f3r's Map",
+   "gih": 16796,
+   "gih_wr": 0.551559895213146
+  },
+  {
+   "card": "Troll Negotiations",
+   "gih": 14809,
+   "gih_wr": 0.5515564859207239
+  },
+  {
+   "card": "Gathering of Darkness",
+   "gih": 16769,
+   "gih_wr": 0.5514938278967142
+  },
+  {
+   "card": "Beorn's Hospitality",
+   "gih": 10145,
+   "gih_wr": 0.5508132084770823
+  },
+  {
+   "card": "Elven Passage",
+   "gih": 5572,
+   "gih_wr": 0.550251256281407
+  },
+  {
+   "card": "Bolg of the North",
+   "gih": 13685,
+   "gih_wr": 0.5499451954694922
+  },
+  {
+   "card": "Bombur, Gentle Dreamer",
+   "gih": 13699,
+   "gih_wr": 0.5498211548288197
+  },
+  {
+   "card": "Iron Hills",
+   "gih": 23466,
+   "gih_wr": 0.5495610670757692
+  },
+  {
+   "card": "Bifur, Melodic Rider",
+   "gih": 12309,
+   "gih_wr": 0.5495166138597773
+  },
+  {
+   "card": "Wargling",
+   "gih": 21122,
+   "gih_wr": 0.5494744815831835
+  },
+  {
+   "card": "Ordinary Bear",
+   "gih": 14617,
+   "gih_wr": 0.5475131695970445
+  },
+  {
+   "card": "The Master of Lake-town",
+   "gih": 5355,
+   "gih_wr": 0.5465919701213818
+  },
+  {
+   "card": "Old Thrush",
+   "gih": 11898,
+   "gih_wr": 0.5462262565136998
+  },
+  {
+   "card": "Nori, Teller of Tales",
+   "gih": 29199,
+   "gih_wr": 0.5444707010514058
+  },
+  {
+   "card": "D\u00e1in, Lord of the Iron Hills",
+   "gih": 15253,
+   "gih_wr": 0.5444174916409886
+  },
+  {
+   "card": "Elvenking's Harper",
+   "gih": 12387,
+   "gih_wr": 0.543311536288044
+  },
+  {
+   "card": "Goblin-town Flunkies",
+   "gih": 21031,
+   "gih_wr": 0.5431505872283772
+  },
+  {
+   "card": "Dwarven Shortsword",
+   "gih": 23573,
+   "gih_wr": 0.5429092605947482
+  },
+  {
+   "card": "Troop of Ponies",
+   "gih": 9610,
+   "gih_wr": 0.5421436004162331
+  },
+  {
+   "card": "Warg Tactics",
+   "gih": 13727,
+   "gih_wr": 0.5419246740001457
+  },
+  {
+   "card": "Galion, Elvenking's Butler",
+   "gih": 8194,
+   "gih_wr": 0.5414937759336099
+  },
+  {
+   "card": "Boughside Wanderers",
+   "gih": 13514,
+   "gih_wr": 0.540920526861033
+  },
+  {
+   "card": "Long-Bodied Grey Dog",
+   "gih": 9844,
+   "gih_wr": 0.5405323039414872
+  },
+  {
+   "card": "Lake-town Toymaker",
+   "gih": 9427,
+   "gih_wr": 0.540468866023125
+  },
+  {
+   "card": "Wood Elves",
+   "gih": 17064,
+   "gih_wr": 0.540436005625879
+  },
+  {
+   "card": "The Notary Hobbits",
+   "gih": 1174,
+   "gih_wr": 0.5400340715502555
+  },
+  {
+   "card": "Elvenking's Halls",
+   "gih": 15531,
+   "gih_wr": 0.5396948039405061
+  },
+  {
+   "card": "Confusticate and Bebother",
+   "gih": 21149,
+   "gih_wr": 0.538796160574968
+  },
+  {
+   "card": "Azog, Moria's Ruin",
+   "gih": 4940,
+   "gih_wr": 0.5378542510121458
+  },
+  {
+   "card": "Reverent Howl",
+   "gih": 18244,
+   "gih_wr": 0.5376014032010524
+  },
+  {
+   "card": "Silvan Reveler",
+   "gih": 9594,
+   "gih_wr": 0.5374192203460496
+  },
+  {
+   "card": "Woodland Weavemaster",
+   "gih": 7392,
+   "gih_wr": 0.5373376623376623
+  },
+  {
+   "card": "Velvetwing Butterflies",
+   "gih": 13058,
+   "gih_wr": 0.5367590748966151
+  },
+  {
+   "card": "Fearsome Goblin Pair",
+   "gih": 13383,
+   "gih_wr": 0.5365762534558769
+  },
+  {
+   "card": "Great Fierce Bee",
+   "gih": 9960,
+   "gih_wr": 0.5346385542168675
+  },
+  {
+   "card": "Well-Worn Spatula",
+   "gih": 9994,
+   "gih_wr": 0.5344206523914349
+  },
+  {
+   "card": "The Chief Warg",
+   "gih": 12154,
+   "gih_wr": 0.5335691953266415
+  },
+  {
+   "card": "Snowslope Hunter",
+   "gih": 14082,
+   "gih_wr": 0.5315296122709843
+  },
+  {
+   "card": "The Lord of the Eagles",
+   "gih": 3125,
+   "gih_wr": 0.53088
+  },
+  {
+   "card": "Guardian of the Halls",
+   "gih": 16103,
+   "gih_wr": 0.530460162702602
+  },
+  {
+   "card": "Eagle of the Great Shelf",
+   "gih": 7559,
+   "gih_wr": 0.5299642809895488
+  },
+  {
+   "card": "Old Fat Spider",
+   "gih": 10017,
+   "gih_wr": 0.5292003593890386
+  },
+  {
+   "card": "Bard, King of Dale",
+   "gih": 2506,
+   "gih_wr": 0.5279329608938548
+  },
+  {
+   "card": "Desolation of Smaug",
+   "gih": 2895,
+   "gih_wr": 0.5274611398963731
+  },
+  {
+   "card": "Old Fat Spider Can't See Me",
+   "gih": 10933,
+   "gih_wr": 0.5270282630568005
+  },
+  {
+   "card": "Radagast of Rhosgobel",
+   "gih": 3571,
+   "gih_wr": 0.5264631755810697
+  },
+  {
+   "card": "Cantankerous Keepers",
+   "gih": 2144,
+   "gih_wr": 0.5256529850746269
+  },
+  {
+   "card": "Belladonna Took",
+   "gih": 4046,
+   "gih_wr": 0.5254572417202175
+  },
+  {
+   "card": "Lake-town Lookout",
+   "gih": 9529,
+   "gih_wr": 0.5253436876902088
+  },
+  {
+   "card": "Smaug's Fury",
+   "gih": 6974,
+   "gih_wr": 0.5235159162603957
+  },
+  {
+   "card": "Vow to Erebor",
+   "gih": 6672,
+   "gih_wr": 0.5232314148681055
+  },
+  {
+   "card": "Bolg's Company",
+   "gih": 3783,
+   "gih_wr": 0.5226011102299762
+  },
+  {
+   "card": "Wilderland Scrounger",
+   "gih": 8813,
+   "gih_wr": 0.5225235447634177
+  },
+  {
+   "card": "Ravenhill Flock",
+   "gih": 8684,
+   "gih_wr": 0.5201520036849379
+  },
+  {
+   "card": "Moment of Glory",
+   "gih": 7419,
+   "gih_wr": 0.5194770184661005
+  },
+  {
+   "card": "Lake-town Mariners",
+   "gih": 5194,
+   "gih_wr": 0.5186753946861764
+  },
+  {
+   "card": "The Black Arrow",
+   "gih": 4507,
+   "gih_wr": 0.5183048591080541
+  },
+  {
+   "card": "Iron Hills Stalwart",
+   "gih": 9649,
+   "gih_wr": 0.5175665872111099
+  },
+  {
+   "card": "Along the Crooked Way",
+   "gih": 3766,
+   "gih_wr": 0.5172596919808816
+  },
+  {
+   "card": "Elrond, Moon-Reader",
+   "gih": 1817,
+   "gih_wr": 0.5151348376444689
+  },
+  {
+   "card": "Gigantic Big Bear",
+   "gih": 3322,
+   "gih_wr": 0.5147501505117399
+  },
+  {
+   "card": "Balin, Loremaster",
+   "gih": 2803,
+   "gih_wr": 0.5133785230110596
+  },
+  {
+   "card": "Riddles in the Dark",
+   "gih": 2419,
+   "gih_wr": 0.5130219098801158
+  },
+  {
+   "card": "My Precious",
+   "gih": 4321,
+   "gih_wr": 0.5121499652858135
+  },
+  {
+   "card": "Part in Friendship",
+   "gih": 3308,
+   "gih_wr": 0.5120918984280532
+  },
+  {
+   "card": "Gandalf, Wandering Wizard",
+   "gih": 6098,
+   "gih_wr": 0.5111511971138079
+  },
+  {
+   "card": "Thranduil's Decree",
+   "gih": 4094,
+   "gih_wr": 0.5100146555935515
+  },
+  {
+   "card": "Beorn, Reluctant Host",
+   "gih": 9780,
+   "gih_wr": 0.5079754601226993
+  },
+  {
+   "card": "Giant's Boulder",
+   "gih": 8928,
+   "gih_wr": 0.5075044802867383
+  },
+  {
+   "card": "Little Bear",
+   "gih": 7529,
+   "gih_wr": 0.5033869039713109
+  },
+  {
+   "card": "Elven Raft-Steerer",
+   "gih": 3814,
+   "gih_wr": 0.5005243838489775
+  },
+  {
+   "card": "Orcrist, Goblin-cleaver",
+   "gih": 1744,
+   "gih_wr": 0.5
+  },
+  {
+   "card": "Inside Information",
+   "gih": 1905,
+   "gih_wr": 0.494488188976378
+  },
+  {
+   "card": "Mirkwood Meditator",
+   "gih": 1736,
+   "gih_wr": 0.4942396313364055
+  },
+  {
+   "card": "Thorin's Last Stand",
+   "gih": 4079,
+   "gih_wr": 0.4920323608727629
+  },
+  {
+   "card": "Key to the Side-Door",
+   "gih": 1514,
+   "gih_wr": 0.4907529722589168
+  },
+  {
+   "card": "Sting, Bilbo's Sword",
+   "gih": 2658,
+   "gih_wr": 0.49021820917983444
+  },
+  {
+   "card": "Bilbo's Gambit",
+   "gih": 915,
+   "gih_wr": 0.4852459016393443
+  },
+  {
+   "card": "Uncover the Moon-Letters",
+   "gih": 300,
+   "gih_wr": 0.48333333333333334
+  },
+  {
+   "card": "Through the Forest Gate",
+   "gih": 334,
+   "gih_wr": 0.4820359281437126
+  },
+  {
+   "card": "Desert Were-Worm",
+   "gih": 1804,
+   "gih_wr": 0.46175166297117515
+  },
+  {
+   "card": "Thranduil, the Elvenking",
+   "gih": 1023,
+   "gih_wr": 0.45650048875855326
+  },
+  {
+   "card": "Roll-Roll-Roll-Roll",
+   "gih": 1339,
+   "gih_wr": 0.44958924570575054
+  },
+  {
+   "card": "Supper for Spiders",
+   "gih": 299,
+   "gih_wr": 0.4214046822742475
+  },
+  {
+   "card": "Getaway Barrel",
+   "gih": 122,
+   "gih_wr": 0.39344262295081966
+  },
+  {
+   "card": "Gleaming Splendor",
+   "gih": 420,
+   "gih_wr": 0.3904761904761905
+  },
+  {
+   "card": "Wizard's Staff",
+   "gih": 465,
+   "gih_wr": 0.38924731182795697
+  },
+  {
+   "card": "Glamdring, Foe-hammer",
+   "gih": 319,
+   "gih_wr": 0.3667711598746082
+  },
+  {
+   "card": "Fateful Discovery",
+   "gih": 23,
+   "gih_wr": 0.34782608695652173
+  },
+  {
+   "card": "Last Light of Durin's Day",
+   "gih": 160,
+   "gih_wr": 0.28125
+  }
+ ]
+}

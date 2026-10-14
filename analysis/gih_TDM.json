@@ -1,0 +1,1438 @@
+{
+ "set": "TDM",
+ "file": "/opt/mtg-data/17lands/sets/TDM/game_data_public.TDM.PremierDraft.csv.gz",
+ "games": 552428,
+ "wins": 303928,
+ "cards": [
+  {
+   "card": "Ugin, Eye of the Storms",
+   "gih": 7318,
+   "gih_wr": 0.6852965291063132
+  },
+  {
+   "card": "Jeskai Revelation",
+   "gih": 8792,
+   "gih_wr": 0.6850545950864422
+  },
+  {
+   "card": "Ureni, the Song Unending",
+   "gih": 7797,
+   "gih_wr": 0.6796203668077466
+  },
+  {
+   "card": "Dragonback Assault",
+   "gih": 7564,
+   "gih_wr": 0.6751718667371761
+  },
+  {
+   "card": "Marang River Regent",
+   "gih": 16373,
+   "gih_wr": 0.6736089904110426
+  },
+  {
+   "card": "Elspeth, Storm Slayer",
+   "gih": 6532,
+   "gih_wr": 0.6680955296999388
+  },
+  {
+   "card": "Roar of Endless Song",
+   "gih": 16382,
+   "gih_wr": 0.6537663288975705
+  },
+  {
+   "card": "Sage of the Skies",
+   "gih": 14557,
+   "gih_wr": 0.6491722195507316
+  },
+  {
+   "card": "Shiko, Paragon of the Way",
+   "gih": 6939,
+   "gih_wr": 0.6346735840899265
+  },
+  {
+   "card": "Betor, Kin to All",
+   "gih": 6192,
+   "gih_wr": 0.6206395348837209
+  },
+  {
+   "card": "Inspired Ultimatum",
+   "gih": 1031,
+   "gih_wr": 0.6188166828322017
+  },
+  {
+   "card": "Teval, Arbiter of Virtue",
+   "gih": 7223,
+   "gih_wr": 0.6162259448982417
+  },
+  {
+   "card": "Revival of the Ancestors",
+   "gih": 10293,
+   "gih_wr": 0.6146895948703002
+  },
+  {
+   "card": "Qarsi Revenant",
+   "gih": 11132,
+   "gih_wr": 0.6116600790513834
+  },
+  {
+   "card": "Death Begets Life",
+   "gih": 7413,
+   "gih_wr": 0.6110886280857952
+  },
+  {
+   "card": "Eshki Dragonclaw",
+   "gih": 15056,
+   "gih_wr": 0.6110520722635494
+  },
+  {
+   "card": "Warden of the Grove",
+   "gih": 13301,
+   "gih_wr": 0.6095782272009623
+  },
+  {
+   "card": "Fangkeeper's Familiar",
+   "gih": 13764,
+   "gih_wr": 0.6092705608834641
+  },
+  {
+   "card": "Surrak, Elusive Hunter",
+   "gih": 13589,
+   "gih_wr": 0.6086540584296122
+  },
+  {
+   "card": "Sonic Shrieker",
+   "gih": 27113,
+   "gih_wr": 0.6083059786818131
+  },
+  {
+   "card": "Winternight Stories",
+   "gih": 16412,
+   "gih_wr": 0.6077260541067512
+  },
+  {
+   "card": "Ambling Stormshell",
+   "gih": 16607,
+   "gih_wr": 0.6020955018967905
+  },
+  {
+   "card": "Voice of Victory",
+   "gih": 11459,
+   "gih_wr": 0.6018849812374553
+  },
+  {
+   "card": "Karakyk Guardian",
+   "gih": 33685,
+   "gih_wr": 0.6015734006234229
+  },
+  {
+   "card": "Sinkhole Surveyor",
+   "gih": 11195,
+   "gih_wr": 0.6008932559178205
+  },
+  {
+   "card": "Inevitable Defeat",
+   "gih": 10041,
+   "gih_wr": 0.6001394283437904
+  },
+  {
+   "card": "All-Out Assault",
+   "gih": 4703,
+   "gih_wr": 0.5989793748671061
+  },
+  {
+   "card": "Awaken the Honored Dead",
+   "gih": 13711,
+   "gih_wr": 0.5989351615491212
+  },
+  {
+   "card": "Scavenger Regent",
+   "gih": 12549,
+   "gih_wr": 0.5960634313491114
+  },
+  {
+   "card": "Cori-Steel Cutter",
+   "gih": 13094,
+   "gih_wr": 0.5959217962425538
+  },
+  {
+   "card": "Genesis Ultimatum",
+   "gih": 629,
+   "gih_wr": 0.5930047694753577
+  },
+  {
+   "card": "Rally the Monastery",
+   "gih": 27555,
+   "gih_wr": 0.5929595354745055
+  },
+  {
+   "card": "Traveling Botanist",
+   "gih": 33115,
+   "gih_wr": 0.5923599577230863
+  },
+  {
+   "card": "Glacial Dragonhunt",
+   "gih": 31103,
+   "gih_wr": 0.5913255956017105
+  },
+  {
+   "card": "Temur Battlecrier",
+   "gih": 11992,
+   "gih_wr": 0.591310873915944
+  },
+  {
+   "card": "Dragonologist",
+   "gih": 15560,
+   "gih_wr": 0.5910668380462725
+  },
+  {
+   "card": "Roiling Dragonstorm",
+   "gih": 34224,
+   "gih_wr": 0.5904336138382422
+  },
+  {
+   "card": "Rediscover the Way",
+   "gih": 11532,
+   "gih_wr": 0.5898369753728755
+  },
+  {
+   "card": "Mardu Monument",
+   "gih": 23068,
+   "gih_wr": 0.5896913473209641
+  },
+  {
+   "card": "Cori Mountain Monastery",
+   "gih": 13258,
+   "gih_wr": 0.5896817016141198
+  },
+  {
+   "card": "Tersa Lightshatter",
+   "gih": 12243,
+   "gih_wr": 0.5893163440333251
+  },
+  {
+   "card": "Sibsig Appraiser",
+   "gih": 97063,
+   "gih_wr": 0.5892255545367442
+  },
+  {
+   "card": "Twinmaw Stormbrood",
+   "gih": 32306,
+   "gih_wr": 0.589209434779917
+  },
+  {
+   "card": "Windcrag Siege",
+   "gih": 10668,
+   "gih_wr": 0.5885826771653543
+  },
+  {
+   "card": "Magmatic Hellkite",
+   "gih": 12140,
+   "gih_wr": 0.5877265238879736
+  },
+  {
+   "card": "Knockout Maneuver",
+   "gih": 28791,
+   "gih_wr": 0.5872668542252787
+  },
+  {
+   "card": "Bloomvine Regent",
+   "gih": 13334,
+   "gih_wr": 0.5856457177141143
+  },
+  {
+   "card": "Lasyd Prowler",
+   "gih": 12859,
+   "gih_wr": 0.5844155844155844
+  },
+  {
+   "card": "Rakshasa's Bargain",
+   "gih": 30645,
+   "gih_wr": 0.5843041279164627
+  },
+  {
+   "card": "Mardu Devotee",
+   "gih": 52511,
+   "gih_wr": 0.5842775799356326
+  },
+  {
+   "card": "Lotuslight Dancers",
+   "gih": 10662,
+   "gih_wr": 0.583380228850122
+  },
+  {
+   "card": "Stadium Headliner",
+   "gih": 10115,
+   "gih_wr": 0.5827978250123579
+  },
+  {
+   "card": "Jeskai Shrinekeeper",
+   "gih": 26451,
+   "gih_wr": 0.582095194888662
+  },
+  {
+   "card": "Riverwheel Sweep",
+   "gih": 23523,
+   "gih_wr": 0.5820261021128258
+  },
+  {
+   "card": "Dragonbroods' Relic",
+   "gih": 27501,
+   "gih_wr": 0.5819061125049998
+  },
+  {
+   "card": "Descendant of Storms",
+   "gih": 23188,
+   "gih_wr": 0.5815076763843368
+  },
+  {
+   "card": "Disruptive Stormbrood",
+   "gih": 29215,
+   "gih_wr": 0.5810713674482286
+  },
+  {
+   "card": "Dragon Sniper",
+   "gih": 26658,
+   "gih_wr": 0.5809888213669443
+  },
+  {
+   "card": "Jeskai Monument",
+   "gih": 26576,
+   "gih_wr": 0.5796959662853702
+  },
+  {
+   "card": "Zurgo, Thunder's Decree",
+   "gih": 7728,
+   "gih_wr": 0.5791925465838509
+  },
+  {
+   "card": "Molten Exhale",
+   "gih": 79816,
+   "gih_wr": 0.578843840833918
+  },
+  {
+   "card": "Sunset Strikemaster",
+   "gih": 29495,
+   "gih_wr": 0.578809967791151
+  },
+  {
+   "card": "Dispelling Exhale",
+   "gih": 80398,
+   "gih_wr": 0.5786337968606184
+  },
+  {
+   "card": "Wingblade Disciple",
+   "gih": 32580,
+   "gih_wr": 0.5784837323511357
+  },
+  {
+   "card": "Shocking Sharpshooter",
+   "gih": 25294,
+   "gih_wr": 0.577093381829683
+  },
+  {
+   "card": "Frontline Rush",
+   "gih": 22936,
+   "gih_wr": 0.5764300662713638
+  },
+  {
+   "card": "Spectral Denial",
+   "gih": 25633,
+   "gih_wr": 0.5764054148948621
+  },
+  {
+   "card": "Great Arashin City",
+   "gih": 7615,
+   "gih_wr": 0.5763624425476034
+  },
+  {
+   "card": "Craterhoof Behemoth",
+   "gih": 4647,
+   "gih_wr": 0.5760705831719389
+  },
+  {
+   "card": "Fresh Start",
+   "gih": 35054,
+   "gih_wr": 0.575825868659782
+  },
+  {
+   "card": "Piercing Exhale",
+   "gih": 66938,
+   "gih_wr": 0.5747557441214258
+  },
+  {
+   "card": "Salt Road Packbeast",
+   "gih": 59795,
+   "gih_wr": 0.574496195334058
+  },
+  {
+   "card": "Kishla Skimmer",
+   "gih": 29642,
+   "gih_wr": 0.5743876931381149
+  },
+  {
+   "card": "Ainok Wayfarer",
+   "gih": 69343,
+   "gih_wr": 0.5732373851722596
+  },
+  {
+   "card": "Kishla Trawlers",
+   "gih": 32836,
+   "gih_wr": 0.5729686928980388
+  },
+  {
+   "card": "Temur Tawnyback",
+   "gih": 55167,
+   "gih_wr": 0.5712835571990501
+  },
+  {
+   "card": "Fortress Kin-Guard",
+   "gih": 53048,
+   "gih_wr": 0.5709169054441261
+  },
+  {
+   "card": "Maelstrom of the Spirit Dragon",
+   "gih": 5572,
+   "gih_wr": 0.5707106963388371
+  },
+  {
+   "card": "Lie in Wait",
+   "gih": 25187,
+   "gih_wr": 0.570532417516973
+  },
+  {
+   "card": "Riverwalk Technique",
+   "gih": 59466,
+   "gih_wr": 0.5704940638347964
+  },
+  {
+   "card": "Dalkovan Packbeasts",
+   "gih": 20998,
+   "gih_wr": 0.569911420135251
+  },
+  {
+   "card": "Channeled Dragonfire",
+   "gih": 24173,
+   "gih_wr": 0.5696851859512679
+  },
+  {
+   "card": "Herd Heirloom",
+   "gih": 11019,
+   "gih_wr": 0.5695616662129049
+  },
+  {
+   "card": "Sultai Monument",
+   "gih": 25399,
+   "gih_wr": 0.569549982282767
+  },
+  {
+   "card": "Clarion Conqueror",
+   "gih": 9407,
+   "gih_wr": 0.568938024875093
+  },
+  {
+   "card": "Sarkhan, Dragon Ascendant",
+   "gih": 9453,
+   "gih_wr": 0.5689199196022426
+  },
+  {
+   "card": "Ureni's Rebuff",
+   "gih": 27687,
+   "gih_wr": 0.5686062050781956
+  },
+  {
+   "card": "Caustic Exhale",
+   "gih": 60949,
+   "gih_wr": 0.5685245040935865
+  },
+  {
+   "card": "Anafenza, Unyielding Lineage",
+   "gih": 9697,
+   "gih_wr": 0.568423223677426
+  },
+  {
+   "card": "Severance Priest",
+   "gih": 3947,
+   "gih_wr": 0.5680263491259184
+  },
+  {
+   "card": "Unending Whisper",
+   "gih": 49770,
+   "gih_wr": 0.5675105485232067
+  },
+  {
+   "card": "Teeming Dragonstorm",
+   "gih": 26658,
+   "gih_wr": 0.5673718958661566
+  },
+  {
+   "card": "Zurgo's Vanguard",
+   "gih": 21089,
+   "gih_wr": 0.5671677177675566
+  },
+  {
+   "card": "Purging Stormbrood",
+   "gih": 20266,
+   "gih_wr": 0.5666140333563604
+  },
+  {
+   "card": "War Effort",
+   "gih": 19883,
+   "gih_wr": 0.5665644017502389
+  },
+  {
+   "card": "Dragonstorm Forecaster",
+   "gih": 14640,
+   "gih_wr": 0.5665300546448088
+  },
+  {
+   "card": "Synchronized Charge",
+   "gih": 16034,
+   "gih_wr": 0.5664213546214295
+  },
+  {
+   "card": "Stormscale Scion",
+   "gih": 5104,
+   "gih_wr": 0.5664184952978056
+  },
+  {
+   "card": "Sunpearl Kirin",
+   "gih": 25157,
+   "gih_wr": 0.5662837381245777
+  },
+  {
+   "card": "Songcrafter Mage",
+   "gih": 11166,
+   "gih_wr": 0.5658248253627082
+  },
+  {
+   "card": "Yathan Roadwatcher",
+   "gih": 6487,
+   "gih_wr": 0.5657468783721289
+  },
+  {
+   "card": "Bewildering Blizzard",
+   "gih": 29825,
+   "gih_wr": 0.5652305113160101
+  },
+  {
+   "card": "Static Snare",
+   "gih": 24923,
+   "gih_wr": 0.5647795209244473
+  },
+  {
+   "card": "Iridescent Tiger",
+   "gih": 14537,
+   "gih_wr": 0.5646969801196946
+  },
+  {
+   "card": "Naga Fleshcrafter",
+   "gih": 13239,
+   "gih_wr": 0.5643175466424957
+  },
+  {
+   "card": "Dragonclaw Strike",
+   "gih": 20504,
+   "gih_wr": 0.5641825985173625
+  },
+  {
+   "card": "Temur Monument",
+   "gih": 28695,
+   "gih_wr": 0.5641052448161701
+  },
+  {
+   "card": "Snakeskin Veil",
+   "gih": 43549,
+   "gih_wr": 0.5640542836804519
+  },
+  {
+   "card": "Sagu Wildling",
+   "gih": 69163,
+   "gih_wr": 0.5640009831846508
+  },
+  {
+   "card": "Equilibrium Adept",
+   "gih": 25735,
+   "gih_wr": 0.563551583446668
+  },
+  {
+   "card": "Dragonstorm Globe",
+   "gih": 59518,
+   "gih_wr": 0.5628549346416211
+  },
+  {
+   "card": "Sarkhan's Resolve",
+   "gih": 33708,
+   "gih_wr": 0.5628040821170048
+  },
+  {
+   "card": "Kin-Tree Severance",
+   "gih": 19068,
+   "gih_wr": 0.5625655548563038
+  },
+  {
+   "card": "Shock Brigade",
+   "gih": 52158,
+   "gih_wr": 0.5625407415928525
+  },
+  {
+   "card": "Thornwood Falls",
+   "gih": 65172,
+   "gih_wr": 0.5621279076904192
+  },
+  {
+   "card": "Swiftwater Cliffs",
+   "gih": 64910,
+   "gih_wr": 0.5612232321676167
+  },
+  {
+   "card": "Cori Mountain Stalwart",
+   "gih": 22331,
+   "gih_wr": 0.5611929604585554
+  },
+  {
+   "card": "Iceridge Serpent",
+   "gih": 35994,
+   "gih_wr": 0.5609823859532145
+  },
+  {
+   "card": "Misty Rainforest",
+   "gih": 831,
+   "gih_wr": 0.5607701564380265
+  },
+  {
+   "card": "Mountain",
+   "gih": 316192,
+   "gih_wr": 0.5603082936949701
+  },
+  {
+   "card": "Tranquil Cove",
+   "gih": 52806,
+   "gih_wr": 0.5596523122372458
+  },
+  {
+   "card": "Dismal Backwater",
+   "gih": 53615,
+   "gih_wr": 0.5596381609624173
+  },
+  {
+   "card": "Dalkovan Encampment",
+   "gih": 8426,
+   "gih_wr": 0.5595774982197959
+  },
+  {
+   "card": "Rugged Highlands",
+   "gih": 58017,
+   "gih_wr": 0.5595601289277281
+  },
+  {
+   "card": "Reigning Victor",
+   "gih": 27403,
+   "gih_wr": 0.5593913075210744
+  },
+  {
+   "card": "Narset, Jeskai Waymaster",
+   "gih": 8455,
+   "gih_wr": 0.559077468953282
+  },
+  {
+   "card": "Kishla Village",
+   "gih": 8346,
+   "gih_wr": 0.5588305775221664
+  },
+  {
+   "card": "Narset's Rebuke",
+   "gih": 49811,
+   "gih_wr": 0.5580092750597258
+  },
+  {
+   "card": "Duty Beyond Death",
+   "gih": 17416,
+   "gih_wr": 0.5579926504363804
+  },
+  {
+   "card": "Plains",
+   "gih": 288324,
+   "gih_wr": 0.5577544706649464
+  },
+  {
+   "card": "Stormplain Detainment",
+   "gih": 52184,
+   "gih_wr": 0.5576996780622413
+  },
+  {
+   "card": "Gurmag Nightwatch",
+   "gih": 21132,
+   "gih_wr": 0.5573537762634867
+  },
+  {
+   "card": "Mystic Monastery",
+   "gih": 30302,
+   "gih_wr": 0.5571579433700746
+  },
+  {
+   "card": "Sultai Devotee",
+   "gih": 56899,
+   "gih_wr": 0.5571275417845656
+  },
+  {
+   "card": "Frontier Bivouac",
+   "gih": 32350,
+   "gih_wr": 0.5570633693972179
+  },
+  {
+   "card": "Runescale Stormbrood",
+   "gih": 23879,
+   "gih_wr": 0.5565140918798944
+  },
+  {
+   "card": "Dirgur Island Dragon",
+   "gih": 61442,
+   "gih_wr": 0.5563620975879692
+  },
+  {
+   "card": "Dusyut Earthcarver",
+   "gih": 29427,
+   "gih_wr": 0.5561219288408604
+  },
+  {
+   "card": "Rebellious Strike",
+   "gih": 25311,
+   "gih_wr": 0.5560823357433526
+  },
+  {
+   "card": "Fleeting Effigy",
+   "gih": 14736,
+   "gih_wr": 0.555442453854506
+  },
+  {
+   "card": "Champion of Dusan",
+   "gih": 50514,
+   "gih_wr": 0.5553707882963139
+  },
+  {
+   "card": "Evolving Wilds",
+   "gih": 72957,
+   "gih_wr": 0.5550529764107625
+  },
+  {
+   "card": "Furious Forebear",
+   "gih": 20356,
+   "gih_wr": 0.5549223816073885
+  },
+  {
+   "card": "Neriv, Heart of the Storm",
+   "gih": 3560,
+   "gih_wr": 0.5542134831460674
+  },
+  {
+   "card": "Taigam, Master Opportunist",
+   "gih": 5625,
+   "gih_wr": 0.5541333333333334
+  },
+  {
+   "card": "Coordinated Maneuver",
+   "gih": 38156,
+   "gih_wr": 0.5540413041199287
+  },
+  {
+   "card": "Inspirited Vanguard",
+   "gih": 17874,
+   "gih_wr": 0.5539330871657155
+  },
+  {
+   "card": "Focus the Mind",
+   "gih": 51791,
+   "gih_wr": 0.553571083779035
+  },
+  {
+   "card": "Venerated Stormsinger",
+   "gih": 14425,
+   "gih_wr": 0.5535528596187175
+  },
+  {
+   "card": "Dragon's Prey",
+   "gih": 52883,
+   "gih_wr": 0.5535427263960063
+  },
+  {
+   "card": "Armament Dragon",
+   "gih": 16368,
+   "gih_wr": 0.553396871945259
+  },
+  {
+   "card": "Island",
+   "gih": 304217,
+   "gih_wr": 0.553177501586039
+  },
+  {
+   "card": "Opulent Palace",
+   "gih": 29775,
+   "gih_wr": 0.5529806884970613
+  },
+  {
+   "card": "Mardu Siegebreaker",
+   "gih": 7876,
+   "gih_wr": 0.5528186896901981
+  },
+  {
+   "card": "Whirlwing Stormbrood",
+   "gih": 23889,
+   "gih_wr": 0.5527648708610657
+  },
+  {
+   "card": "Salt Road Skirmish",
+   "gih": 17754,
+   "gih_wr": 0.5527205136870564
+  },
+  {
+   "card": "Sage of the Fang",
+   "gih": 18525,
+   "gih_wr": 0.5526045883940621
+  },
+  {
+   "card": "Avenger of the Fallen",
+   "gih": 8150,
+   "gih_wr": 0.5522699386503067
+  },
+  {
+   "card": "Stormshriek Feral",
+   "gih": 46237,
+   "gih_wr": 0.5521984557821658
+  },
+  {
+   "card": "Sagu Pummeler",
+   "gih": 55076,
+   "gih_wr": 0.5521824388118237
+  },
+  {
+   "card": "Forest",
+   "gih": 297525,
+   "gih_wr": 0.5521082261994791
+  },
+  {
+   "card": "Wind-Scarred Crag",
+   "gih": 54140,
+   "gih_wr": 0.5521056520132989
+  },
+  {
+   "card": "Meticulous Artisan",
+   "gih": 14194,
+   "gih_wr": 0.5517824432858954
+  },
+  {
+   "card": "Jungle Hollow",
+   "gih": 51882,
+   "gih_wr": 0.551655680197371
+  },
+  {
+   "card": "Scalding Tarn",
+   "gih": 872,
+   "gih_wr": 0.551605504587156
+  },
+  {
+   "card": "Humbling Elder",
+   "gih": 16364,
+   "gih_wr": 0.551148863358592
+  },
+  {
+   "card": "Flamehold Grappler",
+   "gih": 8946,
+   "gih_wr": 0.5508607198748043
+  },
+  {
+   "card": "Skirmish Rhino",
+   "gih": 10991,
+   "gih_wr": 0.5508143026112273
+  },
+  {
+   "card": "Gurmag Rakshasa",
+   "gih": 10864,
+   "gih_wr": 0.5508100147275405
+  },
+  {
+   "card": "Osseous Exhale",
+   "gih": 43036,
+   "gih_wr": 0.5505390835579514
+  },
+  {
+   "card": "Nomad Outpost",
+   "gih": 25126,
+   "gih_wr": 0.5504258536973653
+  },
+  {
+   "card": "Mammoth Bellow",
+   "gih": 23424,
+   "gih_wr": 0.5500341530054644
+  },
+  {
+   "card": "Verdant Catacombs",
+   "gih": 611,
+   "gih_wr": 0.5499181669394435
+  },
+  {
+   "card": "Strategic Betrayal",
+   "gih": 10499,
+   "gih_wr": 0.5496713972759311
+  },
+  {
+   "card": "Formation Breaker",
+   "gih": 17145,
+   "gih_wr": 0.5493729950422864
+  },
+  {
+   "card": "Hollowmurk Siege",
+   "gih": 8340,
+   "gih_wr": 0.5492805755395683
+  },
+  {
+   "card": "Jeskai Devotee",
+   "gih": 44990,
+   "gih_wr": 0.5490997999555457
+  },
+  {
+   "card": "Temur Devotee",
+   "gih": 43920,
+   "gih_wr": 0.5490892531876138
+  },
+  {
+   "card": "Bearer of Glory",
+   "gih": 47236,
+   "gih_wr": 0.5489668896604285
+  },
+  {
+   "card": "Bloodfell Caves",
+   "gih": 45443,
+   "gih_wr": 0.5489074224853112
+  },
+  {
+   "card": "Kheru Goldkeeper",
+   "gih": 19437,
+   "gih_wr": 0.5487986829243195
+  },
+  {
+   "card": "Aggressive Negotiations",
+   "gih": 16446,
+   "gih_wr": 0.548522437066764
+  },
+  {
+   "card": "Kin-Tree Nurturer",
+   "gih": 22639,
+   "gih_wr": 0.5483457749900614
+  },
+  {
+   "card": "Swamp",
+   "gih": 248133,
+   "gih_wr": 0.5482060024261183
+  },
+  {
+   "card": "New Way Forward",
+   "gih": 7694,
+   "gih_wr": 0.5479594489212374
+  },
+  {
+   "card": "Arid Mesa",
+   "gih": 686,
+   "gih_wr": 0.5466472303206997
+  },
+  {
+   "card": "Encroaching Dragonstorm",
+   "gih": 16471,
+   "gih_wr": 0.546414911055795
+  },
+  {
+   "card": "Nature's Rhythm",
+   "gih": 1343,
+   "gih_wr": 0.5457930007446017
+  },
+  {
+   "card": "Wayspeaker Bodyguard",
+   "gih": 15376,
+   "gih_wr": 0.5457856399583767
+  },
+  {
+   "card": "Wail of War",
+   "gih": 10562,
+   "gih_wr": 0.5453512592312062
+  },
+  {
+   "card": "Blossoming Sands",
+   "gih": 42513,
+   "gih_wr": 0.5452685061040152
+  },
+  {
+   "card": "Rescue Leopard",
+   "gih": 23535,
+   "gih_wr": 0.5452305077544083
+  },
+  {
+   "card": "Overwhelming Surge",
+   "gih": 17514,
+   "gih_wr": 0.5452209660842754
+  },
+  {
+   "card": "Constrictor Sage",
+   "gih": 20364,
+   "gih_wr": 0.5445393832252996
+  },
+  {
+   "card": "Frostcliff Siege",
+   "gih": 8648,
+   "gih_wr": 0.5445189639222942
+  },
+  {
+   "card": "Underfoot Underdogs",
+   "gih": 24455,
+   "gih_wr": 0.5441423021876917
+  },
+  {
+   "card": "Undergrowth Leopard",
+   "gih": 33992,
+   "gih_wr": 0.5439515180042362
+  },
+  {
+   "card": "Veteran Ice Climber",
+   "gih": 15890,
+   "gih_wr": 0.5438640654499686
+  },
+  {
+   "card": "Snowmelt Stag",
+   "gih": 12342,
+   "gih_wr": 0.543509965969859
+  },
+  {
+   "card": "Auroral Procession",
+   "gih": 14550,
+   "gih_wr": 0.5432989690721649
+  },
+  {
+   "card": "Marsh Flats",
+   "gih": 593,
+   "gih_wr": 0.5430016863406408
+  },
+  {
+   "card": "Scoured Barrens",
+   "gih": 43406,
+   "gih_wr": 0.542620835829148
+  },
+  {
+   "card": "Unsparing Boltcaster",
+   "gih": 12674,
+   "gih_wr": 0.5419756982799432
+  },
+  {
+   "card": "Defibrillating Current",
+   "gih": 12651,
+   "gih_wr": 0.5415382183226622
+  },
+  {
+   "card": "Watcher of the Wayside",
+   "gih": 4055,
+   "gih_wr": 0.5413070283600493
+  },
+  {
+   "card": "Sandsteppe Citadel",
+   "gih": 23781,
+   "gih_wr": 0.5408939910012195
+  },
+  {
+   "card": "Ruinous Ultimatum",
+   "gih": 466,
+   "gih_wr": 0.5407725321888412
+  },
+  {
+   "card": "Host of the Hereafter",
+   "gih": 14371,
+   "gih_wr": 0.54046343330318
+  },
+  {
+   "card": "Embermouth Sentinel",
+   "gih": 28676,
+   "gih_wr": 0.5398939880039058
+  },
+  {
+   "card": "Alchemist's Assistant",
+   "gih": 14867,
+   "gih_wr": 0.5398533665164458
+  },
+  {
+   "card": "Riling Dawnbreaker",
+   "gih": 42301,
+   "gih_wr": 0.5395853525921372
+  },
+  {
+   "card": "Aegis Sculptor",
+   "gih": 12879,
+   "gih_wr": 0.5389393586458576
+  },
+  {
+   "card": "Perennation",
+   "gih": 3422,
+   "gih_wr": 0.5388661601402689
+  },
+  {
+   "card": "Abzan Monument",
+   "gih": 14042,
+   "gih_wr": 0.5386697051702036
+  },
+  {
+   "card": "Marshal of the Lost",
+   "gih": 12854,
+   "gih_wr": 0.5382760230278513
+  },
+  {
+   "card": "Twin Bolt",
+   "gih": 16783,
+   "gih_wr": 0.5382232020496931
+  },
+  {
+   "card": "Thunder of Unity",
+   "gih": 6329,
+   "gih_wr": 0.5372096697740559
+  },
+  {
+   "card": "Attuned Hunter",
+   "gih": 15895,
+   "gih_wr": 0.5353884869455804
+  },
+  {
+   "card": "Dragonfire Blade",
+   "gih": 7255,
+   "gih_wr": 0.5346657477601654
+  },
+  {
+   "card": "Tempest Hawk",
+   "gih": 10657,
+   "gih_wr": 0.5331706859341278
+  },
+  {
+   "card": "Trade Route Envoy",
+   "gih": 31094,
+   "gih_wr": 0.5330932012606934
+  },
+  {
+   "card": "Lightfoot Technique",
+   "gih": 13000,
+   "gih_wr": 0.533
+  },
+  {
+   "card": "Monastery Messenger",
+   "gih": 25072,
+   "gih_wr": 0.5329850031908104
+  },
+  {
+   "card": "Stalwart Successor",
+   "gih": 13631,
+   "gih_wr": 0.5325361308781454
+  },
+  {
+   "card": "Abzan Devotee",
+   "gih": 29224,
+   "gih_wr": 0.5313783191897071
+  },
+  {
+   "card": "Feral Deathgorger",
+   "gih": 29545,
+   "gih_wr": 0.5303435437468269
+  },
+  {
+   "card": "Nightblade Brigade",
+   "gih": 22751,
+   "gih_wr": 0.5299547272647356
+  },
+  {
+   "card": "Fire-Rim Form",
+   "gih": 8035,
+   "gih_wr": 0.5293092719352831
+  },
+  {
+   "card": "Kotis, the Fangkeeper",
+   "gih": 6118,
+   "gih_wr": 0.5281137626675384
+  },
+  {
+   "card": "Reputable Merchant",
+   "gih": 11875,
+   "gih_wr": 0.5279157894736842
+  },
+  {
+   "card": "Devoted Duelist",
+   "gih": 26011,
+   "gih_wr": 0.5276998193072162
+  },
+  {
+   "card": "Poised Practitioner",
+   "gih": 14933,
+   "gih_wr": 0.5272215897676288
+  },
+  {
+   "card": "Hardened Tactician",
+   "gih": 11761,
+   "gih_wr": 0.5268259501743049
+  },
+  {
+   "card": "Rot-Curse Rakshasa",
+   "gih": 3203,
+   "gih_wr": 0.5263815173275055
+  },
+  {
+   "card": "Seize Opportunity",
+   "gih": 12011,
+   "gih_wr": 0.5261843310298893
+  },
+  {
+   "card": "Loxodon Battle Priest",
+   "gih": 9406,
+   "gih_wr": 0.5259408887943866
+  },
+  {
+   "card": "Felothar, Dawn of the Abzan",
+   "gih": 5273,
+   "gih_wr": 0.525696946709653
+  },
+  {
+   "card": "Adorned Crocodile",
+   "gih": 9707,
+   "gih_wr": 0.5256000824147522
+  },
+  {
+   "card": "Breaching Dragonstorm",
+   "gih": 11817,
+   "gih_wr": 0.5254294660235255
+  },
+  {
+   "card": "Krumar Initiate",
+   "gih": 13433,
+   "gih_wr": 0.5252735799895779
+  },
+  {
+   "card": "Effortless Master",
+   "gih": 11147,
+   "gih_wr": 0.5252534314165246
+  },
+  {
+   "card": "Essence Anchor",
+   "gih": 6812,
+   "gih_wr": 0.5251027598355843
+  },
+  {
+   "card": "Ringing Strike Mastery",
+   "gih": 9783,
+   "gih_wr": 0.5249923336399878
+  },
+  {
+   "card": "Bone-Cairn Butcher",
+   "gih": 11514,
+   "gih_wr": 0.5245787736668404
+  },
+  {
+   "card": "Rite of Renewal",
+   "gih": 7792,
+   "gih_wr": 0.5239989733059548
+  },
+  {
+   "card": "Sandskitter Outrider",
+   "gih": 10148,
+   "gih_wr": 0.5237485218762318
+  },
+  {
+   "card": "Sidisi, Regent of the Mire",
+   "gih": 4110,
+   "gih_wr": 0.5233576642335767
+  },
+  {
+   "card": "Agent of Kotis",
+   "gih": 23236,
+   "gih_wr": 0.5232828369771045
+  },
+  {
+   "card": "Jade-Cast Sentinel",
+   "gih": 5625,
+   "gih_wr": 0.5230222222222223
+  },
+  {
+   "card": "Emergent Ultimatum",
+   "gih": 199,
+   "gih_wr": 0.5226130653266332
+  },
+  {
+   "card": "Desperate Measures",
+   "gih": 7436,
+   "gih_wr": 0.5225927918235611
+  },
+  {
+   "card": "Roamer's Routine",
+   "gih": 23307,
+   "gih_wr": 0.5225468743296006
+  },
+  {
+   "card": "Starry-Eyed Skyrider",
+   "gih": 14044,
+   "gih_wr": 0.5217174594132725
+  },
+  {
+   "card": "Smile at Death",
+   "gih": 3131,
+   "gih_wr": 0.5202810603641009
+  },
+  {
+   "card": "Jeskai Brushmaster",
+   "gih": 8074,
+   "gih_wr": 0.5200644042605895
+  },
+  {
+   "card": "Mistrise Village",
+   "gih": 2235,
+   "gih_wr": 0.5194630872483221
+  },
+  {
+   "card": "Arashin Sunshield",
+   "gih": 7124,
+   "gih_wr": 0.5189500280741156
+  },
+  {
+   "card": "Barrensteppe Siege",
+   "gih": 8202,
+   "gih_wr": 0.5184101438673494
+  },
+  {
+   "card": "Highspire Bell-Ringer",
+   "gih": 10223,
+   "gih_wr": 0.5181453585053312
+  },
+  {
+   "card": "Summit Intimidator",
+   "gih": 10230,
+   "gih_wr": 0.5179863147605083
+  },
+  {
+   "card": "Wild Ride",
+   "gih": 8740,
+   "gih_wr": 0.5161327231121281
+  },
+  {
+   "card": "Boulderborn Dragon",
+   "gih": 23449,
+   "gih_wr": 0.5157576016034799
+  },
+  {
+   "card": "Rainveil Rejuvenator",
+   "gih": 9153,
+   "gih_wr": 0.515350158418005
+  },
+  {
+   "card": "Worthy Cost",
+   "gih": 17520,
+   "gih_wr": 0.5143835616438356
+  },
+  {
+   "card": "Yathan Tombguard",
+   "gih": 11926,
+   "gih_wr": 0.511990608753983
+  },
+  {
+   "card": "Delta Bloodflies",
+   "gih": 9290,
+   "gih_wr": 0.511194833153929
+  },
+  {
+   "card": "Dragonback Lancer",
+   "gih": 16832,
+   "gih_wr": 0.5108721482889734
+  },
+  {
+   "card": "Krotiq Nestguard",
+   "gih": 7979,
+   "gih_wr": 0.5094623386389272
+  },
+  {
+   "card": "Unburied Earthcarver",
+   "gih": 12804,
+   "gih_wr": 0.5088253670727898
+  },
+  {
+   "card": "Corroding Dragonstorm",
+   "gih": 7057,
+   "gih_wr": 0.5064474989372254
+  },
+  {
+   "card": "Alesha's Legacy",
+   "gih": 7100,
+   "gih_wr": 0.5035211267605634
+  },
+  {
+   "card": "Heritage Reclamation",
+   "gih": 7451,
+   "gih_wr": 0.5018118373372702
+  },
+  {
+   "card": "Stormbeacon Blade",
+   "gih": 7618,
+   "gih_wr": 0.5011814124442111
+  },
+  {
+   "card": "Cruel Truths",
+   "gih": 6616,
+   "gih_wr": 0.5010580411124547
+  },
+  {
+   "card": "Glacierwood Siege",
+   "gih": 3331,
+   "gih_wr": 0.49714800360252176
+  },
+  {
+   "card": "Hundred-Battle Veteran",
+   "gih": 8499,
+   "gih_wr": 0.4959406989057536
+  },
+  {
+   "card": "Unrooted Ancestor",
+   "gih": 5741,
+   "gih_wr": 0.49573245079254485
+  },
+  {
+   "card": "Wingspan Stride",
+   "gih": 2402,
+   "gih_wr": 0.4954204829308909
+  },
+  {
+   "card": "Reverberating Summons",
+   "gih": 3571,
+   "gih_wr": 0.48585830299635957
+  },
+  {
+   "card": "Call the Spirit Dragons",
+   "gih": 1376,
+   "gih_wr": 0.47674418604651164
+  },
+  {
+   "card": "Eerie Ultimatum",
+   "gih": 338,
+   "gih_wr": 0.47633136094674555
+  },
+  {
+   "card": "Stillness in Motion",
+   "gih": 246,
+   "gih_wr": 0.44308943089430897
+  },
+  {
+   "card": "Mox Jasper",
+   "gih": 210,
+   "gih_wr": 0.44285714285714284
+  },
+  {
+   "card": "Dracogenesis",
+   "gih": 67,
+   "gih_wr": 0.40298507462686567
+  },
+  {
+   "card": "The Sibsig Ceremony",
+   "gih": 35,
+   "gih_wr": 0.4
+  },
+  {
+   "card": "United Battlefront",
+   "gih": 218,
+   "gih_wr": 0.37155963302752293
+  }
+ ]
+}

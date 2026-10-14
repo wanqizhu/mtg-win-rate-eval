@@ -1,0 +1,296 @@
+name_full,name_17lands,set,rarity,mana_cost,cmc,type_line,collector_number,oracle_id,predicted_gih_wr
+"Emrakul, the Exigent Doom","Emrakul, the Exigent Doom",fra,mythic,{10},10.0,Legendary Creature — Eldrazi,1,4421ab7d-6d9b-4edd-b5a0-53a8ed84da6f,0.5723
+Academic Ascent,Academic Ascent,fra,common,{1}{W},2.0,Instant,2,406e853b-713f-4c89-9efb-aca74a11183f,0.5584
+Blossom-Blessed Angel // Seed Suture,Blossom-Blessed Angel,fra,common,{3}{W} // {G/W},4.0,Creature — Angel Cleric // Sorcery,3,cd61c26b-8d3c-4730-92f2-0d94d961bafd,0.5422
+Campus Crier,Campus Crier,fra,common,{1}{W},2.0,Creature — Human Advisor,4,c1a9d60f-a469-48f9-8f1c-3ca5ae86bd64,0.5547
+Enlightened Confidant,Enlightened Confidant,fra,mythic,{1}{W},2.0,Creature — Kor Cleric,5,a139eb7f-3853-490c-a839-35d0e5aed7b5,0.6001
+Fateshaper Aspirant,Fateshaper Aspirant,fra,common,{4}{W},5.0,Creature — Rhino Cleric,6,bb3996b6-b68d-4ea1-b3dd-1600f8da2f1c,0.5436
+Flickering Hound,Flickering Hound,fra,rare,{3}{W},4.0,Creature — Dog,7,162421d2-8761-437f-bed9-578b61c96f1f,0.5547
+Generous Revival,Generous Revival,fra,uncommon,{2}{W},3.0,Sorcery,8,f8601f5f-0f7c-4689-9d15-137f1e82c49c,0.5656
+Germinate Recruits,Germinate Recruits,fra,rare,{2}{W},3.0,Instant,9,2c3a1313-a66e-4317-9732-e4ff9288b0db,0.5528
+Graft Surgeon,Graft Surgeon,fra,common,{2}{W},3.0,Creature — Human Cleric,10,fe7938ce-6289-4bf8-a8f5-85ecccbb7f86,0.5414
+Guiding Hydra,Guiding Hydra,fra,rare,{X}{W},1.0,Creature — Hydra Horror,11,24f1445c-16c9-45c0-be56-0266e6c78cdb,0.5817
+Hexhaven Battalion,Hexhaven Battalion,fra,common,{4}{W}{W},6.0,Sorcery,12,158823ed-6015-437a-82b0-8dadb1e9aab2,0.5647
+Kindred Judgment,Kindred Judgment,fra,rare,{5}{W}{W},7.0,Sorcery,13,b5dce42a-a769-4d7d-b29e-8722f79d4092,0.5947
+Loyal Tutor,Loyal Tutor,fra,rare,{W},1.0,Instant,14,7e52f151-d1f6-4fcb-9b21-1baecae27da6,0.5339
+Memory Trap,Memory Trap,fra,common,{2}{W},3.0,Enchantment,15,70616a8c-9b6c-408e-8f3e-2c348ec136d8,0.5711
+Predictive Preparations,Predictive Preparations,fra,common,{1}{W},2.0,Sorcery,16,d06a5642-861b-4b0d-9ea5-07046b7e1d37,0.5503
+Prophesied End,Prophesied End,fra,uncommon,{1}{W},2.0,Instant,17,45f4d057-5134-40a2-9590-ddba73a65582,0.5707
+Refute Destiny,Refute Destiny,fra,uncommon,{1}{W},2.0,Sorcery,18,2a18b3f0-8a78-46d8-b60f-3cd634062f1b,0.5442
+Repurposed Enforcer,Repurposed Enforcer,fra,rare,{1}{W},2.0,Creature — Human Soldier,19,b775a404-ec0a-47ff-bb9d-eae2273d945b,0.6074
+Return to the Light Realms,Return to the Light Realms,fra,mythic,{7}{W}{W},9.0,Sorcery,20,217e76ca-ea94-417c-b5b0-82e2302eeee8,0.5311
+Shatterwing Pegasus,Shatterwing Pegasus,fra,common,{2}{W},3.0,Creature — Pegasus,21,7d6641e7-4d14-4a06-b588-0c752af529bd,0.5429
+Surgical Precision,Surgical Precision,fra,common,{1}{W},2.0,Sorcery,22,0caccec3-4942-499a-9434-0c94389afcf8,0.5507
+Unflinching Hortimancer,Unflinching Hortimancer,fra,common,{1}{W},2.0,Creature — Human Cleric,23,7cd0bd74-2463-4e9d-9802-69ac4ef6d543,0.55
+Your Fate Ends Here,Your Fate Ends Here,fra,uncommon,{2}{W},3.0,Instant,24,28a362c2-0c99-48e0-b9cb-485a6c1f350b,0.5578
+Countersculpt,Countersculpt,fra,uncommon,{U}{U},2.0,Instant,25,fc3353e9-fe24-4ca7-bff8-9da767f2903a,0.5742
+Cruel Calculations,Cruel Calculations,fra,rare,{2}{U},3.0,Sorcery,26,69b96fe5-9733-4b43-bd66-075742e142d9,0.5367
+Cryotheory Adept,Cryotheory Adept,fra,common,{1}{U},2.0,Creature — Human Wizard,27,a9b3ee21-1af1-4e7e-8e48-d7c90d056f5c,0.5427
+Diviner of Victory // Unwind History,Diviner of Victory,fra,rare,{U} // {1}{U},1.0,Creature — Dwarf Wizard // Sorcery,28,e7b78acd-5288-4528-97a8-a5b43de90bf5,0.6096
+Divining Duelist,Divining Duelist,fra,common,{2}{U},3.0,Creature — Merfolk Wizard,29,d0ce03fa-2284-4217-85b2-4db6b8a88c94,0.5498
+Icy Reception,Icy Reception,fra,common,{1}{U},2.0,Instant,30,612c7807-be70-4e2f-afd2-3d3c03eddbbe,0.5665
+Infinite Coursework,Infinite Coursework,fra,common,{2}{U},3.0,Enchantment — Aura,31,666b34b5-a0c2-43e3-befd-7c3979313682,0.5605
+Jace's Machinations,Jace's Machinations,fra,rare,{2}{U},3.0,Instant,32,89bd056d-8f5b-4d0e-b80a-58a984e21100,0.5777
+Mindseeker Oculus,Mindseeker Oculus,fra,common,{2}{U},3.0,Creature — Homunculus,33,aa9547b3-e4e4-4557-9dd1-3aa9a7cb9937,0.5642
+Perfected Theory,Perfected Theory,fra,uncommon,{U},1.0,Instant,34,d824a319-fa74-42e4-9cbe-dba1576d6bad,0.5437
+Plan for All Outcomes,Plan for All Outcomes,fra,uncommon,{3}{U},4.0,Enchantment,35,7fd2cac5-cd29-4a47-9e89-9c6be39a0b67,0.5852
+Precise Redaction,Precise Redaction,fra,uncommon,{1}{U},2.0,Instant,36,c251b676-0e98-4047-bed1-d72c83aa8da0,0.5429
+Protege's Awakening,Protege's Awakening,fra,common,{3}{U},4.0,Sorcery,37,07617648-6490-4719-acec-7705671f7e01,0.5527
+Seasoned Cryomancer,Seasoned Cryomancer,fra,mythic,{1}{U}{U},3.0,Creature — Human Wizard,38,c3936db3-d3b6-4a92-9773-6f3c52dc419d,0.6018
+Semester Foreseer // Peer Review,Semester Foreseer,fra,common,{3}{U} // {2}{W/U},4.0,Creature — Human Wizard // Sorcery,39,21b8d59f-a90d-44ff-a2e3-9f439ac3e14a,0.5376
+Sphinx of False Conclusions,Sphinx of False Conclusions,fra,rare,{2}{U}{U},4.0,Creature — Sphinx Illusion,40,9f004382-c57b-4fde-af97-0c85516c3cf4,0.5782
+Sphinx's Approach,Sphinx's Approach,fra,common,{1}{U}{U},3.0,Instant,41,48b1ac27-430f-4fd9-a71b-6ad125c57fe3,0.539
+Surveillance Phantasm,Surveillance Phantasm,fra,common,{1}{U},2.0,Creature — Bird Illusion,42,b97648b7-ae98-45c9-8f0f-a52d6faf2d2d,0.5493
+"The Theorist, Jace Beleren","The Theorist, Jace Beleren",fra,mythic,{2}{U}{U},4.0,Legendary Planeswalker — Jace,43,89a6e876-0b00-4671-9652-766fd7ef9bf2,0.6161
+Theorist's Proxy,Theorist's Proxy,fra,rare,{1}{U},2.0,Creature — Illusion,44,0089acfe-da66-4dd7-b1e5-4d7407f58257,0.5768
+Undulating Witness,Undulating Witness,fra,common,{4}{U},5.0,Creature — Serpent,45,77b684b8-227b-40de-80b4-15d0e70914f4,0.5453
+Unsummon,Unsummon,fra,common,{U},1.0,Instant,46,837182db-1bf3-4a2c-bd01-1af9d9873561,0.5553
+Variable Chaser // Arc of Fortune,Variable Chaser,fra,rare,{2}{U} // {2}{U},3.0,Creature — Human Wizard // Sorcery,47,67c603cc-ad66-4a1c-8386-5901c9c01bfb,0.5427
+Apex Witchstalker,Apex Witchstalker,fra,common,{4}{B}{B},6.0,Creature — Wolf,48,253d0cf7-65d3-4f13-aaf2-aae5bb60ac46,0.565
+Bloodline Recollector // Ancestral Craving,Bloodline Recollector,fra,mythic,{1}{B} // {B},2.0,Creature — Vampire Warlock // Instant,49,c8e9a7e1-28ae-40e3-8715-1bb0aa2057c7,0.5661
+Break Under Pressure,Break Under Pressure,fra,uncommon,{2}{B},3.0,Instant,50,8dd23c50-cc84-4064-89cd-8d52fbfbd4ab,0.5652
+Cast Away Doubt,Cast Away Doubt,fra,common,{2}{B},3.0,Sorcery,51,bcf29dd7-6d5a-4139-958e-7c59434c0770,0.55
+Dark Matter Manipulator,Dark Matter Manipulator,fra,rare,{B},1.0,Creature — Human Warlock,52,6a3862f0-8dfc-4ac9-8eb9-faefcad685d4,0.5849
+Darklight Phoenix,Darklight Phoenix,fra,mythic,{3}{B},4.0,Creature — Phoenix,53,e4b51c2d-7e56-435b-89d6-85e33df65879,0.5751
+Extended Absence,Extended Absence,fra,common,{3}{B},4.0,Instant,54,973fb1e3-83d5-4763-bea8-799b426a8848,0.5774
+Extrapolate the Impossible,Extrapolate the Impossible,fra,rare,{1}{B},2.0,Sorcery,55,1f47c869-f4a9-43b0-aec0-8da4e3a3fec5,0.5335
+Last Gasp,Last Gasp,fra,common,{1}{B},2.0,Instant,56,a82c3860-4dd6-4ffd-aa8f-ab8df687db6c,0.5608
+Lich's Relic,Lich's Relic,fra,rare,{B},1.0,Artifact — Equipment,57,0540eaca-0e03-4831-955a-192ae2b87d35,0.5755
+Multiply by Zero,Multiply by Zero,fra,uncommon,{1}{B},2.0,Instant,58,d940611f-f84d-43fa-82d6-eecb4fb54164,0.5394
+Overwrite the Multiverse,Overwrite the Multiverse,fra,mythic,{4}{B}{B},6.0,Sorcery,59,d0372cde-bf30-4a1b-93bb-9ff4ac1c116d,0.6056
+Rampart Hunter,Rampart Hunter,fra,common,{3}{B},4.0,Creature — Horror,60,0867755a-9fb9-42ad-897e-6206fbfbc1f8,0.5526
+Rank Rat,Rank Rat,fra,common,{1}{B},2.0,Creature — Zombie Rat,61,64e7ef06-ba30-4b19-9d44-ca77944cc930,0.5485
+Rewrite Regrets,Rewrite Regrets,fra,uncommon,{3}{B},4.0,Sorcery,62,42565432-3a17-4274-87fc-016ab900e313,0.5636
+Rise of the Deathbringer,Rise of the Deathbringer,fra,rare,{4}{B},5.0,Instant,63,57ea9f63-8267-4303-a3dd-9ded220294dc,0.5527
+Sanctum Lurker,Sanctum Lurker,fra,rare,{2}{B},3.0,Creature — Horror,64,3ebd64d2-c178-45a2-a51f-9869754baa0f,0.5968
+Screeching Soulbreaker,Screeching Soulbreaker,fra,common,{2}{B},3.0,Creature — Siren Bard,65,47e33aa1-2f54-471c-a484-de13bcd2dceb,0.5482
+Silence the Echo,Silence the Echo,fra,common,{1}{B},2.0,Sorcery,66,43654381-c55c-4d6d-abfd-12932ceb5a4a,0.5606
+Solve for Disappointment,Solve for Disappointment,fra,common,{1}{B},2.0,Sorcery,67,3241a3f5-7ae5-4497-9dd2-a55f3370a055,0.5588
+Terminal Criticism,Terminal Criticism,fra,uncommon,{1}{B},2.0,Instant,68,213b0814-f768-4408-9cb7-6f5960bcbb7a,0.5602
+Theoretical Necromancer,Theoretical Necromancer,fra,common,{2}{B},3.0,Creature — Vampire Warlock,69,6c5ed756-b999-49f7-9a52-fb8196202f0f,0.5254
+Void Extrapolator // Omit Variables,Void Extrapolator,fra,common,{1}{B} // {U/B},2.0,Creature — Aetherborn Warlock // Sorcery,70,517f84b5-cf99-410d-96ea-910740231dac,0.5574
+Vraska's Final Mercy,Vraska's Final Mercy,fra,rare,{B}{B},2.0,Sorcery,71,7799413d-e313-4a05-ad28-f4c926c26d28,0.5804
+Ajani's Anguish,Ajani's Anguish,fra,rare,{X}{R},1.0,Enchantment,72,4a37f4a0-2869-4f81-b51b-4c3e7e0e0671,0.5548
+Artifist Acumen,Artifist Acumen,fra,common,{R},1.0,Sorcery,73,129b41cf-8327-42f0-b186-1111b42c08ab,0.5369
+Awaken the Inferno,Awaken the Inferno,fra,common,{4}{R},5.0,Sorcery,74,e729fce5-a1cf-4e95-9fd5-fccf4f704d31,0.5731
+Blazing Crescendo,Blazing Crescendo,fra,common,{1}{R},2.0,Instant,75,6344c96a-efa5-4125-8219-d333228391cf,0.5366
+Chandra's Emberling,Chandra's Emberling,fra,common,{2}{R},3.0,Creature — Gremlin Elemental,76,d3576617-7867-4c3d-aa31-d6742483465b,0.5293
+Command the Stage,Command the Stage,fra,uncommon,{2}{R},3.0,Sorcery,77,13bfc51f-d079-40ef-a4ba-47d06d3150a3,0.5243
+Craterclaw Colossus,Craterclaw Colossus,fra,mythic,{4}{R}{R}{R},7.0,Artifact Creature — Beast Construct,78,71355b51-e70e-47b0-8460-933af3567141,0.5745
+Curse-Marred Demon,Curse-Marred Demon,fra,rare,{2}{R}{R},4.0,Creature — Demon,79,f30a084c-5705-40f5-8e0d-2083d33973c7,0.5692
+Draconic Visitor,Draconic Visitor,fra,rare,{3}{R}{R},5.0,Creature — Dragon,80,6745e850-68f6-480b-a1e0-e06180dde169,0.5679
+Eardrum Rattler,Eardrum Rattler,fra,common,{1}{R},2.0,Creature — Human Bard,81,25151d18-8e73-4b0d-a8d2-e5fa291e5729,0.5372
+Essence Burn,Essence Burn,fra,uncommon,{1}{R},2.0,Instant,82,f1216f36-00fd-4d03-85c1-f4910a02d4d0,0.5438
+Face Yourself,Face Yourself,fra,rare,{5}{R}{R},7.0,Sorcery,83,3c0fe71c-bee1-41d3-aeb5-1723028eedde,0.5611
+Fulminous Forte,Fulminous Forte,fra,uncommon,{2}{R},3.0,Instant,84,2a29d028-d1a4-413f-9c01-d6842294420a,0.5668
+Hallway Heckler // Vicious Verse,Hallway Heckler,fra,common,{2}{R} // {B/R},3.0,Creature — Elemental Sorcerer // Sorcery,85,d1af8018-35b5-4b6f-93c8-1ed6bd8c92b1,0.5467
+Heartstring Puller,Heartstring Puller,fra,common,{3}{R},4.0,Creature — Elf Sorcerer,86,2cdcf65c-03d2-416f-8a3f-0322f75e8595,0.5386
+Identity Echo,Identity Echo,fra,rare,{2}{R},3.0,Enchantment,87,4dbf8c43-d7c5-4037-875e-6accd87aaf6f,0.5199
+Master of Barbs,Master of Barbs,fra,rare,{1}{R},2.0,Creature — Lizard Bard,88,e8c36337-135c-460d-a1da-cc01743dda71,0.5652
+No Admittance,No Admittance,fra,common,{1}{R},2.0,Sorcery,89,d53ae01b-87e1-48e1-9fc3-23a734ce6622,0.5722
+Pompous Battlemage // Improvised Act,Pompous Battlemage,fra,rare,{R} // {R},1.0,Creature — Goblin Sorcerer // Sorcery,90,33e3793c-098f-4897-88f3-9f9ce9081e0f,0.5691
+Pyre Rhymer // Molten Tide,Pyre Rhymer,fra,rare,{1}{R}{R} // {R},3.0,Creature — Elemental Sorcerer // Instant,91,8940f503-fc6d-4fae-be74-22c660cae1a7,0.552
+Skilled Battlecarver,Skilled Battlecarver,fra,common,{1}{R},2.0,Creature — Human Warrior,92,4fc7c7a0-bfff-4833-a0d0-a38dc29e9dfb,0.5272
+Stingcaster Mage,Stingcaster Mage,fra,mythic,{1}{R},2.0,Creature — Human Wizard,93,056b651e-e0e2-4333-9235-d1ffe8fcca29,0.5963
+Tether Technician,Tether Technician,fra,common,{4}{R},5.0,Creature — Minotaur Artificer,94,a9d0657f-2c5e-4b6f-b8ae-d657cc0f7aef,0.5641
+Violent Echoes,Violent Echoes,fra,uncommon,{2}{R}{R},4.0,Instant,95,e8ecec61-cc47-4051-a599-0e7470764488,0.5685
+Wrath of the Bloodmane,Wrath of the Bloodmane,fra,common,{2}{R},3.0,Instant,96,c1994d6a-984d-4b75-9198-1f1822eab6eb,0.5579
+Arcane Amphisbaena,Arcane Amphisbaena,fra,common,{1}{G},2.0,Creature — Snake,97,5c151e3b-fcf2-4adb-a60b-9eff0c360705,0.5743
+Bestial Incursion,Bestial Incursion,fra,common,{3}{G},4.0,Sorcery,98,bc00f29a-e9d2-4b86-bb22-33b686ac4365,0.562
+Budding Insurgent,Budding Insurgent,fra,common,{2}{G},3.0,Creature — Dryad Scout,99,723669e0-4a04-45ec-8c76-b1a369aa6892,0.5331
+Carnivorous Cultivator // Enroot,Carnivorous Cultivator,fra,rare,{1}{G} // {G},2.0,Creature — Elf Warlock // Sorcery,100,db655c5a-06f6-42bc-8180-d9ca1c1d939a,0.5853
+Compel Brutality,Compel Brutality,fra,common,{1}{G},2.0,Instant,101,3a9059ac-c595-4e71-b704-b04d2d47db70,0.5571
+Flourishing Grapple,Flourishing Grapple,fra,uncommon,{G},1.0,Instant,102,6b4f1569-2025-46a8-89ba-79859208b04e,0.5483
+Gardenize,Gardenize,fra,rare,{1}{G}{G},3.0,Enchantment,103,e74a2a4c-ca3c-49e8-9b0f-b4d1bb91fb54,0.5042
+Greenhouse Propagator,Greenhouse Propagator,fra,common,{2}{G},3.0,Creature — Cat Druid,104,b6b77cb9-49a5-4d1a-ae2d-02ae176dc1fa,0.5331
+Heartwood Crafter // Soul Tether,Heartwood Crafter,fra,uncommon,{G} // {2}{R/G},1.0,Creature — Elf Artificer // Sorcery,105,c8b3a070-408e-4a8f-8597-6476eeec0a5f,0.5578
+Hexhaven Invigorator,Hexhaven Invigorator,fra,mythic,{G}{G}{G}{G},4.0,Creature — Chimera Horror,106,12d617b1-c95b-4b1c-a586-ccfdf5898b03,0.5702
+Hungering Puppetbeast,Hungering Puppetbeast,fra,rare,{3}{G}{G},5.0,Artifact Creature — Beast Construct,107,690ae865-87bd-46b2-8e65-c53bd80c1a18,0.5833
+Hunter's Axe,Hunter's Axe,fra,uncommon,{G},1.0,Artifact — Equipment,108,d7d59fef-1401-464b-b1bb-ee5da92cde51,0.5321
+Inspired Tethermage,Inspired Tethermage,fra,common,{2}{G},3.0,Creature — Elf Warrior,109,80c2784b-f27d-4a51-9380-171eb32b961d,0.5509
+Omnipresence,Omnipresence,fra,mythic,{5}{G}{G}{G},8.0,Enchantment,110,8dad1fa8-3533-4e3c-b9b3-fcd57b20a33d,0.5332
+Puppet Crafting,Puppet Crafting,fra,rare,{1}{G},2.0,Enchantment — Aura,111,d13c111a-ebfc-48ac-b734-f203c7c29d21,0.523
+Restore with Empathy,Restore with Empathy,fra,uncommon,{2}{G},3.0,Instant,112,cb1e697f-6689-4f0b-8725-61d51432b8dd,0.5467
+Simulacrum Shaper,Simulacrum Shaper,fra,rare,{1}{G}{G},3.0,Creature — Elf Druid,113,9e45e2da-7064-4ec0-8d09-55fc7d1aeaa8,0.5802
+Something Worth Saving,Something Worth Saving,fra,common,{1}{G},2.0,Instant,114,46cf0e3e-3c3e-4eb8-a71a-4b4b87744ced,0.5477
+Sureshot Sower,Sureshot Sower,fra,common,{1}{G},2.0,Creature — Human Archer,115,5bbc9d7d-91bd-4a58-8d19-f7be650720b7,0.5628
+Tarmogoyf,Tarmogoyf,fra,mythic,{1}{G},2.0,Creature — Lhurgoyf,116,45900b2f-f6a9-4c42-9642-008f3c1cf6dd,0.5823
+Tethermage's Advantage,Tethermage's Advantage,fra,common,{G},1.0,Instant,117,b4f89885-eeb9-46c7-9820-9758b624ca24,0.5492
+Verdant Kraken,Verdant Kraken,fra,rare,{4}{G}{G}{G},7.0,Creature — Plant Kraken,118,83c61083-b357-4775-a855-5a9013cc2bdf,0.5674
+Vinelasher Adept,Vinelasher Adept,fra,common,{4}{G}{G},6.0,Creature — Rhino Soldier,119,b5918fb0-c33f-4e33-ac6d-8f94723d4296,0.5456
+Wrecking Gecko,Wrecking Gecko,fra,common,{4}{G},5.0,Artifact Creature — Lizard Construct,120,4a9e0294-c967-4e90-b776-6d3195034a23,0.5361
+Aerid Konstrari,Aerid Konstrari,fra,mythic,{1}{R}{G}{G},4.0,Legendary Creature — Elder Sphinx,121,172a8f58-c420-4497-b962-c5853f923667,0.6083
+Avatar of Burgeoning Echoes,Avatar of Burgeoning Echoes,fra,mythic,{G}{U},2.0,Creature — Avatar,122,08e8a63c-9fcc-48cf-a9af-15cbaeec943f,0.6262
+Blessed Ghoul,Blessed Ghoul,fra,common,{W/B},1.0,Creature — Zombie Cleric,123,fe99d90e-4809-4310-a3f7-ceb540511d55,0.5452
+Bloombrute,Bloombrute,fra,uncommon,{2}{G}{W},4.0,Creature — Plant Elemental,124,b7040175-7411-43a8-9b46-dba1d7c2135d,0.5704
+Charge the Sanctum,Charge the Sanctum,fra,common,{2}{R/W},3.0,Instant,125,9d835137-584c-46bd-952e-4b2812bba1a3,0.5295
+Clash of Elements,Clash of Elements,fra,uncommon,{1}{U}{R},3.0,Instant,126,78304a06-4c9a-4cdf-b67f-067d88762381,0.5462
+Craftwork Crusher,Craftwork Crusher,fra,uncommon,{3}{R}{R}{G}{G},7.0,Artifact Creature — Boar Construct,127,d25284b9-50e4-4dcb-9aaf-6f6478c4a90a,0.5763
+Denzilore Fatehold,Denzilore Fatehold,fra,mythic,{1}{W}{U}{U},4.0,Legendary Creature — Elder Sphinx,128,0f8de7f0-c61d-415d-b4db-4959374343da,0.5834
+Desperate Futurescribe,Desperate Futurescribe,fra,uncommon,{2}{W}{U},4.0,Creature — Kor Scout,129,83c12f50-e5a1-479d-afab-edb0b40412f2,0.5699
+Emergency Phytomedic // Seed Suture,Emergency Phytomedic,fra,common,{G/W} // {G/W},1.0,Creature — Dryad Cleric // Sorcery,130,7737ccdc-49f2-463e-8ffd-43ab98d11f45,0.5763
+Entrust the Spark,Entrust the Spark,fra,rare,{3}{G}{U},5.0,Sorcery,131,b796ecc8-a2e8-4ab9-8736-6825b650434d,0.5372
+Fatehold Charm,Fatehold Charm,fra,uncommon,{W}{U},2.0,Instant,132,313aee0e-4090-4589-b323-a4edbda21c68,0.5621
+Fatehold Chronologist // Peer Review,Fatehold Chronologist,fra,common,{1}{W/U} // {2}{W/U},2.0,Creature — Bird Wizard // Sorcery,133,1063822f-47d3-42e9-8a21-f62b12609fe1,0.5494
+Ferocity of the Hunt,Ferocity of the Hunt,fra,common,{1}{B/G},2.0,Enchantment — Aura,134,747a1b36-eb4f-44e6-9e5a-bb1a0259a471,0.5438
+Frostbite Pyromental,Frostbite Pyromental,fra,rare,{U}{R}{R},3.0,Creature — Elemental,135,9a104f73-597b-49e3-8088-13db31f61900,0.5756
+Grim Repriser,Grim Repriser,fra,uncommon,{B}{R},2.0,Creature — Zombie Bard,136,e853e2fb-f90d-4934-aa70-c8d3cdf12e56,0.5304
+Ingris Stingerquill,Ingris Stingerquill,fra,mythic,{B}{R}{R},3.0,Legendary Creature — Elder Sphinx,137,bda098cb-31ec-41a1-a9d7-122877cc69d2,0.5766
+Konstrari Charm,Konstrari Charm,fra,uncommon,{R}{G},2.0,Instant,138,40961b23-b153-434a-aeb9-b9c2ff613dcb,0.5656
+Konstrari Improviser // Soul Tether,Konstrari Improviser,fra,common,{1}{R/G} // {2}{R/G},2.0,Creature — Human Artificer // Sorcery,139,bad2e3b2-ad47-4e17-b35e-0fcc13e82937,0.5417
+Kwia Vigorbloom,Kwia Vigorbloom,fra,mythic,{3}{G}{W}{W},6.0,Legendary Creature — Elder Sphinx,140,07a28621-e617-46b0-af3e-2efb03b5056a,0.5966
+Mind Meanderer,Mind Meanderer,fra,uncommon,{3}{G}{U}{U},6.0,Creature — Bird Fish Illusion,141,18d1765b-3b60-4dda-93a6-d02a4e53f185,0.5835
+Null Summoner,Null Summoner,fra,rare,{2}{U}{B},4.0,Creature — Human Warlock,142,56c412be-daab-4461-931f-1e2ea8ecd75d,0.5985
+Paradox Shaper // Omit Variables,Paradox Shaper,fra,uncommon,{1}{U/B} // {U/B},2.0,Creature — Octopus Wizard // Sorcery,143,511951ed-fbff-4e44-9429-27f237496672,0.5705
+Primal Witchstalker,Primal Witchstalker,fra,uncommon,{1}{B}{G},3.0,Creature — Wolf,144,c21fafaf-4510-4752-a501-606ae68e6699,0.5621
+Proctor of Potential,Proctor of Potential,fra,rare,{W}{U},2.0,Creature — Human Cleric,145,c612ba0a-5134-45fa-a762-f4621bda4f83,0.5839
+Prudent Fateseer // Peer Review,Prudent Fateseer,fra,uncommon,{1}{W/U}{W/U} // {2}{W/U},3.0,Creature — Dwarf Wizard // Sorcery,146,63f67baa-3f37-41b8-9ee6-3c37f828917d,0.5784
+Recursive Recruitment,Recursive Recruitment,fra,uncommon,{2}{U}{B},4.0,Sorcery,147,b73e35b0-b8c9-471a-bdff-f7dc8f453d7a,0.5831
+Solarium Sentry,Solarium Sentry,fra,rare,{G}{W},2.0,Creature — Cat Soldier,148,afddba56-f9a0-4917-8167-c9fd17ca9954,0.5781
+Solitary Cell,Solitary Cell,fra,rare,{R}{W},2.0,Artifact,149,66a22b35-3dc0-4a74-8474-e73293403de6,0.5989
+Stingerquill Charm,Stingerquill Charm,fra,uncommon,{B}{R},2.0,Instant,150,987aadac-d6a6-4e50-9468-9e8e53cc5529,0.5464
+Stingerquill Voxmancer // Vicious Verse,Stingerquill Voxmancer,fra,uncommon,{B/R} // {B/R},1.0,Creature — Goblin Sorcerer // Sorcery,151,e8f755f7-ec93-4d2e-bffc-c719984fa13d,0.5768
+Stinging Vitriol,Stinging Vitriol,fra,rare,{B}{R},2.0,Sorcery,152,624cf822-0b4e-4f0c-9893-a53cb094f616,0.565
+Tam's Resistance,Tam's Resistance,fra,common,{1}{G/U},2.0,Sorcery,153,7500b7dc-588d-46bd-acc5-885dcd464668,0.5767
+Tenured Tethermage,Tenured Tethermage,fra,rare,{1}{R}{G},3.0,Creature — Human Artificer,154,571cb06d-55b5-46e4-9678-1f74aca73068,0.5501
+Theorix Charm,Theorix Charm,fra,uncommon,{U}{B},2.0,Instant,155,cf527bbd-e898-4aa9-909d-daec2f4b62ad,0.5664
+Theorix Metamage // Omit Variables,Theorix Metamage,fra,common,{2}{U/B} // {U/B},3.0,Creature — Shade Wizard // Sorcery,156,92a0aa44-0ef7-4e6f-8288-7c33067c5fd1,0.546
+Twinned Vision,Twinned Vision,fra,common,{1}{U/R},2.0,Instant,157,fa1cc78f-26bc-4d5d-973b-7cb7d7490973,0.5748
+Twisted Fates,Twisted Fates,fra,uncommon,{2}{W}{W}{B},5.0,Sorcery,158,3ce30a19-e716-478f-be89-e2d95753cfed,0.5934
+Uldaros Theorix,Uldaros Theorix,fra,mythic,{3}{U}{B}{B},6.0,Legendary Creature — Elder Sphinx,159,020d561b-2e5d-439e-9e6a-318d23e73542,0.6073
+Vigorbloom Charm,Vigorbloom Charm,fra,uncommon,{G}{W},2.0,Instant,160,826f17d1-3806-4579-8b1b-2082b7b03d69,0.5474
+Vigorbloom Vanguard // Seed Suture,Vigorbloom Vanguard,fra,uncommon,{1}{G/W} // {G/W},2.0,Creature — Troll Druid // Sorcery,161,bd416426-d037-45e3-9647-816bf982cbea,0.5637
+Vindictive Triumph,Vindictive Triumph,fra,rare,{W}{B}{B},3.0,Instant,162,d6b478d1-5015-49ba-b1aa-cbc2b08107a6,0.5842
+Warrior's Blades,Warrior's Blades,fra,uncommon,{2}{R}{W},4.0,Artifact — Equipment,163,f47419a5-b975-4934-a987-ea064a0c7c1a,0.5711
+Whiplash Wordsmith // Vicious Verse,Whiplash Wordsmith,fra,common,{3}{B/R} // {B/R},4.0,Creature — Vampire Sorcerer // Sorcery,164,e1ffb884-a89e-4e2a-9beb-8bd5838b6a94,0.5385
+Woodwork Prodigy // Soul Tether,Woodwork Prodigy,fra,uncommon,{2}{R/G} // {2}{R/G},3.0,Creature — Cat Druid // Sorcery,165,f3ed157f-a09b-405f-aec4-0e7a81d80fc8,0.5444
+Afterthought Sentry,Afterthought Sentry,fra,common,{2},2.0,Artifact Creature — Gargoyle,166,f0c533a2-751a-4c5a-8cec-b83da3c8c62f,0.5203
+Archive Arbiter,Archive Arbiter,fra,uncommon,{6},6.0,Artifact Creature — Sphinx,167,36cb3d18-019c-464d-b591-8c87e1b81f31,0.5298
+"Codie, Ravenous Codex","Codie, Ravenous Codex",fra,rare,{3},3.0,Legendary Artifact Creature — Book Construct,168,a17e414c-8de0-47fd-bcbc-540c7fec7642,0.5266
+The Echoverse Fulcrum,The Echoverse Fulcrum,fra,mythic,{2},2.0,Legendary Artifact,169,c04197ad-d2f3-499f-b863-bed0c869519c,0.5891
+Eye of Jace,Eye of Jace,fra,uncommon,{1},1.0,Artifact,170,c8f802ad-4621-4f71-b52d-fbc55853dc88,0.565
+Keeper of the Quiet Hour,Keeper of the Quiet Hour,fra,common,{3},3.0,Artifact Creature — Chimera,171,ecdfee75-15fd-41ea-89d4-4bfc1fa4d032,0.5467
+Living Library,Living Library,fra,common,{2},2.0,Artifact Creature — Book Illusion,172,81f022a7-fd19-4340-b8a0-6b11ab3e9d91,0.5166
+Medic's Kitesail,Medic's Kitesail,fra,common,{2},2.0,Artifact — Equipment,173,eacfe895-5106-437c-b8c1-2ff03c107744,0.5154
+Murmuring Volume,Murmuring Volume,fra,common,{3},3.0,Artifact — Book,174,4baa7847-dfcc-4aa3-aa64-2deeaa3f013b,0.5438
+Dedicated Commons,Dedicated Commons,fra,common,,0.0,Land,175,d4e0749a-e179-4c19-8536-bf8f1a198549,0.5579
+Deserted Beach,Deserted Beach,fra,rare,,0.0,Land,176,f0ec8681-da50-466b-8cdd-1dc710deccd9,0.5698
+Fatehold Annex,Fatehold Annex,fra,common,,0.0,Land,177,d35876a3-e891-43d3-a50c-69e8469497e0,0.5579
+Formidable Commons,Formidable Commons,fra,common,,0.0,Land,178,3e51c060-1e86-4a0e-8fee-8b7273161468,0.5579
+Hall of Echoes,Hall of Echoes,fra,rare,,0.0,Land,179,dc0a51d4-5b7e-4987-b1fe-349fd118a625,0.5533
+Haunted Ridge,Haunted Ridge,fra,rare,,0.0,Land,180,e2a37967-4212-4553-9f77-bcb613405807,0.5698
+Hexhaven Dueling Arena,Hexhaven Dueling Arena,fra,uncommon,,0.0,Land,181,2cc075da-f79b-4050-84eb-2c1b9a30260c,0.5337
+Innovative Commons,Innovative Commons,fra,common,,0.0,Land,182,6812e4d3-0034-4fc8-9ee9-520f76a0ea94,0.5579
+Konstrari Annex,Konstrari Annex,fra,common,,0.0,Land,183,31ea4f3f-392a-4319-a95b-eb28790a80e6,0.5579
+Meticulous Commons,Meticulous Commons,fra,common,,0.0,Land,184,7fdd471f-ec95-4aa7-8f8a-ad8946de5ab4,0.5579
+Overgrown Farmland,Overgrown Farmland,fra,rare,,0.0,Land,185,709d2f10-1585-48c3-9058-ddd5f62f0452,0.5698
+Rockfall Vale,Rockfall Vale,fra,rare,,0.0,Land,186,185c70c1-8403-4ae5-b45d-3679d4ee092a,0.5698
+Roiling Canopy,Roiling Canopy,fra,rare,,0.0,Land,187,c6e87760-4cd0-4281-82d4-7a377ea960ad,0.565
+Room of Refuge,Room of Refuge,fra,common,,0.0,Land,188,27d5b2eb-94fe-45fb-806c-354044de7ba5,0.5562
+Shipwreck Marsh,Shipwreck Marsh,fra,rare,,0.0,Land,189,5f42b67f-87fd-4f98-a0e8-0c8313f4bbc8,0.5698
+Stingerquill Annex,Stingerquill Annex,fra,common,,0.0,Land,190,26e20ae5-4059-4d63-9db5-6e12421d1aba,0.5579
+Theorist's Sanctum,Theorist's Sanctum,fra,rare,,0.0,Land — Island,191,37513bd8-7303-4ac6-a7a7-224184faf758,0.5543
+Theorix Annex,Theorix Annex,fra,common,,0.0,Land,192,00ad5200-5179-4d1b-8bb3-a09e1b31be58,0.5579
+Transformative Commons,Transformative Commons,fra,common,,0.0,Land,193,8ec56e2a-380f-4de7-9fb7-52de803008fc,0.5579
+Vigorbloom Annex,Vigorbloom Annex,fra,common,,0.0,Land,194,fcb35d42-bcd2-427c-9640-ff3602b79912,0.5579
+Ajani Resolute,Ajani Resolute,fra,mythic,{1}{W},2.0,Legendary Planeswalker — Ajani,195,0d60c095-4c6c-4618-8ef3-508f3d454efa,0.5857
+"Danitha, Sword of Hope","Danitha, Sword of Hope",fra,uncommon,{2}{W},3.0,Legendary Creature — Human Knight,196,f7b754d3-9863-420d-895d-00e70b8b078a,0.534
+Ghalta the Immovable,Ghalta the Immovable,fra,uncommon,{8}{W},9.0,Legendary Creature — Elder Dinosaur,197,0d496c6e-8f7b-420f-9197-dacd2feb528f,0.5203
+Gideon's Memorial,Gideon's Memorial,fra,rare,{1}{W},2.0,Legendary Artifact,198,c8f08704-7330-4fa9-b456-2e96aa252a2c,0.5816
+Koth of the Homestead,Koth of the Homestead,fra,uncommon,{2}{W},3.0,Legendary Creature — Human Citizen,199,567aeb60-a441-41b1-98f4-54510d299317,0.5625
+Liliana the Faultless,Liliana the Faultless,fra,rare,{W},1.0,Legendary Creature — Human Cleric,200,22c2e66d-a2a1-46db-a70a-dff5ad5d6c14,0.5881
+"Lyra, Archangel of Dawn","Lyra, Archangel of Dawn",fra,rare,{2}{W},3.0,Legendary Creature — Angel Knight,201,0fca3328-484f-4050-925e-91840710b5d6,0.5592
+"Rescue Girl, First Responder","Rescue Girl, First Responder",fra,uncommon,{2}{W},3.0,Legendary Creature — Human Cleric,202,df6fc0b4-333b-4f6c-804c-ba6c8e29c88e,0.5284
+"Saheeli, Consul of Oversight","Saheeli, Consul of Oversight",fra,uncommon,{3}{W}{W},5.0,Legendary Creature — Human Advisor,203,dfa95c0e-393d-4b22-9de3-45a7efc0ba14,0.5333
+"Teyo, Lightshield Expert","Teyo, Lightshield Expert",fra,uncommon,{1}{W},2.0,Legendary Creature — Human Cleric,204,77a9fac6-3c26-4456-9e0b-f5839a3dcae2,0.5485
+"Thalia, the Survivor","Thalia, the Survivor",fra,uncommon,{3}{W},4.0,Legendary Creature — Human Soldier,205,55ef129e-698e-424f-be3c-3fbba6c2cc3e,0.5362
+"Tomik, Orzhov Lawmage","Tomik, Orzhov Lawmage",fra,uncommon,{1}{W},2.0,Legendary Creature — Human Advisor,206,7a501f7e-eec8-45f7-9ac3-483fd8f5ca5e,0.5606
+Way of the Healer,Way of the Healer,fra,uncommon,{3}{W},4.0,Legendary Enchantment,207,cb27dc83-85ee-4f54-b032-41cd1806d3ac,0.5358
+Way of the Mentor,Way of the Mentor,fra,uncommon,{2}{W},3.0,Legendary Enchantment,208,ce924285-f4c5-44e6-909b-f5f7d302ebaf,0.5437
+"Yoshimaru, Beloved Companion","Yoshimaru, Beloved Companion",fra,uncommon,{2}{W},3.0,Legendary Creature — Dog,209,c00a0be5-d9a9-4263-a87e-7bf2d128ab3a,0.5314
+"Yuriko, Blade of the Mighty","Yuriko, Blade of the Mighty",fra,uncommon,{3}{W},4.0,Legendary Creature — Human Samurai,210,f89b0143-4b19-4ab1-a96b-356b21e435ef,0.5462
+"Arni, Humble Scribe","Arni, Humble Scribe",fra,uncommon,{2}{U},3.0,Legendary Creature — Human Wizard,211,a680d1ab-99f2-43d0-b289-5fdba4083d03,0.57
+"Chandra, Chill of Compliance","Chandra, Chill of Compliance",fra,mythic,{1}{U}{U},3.0,Legendary Planeswalker — Chandra,212,c3dfa1e2-6785-49a0-a194-fb842a8eb63c,0.5836
+"Fblthp, Impossibly Lost","Fblthp, Impossibly Lost",fra,uncommon,{1}{U},2.0,Legendary Creature — Homunculus,213,17e7212e-69d8-4014-af98-447baed2cae7,0.5593
+Geist of Saint Thalia,Geist of Saint Thalia,fra,uncommon,{1}{U},2.0,Legendary Creature — Spirit Cleric,214,ef32a4a9-14e2-4738-b4c2-53ce5e1d2a53,0.5434
+"Hapatra, the Desert Frost","Hapatra, the Desert Frost",fra,uncommon,{3}{U},4.0,Legendary Creature — Human Wizard,215,ac0f161a-e5ec-4a95-9f37-305bdf1ac900,0.5598
+"Jace, Reality Sculptor","Jace, Reality Sculptor",fra,rare,{3}{U}{U},5.0,Legendary Planeswalker — Jace,216,bf0e9e00-fba5-448a-9052-ae730aea4bf8,0.5766
+"Lyra, Tolarian Archangel","Lyra, Tolarian Archangel",fra,rare,{1}{U}{U},3.0,Legendary Creature — Angel Wizard,217,d9060fff-0b65-4b3d-930d-6e36315b802c,0.5837
+"Proft, Consulting Detective","Proft, Consulting Detective",fra,uncommon,{1}{U},2.0,Legendary Creature — Human Detective,218,45473bdb-b96f-4213-a46d-b2dbdf6b5e56,0.5761
+"Ruric Thar, Biomagus","Ruric Thar, Biomagus",fra,uncommon,{4}{U}{U},6.0,Legendary Creature — Ogre Crab Wizard,219,873fa095-5662-407a-bd24-9a1c4712a428,0.548
+"Samut, Tyrant of Naktamun","Samut, Tyrant of Naktamun",fra,rare,{1}{U},2.0,Legendary Creature — Human Wizard,220,a275f7ac-7dae-4422-875a-f34f24b6f28a,0.5503
+"Tetsuko Umezawa, Fugitive","Tetsuko Umezawa, Fugitive",fra,uncommon,{1}{U},2.0,Legendary Creature — Human Rogue,221,ceeeacbc-01b0-4421-aaca-2ce6cdbe45d7,0.5463
+"Traxos, Academy Guardian","Traxos, Academy Guardian",fra,uncommon,{3}{U},4.0,Legendary Artifact Creature — Dragon Construct,222,7b9a574f-6d56-421b-8fbd-94da1e6e3ce1,0.5421
+Way of the Cryomancer,Way of the Cryomancer,fra,uncommon,{2}{U},3.0,Legendary Enchantment,223,7d32c63d-aa9e-4f5d-a3e6-51377a786009,0.5334
+Way of the Mind Sculptor,Way of the Mind Sculptor,fra,uncommon,{4}{U},5.0,Legendary Enchantment,224,94be2e86-ba0e-4b8d-9b9c-114adacb26db,0.5404
+"Yargle, Goliath of Otaria","Yargle, Goliath of Otaria",fra,uncommon,{4}{U},5.0,Legendary Creature — Frog Spirit,225,014d0bcd-b80f-4c43-8f00-f4c31e8f3370,0.5264
+"Yuriko, Hope from the Shadows","Yuriko, Hope from the Shadows",fra,uncommon,{U},1.0,Legendary Creature — Human Ninja,226,983f4fde-ab04-44f0-a294-c3b472de0b19,0.5746
+"Danitha, Spear of Agony","Danitha, Spear of Agony",fra,uncommon,{2}{B},3.0,Legendary Creature — Human Knight,227,4b5c7f11-75f2-4bad-86cd-f0232861f569,0.5243
+"Gallia, Tragic Host","Gallia, Tragic Host",fra,uncommon,{1}{B},2.0,Legendary Creature — Zombie Satyr,228,58285b70-0d13-4723-b5a4-91fb6f9ccf03,0.5375
+"Garruk, Veiled Butcher","Garruk, Veiled Butcher",fra,mythic,{3}{B}{B},5.0,Legendary Planeswalker — Garruk,229,4a6972fe-348a-4a19-a1d0-bdf8f1f9c792,0.6146
+Gideon the Oathless,Gideon the Oathless,fra,rare,{2}{B},3.0,Legendary Creature — Human Mercenary,230,7afa530f-ea51-4bee-af3b-59b83ea5cb25,0.5741
+Liliana the Repentant,Liliana the Repentant,fra,rare,{1}{B},2.0,Legendary Creature — Human Warlock,231,5eb4403f-f199-4f75-a7c6-e76783f9b07d,0.5671
+"Loot, the Anomaly","Loot, the Anomaly",fra,uncommon,{2}{B},3.0,Legendary Creature — Beast Horror,232,e0142e7d-7b0b-4290-a56c-5fa950fdccf8,0.5266
+"Mabel, Bitter Recluse","Mabel, Bitter Recluse",fra,uncommon,{B},1.0,Legendary Creature — Mouse Warlock,233,36924990-8e3a-434e-bcd1-f03603cb350d,0.5807
+"Massacre Girl, Most Wanted","Massacre Girl, Most Wanted",fra,uncommon,{4}{B},5.0,Legendary Creature — Human Assassin,234,81f35914-73bf-429f-ba20-32e23ac30159,0.5658
+"Proft, Sinister Mastermind","Proft, Sinister Mastermind",fra,uncommon,{2}{B},3.0,Legendary Creature — Human Rogue,235,a350856c-87f2-4605-999f-4e26aa362a55,0.5522
+"Teyo, Diamondblade Mage","Teyo, Diamondblade Mage",fra,uncommon,{3}{B},4.0,Legendary Creature — Human Warlock,236,a3bfbe1a-7831-45bd-9e42-790c28f6054c,0.5298
+"Tinybones, Pocket Nuisance","Tinybones, Pocket Nuisance",fra,uncommon,{2}{B},3.0,Legendary Creature — Skeleton Rogue,237,97dcf9fb-3f2f-4aa6-959a-e3c4889c1673,0.5527
+Way of the Deathbringer,Way of the Deathbringer,fra,uncommon,{2}{B},3.0,Legendary Enchantment,238,54775625-bf44-4035-969e-7e70578c8b98,0.541
+Way of the Necromancer,Way of the Necromancer,fra,uncommon,{1}{B},2.0,Legendary Enchantment,239,f3087daa-d2ff-4227-abff-3398da6297af,0.5344
+"Winter, Tormented Loner","Winter, Tormented Loner",fra,uncommon,{2}{B},3.0,Legendary Creature — Human Warlock,240,84eaac2e-74ce-4a16-9faa-409df7c58eb3,0.5723
+"Yargle, Glutton of Urborg","Yargle, Glutton of Urborg",fra,uncommon,{4}{B},5.0,Legendary Creature — Frog Spirit,241,ed66cd31-958f-4b28-82a3-e04acc819afc,0.5354
+Ajani Unrelenting,Ajani Unrelenting,fra,mythic,{4}{R}{R},6.0,Legendary Planeswalker — Ajani,242,71620e92-45a4-49cb-94d5-348013ecf886,0.5896
+"Arni, Renowned Champion","Arni, Renowned Champion",fra,uncommon,{3}{R},4.0,Legendary Creature — Human Berserker,243,1a929c4f-ae1f-44d9-a0a7-2ca2dc928dee,0.5219
+"Chandra, Torch of Defiance","Chandra, Torch of Defiance",fra,mythic,{2}{R}{R},4.0,Legendary Planeswalker — Chandra,244,12cc800c-c7be-4811-8207-fd01a99cc892,0.5918
+"Gallia, the Merrymaker","Gallia, the Merrymaker",fra,uncommon,{1}{R},2.0,Legendary Creature — Satyr,245,87f39199-3e4b-44fa-8406-62019eb43c10,0.5169
+"Jiang Yanggu, Alone","Jiang Yanggu, Alone",fra,uncommon,{4}{R},5.0,Legendary Creature — Human Berserker,246,fa8b3557-b35a-4a68-ab85-cf09683f3bc5,0.5389
+Kiora of Fire and Ashes,Kiora of Fire and Ashes,fra,uncommon,{4}{R}{R},6.0,Legendary Creature — Merfolk Noble,247,02b41d0e-82e7-4307-8cc4-8175ff78ea1f,0.555
+"Koth, the Geomancer","Koth, the Geomancer",fra,uncommon,{2}{R},3.0,Legendary Creature — Human Warrior,248,3b17da84-ae4d-4fc1-a327-85e54e6156c6,0.5479
+"Marwyn, the Clearcutter","Marwyn, the Clearcutter",fra,uncommon,{R},1.0,Legendary Creature — Elf Warrior,249,aff4e43d-cafa-47de-8e39-011f9254a26a,0.5445
+"Pia, Determined Rebuilder","Pia, Determined Rebuilder",fra,uncommon,{2}{R},3.0,Legendary Creature — Human Artificer,250,a49c0c64-ea87-44f4-9acf-e7181962aeb2,0.5569
+"Samut, Hazoret's Champion","Samut, Hazoret's Champion",fra,rare,{1}{R},2.0,Legendary Creature — Human Warrior Cleric,251,add02a36-8811-438b-a8e1-f5c8a8146b4e,0.5321
+"Tetsuko Umezawa, Pursuer","Tetsuko Umezawa, Pursuer",fra,uncommon,{3}{R},4.0,Legendary Creature — Human Mercenary,252,708d4567-a5a3-437f-bae4-ae10f1537aa9,0.5425
+"Tomik, Izzet Sparkmage","Tomik, Izzet Sparkmage",fra,uncommon,{1}{R},2.0,Legendary Creature — Human Wizard,253,16604fee-cd8d-41e4-8269-3c7ff756613d,0.5416
+Way of the Pyromancer,Way of the Pyromancer,fra,uncommon,{1}{R},2.0,Legendary Enchantment,254,68d3f547-674a-4d8a-b02f-01bc2f161916,0.5259
+Way of the Warlord,Way of the Warlord,fra,uncommon,{2}{R},3.0,Legendary Enchantment,255,10721d62-dc68-43b4-bfa2-dcb8cf8ea980,0.567
+"Winter, Team Player","Winter, Team Player",fra,uncommon,{4}{R},5.0,Legendary Creature — Human Warrior,256,254f133a-eee5-48b9-b19f-110555e49300,0.5248
+"Edgar, Moonlit Sovereign","Edgar, Moonlit Sovereign",fra,uncommon,{3}{G}{G},5.0,Legendary Creature — Werewolf Noble,257,1917bda6-c0e1-4c80-8009-74c28cf6b8e9,0.5259
+"Fblthp, Knows the Way","Fblthp, Knows the Way",fra,uncommon,{X}{G}{G},2.0,Legendary Creature — Homunculus Scout,258,48b891b6-3175-4864-bb98-af131098c557,0.5707
+"Garruk, Curse Breaker","Garruk, Curse Breaker",fra,mythic,{3}{G}{G},5.0,Legendary Planeswalker — Garruk,259,184d4672-05a9-4182-8b3f-3561fb33ed62,0.6367
+Ghalta the Unstoppable,Ghalta the Unstoppable,fra,uncommon,{8}{G},9.0,Legendary Creature — Elder Dinosaur,260,8e5ea773-a60b-4502-9db5-ce93fa61cc89,0.5288
+"Jiang Yanggu, Never Alone","Jiang Yanggu, Never Alone",fra,uncommon,{3}{G},4.0,Legendary Creature — Human Druid,261,4ba661d7-1cb8-4fec-bfaa-5f2797235fcf,0.556
+"Loot, the Nexus","Loot, the Nexus",fra,uncommon,{2}{G},3.0,Legendary Creature — Beast Noble,262,a99ce9db-9b7d-45a0-bee7-0875fc62ca48,0.5297
+"Marwyn, the Preserver","Marwyn, the Preserver",fra,uncommon,{1}{G},2.0,Legendary Creature — Elf Druid,263,eb03f6c1-c94f-4f09-b2e9-a55ce5533653,0.5343
+"Pia, Aether Ascetic","Pia, Aether Ascetic",fra,uncommon,{2}{G},3.0,Legendary Creature — Human Druid,264,6519dc16-4960-4220-aaa8-7e4279743714,0.5454
+"Ruric Thar, Magecrusher","Ruric Thar, Magecrusher",fra,uncommon,{5}{G}{G},7.0,Legendary Creature — Ogre Warrior,265,453b2b3c-7df5-4515-9565-82f603cf451b,0.545
+"Titanbones, Towering Heart","Titanbones, Towering Heart",fra,uncommon,{3}{G},4.0,Legendary Creature — Skeleton Druid,266,510bccb1-61cd-49f1-a54a-80352653d1e3,0.5245
+Way of the Paradox,Way of the Paradox,fra,uncommon,{2}{G},3.0,Legendary Enchantment,267,76771cd1-6b74-49bb-9421-8845fe344567,0.5452
+Way of the Wildspeaker,Way of the Wildspeaker,fra,uncommon,{4}{G},5.0,Legendary Enchantment,268,501580b9-692c-4804-be34-012a25ba8adf,0.5558
+"Yoshimaru, Scrappy Stray","Yoshimaru, Scrappy Stray",fra,uncommon,{1}{G},2.0,Legendary Creature — Dog,269,c87da757-3daa-4874-a1e4-be0aa2adcb28,0.5958
+"Edgar, Ancient Bloodlord","Edgar, Ancient Bloodlord",fra,uncommon,{W}{B},2.0,Legendary Creature — Vampire Noble,270,cab2bc93-f38b-4301-ac42-05765615586b,0.5515
+"Hapatra, the Desert Fang","Hapatra, the Desert Fang",fra,uncommon,{2}{B}{B}{G},5.0,Legendary Creature — Human Cleric,271,6894345f-52a6-46e4-b278-0783087daee1,0.568
+"Karn, Gilded Guardian","Karn, Gilded Guardian",fra,rare,{2/W}{2/U}{2/B}{2/R}{2/G},10.0,Legendary Artifact Creature — Golem,272,20b90a18-ff62-4995-b0d6-fbef44dca357,0.5385
+Kiora of Salt and Sand,Kiora of Salt and Sand,fra,uncommon,{1}{G}{U},3.0,Legendary Creature — Merfolk Noble,273,e70bb7f8-8098-49c5-929c-68f63cd821c5,0.5354
+"Mabel, Valley Hero","Mabel, Valley Hero",fra,uncommon,{1}{R}{W},3.0,Legendary Creature — Mouse Soldier,274,ab56f7cf-9538-45b5-a657-1e2ebef1e92b,0.5264
+"Saheeli, Jewel of Avishkar","Saheeli, Jewel of Avishkar",fra,uncommon,{2}{U}{R},4.0,Legendary Creature — Human Artificer,275,83705258-1f42-41db-a32e-de99ffd759eb,0.5331
+"Tam, the Possibility","Tam, the Possibility",fra,rare,{1}{G}{U},3.0,Legendary Creature — Gorgon Wizard,276,c92c7744-0c92-4a36-9ada-4ffca812009e,0.5841
+"Vraska, Soul of Stone","Vraska, Soul of Stone",fra,rare,{U}{R}{W},3.0,Legendary Creature — Gorgon Wizard,277,cad63b31-667b-4518-bc49-be4ffb82bc63,0.5689
+"Vraska, the Cutting Glare","Vraska, the Cutting Glare",fra,rare,{B}{B}{G},3.0,Legendary Creature — Gorgon Assassin,278,580de511-863c-4b7a-9d2e-fcdf6e12d54b,0.6025
+"Karn, Argent Defender","Karn, Argent Defender",fra,rare,{2},2.0,Legendary Artifact Creature — Golem,279,aecc621f-67da-41a7-9d47-05ded302ae35,0.5117
+"Traxos, Scourge Eternal","Traxos, Scourge Eternal",fra,uncommon,{4},4.0,Legendary Artifact Creature — Dragon Construct,280,acf4abde-4034-4fcf-b531-78c935aecd8c,0.5332
+Plains,Plains,fra,common,,0.0,Basic Land — Plains,281,bc71ebf6-2056-41f7-be35-b2e5c34afa99,0.5541
+Island,Island,fra,common,,0.0,Basic Land — Island,283,b2c6aa39-2d2a-459c-a555-fb48ba993373,0.5503
+Swamp,Swamp,fra,common,,0.0,Basic Land — Swamp,285,56719f6a-1a6c-4c0a-8d21-18f7d7350b68,0.5499
+Mountain,Mountain,fra,common,,0.0,Basic Land — Mountain,287,a3fb7228-e76b-4e96-a40e-20b5fed75685,0.5505
+Forest,Forest,fra,common,,0.0,Basic Land — Forest,289,b34bb2dc-c1af-4d77-b0b3-a0fb342a5fc6,0.5502
+Eye of Ugin,Eye of Ugin,spg,mythic,,0.0,Legendary Land,159,10d13ff6-c4d0-4753-8939-a8a90f0e92bb,0.526
+Austere Command,Austere Command,spg,mythic,{4}{W}{W},6.0,Sorcery,160,09cc8709-fe10-472a-b05c-e89f3523018d,0.61
+Flesh Duplicate,Flesh Duplicate,spg,mythic,{U}{U},2.0,Creature — Shapeshifter Rebel,161,1869eb1e-7786-4fea-8a92-2bd839de47df,0.5886
+Consign to Memory,Consign to Memory,spg,mythic,{U},1.0,Instant,162,16c39265-72d9-4c86-a961-8dd38ff9adcd,0.5551
+Sublime Epiphany,Sublime Epiphany,spg,mythic,{4}{U}{U},6.0,Instant,163,56148ae7-a9df-4771-8d53-d9ffb815c884,0.604
+Consider,Consider,spg,mythic,{U},1.0,Instant,164,4c9bcba6-87b5-4fb3-97ee-6fe5b739337d,0.5845
+Necrodominance,Necrodominance,spg,mythic,{B}{B}{B},3.0,Legendary Enchantment,165,a10b3e35-8cc4-450e-9e30-0fce8df0fea4,0.5309
+Mind Twist,Mind Twist,spg,mythic,{X}{B},1.0,Sorcery,166,78f9c223-9982-4282-a496-a6f892f0a5bf,0.5551
+Splinter Twin,Splinter Twin,spg,mythic,{2}{R}{R},4.0,Enchantment — Aura,167,2df3187b-4b91-4de9-9b26-d48a30700cec,0.5418
+Root Maze,Root Maze,spg,mythic,{G},1.0,Enchantment,168,2f4abc5e-5aad-455e-b1ec-137d7ac4a10c,0.5045

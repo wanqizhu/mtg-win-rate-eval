@@ -1,0 +1,1738 @@
+{
+ "set": "SOS",
+ "file": "/opt/mtg-data/17lands/sets/SOS/game_data_public.SOS.PremierDraft.csv.gz",
+ "games": 582914,
+ "wins": 322835,
+ "cards": [
+  {
+   "card": "Together as One",
+   "gih": 18523,
+   "gih_wr": 0.6554553797980889
+  },
+  {
+   "card": "Antiquities on the Loose",
+   "gih": 16458,
+   "gih_wr": 0.6554259326771175
+  },
+  {
+   "card": "Practiced Offense",
+   "gih": 16375,
+   "gih_wr": 0.6514198473282443
+  },
+  {
+   "card": "Emeritus of Ideation",
+   "gih": 7247,
+   "gih_wr": 0.6513039878570442
+  },
+  {
+   "card": "Moment of Reckoning",
+   "gih": 13744,
+   "gih_wr": 0.6364959254947613
+  },
+  {
+   "card": "Ark of Hunger",
+   "gih": 18329,
+   "gih_wr": 0.6351683125102296
+  },
+  {
+   "card": "Crackle with Power",
+   "gih": 2210,
+   "gih_wr": 0.6307692307692307
+  },
+  {
+   "card": "Stirring Hopesinger",
+   "gih": 15136,
+   "gih_wr": 0.6302193446088795
+  },
+  {
+   "card": "Winds of Abandon",
+   "gih": 1898,
+   "gih_wr": 0.6301369863013698
+  },
+  {
+   "card": "Improvisation Capstone",
+   "gih": 8399,
+   "gih_wr": 0.6285272056197166
+  },
+  {
+   "card": "Colorstorm Stallion",
+   "gih": 15625,
+   "gih_wr": 0.626624
+  },
+  {
+   "card": "Professor Dellian Fel",
+   "gih": 6131,
+   "gih_wr": 0.6246941771326048
+  },
+  {
+   "card": "Mathemagics",
+   "gih": 8439,
+   "gih_wr": 0.619504680649366
+  },
+  {
+   "card": "Informed Inkwright",
+   "gih": 14717,
+   "gih_wr": 0.616837670720935
+  },
+  {
+   "card": "Snarl Song",
+   "gih": 36350,
+   "gih_wr": 0.6153232462173315
+  },
+  {
+   "card": "Quandrix, the Proof",
+   "gih": 6796,
+   "gih_wr": 0.614773396115362
+  },
+  {
+   "card": "Hardened Academic",
+   "gih": 13821,
+   "gih_wr": 0.6119672961435497
+  },
+  {
+   "card": "Splatter Technique",
+   "gih": 15271,
+   "gih_wr": 0.6099142164887695
+  },
+  {
+   "card": "Environmental Scientist",
+   "gih": 29677,
+   "gih_wr": 0.6098325302422751
+  },
+  {
+   "card": "Scolding Administrator",
+   "gih": 23011,
+   "gih_wr": 0.6075789839641911
+  },
+  {
+   "card": "Traumatic Critique",
+   "gih": 16695,
+   "gih_wr": 0.6062893081761006
+  },
+  {
+   "card": "Ambitious Augmenter",
+   "gih": 11843,
+   "gih_wr": 0.6060964282698641
+  },
+  {
+   "card": "Exhibition Tidecaller",
+   "gih": 15716,
+   "gih_wr": 0.6048612878595062
+  },
+  {
+   "card": "Moseo, Vein's New Dean",
+   "gih": 11722,
+   "gih_wr": 0.6045043507933799
+  },
+  {
+   "card": "Postmortem Professor",
+   "gih": 11179,
+   "gih_wr": 0.602468914929779
+  },
+  {
+   "card": "Stock Up",
+   "gih": 34564,
+   "gih_wr": 0.6021004513366508
+  },
+  {
+   "card": "Molten Note",
+   "gih": 34173,
+   "gih_wr": 0.6012641559125625
+  },
+  {
+   "card": "Library of Alexandria",
+   "gih": 1566,
+   "gih_wr": 0.6008939974457216
+  },
+  {
+   "card": "Emeritus of Abundance",
+   "gih": 5986,
+   "gih_wr": 0.6005679919812896
+  },
+  {
+   "card": "Slumbering Trudge",
+   "gih": 12273,
+   "gih_wr": 0.5996088975800538
+  },
+  {
+   "card": "Dismember",
+   "gih": 3577,
+   "gih_wr": 0.5993849594632373
+  },
+  {
+   "card": "Conciliator's Duelist",
+   "gih": 10718,
+   "gih_wr": 0.5992722522858742
+  },
+  {
+   "card": "Arcane Omens",
+   "gih": 25568,
+   "gih_wr": 0.598404255319149
+  },
+  {
+   "card": "Silverquill Charm",
+   "gih": 21513,
+   "gih_wr": 0.5982894064054293
+  },
+  {
+   "card": "Blech, Loafing Pest",
+   "gih": 8150,
+   "gih_wr": 0.5979141104294479
+  },
+  {
+   "card": "Stress Dream",
+   "gih": 36356,
+   "gih_wr": 0.5978930575420839
+  },
+  {
+   "card": "Molten-Core Maestro",
+   "gih": 15778,
+   "gih_wr": 0.5977310178729877
+  },
+  {
+   "card": "Elite Interceptor",
+   "gih": 73258,
+   "gih_wr": 0.5964809304103306
+  },
+  {
+   "card": "Emeritus of Woe",
+   "gih": 6153,
+   "gih_wr": 0.5953193564115066
+  },
+  {
+   "card": "Daze",
+   "gih": 2504,
+   "gih_wr": 0.5950479233226837
+  },
+  {
+   "card": "Practiced Scrollsmith",
+   "gih": 32922,
+   "gih_wr": 0.5949517040277018
+  },
+  {
+   "card": "Repel Calamity",
+   "gih": 32626,
+   "gih_wr": 0.5949242935082449
+  },
+  {
+   "card": "Jadzi, Steward of Fate",
+   "gih": 15291,
+   "gih_wr": 0.5947943234582435
+  },
+  {
+   "card": "Pursue the Past",
+   "gih": 55444,
+   "gih_wr": 0.5944917394127408
+  },
+  {
+   "card": "Akroma's Will",
+   "gih": 1654,
+   "gih_wr": 0.594316807738815
+  },
+  {
+   "card": "Great Hall of the Biblioplex",
+   "gih": 15062,
+   "gih_wr": 0.5938122427300492
+  },
+  {
+   "card": "Burst Lightning",
+   "gih": 36485,
+   "gih_wr": 0.5936686309442236
+  },
+  {
+   "card": "Strixhaven Skycoach",
+   "gih": 39095,
+   "gih_wr": 0.5933239544698811
+  },
+  {
+   "card": "Reprieve",
+   "gih": 3396,
+   "gih_wr": 0.5924617196702002
+  },
+  {
+   "card": "Pestbrood Sloth",
+   "gih": 23866,
+   "gih_wr": 0.5919299421771558
+  },
+  {
+   "card": "Foolish Fate",
+   "gih": 25953,
+   "gih_wr": 0.5916849689823912
+  },
+  {
+   "card": "Scheming Silvertongue",
+   "gih": 11239,
+   "gih_wr": 0.5915117003292107
+  },
+  {
+   "card": "Impractical Joke",
+   "gih": 36701,
+   "gih_wr": 0.5914280264842919
+  },
+  {
+   "card": "Subterranean Tremors",
+   "gih": 1823,
+   "gih_wr": 0.5913329676357653
+  },
+  {
+   "card": "Germination Practicum",
+   "gih": 5857,
+   "gih_wr": 0.5909168516305275
+  },
+  {
+   "card": "Sanar, Unfinished Genius",
+   "gih": 30407,
+   "gih_wr": 0.5903574834742
+  },
+  {
+   "card": "Emeritus of Truce",
+   "gih": 6387,
+   "gih_wr": 0.5899483325504932
+  },
+  {
+   "card": "Cyclonic Rift",
+   "gih": 1521,
+   "gih_wr": 0.5897435897435898
+  },
+  {
+   "card": "Pensive Professor",
+   "gih": 13860,
+   "gih_wr": 0.5896103896103896
+  },
+  {
+   "card": "Vibrant Outburst",
+   "gih": 30384,
+   "gih_wr": 0.5884017904160084
+  },
+  {
+   "card": "Vicious Rivalry",
+   "gih": 10513,
+   "gih_wr": 0.5881289831637021
+  },
+  {
+   "card": "Colossus of the Blood Age",
+   "gih": 32927,
+   "gih_wr": 0.5880888025025055
+  },
+  {
+   "card": "Sundering Archaic",
+   "gih": 31892,
+   "gih_wr": 0.5880471591621723
+  },
+  {
+   "card": "Paradox Surveyor",
+   "gih": 23605,
+   "gih_wr": 0.5878839228976912
+  },
+  {
+   "card": "End of the Hunt",
+   "gih": 25456,
+   "gih_wr": 0.5874450031426776
+  },
+  {
+   "card": "Lecturing Scornmage",
+   "gih": 20573,
+   "gih_wr": 0.586594079618918
+  },
+  {
+   "card": "Lorehold, the Historian",
+   "gih": 6953,
+   "gih_wr": 0.5857903063425859
+  },
+  {
+   "card": "Matterbending Mage",
+   "gih": 31620,
+   "gih_wr": 0.5854838709677419
+  },
+  {
+   "card": "Abrade",
+   "gih": 34666,
+   "gih_wr": 0.5851843304678936
+  },
+  {
+   "card": "Stirring Honormancer",
+   "gih": 21978,
+   "gih_wr": 0.5849485849485849
+  },
+  {
+   "card": "Restoration Seminar",
+   "gih": 5989,
+   "gih_wr": 0.5842377692436133
+  },
+  {
+   "card": "Echocasting Symposium",
+   "gih": 6626,
+   "gih_wr": 0.5842137035919106
+  },
+  {
+   "card": "Dissection Practice",
+   "gih": 18675,
+   "gih_wr": 0.5841499330655957
+  },
+  {
+   "card": "Rubble Rouser",
+   "gih": 66058,
+   "gih_wr": 0.583714311665506
+  },
+  {
+   "card": "Applied Geometry",
+   "gih": 13451,
+   "gih_wr": 0.583451044532005
+  },
+  {
+   "card": "Mind into Matter",
+   "gih": 12712,
+   "gih_wr": 0.5831497797356828
+  },
+  {
+   "card": "Suspend Aggression",
+   "gih": 12788,
+   "gih_wr": 0.5831248045042227
+  },
+  {
+   "card": "Brotherhood's End",
+   "gih": 2750,
+   "gih_wr": 0.5829090909090909
+  },
+  {
+   "card": "Expressive Iteration",
+   "gih": 3391,
+   "gih_wr": 0.5824240636980241
+  },
+  {
+   "card": "Wisdom of Ages",
+   "gih": 14528,
+   "gih_wr": 0.5806029735682819
+  },
+  {
+   "card": "Divergent Equation",
+   "gih": 30720,
+   "gih_wr": 0.5805989583333333
+  },
+  {
+   "card": "Brush Off",
+   "gih": 27000,
+   "gih_wr": 0.5805555555555556
+  },
+  {
+   "card": "Essenceknit Scholar",
+   "gih": 17131,
+   "gih_wr": 0.5804097834335415
+  },
+  {
+   "card": "Mana Sculpt",
+   "gih": 12168,
+   "gih_wr": 0.5802925706771861
+  },
+  {
+   "card": "Unsubtle Mockery",
+   "gih": 75081,
+   "gih_wr": 0.5801867316631372
+  },
+  {
+   "card": "Ajani's Response",
+   "gih": 59865,
+   "gih_wr": 0.5800885325315293
+  },
+  {
+   "card": "Deduce",
+   "gih": 24604,
+   "gih_wr": 0.5797431311981791
+  },
+  {
+   "card": "Render Speechless",
+   "gih": 35085,
+   "gih_wr": 0.579449907367821
+  },
+  {
+   "card": "Proctor's Gaze",
+   "gih": 27185,
+   "gih_wr": 0.5794004046349089
+  },
+  {
+   "card": "Tome Blast",
+   "gih": 75740,
+   "gih_wr": 0.5790071296540797
+  },
+  {
+   "card": "Bitter Triumph",
+   "gih": 24718,
+   "gih_wr": 0.578363945303018
+  },
+  {
+   "card": "Wilt in the Heat",
+   "gih": 58369,
+   "gih_wr": 0.5779609039044699
+  },
+  {
+   "card": "Artistic Process",
+   "gih": 29447,
+   "gih_wr": 0.5778517336231195
+  },
+  {
+   "card": "Additive Evolution",
+   "gih": 21226,
+   "gih_wr": 0.5776406294167531
+  },
+  {
+   "card": "Shattered Sanctum",
+   "gih": 9964,
+   "gih_wr": 0.5773785628261743
+  },
+  {
+   "card": "Last Gasp",
+   "gih": 54802,
+   "gih_wr": 0.5769679938688369
+  },
+  {
+   "card": "Startled Relic Sloth",
+   "gih": 27995,
+   "gih_wr": 0.5769244507947848
+  },
+  {
+   "card": "Stand Up for Yourself",
+   "gih": 26950,
+   "gih_wr": 0.5768831168831169
+  },
+  {
+   "card": "Imperious Inkmage",
+   "gih": 34634,
+   "gih_wr": 0.5768608881445978
+  },
+  {
+   "card": "Prismatic Ending",
+   "gih": 2322,
+   "gih_wr": 0.5766580534022394
+  },
+  {
+   "card": "Fields of Strife",
+   "gih": 79849,
+   "gih_wr": 0.5759496048792095
+  },
+  {
+   "card": "Cost of Brilliance",
+   "gih": 38527,
+   "gih_wr": 0.5755444233913879
+  },
+  {
+   "card": "Quill-Blade Laureate",
+   "gih": 25735,
+   "gih_wr": 0.57497571400816
+  },
+  {
+   "card": "Garrison Excavator",
+   "gih": 25307,
+   "gih_wr": 0.5749397399928874
+  },
+  {
+   "card": "Quandrix Charm",
+   "gih": 18601,
+   "gih_wr": 0.5748615665824418
+  },
+  {
+   "card": "Disdainful Stroke",
+   "gih": 25718,
+   "gih_wr": 0.5745003499494518
+  },
+  {
+   "card": "Group Project",
+   "gih": 27160,
+   "gih_wr": 0.5743740795287187
+  },
+  {
+   "card": "Transcendent Archaic",
+   "gih": 20906,
+   "gih_wr": 0.5736630632354348
+  },
+  {
+   "card": "Plains",
+   "gih": 293369,
+   "gih_wr": 0.5732677958475504
+  },
+  {
+   "card": "Inkshape Demonstrator",
+   "gih": 21943,
+   "gih_wr": 0.5730301235018002
+  },
+  {
+   "card": "Run Behind",
+   "gih": 56393,
+   "gih_wr": 0.5726597272711152
+  },
+  {
+   "card": "Charging Strifeknight",
+   "gih": 27875,
+   "gih_wr": 0.5723408071748879
+  },
+  {
+   "card": "Magmablood Archaic",
+   "gih": 13653,
+   "gih_wr": 0.5722551820112796
+  },
+  {
+   "card": "Stormcarved Coast",
+   "gih": 13650,
+   "gih_wr": 0.5720879120879121
+  },
+  {
+   "card": "Stone Docent",
+   "gih": 57671,
+   "gih_wr": 0.5718818817083109
+  },
+  {
+   "card": "Flow State",
+   "gih": 29086,
+   "gih_wr": 0.5717183524719797
+  },
+  {
+   "card": "Sundown Pass",
+   "gih": 12936,
+   "gih_wr": 0.5713512677798392
+  },
+  {
+   "card": "Killian's Confidence",
+   "gih": 18199,
+   "gih_wr": 0.5713500741799
+  },
+  {
+   "card": "Vastlands Scavenger",
+   "gih": 9625,
+   "gih_wr": 0.5713246753246753
+  },
+  {
+   "card": "Essence Scatter",
+   "gih": 62891,
+   "gih_wr": 0.5713218107519359
+  },
+  {
+   "card": "Living History",
+   "gih": 23180,
+   "gih_wr": 0.5710957722174288
+  },
+  {
+   "card": "Tablet of Discovery",
+   "gih": 25951,
+   "gih_wr": 0.5709991907826288
+  },
+  {
+   "card": "Knockout Maneuver",
+   "gih": 18579,
+   "gih_wr": 0.5703213305344744
+  },
+  {
+   "card": "Prismari Charm",
+   "gih": 24637,
+   "gih_wr": 0.5702804724601209
+  },
+  {
+   "card": "Wildgrowth Archaic",
+   "gih": 11679,
+   "gih_wr": 0.5699974312869253
+  },
+  {
+   "card": "Potioner's Trove",
+   "gih": 69083,
+   "gih_wr": 0.5697494318428556
+  },
+  {
+   "card": "Inkling Mascot",
+   "gih": 39063,
+   "gih_wr": 0.5694647108517011
+  },
+  {
+   "card": "Skycoach Conductor",
+   "gih": 11780,
+   "gih_wr": 0.5693548387096774
+  },
+  {
+   "card": "Resonating Lute",
+   "gih": 12267,
+   "gih_wr": 0.5685986793837124
+  },
+  {
+   "card": "Studious First-Year",
+   "gih": 50001,
+   "gih_wr": 0.5685686286274274
+  },
+  {
+   "card": "Erode",
+   "gih": 10441,
+   "gih_wr": 0.5676659323819557
+  },
+  {
+   "card": "Deathcap Glade",
+   "gih": 9406,
+   "gih_wr": 0.5676164150542207
+  },
+  {
+   "card": "Spectacle Summit",
+   "gih": 81664,
+   "gih_wr": 0.5673613832288401
+  },
+  {
+   "card": "Eager Glyphmage",
+   "gih": 39503,
+   "gih_wr": 0.5671214844442194
+  },
+  {
+   "card": "Kirol, History Buff",
+   "gih": 23908,
+   "gih_wr": 0.5670905136356031
+  },
+  {
+   "card": "Monstrous Rage",
+   "gih": 15027,
+   "gih_wr": 0.5667797963665402
+  },
+  {
+   "card": "Shattered Acolyte",
+   "gih": 44953,
+   "gih_wr": 0.5663693190665806
+  },
+  {
+   "card": "Force of Will",
+   "gih": 975,
+   "gih_wr": 0.5661538461538461
+  },
+  {
+   "card": "Terramorphic Expanse",
+   "gih": 80057,
+   "gih_wr": 0.5660841650324144
+  },
+  {
+   "card": "Spirit Mascot",
+   "gih": 47920,
+   "gih_wr": 0.5660058430717864
+  },
+  {
+   "card": "Archaic's Agony",
+   "gih": 18582,
+   "gih_wr": 0.5657087504036165
+  },
+  {
+   "card": "Grapple with Death",
+   "gih": 41384,
+   "gih_wr": 0.5655084090469746
+  },
+  {
+   "card": "Lluwen, Exchange Student",
+   "gih": 15057,
+   "gih_wr": 0.5654512851165571
+  },
+  {
+   "card": "Forum of Amity",
+   "gih": 59195,
+   "gih_wr": 0.565149083537461
+  },
+  {
+   "card": "Melancholic Poet",
+   "gih": 41231,
+   "gih_wr": 0.5650845237806504
+  },
+  {
+   "card": "Decorum Dissertation",
+   "gih": 4702,
+   "gih_wr": 0.5648660144619311
+  },
+  {
+   "card": "Royal Treatment",
+   "gih": 14578,
+   "gih_wr": 0.5642749348333105
+  },
+  {
+   "card": "Preordain",
+   "gih": 2339,
+   "gih_wr": 0.5639162035057717
+  },
+  {
+   "card": "Dreamroot Cascade",
+   "gih": 11528,
+   "gih_wr": 0.5635843164469119
+  },
+  {
+   "card": "Snooping Page",
+   "gih": 19379,
+   "gih_wr": 0.5634449662005263
+  },
+  {
+   "card": "Paradox Gardens",
+   "gih": 69113,
+   "gih_wr": 0.563338301043219
+  },
+  {
+   "card": "Planar Engineering",
+   "gih": 5539,
+   "gih_wr": 0.5629174941325149
+  },
+  {
+   "card": "Embrace the Paradox",
+   "gih": 41175,
+   "gih_wr": 0.5628172434729812
+  },
+  {
+   "card": "Visionary's Dance",
+   "gih": 60235,
+   "gih_wr": 0.5620652444592015
+  },
+  {
+   "card": "Quick Study",
+   "gih": 40838,
+   "gih_wr": 0.5620255644252902
+  },
+  {
+   "card": "Thornfist Striker",
+   "gih": 14708,
+   "gih_wr": 0.5618710905629589
+  },
+  {
+   "card": "Heated Argument",
+   "gih": 53531,
+   "gih_wr": 0.5617119052511629
+  },
+  {
+   "card": "Wander Off",
+   "gih": 46808,
+   "gih_wr": 0.5614852162023586
+  },
+  {
+   "card": "Dig Site Inventory",
+   "gih": 39861,
+   "gih_wr": 0.5613757808384134
+  },
+  {
+   "card": "Murmuring Mystic",
+   "gih": 1605,
+   "gih_wr": 0.5613707165109034
+  },
+  {
+   "card": "Big Score",
+   "gih": 2428,
+   "gih_wr": 0.5609555189456342
+  },
+  {
+   "card": "Homesickness",
+   "gih": 21947,
+   "gih_wr": 0.5605321911878617
+  },
+  {
+   "card": "Mountain",
+   "gih": 323556,
+   "gih_wr": 0.5604841202141206
+  },
+  {
+   "card": "Cuboid Colony",
+   "gih": 17578,
+   "gih_wr": 0.560473318921379
+  },
+  {
+   "card": "Swamp",
+   "gih": 247650,
+   "gih_wr": 0.5603472642842722
+  },
+  {
+   "card": "Berta, Wise Extrapolator",
+   "gih": 11071,
+   "gih_wr": 0.5602023304127902
+  },
+  {
+   "card": "Empty the Warrens",
+   "gih": 1068,
+   "gih_wr": 0.5599250936329588
+  },
+  {
+   "card": "Masterful Flourish",
+   "gih": 16907,
+   "gih_wr": 0.5598272904714023
+  },
+  {
+   "card": "Sleight of Hand",
+   "gih": 18450,
+   "gih_wr": 0.5597289972899729
+  },
+  {
+   "card": "Interjection",
+   "gih": 16953,
+   "gih_wr": 0.559605969444936
+  },
+  {
+   "card": "Ascendant Dustspeaker",
+   "gih": 36319,
+   "gih_wr": 0.559238965830557
+  },
+  {
+   "card": "Owlin Historian",
+   "gih": 38841,
+   "gih_wr": 0.5590484282073067
+  },
+  {
+   "card": "Stargaze",
+   "gih": 7114,
+   "gih_wr": 0.5590385156030363
+  },
+  {
+   "card": "Hop to It",
+   "gih": 17777,
+   "gih_wr": 0.5586994431006357
+  },
+  {
+   "card": "Bogwater Lumaret",
+   "gih": 30732,
+   "gih_wr": 0.5585057920083301
+  },
+  {
+   "card": "Poisoner's Apprentice",
+   "gih": 14764,
+   "gih_wr": 0.5584529937686263
+  },
+  {
+   "card": "Duel Tactics",
+   "gih": 10226,
+   "gih_wr": 0.5580872286328965
+  },
+  {
+   "card": "Expressive Firedancer",
+   "gih": 40495,
+   "gih_wr": 0.5577478701074207
+  },
+  {
+   "card": "Titan's Grave",
+   "gih": 58238,
+   "gih_wr": 0.5575225797589203
+  },
+  {
+   "card": "Thunderdrum Soloist",
+   "gih": 20093,
+   "gih_wr": 0.5573085154033743
+  },
+  {
+   "card": "Silverquill, the Disputant",
+   "gih": 4572,
+   "gih_wr": 0.5570866141732284
+  },
+  {
+   "card": "Tragedy Feaster",
+   "gih": 7734,
+   "gih_wr": 0.5570209464701319
+  },
+  {
+   "card": "Grave Researcher",
+   "gih": 9385,
+   "gih_wr": 0.5569525839104955
+  },
+  {
+   "card": "Noxious Newt",
+   "gih": 42297,
+   "gih_wr": 0.5568007187270965
+  },
+  {
+   "card": "Banishing Betrayal",
+   "gih": 38820,
+   "gih_wr": 0.5558990211231324
+  },
+  {
+   "card": "Burrog Barrage",
+   "gih": 35574,
+   "gih_wr": 0.5556586270871985
+  },
+  {
+   "card": "Shared Roots",
+   "gih": 19142,
+   "gih_wr": 0.5556368195590847
+  },
+  {
+   "card": "Spell Pierce",
+   "gih": 10825,
+   "gih_wr": 0.5552886836027714
+  },
+  {
+   "card": "Emeritus of Conflict",
+   "gih": 6158,
+   "gih_wr": 0.5552127314063008
+  },
+  {
+   "card": "Codie, Vociferous Codex",
+   "gih": 555,
+   "gih_wr": 0.554954954954955
+  },
+  {
+   "card": "Send in the Pest",
+   "gih": 31413,
+   "gih_wr": 0.5542609747556744
+  },
+  {
+   "card": "Rehearsed Debater",
+   "gih": 29185,
+   "gih_wr": 0.5540860030837759
+  },
+  {
+   "card": "Teacher's Pest",
+   "gih": 14644,
+   "gih_wr": 0.5535372848948374
+  },
+  {
+   "card": "Primary Research",
+   "gih": 19782,
+   "gih_wr": 0.5528763522394096
+  },
+  {
+   "card": "Feed the Swarm",
+   "gih": 19499,
+   "gih_wr": 0.5527975793630443
+  },
+  {
+   "card": "Zealous Lorecaster",
+   "gih": 40655,
+   "gih_wr": 0.5524781699667938
+  },
+  {
+   "card": "Prismari, the Inspiration",
+   "gih": 4961,
+   "gih_wr": 0.5519048578915541
+  },
+  {
+   "card": "Abigale, Poet Laureate",
+   "gih": 16948,
+   "gih_wr": 0.5512154826528204
+  },
+  {
+   "card": "Seize the Spoils",
+   "gih": 37506,
+   "gih_wr": 0.5507385484989068
+  },
+  {
+   "card": "Joined Researchers",
+   "gih": 9297,
+   "gih_wr": 0.5505001613423685
+  },
+  {
+   "card": "Hydro-Channeler",
+   "gih": 48630,
+   "gih_wr": 0.5502159161011722
+  },
+  {
+   "card": "Topiary Lecturer",
+   "gih": 14761,
+   "gih_wr": 0.5501659779147754
+  },
+  {
+   "card": "Brain Freeze",
+   "gih": 2269,
+   "gih_wr": 0.5500220361392684
+  },
+  {
+   "card": "Summoned Dromedary",
+   "gih": 17713,
+   "gih_wr": 0.5498221645119404
+  },
+  {
+   "card": "Elemental Mascot",
+   "gih": 33205,
+   "gih_wr": 0.5497364854690558
+  },
+  {
+   "card": "Forest",
+   "gih": 228144,
+   "gih_wr": 0.5495958692755453
+  },
+  {
+   "card": "Burrog Banemaker",
+   "gih": 28093,
+   "gih_wr": 0.5493539315843805
+  },
+  {
+   "card": "Cauldron of Essence",
+   "gih": 7794,
+   "gih_wr": 0.5491403643828586
+  },
+  {
+   "card": "Chase Inspiration",
+   "gih": 13120,
+   "gih_wr": 0.5487804878048781
+  },
+  {
+   "card": "Island",
+   "gih": 267725,
+   "gih_wr": 0.5482603417686058
+  },
+  {
+   "card": "Awaken the Woods",
+   "gih": 734,
+   "gih_wr": 0.547683923705722
+  },
+  {
+   "card": "Mage Tower Referee",
+   "gih": 16997,
+   "gih_wr": 0.5472730481849738
+  },
+  {
+   "card": "Steal the Show",
+   "gih": 6516,
+   "gih_wr": 0.5469613259668509
+  },
+  {
+   "card": "Flashback",
+   "gih": 8547,
+   "gih_wr": 0.5468585468585468
+  },
+  {
+   "card": "Soaring Stoneglider",
+   "gih": 17735,
+   "gih_wr": 0.546828305610375
+  },
+  {
+   "card": "Eternal Student",
+   "gih": 16228,
+   "gih_wr": 0.546278037959083
+  },
+  {
+   "card": "Fractal Mascot",
+   "gih": 24984,
+   "gih_wr": 0.5462295869356388
+  },
+  {
+   "card": "Geometer's Arthropod",
+   "gih": 4568,
+   "gih_wr": 0.5455341506129597
+  },
+  {
+   "card": "Stadium Tidalmage",
+   "gih": 25360,
+   "gih_wr": 0.544006309148265
+  },
+  {
+   "card": "Withering Curse",
+   "gih": 2984,
+   "gih_wr": 0.5439008042895442
+  },
+  {
+   "card": "Adventurous Eater",
+   "gih": 31703,
+   "gih_wr": 0.5437655742358767
+  },
+  {
+   "card": "Goblin Glasswright",
+   "gih": 47690,
+   "gih_wr": 0.5435521073600336
+  },
+  {
+   "card": "Lorehold Charm",
+   "gih": 12406,
+   "gih_wr": 0.5429630823794938
+  },
+  {
+   "card": "Rapier Wit",
+   "gih": 16865,
+   "gih_wr": 0.5429587903943077
+  },
+  {
+   "card": "Grim Haruspex",
+   "gih": 837,
+   "gih_wr": 0.5424133811230586
+  },
+  {
+   "card": "Old-Growth Educator",
+   "gih": 12587,
+   "gih_wr": 0.5423055533486931
+  },
+  {
+   "card": "Campus Composer",
+   "gih": 17673,
+   "gih_wr": 0.5420698240253494
+  },
+  {
+   "card": "Witherbloom Charm",
+   "gih": 12754,
+   "gih_wr": 0.5420260310490826
+  },
+  {
+   "card": "Tester of the Tangential",
+   "gih": 15825,
+   "gih_wr": 0.5414849921011059
+  },
+  {
+   "card": "Ral Zarek, Guest Lecturer",
+   "gih": 3809,
+   "gih_wr": 0.5413494355473878
+  },
+  {
+   "card": "Pest Mascot",
+   "gih": 27112,
+   "gih_wr": 0.5412732369430511
+  },
+  {
+   "card": "Orysa, Tide Choreographer",
+   "gih": 12417,
+   "gih_wr": 0.5407908512523154
+  },
+  {
+   "card": "Infirmary Healer",
+   "gih": 16533,
+   "gih_wr": 0.5407367084013791
+  },
+  {
+   "card": "Pterafractyl",
+   "gih": 29251,
+   "gih_wr": 0.5405285289391816
+  },
+  {
+   "card": "Rancorous Archaic",
+   "gih": 18444,
+   "gih_wr": 0.5403383214053351
+  },
+  {
+   "card": "Archaeomancer",
+   "gih": 1016,
+   "gih_wr": 0.5393700787401575
+  },
+  {
+   "card": "Honorbound Page",
+   "gih": 22197,
+   "gih_wr": 0.5393521647069424
+  },
+  {
+   "card": "The Dawning Archaic",
+   "gih": 4914,
+   "gih_wr": 0.5392755392755393
+  },
+  {
+   "card": "Bring to Light",
+   "gih": 714,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card": "Shopkeeper's Bane",
+   "gih": 19794,
+   "gih_wr": 0.5389006769728201
+  },
+  {
+   "card": "Aziza, Mage Tower Captain",
+   "gih": 8525,
+   "gih_wr": 0.5387683284457478
+  },
+  {
+   "card": "Landscape Painter",
+   "gih": 33189,
+   "gih_wr": 0.5383410166018862
+  },
+  {
+   "card": "Helping Hand",
+   "gih": 10221,
+   "gih_wr": 0.5383034928089228
+  },
+  {
+   "card": "Emil, Vastlands Roamer",
+   "gih": 15692,
+   "gih_wr": 0.5372164160081571
+  },
+  {
+   "card": "Mindful Biomancer",
+   "gih": 25433,
+   "gih_wr": 0.5367436008335627
+  },
+  {
+   "card": "Rapturous Moment",
+   "gih": 13170,
+   "gih_wr": 0.5364464692482915
+  },
+  {
+   "card": "Mica, Reader of Ruins",
+   "gih": 7784,
+   "gih_wr": 0.5362281603288798
+  },
+  {
+   "card": "Fractal Tender",
+   "gih": 14964,
+   "gih_wr": 0.5350173750334135
+  },
+  {
+   "card": "Root Manipulation",
+   "gih": 6804,
+   "gih_wr": 0.5349794238683128
+  },
+  {
+   "card": "Lumaret's Favor",
+   "gih": 3535,
+   "gih_wr": 0.5338048090523339
+  },
+  {
+   "card": "Muse's Encouragement",
+   "gih": 22013,
+   "gih_wr": 0.533593785490392
+  },
+  {
+   "card": "Muse Seeker",
+   "gih": 17919,
+   "gih_wr": 0.5335119147273844
+  },
+  {
+   "card": "Tackle Artist",
+   "gih": 27019,
+   "gih_wr": 0.5333283985343648
+  },
+  {
+   "card": "Sneering Shadewriter",
+   "gih": 20120,
+   "gih_wr": 0.5331013916500994
+  },
+  {
+   "card": "Harmonized Trio",
+   "gih": 6861,
+   "gih_wr": 0.5321381722780936
+  },
+  {
+   "card": "Mind Roots",
+   "gih": 11859,
+   "gih_wr": 0.5316637153216967
+  },
+  {
+   "card": "Locust Spray",
+   "gih": 5634,
+   "gih_wr": 0.5308839190628328
+  },
+  {
+   "card": "Procrastinate",
+   "gih": 20632,
+   "gih_wr": 0.5306320279177976
+  },
+  {
+   "card": "Sheoldred's Edict",
+   "gih": 1368,
+   "gih_wr": 0.5299707602339181
+  },
+  {
+   "card": "Return the Favor",
+   "gih": 6234,
+   "gih_wr": 0.5298363811357074
+  },
+  {
+   "card": "Ancestral Anger",
+   "gih": 7762,
+   "gih_wr": 0.5297603710383921
+  },
+  {
+   "card": "Tam, Observant Sequencer",
+   "gih": 15580,
+   "gih_wr": 0.5288831835686778
+  },
+  {
+   "card": "Pull from the Grave",
+   "gih": 16484,
+   "gih_wr": 0.5277238534336326
+  },
+  {
+   "card": "Scathing Shadelock",
+   "gih": 10154,
+   "gih_wr": 0.5275753397675793
+  },
+  {
+   "card": "Textbook Tabulator",
+   "gih": 16808,
+   "gih_wr": 0.5268324607329843
+  },
+  {
+   "card": "Page, Loose Leaf",
+   "gih": 8942,
+   "gih_wr": 0.5258331469469917
+  },
+  {
+   "card": "Deluge Virtuoso",
+   "gih": 21719,
+   "gih_wr": 0.525714811915834
+  },
+  {
+   "card": "Spiritcall Enthusiast",
+   "gih": 9891,
+   "gih_wr": 0.5256293600242645
+  },
+  {
+   "card": "Zimone's Experiment",
+   "gih": 8197,
+   "gih_wr": 0.5253141393192632
+  },
+  {
+   "card": "Spectacular Skywhale",
+   "gih": 16465,
+   "gih_wr": 0.5251746128150623
+  },
+  {
+   "card": "Wild Hypothesis",
+   "gih": 14639,
+   "gih_wr": 0.525172484459321
+  },
+  {
+   "card": "Zaffai and the Tempests",
+   "gih": 4970,
+   "gih_wr": 0.5245472837022133
+  },
+  {
+   "card": "Maelstrom Artisan",
+   "gih": 3722,
+   "gih_wr": 0.5239118753358409
+  },
+  {
+   "card": "Tenured Concocter",
+   "gih": 16336,
+   "gih_wr": 0.5237512242899118
+  },
+  {
+   "card": "Follow the Lumarets",
+   "gih": 12606,
+   "gih_wr": 0.5230842455973346
+  },
+  {
+   "card": "Social Snub",
+   "gih": 2322,
+   "gih_wr": 0.5228251507321274
+  },
+  {
+   "card": "Leech Collector",
+   "gih": 11929,
+   "gih_wr": 0.5226758320060357
+  },
+  {
+   "card": "Duty Beyond Death",
+   "gih": 3256,
+   "gih_wr": 0.5211916461916462
+  },
+  {
+   "card": "Graduation Day",
+   "gih": 7652,
+   "gih_wr": 0.5206481965499216
+  },
+  {
+   "card": "Forum Necroscribe",
+   "gih": 13404,
+   "gih_wr": 0.5197702178454193
+  },
+  {
+   "card": "Pigment Wrangler",
+   "gih": 16816,
+   "gih_wr": 0.5190889628924833
+  },
+  {
+   "card": "Fractalize",
+   "gih": 4460,
+   "gih_wr": 0.5190582959641256
+  },
+  {
+   "card": "Giant Growth",
+   "gih": 3814,
+   "gih_wr": 0.5186156266386995
+  },
+  {
+   "card": "Diary of Dreams",
+   "gih": 14219,
+   "gih_wr": 0.5176172726633378
+  },
+  {
+   "card": "Nita, Forum Conciliator",
+   "gih": 4766,
+   "gih_wr": 0.5165757448594209
+  },
+  {
+   "card": "Skycoach Waypoint",
+   "gih": 3111,
+   "gih_wr": 0.516554162648666
+  },
+  {
+   "card": "Cheerful Osteomancer",
+   "gih": 21620,
+   "gih_wr": 0.5151711378353376
+  },
+  {
+   "card": "Ennis, Debate Moderator",
+   "gih": 10679,
+   "gih_wr": 0.5149358554171739
+  },
+  {
+   "card": "Strife Scholar",
+   "gih": 14597,
+   "gih_wr": 0.5147633075289443
+  },
+  {
+   "card": "Spellbook Seeker",
+   "gih": 14793,
+   "gih_wr": 0.5145001013993105
+  },
+  {
+   "card": "Hungry Graffalon",
+   "gih": 7044,
+   "gih_wr": 0.5132027257240205
+  },
+  {
+   "card": "Encouraging Aviator",
+   "gih": 10011,
+   "gih_wr": 0.5116371990810109
+  },
+  {
+   "card": "Glorious Decay",
+   "gih": 3024,
+   "gih_wr": 0.5115740740740741
+  },
+  {
+   "card": "Harsh Annotation",
+   "gih": 4004,
+   "gih_wr": 0.5102397602397603
+  },
+  {
+   "card": "Dualcaster Mage",
+   "gih": 810,
+   "gih_wr": 0.5098765432098765
+  },
+  {
+   "card": "Chelonian Tackle",
+   "gih": 6631,
+   "gih_wr": 0.5094254260292566
+  },
+  {
+   "card": "Bulk Up",
+   "gih": 3831,
+   "gih_wr": 0.5092665100495954
+  },
+  {
+   "card": "Culling Ritual",
+   "gih": 411,
+   "gih_wr": 0.5085158150851582
+  },
+  {
+   "card": "Rabid Attack",
+   "gih": 4426,
+   "gih_wr": 0.5079078174423859
+  },
+  {
+   "card": "Return to the Ranks",
+   "gih": 506,
+   "gih_wr": 0.5079051383399209
+  },
+  {
+   "card": "Blazing Firesinger",
+   "gih": 8914,
+   "gih_wr": 0.5071797172986313
+  },
+  {
+   "card": "Witherbloom, the Balancer",
+   "gih": 3300,
+   "gih_wr": 0.5057575757575757
+  },
+  {
+   "card": "Oracle's Restoration",
+   "gih": 5666,
+   "gih_wr": 0.5045887751500177
+  },
+  {
+   "card": "Arnyn, Deathbloom Botanist",
+   "gih": 8468,
+   "gih_wr": 0.5041332073689183
+  },
+  {
+   "card": "Abstract Paintmage",
+   "gih": 11117,
+   "gih_wr": 0.5040928307996762
+  },
+  {
+   "card": "Triumph of the Hordes",
+   "gih": 262,
+   "gih_wr": 0.5038167938931297
+  },
+  {
+   "card": "Requisition Raid",
+   "gih": 4329,
+   "gih_wr": 0.5033495033495033
+  },
+  {
+   "card": "Efflorescence",
+   "gih": 2702,
+   "gih_wr": 0.5033308660251665
+  },
+  {
+   "card": "Rearing Embermare",
+   "gih": 5519,
+   "gih_wr": 0.5017213263272332
+  },
+  {
+   "card": "Shamanic Revelation",
+   "gih": 594,
+   "gih_wr": 0.5016835016835017
+  },
+  {
+   "card": "Ulna Alley Shopkeep",
+   "gih": 5877,
+   "gih_wr": 0.5012761613067892
+  },
+  {
+   "card": "Aberrant Manawurm",
+   "gih": 7363,
+   "gih_wr": 0.500203721309249
+  },
+  {
+   "card": "Veil of Summer",
+   "gih": 146,
+   "gih_wr": 0.5
+  },
+  {
+   "card": "Armageddon",
+   "gih": 704,
+   "gih_wr": 0.4971590909090909
+  },
+  {
+   "card": "Sylvan Library",
+   "gih": 495,
+   "gih_wr": 0.49696969696969695
+  },
+  {
+   "card": "Daydream",
+   "gih": 4894,
+   "gih_wr": 0.4938700449530037
+  },
+  {
+   "card": "Adrix and Nev, Twincasters",
+   "gih": 316,
+   "gih_wr": 0.4936708860759494
+  },
+  {
+   "card": "Growth Curve",
+   "gih": 2360,
+   "gih_wr": 0.4936440677966102
+  },
+  {
+   "card": "Archmage Emeritus",
+   "gih": 883,
+   "gih_wr": 0.48924122310305773
+  },
+  {
+   "card": "Pongify",
+   "gih": 337,
+   "gih_wr": 0.486646884272997
+  },
+  {
+   "card": "Flusterstorm",
+   "gih": 310,
+   "gih_wr": 0.4838709677419355
+  },
+  {
+   "card": "Fractal Anomaly",
+   "gih": 2258,
+   "gih_wr": 0.48272807794508416
+  },
+  {
+   "card": "Smallpox",
+   "gih": 97,
+   "gih_wr": 0.4742268041237113
+  },
+  {
+   "card": "Pick Your Poison",
+   "gih": 1099,
+   "gih_wr": 0.4740673339399454
+  },
+  {
+   "card": "Vampiric Tutor",
+   "gih": 456,
+   "gih_wr": 0.47368421052631576
+  },
+  {
+   "card": "Fix What's Broken",
+   "gih": 1626,
+   "gih_wr": 0.47293972939729395
+  },
+  {
+   "card": "Berserk",
+   "gih": 212,
+   "gih_wr": 0.4716981132075472
+  },
+  {
+   "card": "Zombify",
+   "gih": 2268,
+   "gih_wr": 0.4695767195767196
+  },
+  {
+   "card": "Comforting Counsel",
+   "gih": 2580,
+   "gih_wr": 0.46782945736434106
+  },
+  {
+   "card": "Petrified Hamlet",
+   "gih": 150,
+   "gih_wr": 0.4666666666666667
+  },
+  {
+   "card": "Deflecting Palm",
+   "gih": 327,
+   "gih_wr": 0.4648318042813456
+  },
+  {
+   "card": "Borrowed Knowledge",
+   "gih": 777,
+   "gih_wr": 0.4646074646074646
+  },
+  {
+   "card": "Pyretic Ritual",
+   "gih": 123,
+   "gih_wr": 0.4634146341463415
+  },
+  {
+   "card": "Dina's Guidance",
+   "gih": 638,
+   "gih_wr": 0.4592476489028213
+  },
+  {
+   "card": "Biblioplex Tomekeeper",
+   "gih": 1094,
+   "gih_wr": 0.45612431444241314
+  },
+  {
+   "card": "Choreographed Sparks",
+   "gih": 1023,
+   "gih_wr": 0.4525904203323558
+  },
+  {
+   "card": "Glimpse of Nature",
+   "gih": 80,
+   "gih_wr": 0.45
+  },
+  {
+   "card": "Magus of the Library",
+   "gih": 328,
+   "gih_wr": 0.43597560975609756
+  },
+  {
+   "card": "Culling the Weak",
+   "gih": 78,
+   "gih_wr": 0.4358974358974359
+  },
+  {
+   "card": "Angel's Grace",
+   "gih": 108,
+   "gih_wr": 0.4166666666666667
+  },
+  {
+   "card": "Ad Nauseam",
+   "gih": 40,
+   "gih_wr": 0.4
+  },
+  {
+   "card": "Pox Plague",
+   "gih": 51,
+   "gih_wr": 0.39215686274509803
+  },
+  {
+   "card": "Jeska's Will",
+   "gih": 105,
+   "gih_wr": 0.3904761904761905
+  },
+  {
+   "card": "Crop Rotation",
+   "gih": 123,
+   "gih_wr": 0.37398373983739835
+  },
+  {
+   "card": "Fracture",
+   "gih": 219,
+   "gih_wr": 0.3470319634703196
+  },
+  {
+   "card": "Living End",
+   "gih": 32,
+   "gih_wr": 0.25
+  }
+ ]
+}

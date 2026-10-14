@@ -1,0 +1,2541 @@
+{
+ "set": "FIN",
+ "games": 769659,
+ "wins": 428945,
+ "cards": [
+  {
+   "card_17lands": "Atraxa, Grand Unifier",
+   "scryfall_name": "Atraxa, Grand Unifier",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2048,
+   "gih_wr": 0.6689453125
+  },
+  {
+   "card_17lands": "Winota, Joiner of Forces",
+   "scryfall_name": "Winota, Joiner of Forces",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1394,
+   "gih_wr": 0.6542324246771879
+  },
+  {
+   "card_17lands": "Smuggler's Copter",
+   "scryfall_name": "Smuggler's Copter",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2683,
+   "gih_wr": 0.653373089824823
+  },
+  {
+   "card_17lands": "Ardyn, the Usurper",
+   "scryfall_name": "Ardyn, the Usurper",
+   "match": "full",
+   "gih": 16727,
+   "gih_wr": 0.6493692831948347
+  },
+  {
+   "card_17lands": "Urza, Lord High Artificer",
+   "scryfall_name": "Urza, Lord High Artificer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2403,
+   "gih_wr": 0.6454431960049938
+  },
+  {
+   "card_17lands": "Nibelheim Aflame",
+   "scryfall_name": "Nibelheim Aflame",
+   "match": "full",
+   "gih": 7410,
+   "gih_wr": 0.6449392712550607
+  },
+  {
+   "card_17lands": "Sazh Katzroy",
+   "scryfall_name": "Sazh Katzroy",
+   "match": "full",
+   "gih": 14587,
+   "gih_wr": 0.6443408514430657
+  },
+  {
+   "card_17lands": "Dion, Bahamut's Dominant",
+   "scryfall_name": "Dion, Bahamut's Dominant [MULTI]",
+   "match": "first-face",
+   "gih": 15594,
+   "gih_wr": 0.6440297550339874
+  },
+  {
+   "card_17lands": "Cryptic Command",
+   "scryfall_name": "Cryptic Command",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2259,
+   "gih_wr": 0.6405489154493138
+  },
+  {
+   "card_17lands": "Bruse Tarl, Boorish Herder",
+   "scryfall_name": "Bruse Tarl, Boorish Herder",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1417,
+   "gih_wr": 0.6400846859562456
+  },
+  {
+   "card_17lands": "Esper Origins",
+   "scryfall_name": "Esper Origins [MULTI]",
+   "match": "first-face",
+   "gih": 15262,
+   "gih_wr": 0.6368103787183855
+  },
+  {
+   "card_17lands": "Jill, Shiva's Dominant",
+   "scryfall_name": "Jill, Shiva's Dominant [MULTI]",
+   "match": "first-face",
+   "gih": 18112,
+   "gih_wr": 0.6345516784452296
+  },
+  {
+   "card_17lands": "Summon: Primal Odin",
+   "scryfall_name": "Summon: Primal Odin",
+   "match": "full",
+   "gih": 15438,
+   "gih_wr": 0.6335665241611608
+  },
+  {
+   "card_17lands": "Kuja, Genome Sorcerer",
+   "scryfall_name": "Kuja, Genome Sorcerer [MULTI]",
+   "match": "first-face",
+   "gih": 14559,
+   "gih_wr": 0.63287313689127
+  },
+  {
+   "card_17lands": "Kefka, Court Mage",
+   "scryfall_name": "Kefka, Court Mage [MULTI]",
+   "match": "first-face",
+   "gih": 7433,
+   "gih_wr": 0.632584420826046
+  },
+  {
+   "card_17lands": "Akroma's Will",
+   "scryfall_name": "Akroma's Will",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2119,
+   "gih_wr": 0.6323737612081171
+  },
+  {
+   "card_17lands": "Yawgmoth, Thran Physician",
+   "scryfall_name": "Yawgmoth, Thran Physician",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2217,
+   "gih_wr": 0.6287776274244474
+  },
+  {
+   "card_17lands": "Sephiroth, Fabled SOLDIER",
+   "scryfall_name": "Sephiroth, Fabled SOLDIER [MULTI]",
+   "match": "first-face",
+   "gih": 7031,
+   "gih_wr": 0.62409330109515
+  },
+  {
+   "card_17lands": "Primeval Titan",
+   "scryfall_name": "Primeval Titan",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1729,
+   "gih_wr": 0.6205899363794101
+  },
+  {
+   "card_17lands": "Adeline, Resplendent Cathar",
+   "scryfall_name": "Adeline, Resplendent Cathar",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1629,
+   "gih_wr": 0.6175567833026396
+  },
+  {
+   "card_17lands": "Yuna, Hope of Spira",
+   "scryfall_name": "Yuna, Hope of Spira",
+   "match": "full",
+   "gih": 4346,
+   "gih_wr": 0.616889093419236
+  },
+  {
+   "card_17lands": "Dragoon's Lance",
+   "scryfall_name": "Dragoon's Lance",
+   "match": "full",
+   "gih": 37392,
+   "gih_wr": 0.6159873769790329
+  },
+  {
+   "card_17lands": "Sram, Senior Edificer",
+   "scryfall_name": "Sram, Senior Edificer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1641,
+   "gih_wr": 0.6148689823278489
+  },
+  {
+   "card_17lands": "Summon: Fenrir",
+   "scryfall_name": "Summon: Fenrir",
+   "match": "full",
+   "gih": 38269,
+   "gih_wr": 0.613682092555332
+  },
+  {
+   "card_17lands": "Buster Sword",
+   "scryfall_name": "Buster Sword",
+   "match": "full",
+   "gih": 7449,
+   "gih_wr": 0.6136394146865352
+  },
+  {
+   "card_17lands": "Choco-Comet",
+   "scryfall_name": "Choco-Comet",
+   "match": "full",
+   "gih": 40908,
+   "gih_wr": 0.6121296567908477
+  },
+  {
+   "card_17lands": "Samurai's Katana",
+   "scryfall_name": "Samurai's Katana",
+   "match": "full",
+   "gih": 36230,
+   "gih_wr": 0.6081424234060171
+  },
+  {
+   "card_17lands": "Memories Returning",
+   "scryfall_name": "Memories Returning",
+   "match": "full",
+   "gih": 19489,
+   "gih_wr": 0.6050592642003181
+  },
+  {
+   "card_17lands": "Cloud of Darkness",
+   "scryfall_name": "Cloud of Darkness",
+   "match": "full",
+   "gih": 35476,
+   "gih_wr": 0.6042958619912053
+  },
+  {
+   "card_17lands": "Jenova, Ancient Calamity",
+   "scryfall_name": "Jenova, Ancient Calamity",
+   "match": "full",
+   "gih": 14766,
+   "gih_wr": 0.6038195855343357
+  },
+  {
+   "card_17lands": "Lightning Bolt",
+   "scryfall_name": "Lightning Bolt",
+   "match": "non-set (bonus/token/other)",
+   "gih": 14202,
+   "gih_wr": 0.6035065483734685
+  },
+  {
+   "card_17lands": "Seifer Almasy",
+   "scryfall_name": "Seifer Almasy",
+   "match": "full",
+   "gih": 13216,
+   "gih_wr": 0.6032838983050848
+  },
+  {
+   "card_17lands": "Sazh's Chocobo",
+   "scryfall_name": "Sazh's Chocobo",
+   "match": "full",
+   "gih": 30779,
+   "gih_wr": 0.6026836479417785
+  },
+  {
+   "card_17lands": "Ragavan, Nimble Pilferer",
+   "scryfall_name": "Ragavan, Nimble Pilferer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1751,
+   "gih_wr": 0.6025128498001142
+  },
+  {
+   "card_17lands": "Dark Confidant",
+   "scryfall_name": "Dark Confidant",
+   "match": "full",
+   "gih": 5639,
+   "gih_wr": 0.6013477566944494
+  },
+  {
+   "card_17lands": "Delivery Moogle",
+   "scryfall_name": "Delivery Moogle",
+   "match": "full",
+   "gih": 34413,
+   "gih_wr": 0.6007613401912069
+  },
+  {
+   "card_17lands": "Kenrith, the Returned King",
+   "scryfall_name": "Kenrith, the Returned King",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1656,
+   "gih_wr": 0.6002415458937198
+  },
+  {
+   "card_17lands": "Sidequest: Hunt the Mark",
+   "scryfall_name": "Sidequest: Hunt the Mark [MULTI]",
+   "match": "first-face",
+   "gih": 40827,
+   "gih_wr": 0.6001910500404144
+  },
+  {
+   "card_17lands": "Summon: Titan",
+   "scryfall_name": "Summon: Titan",
+   "match": "full",
+   "gih": 13132,
+   "gih_wr": 0.5992994212610417
+  },
+  {
+   "card_17lands": "Ranger-Captain of Eos",
+   "scryfall_name": "Ranger-Captain of Eos",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1143,
+   "gih_wr": 0.5975503062117236
+  },
+  {
+   "card_17lands": "The Emperor of Palamecia",
+   "scryfall_name": "The Emperor of Palamecia [MULTI]",
+   "match": "first-face",
+   "gih": 34155,
+   "gih_wr": 0.5971014492753624
+  },
+  {
+   "card_17lands": "Summon: Knights of Round",
+   "scryfall_name": "Summon: Knights of Round",
+   "match": "full",
+   "gih": 6093,
+   "gih_wr": 0.596914492040046
+  },
+  {
+   "card_17lands": "Vivi Ornitier",
+   "scryfall_name": "Vivi Ornitier",
+   "match": "full",
+   "gih": 5811,
+   "gih_wr": 0.5966270865599724
+  },
+  {
+   "card_17lands": "Shantotto, Tactician Magician",
+   "scryfall_name": "Shantotto, Tactician Magician",
+   "match": "full",
+   "gih": 37033,
+   "gih_wr": 0.5960089649771825
+  },
+  {
+   "card_17lands": "Traveling Chocobo",
+   "scryfall_name": "Traveling Chocobo",
+   "match": "full",
+   "gih": 5702,
+   "gih_wr": 0.5955804980708523
+  },
+  {
+   "card_17lands": "White Auracite",
+   "scryfall_name": "White Auracite",
+   "match": "full",
+   "gih": 76890,
+   "gih_wr": 0.5955520873975809
+  },
+  {
+   "card_17lands": "The Lunar Whale",
+   "scryfall_name": "The Lunar Whale",
+   "match": "full",
+   "gih": 19013,
+   "gih_wr": 0.595224320201967
+  },
+  {
+   "card_17lands": "Summon: Leviathan",
+   "scryfall_name": "Summon: Leviathan",
+   "match": "full",
+   "gih": 17142,
+   "gih_wr": 0.5949714152374286
+  },
+  {
+   "card_17lands": "Overkill",
+   "scryfall_name": "Overkill",
+   "match": "full",
+   "gih": 38878,
+   "gih_wr": 0.5946036318740676
+  },
+  {
+   "card_17lands": "Moogles' Valor",
+   "scryfall_name": "Moogles' Valor",
+   "match": "full",
+   "gih": 11745,
+   "gih_wr": 0.5943805874840358
+  },
+  {
+   "card_17lands": "Zenos yae Galvus",
+   "scryfall_name": "Zenos yae Galvus [MULTI]",
+   "match": "first-face",
+   "gih": 13959,
+   "gih_wr": 0.5943119134608497
+  },
+  {
+   "card_17lands": "Eject",
+   "scryfall_name": "Eject",
+   "match": "full",
+   "gih": 52050,
+   "gih_wr": 0.5942555235350624
+  },
+  {
+   "card_17lands": "Fatal Push",
+   "scryfall_name": "Fatal Push",
+   "match": "non-set (bonus/token/other)",
+   "gih": 14955,
+   "gih_wr": 0.5939819458375125
+  },
+  {
+   "card_17lands": "Sidequest: Card Collection",
+   "scryfall_name": "Sidequest: Card Collection // Magicked Card",
+   "match": "first-face",
+   "gih": 37971,
+   "gih_wr": 0.5938216006952675
+  },
+  {
+   "card_17lands": "Swallowed by Leviathan",
+   "scryfall_name": "Swallowed by Leviathan",
+   "match": "full",
+   "gih": 48605,
+   "gih_wr": 0.5928813908034153
+  },
+  {
+   "card_17lands": "Muldrotha, the Gravetide",
+   "scryfall_name": "Muldrotha, the Gravetide",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1770,
+   "gih_wr": 0.5926553672316384
+  },
+  {
+   "card_17lands": "Sin, Spira's Punishment",
+   "scryfall_name": "Sin, Spira's Punishment",
+   "match": "full",
+   "gih": 14813,
+   "gih_wr": 0.5925875919800175
+  },
+  {
+   "card_17lands": "Sleep Magic",
+   "scryfall_name": "Sleep Magic",
+   "match": "full",
+   "gih": 43779,
+   "gih_wr": 0.592361634573654
+  },
+  {
+   "card_17lands": "Machinist's Arsenal",
+   "scryfall_name": "Machinist's Arsenal",
+   "match": "full",
+   "gih": 12803,
+   "gih_wr": 0.592283058658127
+  },
+  {
+   "card_17lands": "Emet-Selch, Unsundered",
+   "scryfall_name": "Emet-Selch, Unsundered [MULTI]",
+   "match": "first-face",
+   "gih": 6223,
+   "gih_wr": 0.5921581230917564
+  },
+  {
+   "card_17lands": "Combat Tutorial",
+   "scryfall_name": "Combat Tutorial",
+   "match": "full",
+   "gih": 101539,
+   "gih_wr": 0.5914476211111002
+  },
+  {
+   "card_17lands": "Cloud, Midgar Mercenary",
+   "scryfall_name": "Cloud, Midgar Mercenary",
+   "match": "full",
+   "gih": 4996,
+   "gih_wr": 0.5912730184147318
+  },
+  {
+   "card_17lands": "Town Greeter",
+   "scryfall_name": "Town Greeter",
+   "match": "full",
+   "gih": 81709,
+   "gih_wr": 0.591256777099218
+  },
+  {
+   "card_17lands": "Counterspell",
+   "scryfall_name": "Counterspell",
+   "match": "non-set (bonus/token/other)",
+   "gih": 15284,
+   "gih_wr": 0.5908793509552474
+  },
+  {
+   "card_17lands": "Squall, SeeD Mercenary",
+   "scryfall_name": "Squall, SeeD Mercenary",
+   "match": "full",
+   "gih": 10213,
+   "gih_wr": 0.5902281406051111
+  },
+  {
+   "card_17lands": "Ancient Adamantoise",
+   "scryfall_name": "Ancient Adamantoise",
+   "match": "full",
+   "gih": 5124,
+   "gih_wr": 0.5893832943013271
+  },
+  {
+   "card_17lands": "Coliseum Behemoth",
+   "scryfall_name": "Coliseum Behemoth",
+   "match": "full",
+   "gih": 30960,
+   "gih_wr": 0.5892764857881136
+  },
+  {
+   "card_17lands": "Adelbert Steiner",
+   "scryfall_name": "Adelbert Steiner",
+   "match": "full",
+   "gih": 29099,
+   "gih_wr": 0.5892642358843947
+  },
+  {
+   "card_17lands": "Ignis Scientia",
+   "scryfall_name": "Ignis Scientia",
+   "match": "full",
+   "gih": 30643,
+   "gih_wr": 0.5890741768103646
+  },
+  {
+   "card_17lands": "Dragoon's Wyvern",
+   "scryfall_name": "Dragoon's Wyvern",
+   "match": "full",
+   "gih": 115937,
+   "gih_wr": 0.5889405452961523
+  },
+  {
+   "card_17lands": "Sephiroth's Intervention",
+   "scryfall_name": "Sephiroth's Intervention",
+   "match": "full",
+   "gih": 93353,
+   "gih_wr": 0.5888616327273896
+  },
+  {
+   "card_17lands": "Absolute Virtue",
+   "scryfall_name": "Absolute Virtue",
+   "match": "full",
+   "gih": 4051,
+   "gih_wr": 0.5884966674895088
+  },
+  {
+   "card_17lands": "Vanille, Cheerful l'Cie",
+   "scryfall_name": "Vanille, Cheerful l'Cie",
+   "match": "full",
+   "gih": 37061,
+   "gih_wr": 0.5881114918647635
+  },
+  {
+   "card_17lands": "Loran of the Third Path",
+   "scryfall_name": "Loran of the Third Path",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1453,
+   "gih_wr": 0.5877494838265658
+  },
+  {
+   "card_17lands": "Battle Menu",
+   "scryfall_name": "Battle Menu",
+   "match": "full",
+   "gih": 30671,
+   "gih_wr": 0.5874930716311826
+  },
+  {
+   "card_17lands": "Torgal, A Fine Hound",
+   "scryfall_name": "Torgal, A Fine Hound",
+   "match": "full",
+   "gih": 35473,
+   "gih_wr": 0.5873481239252389
+  },
+  {
+   "card_17lands": "Ultros, Obnoxious Octopus",
+   "scryfall_name": "Ultros, Obnoxious Octopus",
+   "match": "full",
+   "gih": 44825,
+   "gih_wr": 0.5865030674846625
+  },
+  {
+   "card_17lands": "Thunder Magic",
+   "scryfall_name": "Thunder Magic",
+   "match": "full",
+   "gih": 88863,
+   "gih_wr": 0.5862282389746013
+  },
+  {
+   "card_17lands": "Zidane, Tantalus Thief",
+   "scryfall_name": "Zidane, Tantalus Thief",
+   "match": "full",
+   "gih": 16964,
+   "gih_wr": 0.5861235557651497
+  },
+  {
+   "card_17lands": "Sorceress's Schemes",
+   "scryfall_name": "Sorceress's Schemes",
+   "match": "full",
+   "gih": 25731,
+   "gih_wr": 0.5855582760094827
+  },
+  {
+   "card_17lands": "Cecil, Dark Knight",
+   "scryfall_name": "Cecil, Dark Knight [MULTI]",
+   "match": "first-face",
+   "gih": 12331,
+   "gih_wr": 0.5853539858892223
+  },
+  {
+   "card_17lands": "Gix, Yawgmoth Praetor",
+   "scryfall_name": "Gix, Yawgmoth Praetor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1789,
+   "gih_wr": 0.5852431525992174
+  },
+  {
+   "card_17lands": "Vincent Valentine",
+   "scryfall_name": "Vincent Valentine [MULTI]",
+   "match": "first-face",
+   "gih": 12209,
+   "gih_wr": 0.5845687607502662
+  },
+  {
+   "card_17lands": "Venser, Shaper Savant",
+   "scryfall_name": "Venser, Shaper Savant",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2135,
+   "gih_wr": 0.5845433255269321
+  },
+  {
+   "card_17lands": "Ice Magic",
+   "scryfall_name": "Ice Magic",
+   "match": "full",
+   "gih": 110624,
+   "gih_wr": 0.5843849435927104
+  },
+  {
+   "card_17lands": "Joshua, Phoenix's Dominant",
+   "scryfall_name": "Joshua, Phoenix's Dominant [MULTI]",
+   "match": "first-face",
+   "gih": 10910,
+   "gih_wr": 0.5842346471127406
+  },
+  {
+   "card_17lands": "Resentful Revelation",
+   "scryfall_name": "Resentful Revelation",
+   "match": "full",
+   "gih": 77766,
+   "gih_wr": 0.5839441401126456
+  },
+  {
+   "card_17lands": "Omega, Heartless Evolution",
+   "scryfall_name": "Omega, Heartless Evolution",
+   "match": "full",
+   "gih": 28131,
+   "gih_wr": 0.583626604102236
+  },
+  {
+   "card_17lands": "Exdeath, Void Warlock",
+   "scryfall_name": "Exdeath, Void Warlock [MULTI]",
+   "match": "first-face",
+   "gih": 25088,
+   "gih_wr": 0.5832669005102041
+  },
+  {
+   "card_17lands": "Magitek Infantry",
+   "scryfall_name": "Magitek Infantry",
+   "match": "full",
+   "gih": 55879,
+   "gih_wr": 0.5832423629628304
+  },
+  {
+   "card_17lands": "Il Mheg Pixie",
+   "scryfall_name": "Il Mheg Pixie",
+   "match": "full",
+   "gih": 46390,
+   "gih_wr": 0.5820004311273982
+  },
+  {
+   "card_17lands": "Sahagin",
+   "scryfall_name": "Sahagin",
+   "match": "full",
+   "gih": 94623,
+   "gih_wr": 0.5819938070025258
+  },
+  {
+   "card_17lands": "Rinoa Heartilly",
+   "scryfall_name": "Rinoa Heartilly",
+   "match": "full",
+   "gih": 18211,
+   "gih_wr": 0.5815166657514689
+  },
+  {
+   "card_17lands": "Balamb Garden, SeeD Academy",
+   "scryfall_name": "Balamb Garden, SeeD Academy [MULTI]",
+   "match": "first-face",
+   "gih": 13639,
+   "gih_wr": 0.5812742869711855
+  },
+  {
+   "card_17lands": "Cornered by Black Mages",
+   "scryfall_name": "Cornered by Black Mages",
+   "match": "full",
+   "gih": 75719,
+   "gih_wr": 0.5811355142038326
+  },
+  {
+   "card_17lands": "White Mage's Staff",
+   "scryfall_name": "White Mage's Staff",
+   "match": "full",
+   "gih": 75573,
+   "gih_wr": 0.5810011512047953
+  },
+  {
+   "card_17lands": "Summon: Fat Chocobo",
+   "scryfall_name": "Summon: Fat Chocobo",
+   "match": "full",
+   "gih": 71663,
+   "gih_wr": 0.5809971672969315
+  },
+  {
+   "card_17lands": "Circle of Power",
+   "scryfall_name": "Circle of Power",
+   "match": "full",
+   "gih": 30110,
+   "gih_wr": 0.5805380272334772
+  },
+  {
+   "card_17lands": "Venat, Heart of Hydaelyn",
+   "scryfall_name": "Venat, Heart of Hydaelyn [MULTI]",
+   "match": "first-face",
+   "gih": 11424,
+   "gih_wr": 0.5805322128851541
+  },
+  {
+   "card_17lands": "Zack Fair",
+   "scryfall_name": "Zack Fair",
+   "match": "full",
+   "gih": 27942,
+   "gih_wr": 0.5803092119390165
+  },
+  {
+   "card_17lands": "Dreams of Laguna",
+   "scryfall_name": "Dreams of Laguna",
+   "match": "full",
+   "gih": 95901,
+   "gih_wr": 0.5802025004953024
+  },
+  {
+   "card_17lands": "Ninja's Blades",
+   "scryfall_name": "Ninja's Blades",
+   "match": "full",
+   "gih": 11216,
+   "gih_wr": 0.579885877318117
+  },
+  {
+   "card_17lands": "Chocobo Kick",
+   "scryfall_name": "Chocobo Kick",
+   "match": "full",
+   "gih": 72011,
+   "gih_wr": 0.5794670258710475
+  },
+  {
+   "card_17lands": "Fire Magic",
+   "scryfall_name": "Fire Magic",
+   "match": "full",
+   "gih": 25147,
+   "gih_wr": 0.5790750387720205
+  },
+  {
+   "card_17lands": "Vayne's Treachery",
+   "scryfall_name": "Vayne's Treachery",
+   "match": "full",
+   "gih": 91757,
+   "gih_wr": 0.5789966977996229
+  },
+  {
+   "card_17lands": "Gilgamesh, Master-at-Arms",
+   "scryfall_name": "Gilgamesh, Master-at-Arms",
+   "match": "full",
+   "gih": 7840,
+   "gih_wr": 0.578954081632653
+  },
+  {
+   "card_17lands": "Locke Cole",
+   "scryfall_name": "Locke Cole",
+   "match": "full",
+   "gih": 27796,
+   "gih_wr": 0.5788962440638941
+  },
+  {
+   "card_17lands": "Syncopate",
+   "scryfall_name": "Syncopate",
+   "match": "full",
+   "gih": 76752,
+   "gih_wr": 0.5786429018136335
+  },
+  {
+   "card_17lands": "The Regalia",
+   "scryfall_name": "The Regalia",
+   "match": "full",
+   "gih": 15779,
+   "gih_wr": 0.5785537740034222
+  },
+  {
+   "card_17lands": "Kraum, Ludevic's Opus",
+   "scryfall_name": "Kraum, Ludevic's Opus",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1665,
+   "gih_wr": 0.5783783783783784
+  },
+  {
+   "card_17lands": "Wall of Omens",
+   "scryfall_name": "Wall of Omens",
+   "match": "non-set (bonus/token/other)",
+   "gih": 7756,
+   "gih_wr": 0.5782619907168643
+  },
+  {
+   "card_17lands": "Call the Mountain Chocobo",
+   "scryfall_name": "Call the Mountain Chocobo",
+   "match": "full",
+   "gih": 68110,
+   "gih_wr": 0.577301424166789
+  },
+  {
+   "card_17lands": "Gladiolus Amicitia",
+   "scryfall_name": "Gladiolus Amicitia",
+   "match": "full",
+   "gih": 22197,
+   "gih_wr": 0.5767446051268189
+  },
+  {
+   "card_17lands": "Captain Lannery Storm",
+   "scryfall_name": "Captain Lannery Storm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 10654,
+   "gih_wr": 0.576497090294725
+  },
+  {
+   "card_17lands": "Blazing Bomb",
+   "scryfall_name": "Blazing Bomb",
+   "match": "full",
+   "gih": 48162,
+   "gih_wr": 0.5762011544371081
+  },
+  {
+   "card_17lands": "Restoration Magic",
+   "scryfall_name": "Restoration Magic",
+   "match": "full",
+   "gih": 18956,
+   "gih_wr": 0.5761236547794893
+  },
+  {
+   "card_17lands": "Tymna the Weaver",
+   "scryfall_name": "Tymna the Weaver",
+   "match": "non-set (bonus/token/other)",
+   "gih": 802,
+   "gih_wr": 0.5760598503740648
+  },
+  {
+   "card_17lands": "Shinra Reinforcements",
+   "scryfall_name": "Shinra Reinforcements",
+   "match": "full",
+   "gih": 53623,
+   "gih_wr": 0.5753501296085635
+  },
+  {
+   "card_17lands": "Rufus Shinra",
+   "scryfall_name": "Rufus Shinra",
+   "match": "full",
+   "gih": 15684,
+   "gih_wr": 0.5751083907166539
+  },
+  {
+   "card_17lands": "Magitek Armor",
+   "scryfall_name": "Magitek Armor",
+   "match": "full",
+   "gih": 30074,
+   "gih_wr": 0.5749484604641883
+  },
+  {
+   "card_17lands": "Evil Reawakened",
+   "scryfall_name": "Evil Reawakened",
+   "match": "full",
+   "gih": 29790,
+   "gih_wr": 0.5746894931184962
+  },
+  {
+   "card_17lands": "Bolas's Citadel",
+   "scryfall_name": "Bolas's Citadel",
+   "match": "non-set (bonus/token/other)",
+   "gih": 754,
+   "gih_wr": 0.5729442970822282
+  },
+  {
+   "card_17lands": "Astrologian's Planisphere",
+   "scryfall_name": "Astrologian's Planisphere",
+   "match": "full",
+   "gih": 15667,
+   "gih_wr": 0.5726686666241144
+  },
+  {
+   "card_17lands": "Prompto Argentum",
+   "scryfall_name": "Prompto Argentum",
+   "match": "full",
+   "gih": 27110,
+   "gih_wr": 0.5724824787901144
+  },
+  {
+   "card_17lands": "Giott, King of the Dwarves",
+   "scryfall_name": "Giott, King of the Dwarves",
+   "match": "full",
+   "gih": 14302,
+   "gih_wr": 0.5720178995944624
+  },
+  {
+   "card_17lands": "The Crystal's Chosen",
+   "scryfall_name": "The Crystal's Chosen",
+   "match": "full",
+   "gih": 22955,
+   "gih_wr": 0.571988673491614
+  },
+  {
+   "card_17lands": "Summon: Bahamut",
+   "scryfall_name": "Summon: Bahamut",
+   "match": "full",
+   "gih": 6233,
+   "gih_wr": 0.571795283170223
+  },
+  {
+   "card_17lands": "Summon: Shiva",
+   "scryfall_name": "Summon: Shiva",
+   "match": "full",
+   "gih": 34939,
+   "gih_wr": 0.5711668908669395
+  },
+  {
+   "card_17lands": "Suplex",
+   "scryfall_name": "Suplex",
+   "match": "full",
+   "gih": 74581,
+   "gih_wr": 0.5710435633740497
+  },
+  {
+   "card_17lands": "Firion, Wild Rose Warrior",
+   "scryfall_name": "Firion, Wild Rose Warrior",
+   "match": "full",
+   "gih": 7793,
+   "gih_wr": 0.5698703965096882
+  },
+  {
+   "card_17lands": "Deadly Dispute",
+   "scryfall_name": "Deadly Dispute",
+   "match": "non-set (bonus/token/other)",
+   "gih": 10467,
+   "gih_wr": 0.5697907709945543
+  },
+  {
+   "card_17lands": "The Final Days",
+   "scryfall_name": "The Final Days",
+   "match": "full",
+   "gih": 24245,
+   "gih_wr": 0.5697669622602598
+  },
+  {
+   "card_17lands": "Slash of Light",
+   "scryfall_name": "Slash of Light",
+   "match": "full",
+   "gih": 60163,
+   "gih_wr": 0.5697521732626365
+  },
+  {
+   "card_17lands": "Ambrosia Whiteheart",
+   "scryfall_name": "Ambrosia Whiteheart",
+   "match": "full",
+   "gih": 28717,
+   "gih_wr": 0.569175053104433
+  },
+  {
+   "card_17lands": "Summon: Primal Garuda",
+   "scryfall_name": "Summon: Primal Garuda",
+   "match": "full",
+   "gih": 20413,
+   "gih_wr": 0.5687552050164111
+  },
+  {
+   "card_17lands": "Jodah, the Unifier",
+   "scryfall_name": "Jodah, the Unifier",
+   "match": "non-set (bonus/token/other)",
+   "gih": 417,
+   "gih_wr": 0.5683453237410072
+  },
+  {
+   "card_17lands": "Jecht, Reluctant Guardian",
+   "scryfall_name": "Jecht, Reluctant Guardian [MULTI]",
+   "match": "first-face",
+   "gih": 12788,
+   "gih_wr": 0.5681889271191742
+  },
+  {
+   "card_17lands": "Zanarkand, Ancient Metropolis",
+   "scryfall_name": "Zanarkand, Ancient Metropolis [MULTI]",
+   "match": "first-face",
+   "gih": 11861,
+   "gih_wr": 0.5681645729702386
+  },
+  {
+   "card_17lands": "Gaelicat",
+   "scryfall_name": "Gaelicat",
+   "match": "full",
+   "gih": 60468,
+   "gih_wr": 0.5681021366673282
+  },
+  {
+   "card_17lands": "Judge Magister Gabranth",
+   "scryfall_name": "Judge Magister Gabranth",
+   "match": "full",
+   "gih": 16174,
+   "gih_wr": 0.5679485594163473
+  },
+  {
+   "card_17lands": "Vial Smasher the Fierce",
+   "scryfall_name": "Vial Smasher the Fierce",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1311,
+   "gih_wr": 0.5675057208237986
+  },
+  {
+   "card_17lands": "Y'shtola Rhul",
+   "scryfall_name": "Y'shtola Rhul",
+   "match": "full",
+   "gih": 5517,
+   "gih_wr": 0.5673373210077941
+  },
+  {
+   "card_17lands": "Garland, Knight of Cornelia",
+   "scryfall_name": "Garland, Knight of Cornelia [MULTI]",
+   "match": "first-face",
+   "gih": 18347,
+   "gih_wr": 0.5671771951817736
+  },
+  {
+   "card_17lands": "Travel the Overworld",
+   "scryfall_name": "Travel the Overworld",
+   "match": "full",
+   "gih": 27338,
+   "gih_wr": 0.5663911039578609
+  },
+  {
+   "card_17lands": "Hecteyes",
+   "scryfall_name": "Hecteyes",
+   "match": "full",
+   "gih": 75779,
+   "gih_wr": 0.5663310415814408
+  },
+  {
+   "card_17lands": "Lightning, Army of One",
+   "scryfall_name": "Lightning, Army of One",
+   "match": "full",
+   "gih": 4291,
+   "gih_wr": 0.5651363318573759
+  },
+  {
+   "card_17lands": "Quistis Trepe",
+   "scryfall_name": "Quistis Trepe",
+   "match": "full",
+   "gih": 38602,
+   "gih_wr": 0.5647893891508212
+  },
+  {
+   "card_17lands": "Scorpion Sentinel",
+   "scryfall_name": "Scorpion Sentinel",
+   "match": "full",
+   "gih": 76245,
+   "gih_wr": 0.564784576037773
+  },
+  {
+   "card_17lands": "You're Not Alone",
+   "scryfall_name": "You're Not Alone",
+   "match": "full",
+   "gih": 35729,
+   "gih_wr": 0.5647793109238993
+  },
+  {
+   "card_17lands": "Magic Damper",
+   "scryfall_name": "Magic Damper",
+   "match": "full",
+   "gih": 29270,
+   "gih_wr": 0.5645029039972669
+  },
+  {
+   "card_17lands": "Balamb T-Rexaur",
+   "scryfall_name": "Balamb T-Rexaur",
+   "match": "full",
+   "gih": 68568,
+   "gih_wr": 0.5642719635981799
+  },
+  {
+   "card_17lands": "Paladin's Arms",
+   "scryfall_name": "Paladin's Arms",
+   "match": "full",
+   "gih": 61996,
+   "gih_wr": 0.563875088715401
+  },
+  {
+   "card_17lands": "Fynn, the Fangbearer",
+   "scryfall_name": "Fynn, the Fangbearer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 9929,
+   "gih_wr": 0.5636015711552019
+  },
+  {
+   "card_17lands": "Dark Knight's Greatsword",
+   "scryfall_name": "Dark Knight's Greatsword",
+   "match": "full",
+   "gih": 22956,
+   "gih_wr": 0.5634256839170587
+  },
+  {
+   "card_17lands": "Malboro",
+   "scryfall_name": "Malboro",
+   "match": "full",
+   "gih": 67640,
+   "gih_wr": 0.5629804849201656
+  },
+  {
+   "card_17lands": "Bartz and Boko",
+   "scryfall_name": "Bartz and Boko",
+   "match": "full",
+   "gih": 6987,
+   "gih_wr": 0.5627594103334764
+  },
+  {
+   "card_17lands": "Danitha Capashen, Paragon",
+   "scryfall_name": "Danitha Capashen, Paragon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 8820,
+   "gih_wr": 0.5622448979591836
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 296142,
+   "gih_wr": 0.5621863835592384
+  },
+  {
+   "card_17lands": "Capital City",
+   "scryfall_name": "Capital City",
+   "match": "full",
+   "gih": 34587,
+   "gih_wr": 0.5620319773325237
+  },
+  {
+   "card_17lands": "Baron, Airship Kingdom",
+   "scryfall_name": "Baron, Airship Kingdom",
+   "match": "full",
+   "gih": 58872,
+   "gih_wr": 0.5619989128957739
+  },
+  {
+   "card_17lands": "Undercity Dire Rat",
+   "scryfall_name": "Undercity Dire Rat",
+   "match": "full",
+   "gih": 65466,
+   "gih_wr": 0.5619710995020316
+  },
+  {
+   "card_17lands": "Al Bhed Salvagers",
+   "scryfall_name": "Al Bhed Salvagers",
+   "match": "full",
+   "gih": 27029,
+   "gih_wr": 0.5618409856080506
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 314551,
+   "gih_wr": 0.5613398145292814
+  },
+  {
+   "card_17lands": "Retrieve the Esper",
+   "scryfall_name": "Retrieve the Esper",
+   "match": "full",
+   "gih": 76522,
+   "gih_wr": 0.5612764956483103
+  },
+  {
+   "card_17lands": "The Wandering Minstrel",
+   "scryfall_name": "The Wandering Minstrel",
+   "match": "full",
+   "gih": 8119,
+   "gih_wr": 0.5612760192141889
+  },
+  {
+   "card_17lands": "Gran Pulse Ochu",
+   "scryfall_name": "Gran Pulse Ochu",
+   "match": "full",
+   "gih": 49747,
+   "gih_wr": 0.5610187548997929
+  },
+  {
+   "card_17lands": "Weapons Vendor",
+   "scryfall_name": "Weapons Vendor",
+   "match": "full",
+   "gih": 48183,
+   "gih_wr": 0.5608202062968267
+  },
+  {
+   "card_17lands": "Cid, Timeless Artificer",
+   "scryfall_name": "Cid, Timeless Artificer",
+   "match": "full",
+   "gih": 17339,
+   "gih_wr": 0.560701309187381
+  },
+  {
+   "card_17lands": "Garnet, Princess of Alexandria",
+   "scryfall_name": "Garnet, Princess of Alexandria",
+   "match": "full",
+   "gih": 12120,
+   "gih_wr": 0.5605610561056106
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 400110,
+   "gih_wr": 0.5604608732598535
+  },
+  {
+   "card_17lands": "Tonberry",
+   "scryfall_name": "Tonberry",
+   "match": "full",
+   "gih": 18336,
+   "gih_wr": 0.5602094240837696
+  },
+  {
+   "card_17lands": "Phantom Train",
+   "scryfall_name": "Phantom Train",
+   "match": "full",
+   "gih": 15215,
+   "gih_wr": 0.5601051593821886
+  },
+  {
+   "card_17lands": "Syr Konrad, the Grim",
+   "scryfall_name": "Syr Konrad, the Grim",
+   "match": "non-set (bonus/token/other)",
+   "gih": 11491,
+   "gih_wr": 0.5595683578452703
+  },
+  {
+   "card_17lands": "PuPu UFO",
+   "scryfall_name": "PuPu UFO",
+   "match": "full",
+   "gih": 17062,
+   "gih_wr": 0.5594889227523151
+  },
+  {
+   "card_17lands": "Stuck in Summoner's Sanctum",
+   "scryfall_name": "Stuck in Summoner's Sanctum",
+   "match": "full",
+   "gih": 79992,
+   "gih_wr": 0.5592684268426843
+  },
+  {
+   "card_17lands": "Aerith Gainsborough",
+   "scryfall_name": "Aerith Gainsborough",
+   "match": "full",
+   "gih": 8043,
+   "gih_wr": 0.5588710680094492
+  },
+  {
+   "card_17lands": "Bard's Bow",
+   "scryfall_name": "Bard's Bow",
+   "match": "full",
+   "gih": 49105,
+   "gih_wr": 0.5587007433051624
+  },
+  {
+   "card_17lands": "Black Mage's Rod",
+   "scryfall_name": "Black Mage's Rod",
+   "match": "full",
+   "gih": 65739,
+   "gih_wr": 0.5584964784983039
+  },
+  {
+   "card_17lands": "Godo, Bandit Warlord",
+   "scryfall_name": "Godo, Bandit Warlord",
+   "match": "non-set (bonus/token/other)",
+   "gih": 899,
+   "gih_wr": 0.5583982202447163
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 377067,
+   "gih_wr": 0.5583835233526138
+  },
+  {
+   "card_17lands": "Treno, Dark City",
+   "scryfall_name": "Treno, Dark City",
+   "match": "full",
+   "gih": 60582,
+   "gih_wr": 0.55835066521409
+  },
+  {
+   "card_17lands": "Goobbue Gardener",
+   "scryfall_name": "Goobbue Gardener",
+   "match": "full",
+   "gih": 63722,
+   "gih_wr": 0.5582844229622422
+  },
+  {
+   "card_17lands": "Crossroads Village",
+   "scryfall_name": "Crossroads Village",
+   "match": "full",
+   "gih": 99504,
+   "gih_wr": 0.5579675188937128
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 286864,
+   "gih_wr": 0.557832282893636
+  },
+  {
+   "card_17lands": "Clive, Ifrit's Dominant",
+   "scryfall_name": "Clive, Ifrit's Dominant [MULTI]",
+   "match": "first-face",
+   "gih": 5253,
+   "gih_wr": 0.5575861412526175
+  },
+  {
+   "card_17lands": "Guadosalam, Farplane Gateway",
+   "scryfall_name": "Guadosalam, Farplane Gateway",
+   "match": "full",
+   "gih": 51249,
+   "gih_wr": 0.5571620909676286
+  },
+  {
+   "card_17lands": "Zell Dincht",
+   "scryfall_name": "Zell Dincht",
+   "match": "full",
+   "gih": 6056,
+   "gih_wr": 0.5569682959048877
+  },
+  {
+   "card_17lands": "Relm's Sketching",
+   "scryfall_name": "Relm's Sketching",
+   "match": "full",
+   "gih": 31438,
+   "gih_wr": 0.5567784210191488
+  },
+  {
+   "card_17lands": "Freya Crescent",
+   "scryfall_name": "Freya Crescent",
+   "match": "full",
+   "gih": 13129,
+   "gih_wr": 0.5566303602711554
+  },
+  {
+   "card_17lands": "Gohn, Town of Ruin",
+   "scryfall_name": "Gohn, Town of Ruin",
+   "match": "full",
+   "gih": 53489,
+   "gih_wr": 0.5564882499205445
+  },
+  {
+   "card_17lands": "Ride the Shoopuf",
+   "scryfall_name": "Ride the Shoopuf",
+   "match": "full",
+   "gih": 16576,
+   "gih_wr": 0.5562258687258688
+  },
+  {
+   "card_17lands": "Ultima",
+   "scryfall_name": "Ultima",
+   "match": "full",
+   "gih": 7286,
+   "gih_wr": 0.5561350535273126
+  },
+  {
+   "card_17lands": "Warrior's Sword",
+   "scryfall_name": "Warrior's Sword",
+   "match": "full",
+   "gih": 54339,
+   "gih_wr": 0.5561015108853677
+  },
+  {
+   "card_17lands": "Choco, Seeker of Paradise",
+   "scryfall_name": "Choco, Seeker of Paradise",
+   "match": "full",
+   "gih": 5893,
+   "gih_wr": 0.5560834888851179
+  },
+  {
+   "card_17lands": "Thrasios, Triton Hero",
+   "scryfall_name": "Thrasios, Triton Hero",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1214,
+   "gih_wr": 0.556013179571664
+  },
+  {
+   "card_17lands": "Ultimecia, Time Sorceress",
+   "scryfall_name": "Ultimecia, Time Sorceress [MULTI]",
+   "match": "first-face",
+   "gih": 23898,
+   "gih_wr": 0.5554439702067119
+  },
+  {
+   "card_17lands": "Adventurer's Inn",
+   "scryfall_name": "Adventurer's Inn",
+   "match": "full",
+   "gih": 13339,
+   "gih_wr": 0.5552890021740761
+  },
+  {
+   "card_17lands": "Najeela, the Blade-Blossom",
+   "scryfall_name": "Najeela, the Blade-Blossom",
+   "match": "non-set (bonus/token/other)",
+   "gih": 814,
+   "gih_wr": 0.5552825552825553
+  },
+  {
+   "card_17lands": "Gaius van Baelsar",
+   "scryfall_name": "Gaius van Baelsar",
+   "match": "full",
+   "gih": 23469,
+   "gih_wr": 0.5552004772252759
+  },
+  {
+   "card_17lands": "Diamond Weapon",
+   "scryfall_name": "Diamond Weapon",
+   "match": "full",
+   "gih": 19535,
+   "gih_wr": 0.5550038392628616
+  },
+  {
+   "card_17lands": "Starting Town",
+   "scryfall_name": "Starting Town",
+   "match": "full",
+   "gih": 12468,
+   "gih_wr": 0.5539781841514276
+  },
+  {
+   "card_17lands": "Ahriman",
+   "scryfall_name": "Ahriman",
+   "match": "full",
+   "gih": 51789,
+   "gih_wr": 0.5538048620363397
+  },
+  {
+   "card_17lands": "Eden, Seat of the Sanctum",
+   "scryfall_name": "Eden, Seat of the Sanctum",
+   "match": "full",
+   "gih": 15791,
+   "gih_wr": 0.5529732125894496
+  },
+  {
+   "card_17lands": "Light Up the Stage",
+   "scryfall_name": "Light Up the Stage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 5919,
+   "gih_wr": 0.5526271329616489
+  },
+  {
+   "card_17lands": "Coral Sword",
+   "scryfall_name": "Coral Sword",
+   "match": "full",
+   "gih": 10652,
+   "gih_wr": 0.5522906496432595
+  },
+  {
+   "card_17lands": "Cargo Ship",
+   "scryfall_name": "Cargo Ship",
+   "match": "full",
+   "gih": 13212,
+   "gih_wr": 0.5519224947017862
+  },
+  {
+   "card_17lands": "Vector, Imperial Capital",
+   "scryfall_name": "Vector, Imperial Capital",
+   "match": "full",
+   "gih": 43930,
+   "gih_wr": 0.5515137719098566
+  },
+  {
+   "card_17lands": "Namazu Trader",
+   "scryfall_name": "Namazu Trader",
+   "match": "full",
+   "gih": 39587,
+   "gih_wr": 0.5513931341096825
+  },
+  {
+   "card_17lands": "Ashe, Princess of Dalmasca",
+   "scryfall_name": "Ashe, Princess of Dalmasca",
+   "match": "full",
+   "gih": 19623,
+   "gih_wr": 0.5512408907914182
+  },
+  {
+   "card_17lands": "Demon Wall",
+   "scryfall_name": "Demon Wall",
+   "match": "full",
+   "gih": 25783,
+   "gih_wr": 0.5511383469728115
+  },
+  {
+   "card_17lands": "Tellah, Great Sage",
+   "scryfall_name": "Tellah, Great Sage",
+   "match": "full",
+   "gih": 11656,
+   "gih_wr": 0.5499313658201784
+  },
+  {
+   "card_17lands": "Fight On!",
+   "scryfall_name": "Fight On!",
+   "match": "full",
+   "gih": 51592,
+   "gih_wr": 0.5494262676383935
+  },
+  {
+   "card_17lands": "Gysahl Greens",
+   "scryfall_name": "Gysahl Greens",
+   "match": "full",
+   "gih": 44220,
+   "gih_wr": 0.5484848484848485
+  },
+  {
+   "card_17lands": "Zodiark, Umbral God",
+   "scryfall_name": "Zodiark, Umbral God",
+   "match": "full",
+   "gih": 5124,
+   "gih_wr": 0.5476190476190477
+  },
+  {
+   "card_17lands": "Monk's Fist",
+   "scryfall_name": "Monk's Fist",
+   "match": "full",
+   "gih": 42922,
+   "gih_wr": 0.5474115838031779
+  },
+  {
+   "card_17lands": "Dwarven Castle Guard",
+   "scryfall_name": "Dwarven Castle Guard",
+   "match": "full",
+   "gih": 39927,
+   "gih_wr": 0.5473489117639693
+  },
+  {
+   "card_17lands": "Prishe's Wanderings",
+   "scryfall_name": "Prishe's Wanderings",
+   "match": "full",
+   "gih": 49104,
+   "gih_wr": 0.5473484848484849
+  },
+  {
+   "card_17lands": "Rydia, Summoner of Mist",
+   "scryfall_name": "Rydia, Summoner of Mist",
+   "match": "full",
+   "gih": 10711,
+   "gih_wr": 0.5465409392213613
+  },
+  {
+   "card_17lands": "Sharlayan, Nation of Scholars",
+   "scryfall_name": "Sharlayan, Nation of Scholars",
+   "match": "full",
+   "gih": 40904,
+   "gih_wr": 0.5463768824564835
+  },
+  {
+   "card_17lands": "Terra, Magical Adept",
+   "scryfall_name": "Terra, Magical Adept [MULTI]",
+   "match": "first-face",
+   "gih": 2731,
+   "gih_wr": 0.5459538630538264
+  },
+  {
+   "card_17lands": "Lion Heart",
+   "scryfall_name": "Lion Heart",
+   "match": "full",
+   "gih": 23432,
+   "gih_wr": 0.5457494025264595
+  },
+  {
+   "card_17lands": "Fate of the Sun-Cryst",
+   "scryfall_name": "Fate of the Sun-Cryst",
+   "match": "full",
+   "gih": 47042,
+   "gih_wr": 0.5451936567322818
+  },
+  {
+   "card_17lands": "Windurst, Federation Center",
+   "scryfall_name": "Windurst, Federation Center",
+   "match": "full",
+   "gih": 33663,
+   "gih_wr": 0.5449900484211152
+  },
+  {
+   "card_17lands": "Midgar, City of Mako",
+   "scryfall_name": "Midgar, City of Mako [MULTI]",
+   "match": "first-face",
+   "gih": 10274,
+   "gih_wr": 0.5447732139380962
+  },
+  {
+   "card_17lands": "Blitzball Shot",
+   "scryfall_name": "Blitzball Shot",
+   "match": "full",
+   "gih": 17957,
+   "gih_wr": 0.544133207105864
+  },
+  {
+   "card_17lands": "Light of Judgment",
+   "scryfall_name": "Light of Judgment",
+   "match": "full",
+   "gih": 46954,
+   "gih_wr": 0.5438940239383226
+  },
+  {
+   "card_17lands": "Traxos, Scourge of Kroog",
+   "scryfall_name": "Traxos, Scourge of Kroog",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1579,
+   "gih_wr": 0.5433818872704244
+  },
+  {
+   "card_17lands": "Coeurl",
+   "scryfall_name": "Coeurl",
+   "match": "full",
+   "gih": 26081,
+   "gih_wr": 0.5433457306084889
+  },
+  {
+   "card_17lands": "Aerith Rescue Mission",
+   "scryfall_name": "Aerith Rescue Mission",
+   "match": "full",
+   "gih": 24483,
+   "gih_wr": 0.5431115467875669
+  },
+  {
+   "card_17lands": "Commune with Beavers",
+   "scryfall_name": "Commune with Beavers",
+   "match": "full",
+   "gih": 17017,
+   "gih_wr": 0.5430451901040136
+  },
+  {
+   "card_17lands": "Reno and Rude",
+   "scryfall_name": "Reno and Rude",
+   "match": "full",
+   "gih": 21511,
+   "gih_wr": 0.5429780112500581
+  },
+  {
+   "card_17lands": "The Darkness Crystal",
+   "scryfall_name": "The Darkness Crystal",
+   "match": "full",
+   "gih": 6057,
+   "gih_wr": 0.54284299157999
+  },
+  {
+   "card_17lands": "Sidequest: Raise a Chocobo",
+   "scryfall_name": "Sidequest: Raise a Chocobo // Black Chocobo",
+   "match": "first-face",
+   "gih": 16504,
+   "gih_wr": 0.5428380998545808
+  },
+  {
+   "card_17lands": "Raubahn, Bull of Ala Mhigo",
+   "scryfall_name": "Raubahn, Bull of Ala Mhigo",
+   "match": "full",
+   "gih": 6658,
+   "gih_wr": 0.5422048663262241
+  },
+  {
+   "card_17lands": "Gongaga, Reactor Town",
+   "scryfall_name": "Gongaga, Reactor Town",
+   "match": "full",
+   "gih": 34702,
+   "gih_wr": 0.5417843351968187
+  },
+  {
+   "card_17lands": "G'raha Tia",
+   "scryfall_name": "G'raha Tia",
+   "match": "full",
+   "gih": 21324,
+   "gih_wr": 0.541690114425061
+  },
+  {
+   "card_17lands": "Rabanastre, Royal City",
+   "scryfall_name": "Rabanastre, Royal City",
+   "match": "full",
+   "gih": 32360,
+   "gih_wr": 0.5416872682323857
+  },
+  {
+   "card_17lands": "Laughing Mad",
+   "scryfall_name": "Laughing Mad",
+   "match": "full",
+   "gih": 24768,
+   "gih_wr": 0.5412225452196382
+  },
+  {
+   "card_17lands": "Clash of the Eikons",
+   "scryfall_name": "Clash of the Eikons",
+   "match": "full",
+   "gih": 18093,
+   "gih_wr": 0.5410379704858232
+  },
+  {
+   "card_17lands": "Edgar, King of Figaro",
+   "scryfall_name": "Edgar, King of Figaro",
+   "match": "full",
+   "gih": 7140,
+   "gih_wr": 0.5410364145658263
+  },
+  {
+   "card_17lands": "Item Shopkeep",
+   "scryfall_name": "Item Shopkeep",
+   "match": "full",
+   "gih": 19510,
+   "gih_wr": 0.5408508457201435
+  },
+  {
+   "card_17lands": "Ice Flan",
+   "scryfall_name": "Ice Flan",
+   "match": "full",
+   "gih": 44160,
+   "gih_wr": 0.540625
+  },
+  {
+   "card_17lands": "Lindblum, Industrial Regency",
+   "scryfall_name": "Lindblum, Industrial Regency [MULTI]",
+   "match": "first-face",
+   "gih": 8306,
+   "gih_wr": 0.5404526848061643
+  },
+  {
+   "card_17lands": "Mangara, the Diplomat",
+   "scryfall_name": "Mangara, the Diplomat",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1015,
+   "gih_wr": 0.5399014778325123
+  },
+  {
+   "card_17lands": "Insomnia, Crown City",
+   "scryfall_name": "Insomnia, Crown City",
+   "match": "full",
+   "gih": 34490,
+   "gih_wr": 0.5398376340968397
+  },
+  {
+   "card_17lands": "Summon: Choco/Mog",
+   "scryfall_name": "Summon: Choco/Mog",
+   "match": "full",
+   "gih": 31585,
+   "gih_wr": 0.5392749722969764
+  },
+  {
+   "card_17lands": "Isshin, Two Heavens as One",
+   "scryfall_name": "Isshin, Two Heavens as One",
+   "match": "non-set (bonus/token/other)",
+   "gih": 102,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card_17lands": "Airship Crash",
+   "scryfall_name": "Airship Crash",
+   "match": "full",
+   "gih": 21116,
+   "gih_wr": 0.5390225421481342
+  },
+  {
+   "card_17lands": "Farseek",
+   "scryfall_name": "Farseek",
+   "match": "non-set (bonus/token/other)",
+   "gih": 8082,
+   "gih_wr": 0.5388517693640188
+  },
+  {
+   "card_17lands": "Rydia's Return",
+   "scryfall_name": "Rydia's Return",
+   "match": "full",
+   "gih": 13401,
+   "gih_wr": 0.5380195507797926
+  },
+  {
+   "card_17lands": "Ring of the Lucii",
+   "scryfall_name": "Ring of the Lucii",
+   "match": "full",
+   "gih": 10191,
+   "gih_wr": 0.5375331174565794
+  },
+  {
+   "card_17lands": "Reach the Horizon",
+   "scryfall_name": "Reach the Horizon",
+   "match": "full",
+   "gih": 16460,
+   "gih_wr": 0.5374848116646416
+  },
+  {
+   "card_17lands": "Brainstorm",
+   "scryfall_name": "Brainstorm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 4863,
+   "gih_wr": 0.5365001028171911
+  },
+  {
+   "card_17lands": "Ultima, Origin of Oblivion",
+   "scryfall_name": "Ultima, Origin of Oblivion",
+   "match": "full",
+   "gih": 8060,
+   "gih_wr": 0.5357320099255584
+  },
+  {
+   "card_17lands": "Adventurer's Airship",
+   "scryfall_name": "Adventurer's Airship",
+   "match": "full",
+   "gih": 14652,
+   "gih_wr": 0.5354900354900355
+  },
+  {
+   "card_17lands": "Tifa's Limit Break",
+   "scryfall_name": "Tifa's Limit Break",
+   "match": "full",
+   "gih": 10111,
+   "gih_wr": 0.5354564335871823
+  },
+  {
+   "card_17lands": "Instant Ramen",
+   "scryfall_name": "Instant Ramen",
+   "match": "full",
+   "gih": 13167,
+   "gih_wr": 0.5352016404647983
+  },
+  {
+   "card_17lands": "Sage's Nouliths",
+   "scryfall_name": "Sage's Nouliths",
+   "match": "full",
+   "gih": 35332,
+   "gih_wr": 0.5351805728518058
+  },
+  {
+   "card_17lands": "Opera Love Song",
+   "scryfall_name": "Opera Love Song",
+   "match": "full",
+   "gih": 8354,
+   "gih_wr": 0.534713909504429
+  },
+  {
+   "card_17lands": "Valkyrie Aerial Unit",
+   "scryfall_name": "Valkyrie Aerial Unit",
+   "match": "full",
+   "gih": 16728,
+   "gih_wr": 0.5346126255380201
+  },
+  {
+   "card_17lands": "Summon: Anima",
+   "scryfall_name": "Summon: Anima",
+   "match": "full",
+   "gih": 19108,
+   "gih_wr": 0.5345928406949969
+  },
+  {
+   "card_17lands": "The Gold Saucer",
+   "scryfall_name": "The Gold Saucer",
+   "match": "full",
+   "gih": 8233,
+   "gih_wr": 0.5343131300862383
+  },
+  {
+   "card_17lands": "Unexpected Request",
+   "scryfall_name": "Unexpected Request",
+   "match": "full",
+   "gih": 4890,
+   "gih_wr": 0.5341513292433537
+  },
+  {
+   "card_17lands": "Balthier and Fran",
+   "scryfall_name": "Balthier and Fran",
+   "match": "full",
+   "gih": 2413,
+   "gih_wr": 0.5337753833402403
+  },
+  {
+   "card_17lands": "Stiltzkin, Moogle Merchant",
+   "scryfall_name": "Stiltzkin, Moogle Merchant",
+   "match": "full",
+   "gih": 6087,
+   "gih_wr": 0.5332676195170034
+  },
+  {
+   "card_17lands": "Poison the Waters",
+   "scryfall_name": "Poison the Waters",
+   "match": "full",
+   "gih": 9637,
+   "gih_wr": 0.5332572377295839
+  },
+  {
+   "card_17lands": "Gigantoad",
+   "scryfall_name": "Gigantoad",
+   "match": "full",
+   "gih": 32813,
+   "gih_wr": 0.5328680705817816
+  },
+  {
+   "card_17lands": "Nature's Claim",
+   "scryfall_name": "Nature's Claim",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1601,
+   "gih_wr": 0.532792004996877
+  },
+  {
+   "card_17lands": "Qiqirn Merchant",
+   "scryfall_name": "Qiqirn Merchant",
+   "match": "full",
+   "gih": 32642,
+   "gih_wr": 0.5320752404877153
+  },
+  {
+   "card_17lands": "Varragoth, Bloodsky Sire",
+   "scryfall_name": "Varragoth, Bloodsky Sire",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1100,
+   "gih_wr": 0.5318181818181819
+  },
+  {
+   "card_17lands": "Summon: Esper Ramuh",
+   "scryfall_name": "Summon: Esper Ramuh",
+   "match": "full",
+   "gih": 17307,
+   "gih_wr": 0.5313456982723753
+  },
+  {
+   "card_17lands": "Summon: G.F. Cerberus",
+   "scryfall_name": "Summon: G.F. Cerberus",
+   "match": "full",
+   "gih": 9530,
+   "gih_wr": 0.5309548793284365
+  },
+  {
+   "card_17lands": "Yuriko, the Tiger's Shadow",
+   "scryfall_name": "Yuriko, the Tiger's Shadow",
+   "match": "non-set (bonus/token/other)",
+   "gih": 946,
+   "gih_wr": 0.5306553911205074
+  },
+  {
+   "card_17lands": "Summon: Brynhildr",
+   "scryfall_name": "Summon: Brynhildr",
+   "match": "full",
+   "gih": 7987,
+   "gih_wr": 0.5303618379867284
+  },
+  {
+   "card_17lands": "Queen Brahne",
+   "scryfall_name": "Queen Brahne",
+   "match": "full",
+   "gih": 18687,
+   "gih_wr": 0.5302081661047787
+  },
+  {
+   "card_17lands": "Thief's Knife",
+   "scryfall_name": "Thief's Knife",
+   "match": "full",
+   "gih": 22716,
+   "gih_wr": 0.5300228913541116
+  },
+  {
+   "card_17lands": "Kinnan, Bonder Prodigy",
+   "scryfall_name": "Kinnan, Bonder Prodigy",
+   "match": "non-set (bonus/token/other)",
+   "gih": 780,
+   "gih_wr": 0.5294871794871795
+  },
+  {
+   "card_17lands": "Ishgard, the Holy See",
+   "scryfall_name": "Ishgard, the Holy See [MULTI]",
+   "match": "first-face",
+   "gih": 7314,
+   "gih_wr": 0.5284386108832376
+  },
+  {
+   "card_17lands": "Quina, Qu Gourmet",
+   "scryfall_name": "Quina, Qu Gourmet",
+   "match": "full",
+   "gih": 15162,
+   "gih_wr": 0.5283603746207625
+  },
+  {
+   "card_17lands": "Auron's Inspiration",
+   "scryfall_name": "Auron's Inspiration",
+   "match": "full",
+   "gih": 6553,
+   "gih_wr": 0.5283076453532733
+  },
+  {
+   "card_17lands": "Relentless X-ATM092",
+   "scryfall_name": "Relentless X-ATM092",
+   "match": "full",
+   "gih": 10138,
+   "gih_wr": 0.5281120536594989
+  },
+  {
+   "card_17lands": "Rook Turret",
+   "scryfall_name": "Rook Turret",
+   "match": "full",
+   "gih": 26991,
+   "gih_wr": 0.5280649105257308
+  },
+  {
+   "card_17lands": "Sabotender",
+   "scryfall_name": "Sabotender",
+   "match": "full",
+   "gih": 18037,
+   "gih_wr": 0.5275821921605589
+  },
+  {
+   "card_17lands": "Mysidian Elder",
+   "scryfall_name": "Mysidian Elder",
+   "match": "full",
+   "gih": 34043,
+   "gih_wr": 0.5274799518256323
+  },
+  {
+   "card_17lands": "Cloudbound Moogle",
+   "scryfall_name": "Cloudbound Moogle",
+   "match": "full",
+   "gih": 15098,
+   "gih_wr": 0.5264935753079878
+  },
+  {
+   "card_17lands": "Matoya, Archon Elder",
+   "scryfall_name": "Matoya, Archon Elder",
+   "match": "full",
+   "gih": 5086,
+   "gih_wr": 0.5259535981124656
+  },
+  {
+   "card_17lands": "Vincent's Limit Break",
+   "scryfall_name": "Vincent's Limit Break",
+   "match": "full",
+   "gih": 17414,
+   "gih_wr": 0.5256115768921558
+  },
+  {
+   "card_17lands": "Phoenix Down",
+   "scryfall_name": "Phoenix Down",
+   "match": "full",
+   "gih": 9997,
+   "gih_wr": 0.52555766730019
+  },
+  {
+   "card_17lands": "Snow Villiers",
+   "scryfall_name": "Snow Villiers",
+   "match": "full",
+   "gih": 11475,
+   "gih_wr": 0.5253159041394335
+  },
+  {
+   "card_17lands": "Crystal Fragments",
+   "scryfall_name": "Crystal Fragments [MULTI]",
+   "match": "first-face",
+   "gih": 14068,
+   "gih_wr": 0.5252345749218084
+  },
+  {
+   "card_17lands": "Barret Wallace",
+   "scryfall_name": "Barret Wallace",
+   "match": "full",
+   "gih": 8531,
+   "gih_wr": 0.5251435939514711
+  },
+  {
+   "card_17lands": "Inalla, Archmage Ritualist",
+   "scryfall_name": "Inalla, Archmage Ritualist",
+   "match": "non-set (bonus/token/other)",
+   "gih": 210,
+   "gih_wr": 0.5238095238095238
+  },
+  {
+   "card_17lands": "World Map",
+   "scryfall_name": "World Map",
+   "match": "full",
+   "gih": 30928,
+   "gih_wr": 0.5229242110708743
+  },
+  {
+   "card_17lands": "Ancient Copper Dragon",
+   "scryfall_name": "Ancient Copper Dragon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 844,
+   "gih_wr": 0.5225118483412322
+  },
+  {
+   "card_17lands": "Minwu, White Mage",
+   "scryfall_name": "Minwu, White Mage",
+   "match": "full",
+   "gih": 5307,
+   "gih_wr": 0.5223289994347089
+  },
+  {
+   "card_17lands": "Summoner's Grimoire",
+   "scryfall_name": "Summoner's Grimoire",
+   "match": "full",
+   "gih": 3074,
+   "gih_wr": 0.5217957059206246
+  },
+  {
+   "card_17lands": "Qutrub Forayer",
+   "scryfall_name": "Qutrub Forayer",
+   "match": "full",
+   "gih": 9422,
+   "gih_wr": 0.5217575886223732
+  },
+  {
+   "card_17lands": "Gogo, Master of Mimicry",
+   "scryfall_name": "Gogo, Master of Mimicry",
+   "match": "full",
+   "gih": 4286,
+   "gih_wr": 0.5202986467568829
+  },
+  {
+   "card_17lands": "Black Waltz No. 3",
+   "scryfall_name": "Black Waltz No. 3",
+   "match": "full",
+   "gih": 13190,
+   "gih_wr": 0.519560272934041
+  },
+  {
+   "card_17lands": "The Prima Vista",
+   "scryfall_name": "The Prima Vista",
+   "match": "full",
+   "gih": 8521,
+   "gih_wr": 0.5190705316277432
+  },
+  {
+   "card_17lands": "Cactuar",
+   "scryfall_name": "Cactuar",
+   "match": "full",
+   "gih": 4009,
+   "gih_wr": 0.5188326265901722
+  },
+  {
+   "card_17lands": "Fang, Fearless l'Cie",
+   "scryfall_name": "Fang, Fearless l'Cie",
+   "match": "full",
+   "gih": 17621,
+   "gih_wr": 0.5183587764599058
+  },
+  {
+   "card_17lands": "Red Mage's Rapier",
+   "scryfall_name": "Red Mage's Rapier",
+   "match": "full",
+   "gih": 25925,
+   "gih_wr": 0.5182256509161042
+  },
+  {
+   "card_17lands": "Sandworm",
+   "scryfall_name": "Sandworm",
+   "match": "full",
+   "gih": 10554,
+   "gih_wr": 0.5179079022171689
+  },
+  {
+   "card_17lands": "Chocobo Racetrack",
+   "scryfall_name": "Chocobo Racetrack",
+   "match": "full",
+   "gih": 13419,
+   "gih_wr": 0.5176242641031373
+  },
+  {
+   "card_17lands": "Tidus, Blitzball Star",
+   "scryfall_name": "Tidus, Blitzball Star",
+   "match": "full",
+   "gih": 13303,
+   "gih_wr": 0.5175524317823047
+  },
+  {
+   "card_17lands": "Shambling Cie'th",
+   "scryfall_name": "Shambling Cie'th",
+   "match": "full",
+   "gih": 15594,
+   "gih_wr": 0.5173784789021418
+  },
+  {
+   "card_17lands": "Mizzix's Mastery",
+   "scryfall_name": "Mizzix's Mastery",
+   "match": "non-set (bonus/token/other)",
+   "gih": 667,
+   "gih_wr": 0.5172413793103449
+  },
+  {
+   "card_17lands": "The Wind Crystal",
+   "scryfall_name": "The Wind Crystal",
+   "match": "full",
+   "gih": 3960,
+   "gih_wr": 0.5159090909090909
+  },
+  {
+   "card_17lands": "Sidequest: Catch a Fish",
+   "scryfall_name": "Sidequest: Catch a Fish // Cooking Campsite",
+   "match": "first-face",
+   "gih": 5152,
+   "gih_wr": 0.515139751552795
+  },
+  {
+   "card_17lands": "Triple Triad",
+   "scryfall_name": "Triple Triad",
+   "match": "full",
+   "gih": 3060,
+   "gih_wr": 0.515032679738562
+  },
+  {
+   "card_17lands": "Summon: G.F. Ifrit",
+   "scryfall_name": "Summon: G.F. Ifrit",
+   "match": "full",
+   "gih": 30194,
+   "gih_wr": 0.5138769291912301
+  },
+  {
+   "card_17lands": "Self-Destruct",
+   "scryfall_name": "Self-Destruct",
+   "match": "full",
+   "gih": 4760,
+   "gih_wr": 0.5138655462184873
+  },
+  {
+   "card_17lands": "Hill Gigas",
+   "scryfall_name": "Hill Gigas",
+   "match": "full",
+   "gih": 24663,
+   "gih_wr": 0.5134006406357702
+  },
+  {
+   "card_17lands": "Kain, Traitorous Dragoon",
+   "scryfall_name": "Kain, Traitorous Dragoon",
+   "match": "full",
+   "gih": 2921,
+   "gih_wr": 0.5131804176651832
+  },
+  {
+   "card_17lands": "Hope Estheim",
+   "scryfall_name": "Hope Estheim",
+   "match": "full",
+   "gih": 3397,
+   "gih_wr": 0.5128054165440095
+  },
+  {
+   "card_17lands": "Blitzball",
+   "scryfall_name": "Blitzball",
+   "match": "full",
+   "gih": 35443,
+   "gih_wr": 0.5123155489095167
+  },
+  {
+   "card_17lands": "Dark Ritual",
+   "scryfall_name": "Dark Ritual",
+   "match": "non-set (bonus/token/other)",
+   "gih": 449,
+   "gih_wr": 0.512249443207127
+  },
+  {
+   "card_17lands": "Serah Farron",
+   "scryfall_name": "Serah Farron [MULTI]",
+   "match": "first-face",
+   "gih": 3157,
+   "gih_wr": 0.5068102629078239
+  },
+  {
+   "card_17lands": "Haste Magic",
+   "scryfall_name": "Haste Magic",
+   "match": "full",
+   "gih": 6862,
+   "gih_wr": 0.5056834742057709
+  },
+  {
+   "card_17lands": "Ether",
+   "scryfall_name": "Ether",
+   "match": "full",
+   "gih": 4693,
+   "gih_wr": 0.5047943746004688
+  },
+  {
+   "card_17lands": "Dovin's Veto",
+   "scryfall_name": "Dovin's Veto",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1091,
+   "gih_wr": 0.5032080659945004
+  },
+  {
+   "card_17lands": "Lunatic Pandora",
+   "scryfall_name": "Lunatic Pandora",
+   "match": "full",
+   "gih": 9305,
+   "gih_wr": 0.5024180548092424
+  },
+  {
+   "card_17lands": "Tifa Lockhart",
+   "scryfall_name": "Tifa Lockhart",
+   "match": "full",
+   "gih": 3741,
+   "gih_wr": 0.5022721197540765
+  },
+  {
+   "card_17lands": "Teferi, Mage of Zhalfir",
+   "scryfall_name": "Teferi, Mage of Zhalfir",
+   "match": "non-set (bonus/token/other)",
+   "gih": 640,
+   "gih_wr": 0.5015625
+  },
+  {
+   "card_17lands": "Jidoor, Aristocratic Capital",
+   "scryfall_name": "Jidoor, Aristocratic Capital [MULTI]",
+   "match": "first-face",
+   "gih": 4592,
+   "gih_wr": 0.5015243902439024
+  },
+  {
+   "card_17lands": "Jumbo Cactuar",
+   "scryfall_name": "Jumbo Cactuar",
+   "match": "full",
+   "gih": 3436,
+   "gih_wr": 0.5002910360884749
+  },
+  {
+   "card_17lands": "Loporrit Scout",
+   "scryfall_name": "Loporrit Scout",
+   "match": "full",
+   "gih": 7375,
+   "gih_wr": 0.4999322033898305
+  },
+  {
+   "card_17lands": "Golbez, Crystal Collector",
+   "scryfall_name": "Golbez, Crystal Collector",
+   "match": "full",
+   "gih": 4594,
+   "gih_wr": 0.4980409229429691
+  },
+  {
+   "card_17lands": "Stroke of Midnight",
+   "scryfall_name": "Stroke of Midnight",
+   "match": "non-set (bonus/token/other)",
+   "gih": 3257,
+   "gih_wr": 0.49616211237334973
+  },
+  {
+   "card_17lands": "Diabolic Intent",
+   "scryfall_name": "Diabolic Intent",
+   "match": "non-set (bonus/token/other)",
+   "gih": 291,
+   "gih_wr": 0.4948453608247423
+  },
+  {
+   "card_17lands": "Genji Glove",
+   "scryfall_name": "Genji Glove",
+   "match": "full",
+   "gih": 2829,
+   "gih_wr": 0.4941675503711559
+  },
+  {
+   "card_17lands": "Magic Pot",
+   "scryfall_name": "Magic Pot",
+   "match": "full",
+   "gih": 4610,
+   "gih_wr": 0.4917570498915401
+  },
+  {
+   "card_17lands": "Laboratory Maniac",
+   "scryfall_name": "Laboratory Maniac",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1038,
+   "gih_wr": 0.4913294797687861
+  },
+  {
+   "card_17lands": "Nyxbloom Ancient",
+   "scryfall_name": "Nyxbloom Ancient",
+   "match": "non-set (bonus/token/other)",
+   "gih": 202,
+   "gih_wr": 0.4900990099009901
+  },
+  {
+   "card_17lands": "Sidequest: Play Blitzball",
+   "scryfall_name": "Sidequest: Play Blitzball // World Champion, Celestial Weapon",
+   "match": "first-face",
+   "gih": 4260,
+   "gih_wr": 0.4880281690140845
+  },
+  {
+   "card_17lands": "Noctis, Prince of Lucis",
+   "scryfall_name": "Noctis, Prince of Lucis",
+   "match": "full",
+   "gih": 2469,
+   "gih_wr": 0.4868367760226813
+  },
+  {
+   "card_17lands": "Chromatic Lantern",
+   "scryfall_name": "Chromatic Lantern",
+   "match": "non-set (bonus/token/other)",
+   "gih": 513,
+   "gih_wr": 0.4853801169590643
+  },
+  {
+   "card_17lands": "Random Encounter",
+   "scryfall_name": "Random Encounter",
+   "match": "full",
+   "gih": 946,
+   "gih_wr": 0.48520084566596194
+  },
+  {
+   "card_17lands": "Rhystic Study",
+   "scryfall_name": "Rhystic Study",
+   "match": "non-set (bonus/token/other)",
+   "gih": 361,
+   "gih_wr": 0.48476454293628807
+  },
+  {
+   "card_17lands": "Clive's Hideaway",
+   "scryfall_name": "Clive's Hideaway",
+   "match": "full",
+   "gih": 709,
+   "gih_wr": 0.4837799717912553
+  },
+  {
+   "card_17lands": "Purphoros, God of the Forge",
+   "scryfall_name": "Purphoros, God of the Forge",
+   "match": "non-set (bonus/token/other)",
+   "gih": 577,
+   "gih_wr": 0.48180242634315423
+  },
+  {
+   "card_17lands": "Ishai, Ojutai Dragonspeaker",
+   "scryfall_name": "Ishai, Ojutai Dragonspeaker",
+   "match": "non-set (bonus/token/other)",
+   "gih": 364,
+   "gih_wr": 0.47802197802197804
+  },
+  {
+   "card_17lands": "Vaan, Street Thief",
+   "scryfall_name": "Vaan, Street Thief",
+   "match": "full",
+   "gih": 4067,
+   "gih_wr": 0.4777477255962626
+  },
+  {
+   "card_17lands": "The Earth Crystal",
+   "scryfall_name": "The Earth Crystal",
+   "match": "full",
+   "gih": 4519,
+   "gih_wr": 0.47709670281035627
+  },
+  {
+   "card_17lands": "Strixhaven Stadium",
+   "scryfall_name": "Strixhaven Stadium",
+   "match": "non-set (bonus/token/other)",
+   "gih": 337,
+   "gih_wr": 0.47477744807121663
+  },
+  {
+   "card_17lands": "The Water Crystal",
+   "scryfall_name": "The Water Crystal",
+   "match": "full",
+   "gih": 1258,
+   "gih_wr": 0.4697933227344992
+  },
+  {
+   "card_17lands": "Louisoix's Sacrifice",
+   "scryfall_name": "Louisoix's Sacrifice",
+   "match": "full",
+   "gih": 1282,
+   "gih_wr": 0.4664586583463339
+  },
+  {
+   "card_17lands": "Excalibur II",
+   "scryfall_name": "Excalibur II",
+   "match": "full",
+   "gih": 1252,
+   "gih_wr": 0.46565495207667734
+  },
+  {
+   "card_17lands": "Galuf's Final Act",
+   "scryfall_name": "Galuf's Final Act",
+   "match": "full",
+   "gih": 2735,
+   "gih_wr": 0.4603290676416819
+  },
+  {
+   "card_17lands": "Azusa, Lost but Seeking",
+   "scryfall_name": "Azusa, Lost but Seeking",
+   "match": "non-set (bonus/token/other)",
+   "gih": 218,
+   "gih_wr": 0.45871559633027525
+  },
+  {
+   "card_17lands": "Elixir",
+   "scryfall_name": "Elixir",
+   "match": "full",
+   "gih": 1446,
+   "gih_wr": 0.45850622406639
+  },
+  {
+   "card_17lands": "Iron Giant",
+   "scryfall_name": "Iron Giant",
+   "match": "full",
+   "gih": 4457,
+   "gih_wr": 0.45636078079425624
+  },
+  {
+   "card_17lands": "From Father to Son",
+   "scryfall_name": "From Father to Son",
+   "match": "full",
+   "gih": 128,
+   "gih_wr": 0.453125
+  },
+  {
+   "card_17lands": "K'rrik, Son of Yawgmoth",
+   "scryfall_name": "K'rrik, Son of Yawgmoth",
+   "match": "non-set (bonus/token/other)",
+   "gih": 259,
+   "gih_wr": 0.44015444015444016
+  },
+  {
+   "card_17lands": "The Masamune",
+   "scryfall_name": "The Masamune",
+   "match": "full",
+   "gih": 2234,
+   "gih_wr": 0.432408236347359
+  },
+  {
+   "card_17lands": "Aettir and Priwen",
+   "scryfall_name": "Aettir and Priwen",
+   "match": "full",
+   "gih": 756,
+   "gih_wr": 0.4298941798941799
+  },
+  {
+   "card_17lands": "Stolen Uniform",
+   "scryfall_name": "Stolen Uniform",
+   "match": "full",
+   "gih": 216,
+   "gih_wr": 0.42592592592592593
+  },
+  {
+   "card_17lands": "A Realm Reborn",
+   "scryfall_name": "A Realm Reborn",
+   "match": "full",
+   "gih": 78,
+   "gih_wr": 0.4230769230769231
+  },
+  {
+   "card_17lands": "The Fire Crystal",
+   "scryfall_name": "The Fire Crystal",
+   "match": "full",
+   "gih": 1019,
+   "gih_wr": 0.41315014720314036
+  },
+  {
+   "card_17lands": "Carpet of Flowers",
+   "scryfall_name": "Carpet of Flowers",
+   "match": "non-set (bonus/token/other)",
+   "gih": 23,
+   "gih_wr": 0.2608695652173913
+  },
+  {
+   "card_17lands": "Command Beacon",
+   "scryfall_name": "Command Beacon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 5,
+   "gih_wr": 0.2
+  }
+ ]
+}

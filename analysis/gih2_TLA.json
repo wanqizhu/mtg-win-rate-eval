@@ -1,0 +1,2429 @@
+{
+ "set": "TLA",
+ "games": 562924,
+ "wins": 315286,
+ "cards": [
+  {
+   "card_17lands": "Noxious Gearhulk",
+   "scryfall_name": "Noxious Gearhulk",
+   "match": "non-set (bonus/token/other)",
+   "gih": 542,
+   "gih_wr": 0.6808118081180812
+  },
+  {
+   "card_17lands": "The Rise of Sozin",
+   "scryfall_name": "The Rise of Sozin [MULTI]",
+   "match": "first-face",
+   "gih": 8745,
+   "gih_wr": 0.6715837621497999
+  },
+  {
+   "card_17lands": "The Fire Nation Drill",
+   "scryfall_name": "The Fire Nation Drill",
+   "match": "full",
+   "gih": 14420,
+   "gih_wr": 0.6682385575589459
+  },
+  {
+   "card_17lands": "The Legend of Kuruk",
+   "scryfall_name": "The Legend of Kuruk [MULTI]",
+   "match": "first-face",
+   "gih": 9494,
+   "gih_wr": 0.6669475458184116
+  },
+  {
+   "card_17lands": "The Legend of Yangchen",
+   "scryfall_name": "The Legend of Yangchen [MULTI]",
+   "match": "first-face",
+   "gih": 8553,
+   "gih_wr": 0.6616391909271601
+  },
+  {
+   "card_17lands": "Koma, Cosmos Serpent",
+   "scryfall_name": "Koma, Cosmos Serpent",
+   "match": "non-set (bonus/token/other)",
+   "gih": 450,
+   "gih_wr": 0.66
+  },
+  {
+   "card_17lands": "Wan Shi Tong, Librarian",
+   "scryfall_name": "Wan Shi Tong, Librarian",
+   "match": "full",
+   "gih": 8885,
+   "gih_wr": 0.6585256049521666
+  },
+  {
+   "card_17lands": "Aang, Swift Savior",
+   "scryfall_name": "Aang, Swift Savior [MULTI]",
+   "match": "first-face",
+   "gih": 14696,
+   "gih_wr": 0.6538513881328253
+  },
+  {
+   "card_17lands": "The Earth King",
+   "scryfall_name": "The Earth King",
+   "match": "full",
+   "gih": 13276,
+   "gih_wr": 0.6536607411871046
+  },
+  {
+   "card_17lands": "United Front",
+   "scryfall_name": "United Front",
+   "match": "full",
+   "gih": 7926,
+   "gih_wr": 0.6529144587433763
+  },
+  {
+   "card_17lands": "Agent of Treachery",
+   "scryfall_name": "Agent of Treachery",
+   "match": "non-set (bonus/token/other)",
+   "gih": 543,
+   "gih_wr": 0.6445672191528545
+  },
+  {
+   "card_17lands": "Volcanic Torrent",
+   "scryfall_name": "Volcanic Torrent",
+   "match": "non-set (bonus/token/other)",
+   "gih": 373,
+   "gih_wr": 0.6434316353887399
+  },
+  {
+   "card_17lands": "Bumi, Unleashed",
+   "scryfall_name": "Bumi, Unleashed",
+   "match": "full",
+   "gih": 6991,
+   "gih_wr": 0.6423973680446288
+  },
+  {
+   "card_17lands": "Koh, the Face Stealer",
+   "scryfall_name": "Koh, the Face Stealer",
+   "match": "full",
+   "gih": 7951,
+   "gih_wr": 0.6418060621305496
+  },
+  {
+   "card_17lands": "Badgermole Cub",
+   "scryfall_name": "Badgermole Cub",
+   "match": "full",
+   "gih": 6652,
+   "gih_wr": 0.637702946482261
+  },
+  {
+   "card_17lands": "The Legend of Roku",
+   "scryfall_name": "The Legend of Roku [MULTI]",
+   "match": "first-face",
+   "gih": 8225,
+   "gih_wr": 0.6346504559270517
+  },
+  {
+   "card_17lands": "Azula, Cunning Usurper",
+   "scryfall_name": "Azula, Cunning Usurper",
+   "match": "full",
+   "gih": 14487,
+   "gih_wr": 0.6328432387657901
+  },
+  {
+   "card_17lands": "Earthbender Ascension",
+   "scryfall_name": "Earthbender Ascension",
+   "match": "full",
+   "gih": 12971,
+   "gih_wr": 0.6293269601418549
+  },
+  {
+   "card_17lands": "Great Divide Guide",
+   "scryfall_name": "Great Divide Guide",
+   "match": "full",
+   "gih": 11894,
+   "gih_wr": 0.6284681351942155
+  },
+  {
+   "card_17lands": "Raven Eagle",
+   "scryfall_name": "Raven Eagle",
+   "match": "full",
+   "gih": 14847,
+   "gih_wr": 0.62713005994477
+  },
+  {
+   "card_17lands": "Phoenix Fleet Airship",
+   "scryfall_name": "Phoenix Fleet Airship",
+   "match": "full",
+   "gih": 7566,
+   "gih_wr": 0.6258260639703939
+  },
+  {
+   "card_17lands": "Suki, Courageous Rescuer",
+   "scryfall_name": "Suki, Courageous Rescuer",
+   "match": "full",
+   "gih": 12895,
+   "gih_wr": 0.6249709189608376
+  },
+  {
+   "card_17lands": "Invasion Submersible",
+   "scryfall_name": "Invasion Submersible",
+   "match": "full",
+   "gih": 41982,
+   "gih_wr": 0.6223619646515173
+  },
+  {
+   "card_17lands": "Katara, Water Tribe's Hope",
+   "scryfall_name": "Katara, Water Tribe's Hope",
+   "match": "full",
+   "gih": 14854,
+   "gih_wr": 0.620775548673758
+  },
+  {
+   "card_17lands": "Aang, at the Crossroads",
+   "scryfall_name": "Aang, at the Crossroads [MULTI]",
+   "match": "first-face",
+   "gih": 12630,
+   "gih_wr": 0.6182106096595408
+  },
+  {
+   "card_17lands": "Cityscape Leveler",
+   "scryfall_name": "Cityscape Leveler",
+   "match": "non-set (bonus/token/other)",
+   "gih": 459,
+   "gih_wr": 0.616557734204793
+  },
+  {
+   "card_17lands": "Abandoned Air Temple",
+   "scryfall_name": "Abandoned Air Temple",
+   "match": "full",
+   "gih": 14069,
+   "gih_wr": 0.616106333072713
+  },
+  {
+   "card_17lands": "Black Sun's Zenith",
+   "scryfall_name": "Black Sun's Zenith",
+   "match": "non-set (bonus/token/other)",
+   "gih": 406,
+   "gih_wr": 0.6157635467980296
+  },
+  {
+   "card_17lands": "Aang, the Last Airbender",
+   "scryfall_name": "Aang, the Last Airbender",
+   "match": "full",
+   "gih": 29486,
+   "gih_wr": 0.6150376449840602
+  },
+  {
+   "card_17lands": "The Great Henge",
+   "scryfall_name": "The Great Henge",
+   "match": "non-set (bonus/token/other)",
+   "gih": 397,
+   "gih_wr": 0.6146095717884131
+  },
+  {
+   "card_17lands": "Ty Lee, Chi Blocker",
+   "scryfall_name": "Ty Lee, Chi Blocker",
+   "match": "full",
+   "gih": 15565,
+   "gih_wr": 0.6131705750080308
+  },
+  {
+   "card_17lands": "Earth Kingdom Jailer",
+   "scryfall_name": "Earth Kingdom Jailer",
+   "match": "full",
+   "gih": 29097,
+   "gih_wr": 0.6117812832938103
+  },
+  {
+   "card_17lands": "South Pole Voyager",
+   "scryfall_name": "South Pole Voyager",
+   "match": "full",
+   "gih": 12682,
+   "gih_wr": 0.6108657940387952
+  },
+  {
+   "card_17lands": "The Unagi of Kyoshi Island",
+   "scryfall_name": "The Unagi of Kyoshi Island",
+   "match": "full",
+   "gih": 15404,
+   "gih_wr": 0.6059465074006751
+  },
+  {
+   "card_17lands": "Earth King's Lieutenant",
+   "scryfall_name": "Earth King's Lieutenant",
+   "match": "full",
+   "gih": 8904,
+   "gih_wr": 0.6048966756513926
+  },
+  {
+   "card_17lands": "Day of Black Sun",
+   "scryfall_name": "Day of Black Sun",
+   "match": "full",
+   "gih": 12511,
+   "gih_wr": 0.603788665973943
+  },
+  {
+   "card_17lands": "Beifong's Bounty Hunters",
+   "scryfall_name": "Beifong's Bounty Hunters",
+   "match": "full",
+   "gih": 10753,
+   "gih_wr": 0.603738491583744
+  },
+  {
+   "card_17lands": "Appa, Steadfast Guardian",
+   "scryfall_name": "Appa, Steadfast Guardian",
+   "match": "full",
+   "gih": 6930,
+   "gih_wr": 0.603030303030303
+  },
+  {
+   "card_17lands": "The Legend of Kyoshi",
+   "scryfall_name": "The Legend of Kyoshi [MULTI]",
+   "match": "first-face",
+   "gih": 6290,
+   "gih_wr": 0.6019077901430843
+  },
+  {
+   "card_17lands": "The Cave of Two Lovers",
+   "scryfall_name": "The Cave of Two Lovers",
+   "match": "full",
+   "gih": 25320,
+   "gih_wr": 0.6009873617693523
+  },
+  {
+   "card_17lands": "Heartless Act",
+   "scryfall_name": "Heartless Act",
+   "match": "full",
+   "gih": 25795,
+   "gih_wr": 0.6006978096530335
+  },
+  {
+   "card_17lands": "Ba Sing Se",
+   "scryfall_name": "Ba Sing Se",
+   "match": "full",
+   "gih": 12090,
+   "gih_wr": 0.5985938792390405
+  },
+  {
+   "card_17lands": "Gran-Gran",
+   "scryfall_name": "Gran-Gran",
+   "match": "full",
+   "gih": 31574,
+   "gih_wr": 0.5985937796921518
+  },
+  {
+   "card_17lands": "Rhys the Redeemed",
+   "scryfall_name": "Rhys the Redeemed",
+   "match": "non-set (bonus/token/other)",
+   "gih": 397,
+   "gih_wr": 0.5969773299748111
+  },
+  {
+   "card_17lands": "Treetop Village",
+   "scryfall_name": "Treetop Village",
+   "match": "non-set (bonus/token/other)",
+   "gih": 305,
+   "gih_wr": 0.5967213114754099
+  },
+  {
+   "card_17lands": "Water Tribe Rallier",
+   "scryfall_name": "Water Tribe Rallier",
+   "match": "full",
+   "gih": 31536,
+   "gih_wr": 0.5966197361745307
+  },
+  {
+   "card_17lands": "The Mechanist, Aerial Artisan",
+   "scryfall_name": "The Mechanist, Aerial Artisan",
+   "match": "full",
+   "gih": 15881,
+   "gih_wr": 0.5961841193879479
+  },
+  {
+   "card_17lands": "Insurrection",
+   "scryfall_name": "Insurrection",
+   "match": "non-set (bonus/token/other)",
+   "gih": 146,
+   "gih_wr": 0.5958904109589042
+  },
+  {
+   "card_17lands": "Foggy Swamp Spirit Keeper",
+   "scryfall_name": "Foggy Swamp Spirit Keeper",
+   "match": "full",
+   "gih": 26583,
+   "gih_wr": 0.5955685964714291
+  },
+  {
+   "card_17lands": "Iroh, Grand Lotus",
+   "scryfall_name": "Iroh, Grand Lotus",
+   "match": "full",
+   "gih": 11868,
+   "gih_wr": 0.5946241995281429
+  },
+  {
+   "card_17lands": "Visions of Beyond",
+   "scryfall_name": "Visions of Beyond",
+   "match": "non-set (bonus/token/other)",
+   "gih": 128,
+   "gih_wr": 0.59375
+  },
+  {
+   "card_17lands": "Obsessive Pursuit",
+   "scryfall_name": "Obsessive Pursuit",
+   "match": "full",
+   "gih": 12456,
+   "gih_wr": 0.5932883750802826
+  },
+  {
+   "card_17lands": "Allies at Last",
+   "scryfall_name": "Allies at Last",
+   "match": "full",
+   "gih": 23603,
+   "gih_wr": 0.5931449392026438
+  },
+  {
+   "card_17lands": "Iroh's Demonstration",
+   "scryfall_name": "Iroh's Demonstration",
+   "match": "full",
+   "gih": 27205,
+   "gih_wr": 0.5927586840654292
+  },
+  {
+   "card_17lands": "Heroic Intervention",
+   "scryfall_name": "Heroic Intervention",
+   "match": "non-set (bonus/token/other)",
+   "gih": 108,
+   "gih_wr": 0.5925925925925926
+  },
+  {
+   "card_17lands": "Blasphemous Act",
+   "scryfall_name": "Blasphemous Act",
+   "match": "non-set (bonus/token/other)",
+   "gih": 417,
+   "gih_wr": 0.592326139088729
+  },
+  {
+   "card_17lands": "Sokka, Lateral Strategist",
+   "scryfall_name": "Sokka, Lateral Strategist",
+   "match": "full",
+   "gih": 32293,
+   "gih_wr": 0.5903446567367541
+  },
+  {
+   "card_17lands": "Combustion Technique",
+   "scryfall_name": "Combustion Technique",
+   "match": "full",
+   "gih": 27613,
+   "gih_wr": 0.5901568101980951
+  },
+  {
+   "card_17lands": "Ozai, the Phoenix King",
+   "scryfall_name": "Ozai, the Phoenix King",
+   "match": "full",
+   "gih": 4533,
+   "gih_wr": 0.5898963159055813
+  },
+  {
+   "card_17lands": "Wartime Protestors",
+   "scryfall_name": "Wartime Protestors",
+   "match": "full",
+   "gih": 11439,
+   "gih_wr": 0.5898242853396276
+  },
+  {
+   "card_17lands": "Glider Staff",
+   "scryfall_name": "Glider Staff",
+   "match": "full",
+   "gih": 28578,
+   "gih_wr": 0.5894044369794947
+  },
+  {
+   "card_17lands": "Momo, Friendly Flier",
+   "scryfall_name": "Momo, Friendly Flier",
+   "match": "full",
+   "gih": 9009,
+   "gih_wr": 0.5892995892995893
+  },
+  {
+   "card_17lands": "Epic Downfall",
+   "scryfall_name": "Epic Downfall",
+   "match": "full",
+   "gih": 25093,
+   "gih_wr": 0.5892081456980034
+  },
+  {
+   "card_17lands": "Mirrorwing Dragon",
+   "scryfall_name": "Mirrorwing Dragon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 355,
+   "gih_wr": 0.5887323943661972
+  },
+  {
+   "card_17lands": "Lost Days",
+   "scryfall_name": "Lost Days",
+   "match": "full",
+   "gih": 86516,
+   "gih_wr": 0.5885963290027278
+  },
+  {
+   "card_17lands": "Toph, Hardheaded Teacher",
+   "scryfall_name": "Toph, Hardheaded Teacher",
+   "match": "full",
+   "gih": 11323,
+   "gih_wr": 0.5885366069062969
+  },
+  {
+   "card_17lands": "Firebending Lesson",
+   "scryfall_name": "Firebending Lesson",
+   "match": "full",
+   "gih": 67705,
+   "gih_wr": 0.5866774979691308
+  },
+  {
+   "card_17lands": "Fated Firepower",
+   "scryfall_name": "Fated Firepower",
+   "match": "full",
+   "gih": 4291,
+   "gih_wr": 0.5865765555814495
+  },
+  {
+   "card_17lands": "Knowledge Seeker",
+   "scryfall_name": "Knowledge Seeker",
+   "match": "full",
+   "gih": 36142,
+   "gih_wr": 0.5864368324940512
+  },
+  {
+   "card_17lands": "It'll Quench Ya!",
+   "scryfall_name": "It'll Quench Ya!",
+   "match": "full",
+   "gih": 70790,
+   "gih_wr": 0.5860432264444131
+  },
+  {
+   "card_17lands": "Ran and Shaw",
+   "scryfall_name": "Ran and Shaw",
+   "match": "full",
+   "gih": 12542,
+   "gih_wr": 0.5858714718545687
+  },
+  {
+   "card_17lands": "Lita, Mechanical Engineer",
+   "scryfall_name": "Lita, Mechanical Engineer",
+   "match": "non-set (bonus/token/other)",
+   "gih": 367,
+   "gih_wr": 0.5858310626702997
+  },
+  {
+   "card_17lands": "White Lotus Reinforcements",
+   "scryfall_name": "White Lotus Reinforcements",
+   "match": "full",
+   "gih": 17459,
+   "gih_wr": 0.5853714416633256
+  },
+  {
+   "card_17lands": "Rending Volley",
+   "scryfall_name": "Rending Volley",
+   "match": "non-set (bonus/token/other)",
+   "gih": 41,
+   "gih_wr": 0.5853658536585366
+  },
+  {
+   "card_17lands": "Toph, the Blind Bandit",
+   "scryfall_name": "Toph, the Blind Bandit",
+   "match": "full",
+   "gih": 21997,
+   "gih_wr": 0.5852616265854435
+  },
+  {
+   "card_17lands": "Momo, Playful Pet",
+   "scryfall_name": "Momo, Playful Pet",
+   "match": "full",
+   "gih": 23825,
+   "gih_wr": 0.5850577124868835
+  },
+  {
+   "card_17lands": "Secret Tunnel",
+   "scryfall_name": "Secret Tunnel",
+   "match": "full",
+   "gih": 12750,
+   "gih_wr": 0.5836862745098039
+  },
+  {
+   "card_17lands": "Planetarium of Wan Shi Tong",
+   "scryfall_name": "Planetarium of Wan Shi Tong",
+   "match": "full",
+   "gih": 8010,
+   "gih_wr": 0.5835205992509364
+  },
+  {
+   "card_17lands": "The Lion-Turtle",
+   "scryfall_name": "The Lion-Turtle",
+   "match": "full",
+   "gih": 7777,
+   "gih_wr": 0.5833869101195834
+  },
+  {
+   "card_17lands": "Dragonfly Swarm",
+   "scryfall_name": "Dragonfly Swarm",
+   "match": "full",
+   "gih": 23792,
+   "gih_wr": 0.5826328177538669
+  },
+  {
+   "card_17lands": "Watery Grasp",
+   "scryfall_name": "Watery Grasp",
+   "match": "full",
+   "gih": 71612,
+   "gih_wr": 0.5824163548008714
+  },
+  {
+   "card_17lands": "Valakut, the Molten Pinnacle",
+   "scryfall_name": "Valakut, the Molten Pinnacle",
+   "match": "non-set (bonus/token/other)",
+   "gih": 79,
+   "gih_wr": 0.5822784810126582
+  },
+  {
+   "card_17lands": "Benevolent River Spirit",
+   "scryfall_name": "Benevolent River Spirit",
+   "match": "full",
+   "gih": 28650,
+   "gih_wr": 0.5815706806282722
+  },
+  {
+   "card_17lands": "Fire Nation Warship",
+   "scryfall_name": "Fire Nation Warship",
+   "match": "full",
+   "gih": 21223,
+   "gih_wr": 0.5815388964802337
+  },
+  {
+   "card_17lands": "Hakoda, Selfless Commander",
+   "scryfall_name": "Hakoda, Selfless Commander",
+   "match": "full",
+   "gih": 11881,
+   "gih_wr": 0.5814325393485397
+  },
+  {
+   "card_17lands": "Guru Pathik",
+   "scryfall_name": "Guru Pathik",
+   "match": "full",
+   "gih": 24012,
+   "gih_wr": 0.5813343328335832
+  },
+  {
+   "card_17lands": "Tolls of War",
+   "scryfall_name": "Tolls of War",
+   "match": "full",
+   "gih": 14695,
+   "gih_wr": 0.5812181013950323
+  },
+  {
+   "card_17lands": "Gather the White Lotus",
+   "scryfall_name": "Gather the White Lotus",
+   "match": "full",
+   "gih": 15059,
+   "gih_wr": 0.5794541470217146
+  },
+  {
+   "card_17lands": "Forecasting Fortune Teller",
+   "scryfall_name": "Forecasting Fortune Teller",
+   "match": "full",
+   "gih": 83116,
+   "gih_wr": 0.5789859954762019
+  },
+  {
+   "card_17lands": "Jet, Freedom Fighter",
+   "scryfall_name": "Jet, Freedom Fighter",
+   "match": "full",
+   "gih": 21992,
+   "gih_wr": 0.5784830847580938
+  },
+  {
+   "card_17lands": "Path to Redemption",
+   "scryfall_name": "Path to Redemption",
+   "match": "full",
+   "gih": 60483,
+   "gih_wr": 0.5784435295868261
+  },
+  {
+   "card_17lands": "Invasion Reinforcements",
+   "scryfall_name": "Invasion Reinforcements",
+   "match": "full",
+   "gih": 24706,
+   "gih_wr": 0.5778353436412208
+  },
+  {
+   "card_17lands": "Octopus Form",
+   "scryfall_name": "Octopus Form",
+   "match": "full",
+   "gih": 62029,
+   "gih_wr": 0.5778103790162666
+  },
+  {
+   "card_17lands": "Agna Qel'a",
+   "scryfall_name": "Agna Qel'a",
+   "match": "full",
+   "gih": 14945,
+   "gih_wr": 0.5775175644028103
+  },
+  {
+   "card_17lands": "Compassionate Healer",
+   "scryfall_name": "Compassionate Healer",
+   "match": "full",
+   "gih": 59848,
+   "gih_wr": 0.5771621440983826
+  },
+  {
+   "card_17lands": "Cat-Gator",
+   "scryfall_name": "Cat-Gator",
+   "match": "full",
+   "gih": 15188,
+   "gih_wr": 0.5770345009217803
+  },
+  {
+   "card_17lands": "Sokka's Haiku",
+   "scryfall_name": "Sokka's Haiku",
+   "match": "full",
+   "gih": 15687,
+   "gih_wr": 0.5768470708229745
+  },
+  {
+   "card_17lands": "Earth Kingdom Protectors",
+   "scryfall_name": "Earth Kingdom Protectors",
+   "match": "full",
+   "gih": 24000,
+   "gih_wr": 0.5762083333333333
+  },
+  {
+   "card_17lands": "Realm of Koh",
+   "scryfall_name": "Realm of Koh",
+   "match": "full",
+   "gih": 10656,
+   "gih_wr": 0.5761073573573574
+  },
+  {
+   "card_17lands": "Serpent's Pass",
+   "scryfall_name": "Serpent's Pass",
+   "match": "full",
+   "gih": 30583,
+   "gih_wr": 0.5754504136284864
+  },
+  {
+   "card_17lands": "Ostrich-Horse",
+   "scryfall_name": "Ostrich-Horse",
+   "match": "full",
+   "gih": 41816,
+   "gih_wr": 0.5754256743830113
+  },
+  {
+   "card_17lands": "Lightning Bolt",
+   "scryfall_name": "Lightning Bolt",
+   "match": "non-set (bonus/token/other)",
+   "gih": 325,
+   "gih_wr": 0.5753846153846154
+  },
+  {
+   "card_17lands": "Messenger Hawk",
+   "scryfall_name": "Messenger Hawk",
+   "match": "full",
+   "gih": 78052,
+   "gih_wr": 0.5748731614820889
+  },
+  {
+   "card_17lands": "Lightning Strike",
+   "scryfall_name": "Lightning Strike",
+   "match": "full",
+   "gih": 57329,
+   "gih_wr": 0.5747178565821836
+  },
+  {
+   "card_17lands": "Iroh, Tea Master",
+   "scryfall_name": "Iroh, Tea Master",
+   "match": "full",
+   "gih": 7799,
+   "gih_wr": 0.5743043979997435
+  },
+  {
+   "card_17lands": "Airbending Lesson",
+   "scryfall_name": "Airbending Lesson",
+   "match": "full",
+   "gih": 65172,
+   "gih_wr": 0.5742036457374332
+  },
+  {
+   "card_17lands": "Hermitic Herbalist",
+   "scryfall_name": "Hermitic Herbalist",
+   "match": "full",
+   "gih": 17850,
+   "gih_wr": 0.5736694677871148
+  },
+  {
+   "card_17lands": "Kyoshi Warriors",
+   "scryfall_name": "Kyoshi Warriors",
+   "match": "full",
+   "gih": 57956,
+   "gih_wr": 0.5734005107322797
+  },
+  {
+   "card_17lands": "Yuyan Archers",
+   "scryfall_name": "Yuyan Archers",
+   "match": "full",
+   "gih": 48736,
+   "gih_wr": 0.5731492120814182
+  },
+  {
+   "card_17lands": "Teo, Spirited Glider",
+   "scryfall_name": "Teo, Spirited Glider",
+   "match": "full",
+   "gih": 25676,
+   "gih_wr": 0.5730643402399127
+  },
+  {
+   "card_17lands": "Aang's Iceberg",
+   "scryfall_name": "Aang's Iceberg",
+   "match": "full",
+   "gih": 11427,
+   "gih_wr": 0.5728537673930165
+  },
+  {
+   "card_17lands": "Fire Nation Cadets",
+   "scryfall_name": "Fire Nation Cadets",
+   "match": "full",
+   "gih": 40703,
+   "gih_wr": 0.5724639461464757
+  },
+  {
+   "card_17lands": "Jasmine Dragon Tea Shop",
+   "scryfall_name": "Jasmine Dragon Tea Shop",
+   "match": "full",
+   "gih": 9716,
+   "gih_wr": 0.5722519555372582
+  },
+  {
+   "card_17lands": "Badgermole",
+   "scryfall_name": "Badgermole",
+   "match": "full",
+   "gih": 38620,
+   "gih_wr": 0.5719575349559813
+  },
+  {
+   "card_17lands": "Enter the Avatar State",
+   "scryfall_name": "Enter the Avatar State",
+   "match": "full",
+   "gih": 16780,
+   "gih_wr": 0.5715137067938022
+  },
+  {
+   "card_17lands": "Yip Yip!",
+   "scryfall_name": "Yip Yip!",
+   "match": "full",
+   "gih": 39303,
+   "gih_wr": 0.5708215657837824
+  },
+  {
+   "card_17lands": "Rumble Arena",
+   "scryfall_name": "Rumble Arena",
+   "match": "full",
+   "gih": 50301,
+   "gih_wr": 0.5706248384723962
+  },
+  {
+   "card_17lands": "Toph, the First Metalbender",
+   "scryfall_name": "Toph, the First Metalbender",
+   "match": "full",
+   "gih": 7406,
+   "gih_wr": 0.5702133405347016
+  },
+  {
+   "card_17lands": "Sold Out",
+   "scryfall_name": "Sold Out",
+   "match": "full",
+   "gih": 55449,
+   "gih_wr": 0.5701275045537341
+  },
+  {
+   "card_17lands": "Dai Li Agents",
+   "scryfall_name": "Dai Li Agents",
+   "match": "full",
+   "gih": 13117,
+   "gih_wr": 0.5699473965083479
+  },
+  {
+   "card_17lands": "Raucous Audience",
+   "scryfall_name": "Raucous Audience",
+   "match": "full",
+   "gih": 44240,
+   "gih_wr": 0.5698010849909584
+  },
+  {
+   "card_17lands": "Waterbending Lesson",
+   "scryfall_name": "Waterbending Lesson",
+   "match": "full",
+   "gih": 64884,
+   "gih_wr": 0.5693391282904876
+  },
+  {
+   "card_17lands": "Eladamri's Call",
+   "scryfall_name": "Eladamri's Call",
+   "match": "non-set (bonus/token/other)",
+   "gih": 65,
+   "gih_wr": 0.5692307692307692
+  },
+  {
+   "card_17lands": "The Boulder, Ready to Rumble",
+   "scryfall_name": "The Boulder, Ready to Rumble",
+   "match": "full",
+   "gih": 16616,
+   "gih_wr": 0.5690298507462687
+  },
+  {
+   "card_17lands": "Rocky Rebuke",
+   "scryfall_name": "Rocky Rebuke",
+   "match": "full",
+   "gih": 45508,
+   "gih_wr": 0.5686912191263075
+  },
+  {
+   "card_17lands": "Glider Kids",
+   "scryfall_name": "Glider Kids",
+   "match": "full",
+   "gih": 57669,
+   "gih_wr": 0.5683642858381452
+  },
+  {
+   "card_17lands": "North Pole Gates",
+   "scryfall_name": "North Pole Gates",
+   "match": "full",
+   "gih": 31216,
+   "gih_wr": 0.5681381342901076
+  },
+  {
+   "card_17lands": "First-Time Flyer",
+   "scryfall_name": "First-Time Flyer",
+   "match": "full",
+   "gih": 60595,
+   "gih_wr": 0.5679016420496741
+  },
+  {
+   "card_17lands": "Plains",
+   "scryfall_name": "Plains",
+   "match": "full",
+   "gih": 286198,
+   "gih_wr": 0.5676908993074724
+  },
+  {
+   "card_17lands": "Deadly Precision",
+   "scryfall_name": "Deadly Precision",
+   "match": "full",
+   "gih": 51513,
+   "gih_wr": 0.5676819443635587
+  },
+  {
+   "card_17lands": "Boomerang Basics",
+   "scryfall_name": "Boomerang Basics",
+   "match": "full",
+   "gih": 27940,
+   "gih_wr": 0.5675733715103793
+  },
+  {
+   "card_17lands": "Diligent Zookeeper",
+   "scryfall_name": "Diligent Zookeeper",
+   "match": "full",
+   "gih": 7625,
+   "gih_wr": 0.5669508196721311
+  },
+  {
+   "card_17lands": "Earth Kingdom General",
+   "scryfall_name": "Earth Kingdom General",
+   "match": "full",
+   "gih": 17941,
+   "gih_wr": 0.5669137729223566
+  },
+  {
+   "card_17lands": "Accumulate Wisdom",
+   "scryfall_name": "Accumulate Wisdom",
+   "match": "full",
+   "gih": 28604,
+   "gih_wr": 0.5668088379247658
+  },
+  {
+   "card_17lands": "Twin Blades",
+   "scryfall_name": "Twin Blades",
+   "match": "full",
+   "gih": 13554,
+   "gih_wr": 0.5662535045005165
+  },
+  {
+   "card_17lands": "Boiling Rock Rioter",
+   "scryfall_name": "Boiling Rock Rioter",
+   "match": "full",
+   "gih": 9915,
+   "gih_wr": 0.5662128088754412
+  },
+  {
+   "card_17lands": "Origin of Metalbending",
+   "scryfall_name": "Origin of Metalbending",
+   "match": "full",
+   "gih": 27509,
+   "gih_wr": 0.5655603620633247
+  },
+  {
+   "card_17lands": "Jeong Jeong's Deserters",
+   "scryfall_name": "Jeong Jeong's Deserters",
+   "match": "full",
+   "gih": 56367,
+   "gih_wr": 0.5653485195238349
+  },
+  {
+   "card_17lands": "Fire Nation Engineer",
+   "scryfall_name": "Fire Nation Engineer",
+   "match": "full",
+   "gih": 16525,
+   "gih_wr": 0.5648411497730711
+  },
+  {
+   "card_17lands": "Water Tribe Captain",
+   "scryfall_name": "Water Tribe Captain",
+   "match": "full",
+   "gih": 48770,
+   "gih_wr": 0.564732417469756
+  },
+  {
+   "card_17lands": "Pillar Launch",
+   "scryfall_name": "Pillar Launch",
+   "match": "full",
+   "gih": 12509,
+   "gih_wr": 0.5646334639059877
+  },
+  {
+   "card_17lands": "Ozai's Cruelty",
+   "scryfall_name": "Ozai's Cruelty",
+   "match": "full",
+   "gih": 9434,
+   "gih_wr": 0.5645537417850328
+  },
+  {
+   "card_17lands": "Razor Rings",
+   "scryfall_name": "Razor Rings",
+   "match": "full",
+   "gih": 45647,
+   "gih_wr": 0.5642649024032248
+  },
+  {
+   "card_17lands": "Kyoshi Battle Fan",
+   "scryfall_name": "Kyoshi Battle Fan",
+   "match": "full",
+   "gih": 53263,
+   "gih_wr": 0.5639374425022999
+  },
+  {
+   "card_17lands": "Fire Sages",
+   "scryfall_name": "Fire Sages",
+   "match": "full",
+   "gih": 20906,
+   "gih_wr": 0.5636181000669664
+  },
+  {
+   "card_17lands": "Island",
+   "scryfall_name": "Island",
+   "match": "full",
+   "gih": 308605,
+   "gih_wr": 0.5634840653910338
+  },
+  {
+   "card_17lands": "North Pole Patrol",
+   "scryfall_name": "North Pole Patrol",
+   "match": "full",
+   "gih": 24502,
+   "gih_wr": 0.5628111990857889
+  },
+  {
+   "card_17lands": "Seismic Sense",
+   "scryfall_name": "Seismic Sense",
+   "match": "full",
+   "gih": 17486,
+   "gih_wr": 0.5626215257920623
+  },
+  {
+   "card_17lands": "Spirit Water Revival",
+   "scryfall_name": "Spirit Water Revival",
+   "match": "full",
+   "gih": 12173,
+   "gih_wr": 0.5623100303951368
+  },
+  {
+   "card_17lands": "Corrupt Court Official",
+   "scryfall_name": "Corrupt Court Official",
+   "match": "full",
+   "gih": 49267,
+   "gih_wr": 0.5620800941806889
+  },
+  {
+   "card_17lands": "Airship Engine Room",
+   "scryfall_name": "Airship Engine Room",
+   "match": "full",
+   "gih": 30445,
+   "gih_wr": 0.5615700443422565
+  },
+  {
+   "card_17lands": "Professor Zei, Anthropologist",
+   "scryfall_name": "Professor Zei, Anthropologist",
+   "match": "full",
+   "gih": 21700,
+   "gih_wr": 0.5612903225806452
+  },
+  {
+   "card_17lands": "Flopsie, Bumi's Buddy",
+   "scryfall_name": "Flopsie, Bumi's Buddy",
+   "match": "full",
+   "gih": 16255,
+   "gih_wr": 0.5608120578283605
+  },
+  {
+   "card_17lands": "Forest",
+   "scryfall_name": "Forest",
+   "match": "full",
+   "gih": 216379,
+   "gih_wr": 0.5604333137688963
+  },
+  {
+   "card_17lands": "Tiger-Dillo",
+   "scryfall_name": "Tiger-Dillo",
+   "match": "full",
+   "gih": 5816,
+   "gih_wr": 0.5603507565337001
+  },
+  {
+   "card_17lands": "Master Piandao",
+   "scryfall_name": "Master Piandao",
+   "match": "full",
+   "gih": 17526,
+   "gih_wr": 0.5603103959831108
+  },
+  {
+   "card_17lands": "Earth Kingdom Soldier",
+   "scryfall_name": "Earth Kingdom Soldier",
+   "match": "full",
+   "gih": 25459,
+   "gih_wr": 0.560155544208335
+  },
+  {
+   "card_17lands": "Tarnished Citadel",
+   "scryfall_name": "Tarnished Citadel",
+   "match": "non-set (bonus/token/other)",
+   "gih": 100,
+   "gih_wr": 0.56
+  },
+  {
+   "card_17lands": "Pretending Poxbearers",
+   "scryfall_name": "Pretending Poxbearers",
+   "match": "full",
+   "gih": 55704,
+   "gih_wr": 0.5595648427401982
+  },
+  {
+   "card_17lands": "Wandering Musicians",
+   "scryfall_name": "Wandering Musicians",
+   "match": "full",
+   "gih": 35837,
+   "gih_wr": 0.5591148812679633
+  },
+  {
+   "card_17lands": "Aang's Journey",
+   "scryfall_name": "Aang's Journey",
+   "match": "full",
+   "gih": 42571,
+   "gih_wr": 0.5590895210354466
+  },
+  {
+   "card_17lands": "Fire Nation Attacks",
+   "scryfall_name": "Fire Nation Attacks",
+   "match": "full",
+   "gih": 16075,
+   "gih_wr": 0.5590046656298601
+  },
+  {
+   "card_17lands": "Bribery",
+   "scryfall_name": "Bribery",
+   "match": "non-set (bonus/token/other)",
+   "gih": 374,
+   "gih_wr": 0.5588235294117647
+  },
+  {
+   "card_17lands": "Suki, Kyoshi Warrior",
+   "scryfall_name": "Suki, Kyoshi Warrior",
+   "match": "full",
+   "gih": 17868,
+   "gih_wr": 0.5586523393776583
+  },
+  {
+   "card_17lands": "Misty Palms Oasis",
+   "scryfall_name": "Misty Palms Oasis",
+   "match": "full",
+   "gih": 19872,
+   "gih_wr": 0.5585748792270532
+  },
+  {
+   "card_17lands": "Katara, Bending Prodigy",
+   "scryfall_name": "Katara, Bending Prodigy",
+   "match": "full",
+   "gih": 26567,
+   "gih_wr": 0.5581736741069748
+  },
+  {
+   "card_17lands": "Mountain",
+   "scryfall_name": "Mountain",
+   "match": "full",
+   "gih": 225621,
+   "gih_wr": 0.5581351026721804
+  },
+  {
+   "card_17lands": "Omashu City",
+   "scryfall_name": "Omashu City",
+   "match": "full",
+   "gih": 24863,
+   "gih_wr": 0.5578570566705546
+  },
+  {
+   "card_17lands": "Rebellious Captives",
+   "scryfall_name": "Rebellious Captives",
+   "match": "full",
+   "gih": 42692,
+   "gih_wr": 0.5576923076923077
+  },
+  {
+   "card_17lands": "Meditation Pools",
+   "scryfall_name": "Meditation Pools",
+   "match": "full",
+   "gih": 28434,
+   "gih_wr": 0.5570092143208835
+  },
+  {
+   "card_17lands": "Swamp",
+   "scryfall_name": "Swamp",
+   "match": "full",
+   "gih": 203223,
+   "gih_wr": 0.5569399132972154
+  },
+  {
+   "card_17lands": "Fire Navy Trebuchet",
+   "scryfall_name": "Fire Navy Trebuchet",
+   "match": "full",
+   "gih": 15418,
+   "gih_wr": 0.5568167077441951
+  },
+  {
+   "card_17lands": "Abandon Attachments",
+   "scryfall_name": "Abandon Attachments",
+   "match": "full",
+   "gih": 54686,
+   "gih_wr": 0.5566872691365249
+  },
+  {
+   "card_17lands": "Joo Dee, One of Many",
+   "scryfall_name": "Joo Dee, One of Many",
+   "match": "full",
+   "gih": 20809,
+   "gih_wr": 0.5566822048152242
+  },
+  {
+   "card_17lands": "Earthen Ally",
+   "scryfall_name": "Earthen Ally",
+   "match": "full",
+   "gih": 4773,
+   "gih_wr": 0.5562539283469516
+  },
+  {
+   "card_17lands": "Walltop Sentries",
+   "scryfall_name": "Walltop Sentries",
+   "match": "full",
+   "gih": 37993,
+   "gih_wr": 0.5561814018371806
+  },
+  {
+   "card_17lands": "True Ancestry",
+   "scryfall_name": "True Ancestry",
+   "match": "full",
+   "gih": 20331,
+   "gih_wr": 0.5559982293050022
+  },
+  {
+   "card_17lands": "Callous Inspector",
+   "scryfall_name": "Callous Inspector",
+   "match": "full",
+   "gih": 38435,
+   "gih_wr": 0.5557954988942371
+  },
+  {
+   "card_17lands": "Sokka, Tenacious Tactician",
+   "scryfall_name": "Sokka, Tenacious Tactician",
+   "match": "full",
+   "gih": 7215,
+   "gih_wr": 0.5557865557865558
+  },
+  {
+   "card_17lands": "Canyon Crawler",
+   "scryfall_name": "Canyon Crawler",
+   "match": "full",
+   "gih": 27925,
+   "gih_wr": 0.5554879140555058
+  },
+  {
+   "card_17lands": "Tiger-Seal",
+   "scryfall_name": "Tiger-Seal",
+   "match": "full",
+   "gih": 2033,
+   "gih_wr": 0.5548450565666503
+  },
+  {
+   "card_17lands": "Azula Always Lies",
+   "scryfall_name": "Azula Always Lies",
+   "match": "full",
+   "gih": 25956,
+   "gih_wr": 0.5540915395284327
+  },
+  {
+   "card_17lands": "Avatar Enthusiasts",
+   "scryfall_name": "Avatar Enthusiasts",
+   "match": "full",
+   "gih": 39656,
+   "gih_wr": 0.5540901755093807
+  },
+  {
+   "card_17lands": "Air Nomad Legacy",
+   "scryfall_name": "Air Nomad Legacy",
+   "match": "full",
+   "gih": 10792,
+   "gih_wr": 0.5539288361749444
+  },
+  {
+   "card_17lands": "Foggy Bottom Swamp",
+   "scryfall_name": "Foggy Bottom Swamp",
+   "match": "full",
+   "gih": 19223,
+   "gih_wr": 0.5538677625760807
+  },
+  {
+   "card_17lands": "Clone",
+   "scryfall_name": "Clone",
+   "match": "non-set (bonus/token/other)",
+   "gih": 289,
+   "gih_wr": 0.5536332179930796
+  },
+  {
+   "card_17lands": "Treetop Freedom Fighters",
+   "scryfall_name": "Treetop Freedom Fighters",
+   "match": "full",
+   "gih": 28805,
+   "gih_wr": 0.553619163339698
+  },
+  {
+   "card_17lands": "Otter-Penguin",
+   "scryfall_name": "Otter-Penguin",
+   "match": "full",
+   "gih": 40667,
+   "gih_wr": 0.5532249735657905
+  },
+  {
+   "card_17lands": "Kyoshi Village",
+   "scryfall_name": "Kyoshi Village",
+   "match": "full",
+   "gih": 24619,
+   "gih_wr": 0.5530687680246964
+  },
+  {
+   "card_17lands": "Team Avatar",
+   "scryfall_name": "Team Avatar",
+   "match": "full",
+   "gih": 18709,
+   "gih_wr": 0.5527286332781014
+  },
+  {
+   "card_17lands": "Barrels of Blasting Jelly",
+   "scryfall_name": "Barrels of Blasting Jelly",
+   "match": "full",
+   "gih": 42596,
+   "gih_wr": 0.5522584280214105
+  },
+  {
+   "card_17lands": "Merchant of Many Hats",
+   "scryfall_name": "Merchant of Many Hats",
+   "match": "full",
+   "gih": 32885,
+   "gih_wr": 0.5513151892960316
+  },
+  {
+   "card_17lands": "Rockalanche",
+   "scryfall_name": "Rockalanche",
+   "match": "full",
+   "gih": 8782,
+   "gih_wr": 0.5507856980186746
+  },
+  {
+   "card_17lands": "June, Bounty Hunter",
+   "scryfall_name": "June, Bounty Hunter",
+   "match": "full",
+   "gih": 21162,
+   "gih_wr": 0.5502788016255552
+  },
+  {
+   "card_17lands": "Shared Roots",
+   "scryfall_name": "Shared Roots",
+   "match": "full",
+   "gih": 17355,
+   "gih_wr": 0.5496974935177182
+  },
+  {
+   "card_17lands": "Cunning Maneuver",
+   "scryfall_name": "Cunning Maneuver",
+   "match": "full",
+   "gih": 17366,
+   "gih_wr": 0.5496948059426465
+  },
+  {
+   "card_17lands": "Captain Sisay",
+   "scryfall_name": "Captain Sisay",
+   "match": "non-set (bonus/token/other)",
+   "gih": 182,
+   "gih_wr": 0.5494505494505495
+  },
+  {
+   "card_17lands": "Azula, On the Hunt",
+   "scryfall_name": "Azula, On the Hunt",
+   "match": "full",
+   "gih": 19340,
+   "gih_wr": 0.5493795243019648
+  },
+  {
+   "card_17lands": "Sun-Blessed Peak",
+   "scryfall_name": "Sun-Blessed Peak",
+   "match": "full",
+   "gih": 22996,
+   "gih_wr": 0.5491824665159158
+  },
+  {
+   "card_17lands": "Vindictive Warden",
+   "scryfall_name": "Vindictive Warden",
+   "match": "full",
+   "gih": 20293,
+   "gih_wr": 0.549154880993446
+  },
+  {
+   "card_17lands": "Hama, the Bloodbender",
+   "scryfall_name": "Hama, the Bloodbender",
+   "match": "full",
+   "gih": 22330,
+   "gih_wr": 0.5491267353336319
+  },
+  {
+   "card_17lands": "Boiling Rock Prison",
+   "scryfall_name": "Boiling Rock Prison",
+   "match": "full",
+   "gih": 17852,
+   "gih_wr": 0.5487900515348421
+  },
+  {
+   "card_17lands": "Sokka, Bold Boomeranger",
+   "scryfall_name": "Sokka, Bold Boomeranger",
+   "match": "full",
+   "gih": 6664,
+   "gih_wr": 0.5480192076830732
+  },
+  {
+   "card_17lands": "Bumi, King of Three Trials",
+   "scryfall_name": "Bumi, King of Three Trials",
+   "match": "full",
+   "gih": 14417,
+   "gih_wr": 0.547964208920025
+  },
+  {
+   "card_17lands": "Curious Farm Animals",
+   "scryfall_name": "Curious Farm Animals",
+   "match": "full",
+   "gih": 8097,
+   "gih_wr": 0.5473632209460294
+  },
+  {
+   "card_17lands": "Elemental Bond",
+   "scryfall_name": "Elemental Bond",
+   "match": "non-set (bonus/token/other)",
+   "gih": 117,
+   "gih_wr": 0.5470085470085471
+  },
+  {
+   "card_17lands": "Lo and Li, Twin Tutors",
+   "scryfall_name": "Lo and Li, Twin Tutors",
+   "match": "full",
+   "gih": 6589,
+   "gih_wr": 0.5469722264380027
+  },
+  {
+   "card_17lands": "Airbender's Reversal",
+   "scryfall_name": "Airbender's Reversal",
+   "match": "full",
+   "gih": 17522,
+   "gih_wr": 0.5465129551421071
+  },
+  {
+   "card_17lands": "Swampsnare Trap",
+   "scryfall_name": "Swampsnare Trap",
+   "match": "full",
+   "gih": 36850,
+   "gih_wr": 0.5458344640434193
+  },
+  {
+   "card_17lands": "Giant Koi",
+   "scryfall_name": "Giant Koi",
+   "match": "full",
+   "gih": 32673,
+   "gih_wr": 0.5457411318213816
+  },
+  {
+   "card_17lands": "Earth Rumble",
+   "scryfall_name": "Earth Rumble",
+   "match": "full",
+   "gih": 15100,
+   "gih_wr": 0.5456953642384106
+  },
+  {
+   "card_17lands": "Avatar's Wrath",
+   "scryfall_name": "Avatar's Wrath",
+   "match": "full",
+   "gih": 6720,
+   "gih_wr": 0.5455357142857142
+  },
+  {
+   "card_17lands": "Waterbending Scroll",
+   "scryfall_name": "Waterbending Scroll",
+   "match": "full",
+   "gih": 13552,
+   "gih_wr": 0.5444214876033058
+  },
+  {
+   "card_17lands": "Iguana Parrot",
+   "scryfall_name": "Iguana Parrot",
+   "match": "full",
+   "gih": 29840,
+   "gih_wr": 0.5439678284182305
+  },
+  {
+   "card_17lands": "Ty Lee, Artful Acrobat",
+   "scryfall_name": "Ty Lee, Artful Acrobat",
+   "match": "full",
+   "gih": 14763,
+   "gih_wr": 0.5435887014834383
+  },
+  {
+   "card_17lands": "Deserter's Disciple",
+   "scryfall_name": "Deserter's Disciple",
+   "match": "full",
+   "gih": 27402,
+   "gih_wr": 0.5433544996715568
+  },
+  {
+   "card_17lands": "Unlucky Cabbage Merchant",
+   "scryfall_name": "Unlucky Cabbage Merchant",
+   "match": "full",
+   "gih": 18185,
+   "gih_wr": 0.5429749793786087
+  },
+  {
+   "card_17lands": "Mai, Scornful Striker",
+   "scryfall_name": "Mai, Scornful Striker",
+   "match": "full",
+   "gih": 6105,
+   "gih_wr": 0.5428337428337429
+  },
+  {
+   "card_17lands": "Wolfbat",
+   "scryfall_name": "Wolfbat",
+   "match": "full",
+   "gih": 10236,
+   "gih_wr": 0.5424970691676436
+  },
+  {
+   "card_17lands": "Jet's Brainwashing",
+   "scryfall_name": "Jet's Brainwashing",
+   "match": "full",
+   "gih": 3733,
+   "gih_wr": 0.5424591481382266
+  },
+  {
+   "card_17lands": "Avatar Aang",
+   "scryfall_name": "Avatar Aang [MULTI]",
+   "match": "first-face",
+   "gih": 3915,
+   "gih_wr": 0.5420178799489145
+  },
+  {
+   "card_17lands": "Fancy Footwork",
+   "scryfall_name": "Fancy Footwork",
+   "match": "full",
+   "gih": 12075,
+   "gih_wr": 0.5416977225672878
+  },
+  {
+   "card_17lands": "Serpent of the Pass",
+   "scryfall_name": "Serpent of the Pass",
+   "match": "full",
+   "gih": 16693,
+   "gih_wr": 0.5415443599113401
+  },
+  {
+   "card_17lands": "Earth Village Ruffians",
+   "scryfall_name": "Earth Village Ruffians",
+   "match": "full",
+   "gih": 24885,
+   "gih_wr": 0.5406469760900141
+  },
+  {
+   "card_17lands": "War Balloon",
+   "scryfall_name": "War Balloon",
+   "match": "full",
+   "gih": 10698,
+   "gih_wr": 0.5403813796971396
+  },
+  {
+   "card_17lands": "Tundra Tank",
+   "scryfall_name": "Tundra Tank",
+   "match": "full",
+   "gih": 4621,
+   "gih_wr": 0.5403592296039819
+  },
+  {
+   "card_17lands": "Bender's Waterskin",
+   "scryfall_name": "Bender's Waterskin",
+   "match": "full",
+   "gih": 15166,
+   "gih_wr": 0.5403534221284452
+  },
+  {
+   "card_17lands": "Dai Li Indoctrination",
+   "scryfall_name": "Dai Li Indoctrination",
+   "match": "full",
+   "gih": 10965,
+   "gih_wr": 0.5400820793433653
+  },
+  {
+   "card_17lands": "Cat-Owl",
+   "scryfall_name": "Cat-Owl",
+   "match": "full",
+   "gih": 20943,
+   "gih_wr": 0.539607506087953
+  },
+  {
+   "card_17lands": "Hei Bai, Spirit of Balance",
+   "scryfall_name": "Hei Bai, Spirit of Balance",
+   "match": "full",
+   "gih": 15377,
+   "gih_wr": 0.5395070559927164
+  },
+  {
+   "card_17lands": "Fabled Passage",
+   "scryfall_name": "Fabled Passage",
+   "match": "non-set (bonus/token/other)",
+   "gih": 408,
+   "gih_wr": 0.5392156862745098
+  },
+  {
+   "card_17lands": "Sun Warriors",
+   "scryfall_name": "Sun Warriors",
+   "match": "full",
+   "gih": 12801,
+   "gih_wr": 0.5388641512381845
+  },
+  {
+   "card_17lands": "Fire Nation Palace",
+   "scryfall_name": "Fire Nation Palace",
+   "match": "full",
+   "gih": 5502,
+   "gih_wr": 0.5379861868411486
+  },
+  {
+   "card_17lands": "Flexible Waterbender",
+   "scryfall_name": "Flexible Waterbender",
+   "match": "full",
+   "gih": 8217,
+   "gih_wr": 0.5376658147742485
+  },
+  {
+   "card_17lands": "Mongoose Lizard",
+   "scryfall_name": "Mongoose Lizard",
+   "match": "full",
+   "gih": 11480,
+   "gih_wr": 0.5372822299651568
+  },
+  {
+   "card_17lands": "Master Pakku",
+   "scryfall_name": "Master Pakku",
+   "match": "full",
+   "gih": 12312,
+   "gih_wr": 0.5370370370370371
+  },
+  {
+   "card_17lands": "Crescent Island Temple",
+   "scryfall_name": "Crescent Island Temple",
+   "match": "full",
+   "gih": 3912,
+   "gih_wr": 0.5368098159509203
+  },
+  {
+   "card_17lands": "Return of the Wildspeaker",
+   "scryfall_name": "Return of the Wildspeaker",
+   "match": "non-set (bonus/token/other)",
+   "gih": 125,
+   "gih_wr": 0.536
+  },
+  {
+   "card_17lands": "Airbender Ascension",
+   "scryfall_name": "Airbender Ascension",
+   "match": "full",
+   "gih": 8103,
+   "gih_wr": 0.5359743304948784
+  },
+  {
+   "card_17lands": "Sandbenders' Storm",
+   "scryfall_name": "Sandbenders' Storm",
+   "match": "full",
+   "gih": 17694,
+   "gih_wr": 0.5358313552616706
+  },
+  {
+   "card_17lands": "Saber-Tooth Moose-Lion",
+   "scryfall_name": "Saber-Tooth Moose-Lion",
+   "match": "full",
+   "gih": 24177,
+   "gih_wr": 0.5356744012904827
+  },
+  {
+   "card_17lands": "Zhao, the Moon Slayer",
+   "scryfall_name": "Zhao, the Moon Slayer",
+   "match": "full",
+   "gih": 4916,
+   "gih_wr": 0.5355980471928397
+  },
+  {
+   "card_17lands": "Earth Rumble Wrestlers",
+   "scryfall_name": "Earth Rumble Wrestlers",
+   "match": "full",
+   "gih": 8555,
+   "gih_wr": 0.535593220338983
+  },
+  {
+   "card_17lands": "Haru, Hidden Talent",
+   "scryfall_name": "Haru, Hidden Talent",
+   "match": "full",
+   "gih": 13122,
+   "gih_wr": 0.5351318396585887
+  },
+  {
+   "card_17lands": "Combustion Man",
+   "scryfall_name": "Combustion Man",
+   "match": "full",
+   "gih": 10204,
+   "gih_wr": 0.5349862798902392
+  },
+  {
+   "card_17lands": "Platypus-Bear",
+   "scryfall_name": "Platypus-Bear",
+   "match": "full",
+   "gih": 22277,
+   "gih_wr": 0.5349463572294294
+  },
+  {
+   "card_17lands": "Turtle-Duck",
+   "scryfall_name": "Turtle-Duck",
+   "match": "full",
+   "gih": 10215,
+   "gih_wr": 0.534312285854136
+  },
+  {
+   "card_17lands": "How to Start a Riot",
+   "scryfall_name": "How to Start a Riot",
+   "match": "full",
+   "gih": 17645,
+   "gih_wr": 0.5336355908189289
+  },
+  {
+   "card_17lands": "Mai, Jaded Edge",
+   "scryfall_name": "Mai, Jaded Edge",
+   "match": "full",
+   "gih": 16300,
+   "gih_wr": 0.5336196319018405
+  },
+  {
+   "card_17lands": "Foggy Swamp Vinebender",
+   "scryfall_name": "Foggy Swamp Vinebender",
+   "match": "full",
+   "gih": 14033,
+   "gih_wr": 0.5333143305066629
+  },
+  {
+   "card_17lands": "Rabaroo Troop",
+   "scryfall_name": "Rabaroo Troop",
+   "match": "full",
+   "gih": 10321,
+   "gih_wr": 0.5327003197364596
+  },
+  {
+   "card_17lands": "Zuko, Exiled Prince",
+   "scryfall_name": "Zuko, Exiled Prince",
+   "match": "full",
+   "gih": 13906,
+   "gih_wr": 0.5324320437221344
+  },
+  {
+   "card_17lands": "Leaves from the Vine",
+   "scryfall_name": "Leaves from the Vine",
+   "match": "full",
+   "gih": 5351,
+   "gih_wr": 0.5324238460100915
+  },
+  {
+   "card_17lands": "Sunbaked Canyon",
+   "scryfall_name": "Sunbaked Canyon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 248,
+   "gih_wr": 0.532258064516129
+  },
+  {
+   "card_17lands": "Appa, Loyal Sky Bison",
+   "scryfall_name": "Appa, Loyal Sky Bison",
+   "match": "full",
+   "gih": 9894,
+   "gih_wr": 0.5320396199717
+  },
+  {
+   "card_17lands": "White Lotus Hideout",
+   "scryfall_name": "White Lotus Hideout",
+   "match": "full",
+   "gih": 9954,
+   "gih_wr": 0.5317460317460317
+  },
+  {
+   "card_17lands": "Uncle Iroh",
+   "scryfall_name": "Uncle Iroh",
+   "match": "full",
+   "gih": 11702,
+   "gih_wr": 0.5307639719706033
+  },
+  {
+   "card_17lands": "Foggy Swamp Hunters",
+   "scryfall_name": "Foggy Swamp Hunters",
+   "match": "full",
+   "gih": 6689,
+   "gih_wr": 0.5307220810285543
+  },
+  {
+   "card_17lands": "Firebender Ascension",
+   "scryfall_name": "Firebender Ascension",
+   "match": "full",
+   "gih": 7015,
+   "gih_wr": 0.5287241625089095
+  },
+  {
+   "card_17lands": "Bumi Bash",
+   "scryfall_name": "Bumi Bash",
+   "match": "full",
+   "gih": 24202,
+   "gih_wr": 0.5275597058094372
+  },
+  {
+   "card_17lands": "Sparring Dummy",
+   "scryfall_name": "Sparring Dummy",
+   "match": "full",
+   "gih": 10712,
+   "gih_wr": 0.5272591486183719
+  },
+  {
+   "card_17lands": "Energybending",
+   "scryfall_name": "Energybending",
+   "match": "full",
+   "gih": 5145,
+   "gih_wr": 0.5269193391642372
+  },
+  {
+   "card_17lands": "Rough Rhino Cavalry",
+   "scryfall_name": "Rough Rhino Cavalry",
+   "match": "full",
+   "gih": 6817,
+   "gih_wr": 0.5266246149332551
+  },
+  {
+   "card_17lands": "Solstice Revelations",
+   "scryfall_name": "Solstice Revelations",
+   "match": "full",
+   "gih": 3625,
+   "gih_wr": 0.5266206896551724
+  },
+  {
+   "card_17lands": "Bitter Work",
+   "scryfall_name": "Bitter Work",
+   "match": "full",
+   "gih": 8556,
+   "gih_wr": 0.5262973352033661
+  },
+  {
+   "card_17lands": "Long Feng, Grand Secretariat",
+   "scryfall_name": "Long Feng, Grand Secretariat",
+   "match": "full",
+   "gih": 11811,
+   "gih_wr": 0.5261197189061044
+  },
+  {
+   "card_17lands": "Jeong Jeong, the Deserter",
+   "scryfall_name": "Jeong Jeong, the Deserter",
+   "match": "full",
+   "gih": 15253,
+   "gih_wr": 0.5255359601389891
+  },
+  {
+   "card_17lands": "Hog-Monkey",
+   "scryfall_name": "Hog-Monkey",
+   "match": "full",
+   "gih": 6625,
+   "gih_wr": 0.525433962264151
+  },
+  {
+   "card_17lands": "Join the Dance",
+   "scryfall_name": "Join the Dance",
+   "match": "non-set (bonus/token/other)",
+   "gih": 118,
+   "gih_wr": 0.5254237288135594
+  },
+  {
+   "card_17lands": "Teferi's Protection",
+   "scryfall_name": "Teferi's Protection",
+   "match": "non-set (bonus/token/other)",
+   "gih": 99,
+   "gih_wr": 0.5252525252525253
+  },
+  {
+   "card_17lands": "Meteor Sword",
+   "scryfall_name": "Meteor Sword",
+   "match": "full",
+   "gih": 8474,
+   "gih_wr": 0.5251357092282275
+  },
+  {
+   "card_17lands": "Firebending Student",
+   "scryfall_name": "Firebending Student",
+   "match": "full",
+   "gih": 6323,
+   "gih_wr": 0.5249090621540408
+  },
+  {
+   "card_17lands": "Crashing Wave",
+   "scryfall_name": "Crashing Wave",
+   "match": "full",
+   "gih": 6893,
+   "gih_wr": 0.5247352386479037
+  },
+  {
+   "card_17lands": "Yue, the Moon Spirit",
+   "scryfall_name": "Yue, the Moon Spirit",
+   "match": "full",
+   "gih": 7528,
+   "gih_wr": 0.5245749202975558
+  },
+  {
+   "card_17lands": "Boar-q-pine",
+   "scryfall_name": "Boar-q-pine",
+   "match": "full",
+   "gih": 12462,
+   "gih_wr": 0.5242336703578879
+  },
+  {
+   "card_17lands": "Cruel Administrator",
+   "scryfall_name": "Cruel Administrator",
+   "match": "full",
+   "gih": 7249,
+   "gih_wr": 0.5242102358946061
+  },
+  {
+   "card_17lands": "Beetle-Headed Merchants",
+   "scryfall_name": "Beetle-Headed Merchants",
+   "match": "full",
+   "gih": 18420,
+   "gih_wr": 0.5239413680781759
+  },
+  {
+   "card_17lands": "Northern Air Temple",
+   "scryfall_name": "Northern Air Temple",
+   "match": "full",
+   "gih": 3096,
+   "gih_wr": 0.5239018087855297
+  },
+  {
+   "card_17lands": "Zuko's Conviction",
+   "scryfall_name": "Zuko's Conviction",
+   "match": "full",
+   "gih": 10912,
+   "gih_wr": 0.5238269794721407
+  },
+  {
+   "card_17lands": "Katara, the Fearless",
+   "scryfall_name": "Katara, the Fearless",
+   "match": "full",
+   "gih": 5276,
+   "gih_wr": 0.523502653525398
+  },
+  {
+   "card_17lands": "The Spirit Oasis",
+   "scryfall_name": "The Spirit Oasis",
+   "match": "full",
+   "gih": 4068,
+   "gih_wr": 0.5233529990167158
+  },
+  {
+   "card_17lands": "Earthbending Lesson",
+   "scryfall_name": "Earthbending Lesson",
+   "match": "full",
+   "gih": 19695,
+   "gih_wr": 0.5226707286113227
+  },
+  {
+   "card_17lands": "Ember Island Production",
+   "scryfall_name": "Ember Island Production",
+   "match": "full",
+   "gih": 6038,
+   "gih_wr": 0.5223583968201391
+  },
+  {
+   "card_17lands": "Zhao, Ruthless Admiral",
+   "scryfall_name": "Zhao, Ruthless Admiral",
+   "match": "full",
+   "gih": 6443,
+   "gih_wr": 0.5214961974235605
+  },
+  {
+   "card_17lands": "Pirate Peddlers",
+   "scryfall_name": "Pirate Peddlers",
+   "match": "full",
+   "gih": 20574,
+   "gih_wr": 0.5212404005054924
+  },
+  {
+   "card_17lands": "Sandbender Scavengers",
+   "scryfall_name": "Sandbender Scavengers",
+   "match": "full",
+   "gih": 4499,
+   "gih_wr": 0.5201155812402756
+  },
+  {
+   "card_17lands": "Rowdy Snowballers",
+   "scryfall_name": "Rowdy Snowballers",
+   "match": "full",
+   "gih": 19926,
+   "gih_wr": 0.5194720465723176
+  },
+  {
+   "card_17lands": "Meteorite",
+   "scryfall_name": "Meteorite",
+   "match": "non-set (bonus/token/other)",
+   "gih": 54,
+   "gih_wr": 0.5185185185185185
+  },
+  {
+   "card_17lands": "Ruinous Waterbending",
+   "scryfall_name": "Ruinous Waterbending",
+   "match": "full",
+   "gih": 3634,
+   "gih_wr": 0.5173362685745735
+  },
+  {
+   "card_17lands": "Vengeful Villagers",
+   "scryfall_name": "Vengeful Villagers",
+   "match": "full",
+   "gih": 4429,
+   "gih_wr": 0.5172725220139986
+  },
+  {
+   "card_17lands": "Geyser Leaper",
+   "scryfall_name": "Geyser Leaper",
+   "match": "full",
+   "gih": 17744,
+   "gih_wr": 0.5164562669071235
+  },
+  {
+   "card_17lands": "Redirect Lightning",
+   "scryfall_name": "Redirect Lightning",
+   "match": "full",
+   "gih": 4360,
+   "gih_wr": 0.5162844036697247
+  },
+  {
+   "card_17lands": "Buzzard-Wasp Colony",
+   "scryfall_name": "Buzzard-Wasp Colony",
+   "match": "full",
+   "gih": 8362,
+   "gih_wr": 0.5159052858167903
+  },
+  {
+   "card_17lands": "Invasion Tactics",
+   "scryfall_name": "Invasion Tactics",
+   "match": "full",
+   "gih": 6716,
+   "gih_wr": 0.5147409172126266
+  },
+  {
+   "card_17lands": "Southern Air Temple",
+   "scryfall_name": "Southern Air Temple",
+   "match": "full",
+   "gih": 5978,
+   "gih_wr": 0.5138842422214788
+  },
+  {
+   "card_17lands": "Fire Nation Raider",
+   "scryfall_name": "Fire Nation Raider",
+   "match": "full",
+   "gih": 8724,
+   "gih_wr": 0.5131820265933058
+  },
+  {
+   "card_17lands": "Cycle of Renewal",
+   "scryfall_name": "Cycle of Renewal",
+   "match": "full",
+   "gih": 23685,
+   "gih_wr": 0.5108296390120329
+  },
+  {
+   "card_17lands": "Searing Blood",
+   "scryfall_name": "Searing Blood",
+   "match": "non-set (bonus/token/other)",
+   "gih": 231,
+   "gih_wr": 0.5108225108225108
+  },
+  {
+   "card_17lands": "Honest Work",
+   "scryfall_name": "Honest Work",
+   "match": "full",
+   "gih": 4689,
+   "gih_wr": 0.508637236084453
+  },
+  {
+   "card_17lands": "Fire Lord Azula",
+   "scryfall_name": "Fire Lord Azula",
+   "match": "full",
+   "gih": 5143,
+   "gih_wr": 0.506319268909197
+  },
+  {
+   "card_17lands": "Zuko, Conflicted",
+   "scryfall_name": "Zuko, Conflicted",
+   "match": "full",
+   "gih": 2393,
+   "gih_wr": 0.5039699122440451
+  },
+  {
+   "card_17lands": "The Last Agni Kai",
+   "scryfall_name": "The Last Agni Kai",
+   "match": "full",
+   "gih": 3957,
+   "gih_wr": 0.49861005812484205
+  },
+  {
+   "card_17lands": "Price of Freedom",
+   "scryfall_name": "Price of Freedom",
+   "match": "full",
+   "gih": 1717,
+   "gih_wr": 0.49854397204426326
+  },
+  {
+   "card_17lands": "Kyoshi Island Plaza",
+   "scryfall_name": "Kyoshi Island Plaza",
+   "match": "full",
+   "gih": 3528,
+   "gih_wr": 0.4923469387755102
+  },
+  {
+   "card_17lands": "Sakashima of a Thousand Faces",
+   "scryfall_name": "Sakashima of a Thousand Faces",
+   "match": "non-set (bonus/token/other)",
+   "gih": 130,
+   "gih_wr": 0.49230769230769234
+  },
+  {
+   "card_17lands": "Drannith Magistrate",
+   "scryfall_name": "Drannith Magistrate",
+   "match": "non-set (bonus/token/other)",
+   "gih": 195,
+   "gih_wr": 0.49230769230769234
+  },
+  {
+   "card_17lands": "Zuko's Exile",
+   "scryfall_name": "Zuko's Exile",
+   "match": "full",
+   "gih": 10698,
+   "gih_wr": 0.48878295008412787
+  },
+  {
+   "card_17lands": "Scout's Warning",
+   "scryfall_name": "Scout's Warning",
+   "match": "non-set (bonus/token/other)",
+   "gih": 117,
+   "gih_wr": 0.48717948717948717
+  },
+  {
+   "card_17lands": "Brought Back",
+   "scryfall_name": "Brought Back",
+   "match": "non-set (bonus/token/other)",
+   "gih": 89,
+   "gih_wr": 0.48314606741573035
+  },
+  {
+   "card_17lands": "Avatar Destiny",
+   "scryfall_name": "Avatar Destiny",
+   "match": "full",
+   "gih": 2083,
+   "gih_wr": 0.47911665866538644
+  },
+  {
+   "card_17lands": "Imprisoned in the Moon",
+   "scryfall_name": "Imprisoned in the Moon",
+   "match": "non-set (bonus/token/other)",
+   "gih": 90,
+   "gih_wr": 0.4777777777777778
+  },
+  {
+   "card_17lands": "Dockside Extortionist",
+   "scryfall_name": "Dockside Extortionist",
+   "match": "non-set (bonus/token/other)",
+   "gih": 42,
+   "gih_wr": 0.47619047619047616
+  },
+  {
+   "card_17lands": "Dark Depths",
+   "scryfall_name": "Dark Depths",
+   "match": "non-set (bonus/token/other)",
+   "gih": 19,
+   "gih_wr": 0.47368421052631576
+  },
+  {
+   "card_17lands": "Sozin's Comet",
+   "scryfall_name": "Sozin's Comet",
+   "match": "full",
+   "gih": 313,
+   "gih_wr": 0.4728434504792332
+  },
+  {
+   "card_17lands": "Secret of Bloodbending",
+   "scryfall_name": "Secret of Bloodbending",
+   "match": "full",
+   "gih": 674,
+   "gih_wr": 0.47181008902077154
+  },
+  {
+   "card_17lands": "Fevered Visions",
+   "scryfall_name": "Fevered Visions",
+   "match": "non-set (bonus/token/other)",
+   "gih": 51,
+   "gih_wr": 0.47058823529411764
+  },
+  {
+   "card_17lands": "Fire Lord Zuko",
+   "scryfall_name": "Fire Lord Zuko",
+   "match": "full",
+   "gih": 1299,
+   "gih_wr": 0.46882217090069284
+  },
+  {
+   "card_17lands": "Fatal Fissure",
+   "scryfall_name": "Fatal Fissure",
+   "match": "full",
+   "gih": 1965,
+   "gih_wr": 0.46513994910941475
+  },
+  {
+   "card_17lands": "Destined Confrontation",
+   "scryfall_name": "Destined Confrontation",
+   "match": "full",
+   "gih": 1962,
+   "gih_wr": 0.46279306829765543
+  },
+  {
+   "card_17lands": "Release to Memory",
+   "scryfall_name": "Release to Memory",
+   "match": "non-set (bonus/token/other)",
+   "gih": 50,
+   "gih_wr": 0.46
+  },
+  {
+   "card_17lands": "Trusty Boomerang",
+   "scryfall_name": "Trusty Boomerang",
+   "match": "full",
+   "gih": 734,
+   "gih_wr": 0.45776566757493187
+  },
+  {
+   "card_17lands": "Force of Negation",
+   "scryfall_name": "Force of Negation",
+   "match": "non-set (bonus/token/other)",
+   "gih": 116,
+   "gih_wr": 0.45689655172413796
+  },
+  {
+   "card_17lands": "Foggy Swamp Visions",
+   "scryfall_name": "Foggy Swamp Visions",
+   "match": "full",
+   "gih": 717,
+   "gih_wr": 0.4560669456066946
+  },
+  {
+   "card_17lands": "Waterbender Ascension",
+   "scryfall_name": "Waterbender Ascension",
+   "match": "full",
+   "gih": 3966,
+   "gih_wr": 0.4546142208774584
+  },
+  {
+   "card_17lands": "Warstorm Surge",
+   "scryfall_name": "Warstorm Surge",
+   "match": "non-set (bonus/token/other)",
+   "gih": 88,
+   "gih_wr": 0.45454545454545453
+  },
+  {
+   "card_17lands": "Beastmaster Ascension",
+   "scryfall_name": "Beastmaster Ascension",
+   "match": "non-set (bonus/token/other)",
+   "gih": 83,
+   "gih_wr": 0.4457831325301205
+  },
+  {
+   "card_17lands": "Elemental Teachings",
+   "scryfall_name": "Elemental Teachings",
+   "match": "full",
+   "gih": 273,
+   "gih_wr": 0.4432234432234432
+  },
+  {
+   "card_17lands": "Standstill",
+   "scryfall_name": "Standstill",
+   "match": "non-set (bonus/token/other)",
+   "gih": 158,
+   "gih_wr": 0.43670886075949367
+  },
+  {
+   "card_17lands": "Clone Legion",
+   "scryfall_name": "Clone Legion",
+   "match": "non-set (bonus/token/other)",
+   "gih": 97,
+   "gih_wr": 0.4329896907216495
+  },
+  {
+   "card_17lands": "White Lotus Tile",
+   "scryfall_name": "White Lotus Tile",
+   "match": "full",
+   "gih": 228,
+   "gih_wr": 0.4298245614035088
+  },
+  {
+   "card_17lands": "The Walls of Ba Sing Se",
+   "scryfall_name": "The Walls of Ba Sing Se",
+   "match": "full",
+   "gih": 392,
+   "gih_wr": 0.42857142857142855
+  },
+  {
+   "card_17lands": "Bloodchief Ascension",
+   "scryfall_name": "Bloodchief Ascension",
+   "match": "non-set (bonus/token/other)",
+   "gih": 83,
+   "gih_wr": 0.42168674698795183
+  },
+  {
+   "card_17lands": "Taunting Challenge",
+   "scryfall_name": "Taunting Challenge",
+   "match": "non-set (bonus/token/other)",
+   "gih": 38,
+   "gih_wr": 0.42105263157894735
+  },
+  {
+   "card_17lands": "Humble Defector",
+   "scryfall_name": "Humble Defector",
+   "match": "non-set (bonus/token/other)",
+   "gih": 87,
+   "gih_wr": 0.40229885057471265
+  },
+  {
+   "card_17lands": "Empty City Ruse",
+   "scryfall_name": "Empty City Ruse",
+   "match": "non-set (bonus/token/other)",
+   "gih": 15,
+   "gih_wr": 0.4
+  },
+  {
+   "card_17lands": "Cruel Tutor",
+   "scryfall_name": "Cruel Tutor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 23,
+   "gih_wr": 0.391304347826087
+  },
+  {
+   "card_17lands": "Diaochan, Artful Beauty",
+   "scryfall_name": "Diaochan, Artful Beauty",
+   "match": "non-set (bonus/token/other)",
+   "gih": 17,
+   "gih_wr": 0.35294117647058826
+  },
+  {
+   "card_17lands": "Heartbeat of Spring",
+   "scryfall_name": "Heartbeat of Spring",
+   "match": "non-set (bonus/token/other)",
+   "gih": 9,
+   "gih_wr": 0.3333333333333333
+  },
+  {
+   "card_17lands": "Fervor",
+   "scryfall_name": "Fervor",
+   "match": "non-set (bonus/token/other)",
+   "gih": 17,
+   "gih_wr": 0.29411764705882354
+  },
+  {
+   "card_17lands": "Prosperity",
+   "scryfall_name": "Prosperity",
+   "match": "non-set (bonus/token/other)",
+   "gih": 7,
+   "gih_wr": 0.2857142857142857
+  },
+  {
+   "card_17lands": "Rites of Flourishing",
+   "scryfall_name": "Rites of Flourishing",
+   "match": "non-set (bonus/token/other)",
+   "gih": 7,
+   "gih_wr": 0.2857142857142857
+  },
+  {
+   "card_17lands": "Mystic Remora",
+   "scryfall_name": "Mystic Remora",
+   "match": "non-set (bonus/token/other)",
+   "gih": 12,
+   "gih_wr": 0.25
+  },
+  {
+   "card_17lands": "Training Grounds",
+   "scryfall_name": "Training Grounds",
+   "match": "non-set (bonus/token/other)",
+   "gih": 9,
+   "gih_wr": 0.2222222222222222
+  },
+  {
+   "card_17lands": "Intruder Alarm",
+   "scryfall_name": "Intruder Alarm",
+   "match": "non-set (bonus/token/other)",
+   "gih": 11,
+   "gih_wr": 0.18181818181818182
+  },
+  {
+   "card_17lands": "Sundial of the Infinite",
+   "scryfall_name": "Sundial of the Infinite",
+   "match": "non-set (bonus/token/other)",
+   "gih": 2,
+   "gih_wr": 0.0
+  },
+  {
+   "card_17lands": "Shattering Spree",
+   "scryfall_name": "Shattering Spree",
+   "match": "non-set (bonus/token/other)",
+   "gih": 1,
+   "gih_wr": 0.0
+  }
+ ]
+}
