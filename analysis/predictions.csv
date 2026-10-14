@@ -1,0 +1,291 @@
+sheet,collector_number,name,rarity,mana_cost,type_line,predicted_gih_wr,expert_rating,ml_lgb_dev,expert_note
+FRA,1,"Emrakul, the Exigent Doom",mythic,{10},Legendary Creature — Eldrazi,56.6,53.0,2.01,10-drop; hand-exile ramp mode keeps it from being dead but rarely cast
+FRA,2,Academic Ascent,common,{1}{W},Instant,55.8,55.5,-0.1,cheap evasive trick plus Empower 2 (two surveils / dual-land enabler)
+FRA,3,Blossom-Blessed Angel,common,{3}{W},Creature — Angel Cleric // Sorcery,54.7,56.0,-1.77,4cmc 2/4 flying vigilance plus cheap Seed Suture later
+FRA,4,Campus Crier,common,{1}{W},Creature — Human Advisor,56.4,56.5,0.19,2cmc 3/1 with graveyard Empower 2 (Stone Docent analogue 57.2)
+FRA,5,Enlightened Confidant,mythic,{1}{W},Creature — Kor Cleric,59.6,57.0,4.18,lifelink 2-drop that turns lifegain into card advantage
+FRA,6,Fateshaper Aspirant,common,{4}{W},Creature — Rhino Cleric,54.7,53.5,-0.75,5cmc 3/4 with minor legendary regrowth / protection
+FRA,7,Flickering Hound,rare,{3}{W},Creature — Dog,56.5,54.0,1.51,4cmc 2/2 blink engine (re-prepares prepare creatures); weak body
+FRA,8,Generous Revival,uncommon,{2}{W},Sorcery,55.1,53.0,-0.01,small reanimation twice; slow value
+FRA,9,Germinate Recruits,rare,{2}{W},Instant,55.3,51.0,1.11,needs same-turn lifegain; narrow
+FRA,10,Graft Surgeon,common,{2}{W},Creature — Human Cleric,54.5,54.5,-1.43,3cmc 3/3 with counter transfer
+FRA,11,Guiding Hydra,rare,{X}{W},Creature — Hydra Horror,59.1,58.0,3.08,scalable X body that distributes team counters each combat
+FRA,12,Hexhaven Battalion,common,{4}{W}{W},Sorcery,56.6,56.5,0.53,three 2/2s plus Empower 2 late or landcycle early
+FRA,13,Kindred Judgment,rare,{5}{W}{W},Sorcery,57.3,55.0,2.01,7-mana mostly one-sided wrath (Cadets are Wizard Soldiers)
+FRA,14,Loyal Tutor,rare,{W},Instant,54.0,48.5,0.5,only finds planeswalker cards; almost always dead
+FRA,15,Memory Trap,common,{2}{W},Enchantment,57.3,58.0,0.7,3-mana O-ring; premium common removal
+FRA,16,Predictive Preparations,common,{1}{W},Sorcery,55.9,54.5,0.45,two counters with flashback; counters-deck filler
+FRA,17,Prophesied End,uncommon,{1}{W},Instant,57.9,59.5,0.92,2-mana instant kill on attackers; still fine vs blockers
+FRA,18,Refute Destiny,uncommon,{1}{W},Sorcery,55.9,56.0,-0.18,2-mana exile vs G/U (70% of opponents) and always hits blue Jace tokens
+FRA,19,Repurposed Enforcer,rare,{1}{W},Creature — Human Soldier,60.2,59.0,4.18,2cmc 3/2 that generates large Empower on each attack
+FRA,20,Return to the Light Realms,mythic,{7}{W}{W},Sorcery,56.1,51.0,2.25,9-mana mass reanimation; too expensive
+FRA,21,Shatterwing Pegasus,common,{2}{W},Creature — Pegasus,54.8,56.0,-1.63,3cmc 2/3 flyer with late team pump
+FRA,22,Surgical Precision,common,{1}{W},Sorcery,57.2,57.5,0.85,flexible: kill toughness 4+ or cantrip + 2 life
+FRA,23,Unflinching Hortimancer,common,{1}{W},Creature — Human Cleric,56.0,55.0,0.4,2cmc ward body that grows with lifegain
+FRA,24,Your Fate Ends Here,uncommon,{2}{W},Instant,57.2,58.5,0.43,3-mana instant kill on MV3+ creature/PW plus surveil
+FRA,25,Countersculpt,uncommon,{U}{U},Instant,56.9,56.0,1.06,2-3 mana hard counter plus Empower 1
+FRA,26,Cruel Calculations,rare,{2}{U},Sorcery,54.1,50.0,0.01,needs same-turn mill; narrow combo card
+FRA,27,Cryotheory Adept,common,{1}{U},Creature — Human Wizard,55.4,54.5,-0.2,2cmc prowess body with graveyard stun later
+FRA,28,Diviner of Victory,rare,{U},Creature — Dwarf Wizard // Sorcery,57.1,56.0,1.35,1-drop plus cheap tempo bounce (Elite Interceptor-like)
+FRA,29,Divining Duelist,common,{2}{U},Creature — Merfolk Wizard,56.0,55.5,0.17,3cmc 3/2 flash with tap / untap / loot
+FRA,30,Icy Reception,common,{1}{U},Instant,55.7,56.0,-0.49,flexible soft counter or -5/-0 at instant speed
+FRA,31,Infinite Coursework,common,{2}{U},Enchantment — Aura,55.9,57.5,-0.82,3-mana lockdown aura that strips abilities; blue's best common removal
+FRA,32,Jace's Machinations,rare,{2}{U},Instant,56.9,56.0,1.16,instant-speed Empower 8 = about two cards plus surveils
+FRA,33,Mindseeker Oculus,common,{2}{U},Creature — Homunculus,56.7,57.0,0.41,3cmc 2/1 that effectively cantrips (Empower 4 lets Jace -3 immediately)
+FRA,34,Perfected Theory,uncommon,{U},Instant,54.9,54.0,-0.71,1-mana flexible combat trick / shrink
+FRA,35,Plan for All Outcomes,uncommon,{3}{U},Enchantment,56.9,56.5,0.9,tempo tuck on an enchantment that keeps empowering
+FRA,36,Precise Redaction,uncommon,{1}{U},Instant,54.4,51.5,-0.27,narrow color-specific counter
+FRA,37,Protege's Awakening,common,{3}{U},Sorcery,55.9,56.0,-0.24,4 mana: about three cards over two turns via Jace token
+FRA,38,Seasoned Cryomancer,mythic,{1}{U}{U},Creature — Human Wizard,61.2,59.0,5.46,ETB filter plus stuns; graveyard draw-two later
+FRA,39,Semester Foreseer,common,{3}{U},Creature — Human Wizard // Sorcery,55.5,54.0,0.12,mid-cost prepare value creature (Campus Composer 54.2 analogue)
+FRA,40,Sphinx of False Conclusions,rare,{2}{U}{U},Creature — Sphinx Illusion,60.9,61.0,4.25,4cmc 4/2 flash flyer that returns once; card filtering
+FRA,41,Sphinx's Approach,common,{1}{U}{U},Instant,55.8,56.0,-0.37,3-mana instant draw two
+FRA,42,Surveillance Phantasm,common,{1}{U},Creature — Bird Illusion,55.4,54.0,-0.06,cheap defensive flyer; attacks with surveil
+FRA,43,"The Theorist, Jace Beleren",mythic,{2}{U}{U},Legendary Planeswalker — Jace,63.0,64.0,5.61,4-mana PW: draws every opponent turn and makes blockers / bounces
+FRA,44,Theorist's Proxy,rare,{1}{U},Creature — Illusion,58.7,56.0,3.46,2cmc flash 0/3 plus Empower 3 (about a card)
+FRA,45,Undulating Witness,common,{4}{U},Creature — Serpent,54.2,56.0,-2.41,5cmc 3/5 flyer or landcycle
+FRA,46,Unsummon,common,{U},Instant,55.0,53.5,-0.36,basic tempo; also kills tokens
+FRA,47,Variable Chaser,rare,{2}{U},Creature — Human Wizard // Sorcery,56.7,56.0,0.82,3cmc 2/3 flying prowess; wheel spell situational
+FRA,48,Apex Witchstalker,common,{4}{B}{B},Creature — Wolf,56.6,56.0,0.75,6cmc 6/4 menace + 4 life or landcycle
+FRA,49,Bloodline Recollector,mythic,{1}{B},Creature — Vampire Warlock // Instant,56.8,53.0,2.3,2cmc 2/2; prepare rarely triggers
+FRA,50,Break Under Pressure,uncommon,{2}{B},Instant,57.0,58.0,0.29,instant edict hitting their biggest creature/PW
+FRA,51,Cast Away Doubt,common,{2}{B},Sorcery,54.7,55.5,-1.53,3-mana draw two; ping enables Stingerquill
+FRA,52,Dark Matter Manipulator,rare,{B},Creature — Human Warlock,56.8,52.0,2.73,1-drop that needs a big graveyard
+FRA,53,Darklight Phoenix,mythic,{3}{B},Creature — Phoenix,57.9,58.0,1.49,recursive hasty flyer
+FRA,54,Extended Absence,common,{3}{B},Instant,56.9,57.5,0.47,4-mana instant unconditional exile
+FRA,55,Extrapolate the Impossible,rare,{1}{B},Sorcery,54.3,52.0,-0.56,wish from sideboard (opponent picks the worse of two)
+FRA,56,Last Gasp,common,{1}{B},Instant,56.5,57.5,-0.04,reprint: 57.7 in SOS (+1.8 vs set mean)
+FRA,57,Lich's Relic,rare,{B},Artifact — Equipment,58.5,60.0,1.41,3-mana kill plus a lingering +2/+1 equipment
+FRA,58,Multiply by Zero,uncommon,{1}{B},Instant,55.9,57.5,-0.92,2-mana instant base 0/0; counters theme makes it slightly unreliable
+FRA,59,Overwrite the Multiverse,mythic,{4}{B}{B},Sorcery,60.6,57.0,5.52,6-mana exile wrath with Empower X
+FRA,60,Rampart Hunter,common,{3}{B},Creature — Horror,55.2,55.5,-0.98,4cmc 3/3 deathtouch plus combat trick on ETB
+FRA,61,Rank Rat,common,{1}{B},Creature — Zombie Rat,55.9,55.5,0.02,2cmc discard body (Virus Beetle analogue 57.0)
+FRA,62,Rewrite Regrets,uncommon,{3}{B},Sorcery,55.3,55.0,-0.53,reanimate MV6 or less plus Empower 2
+FRA,63,Rise of the Deathbringer,rare,{4}{B},Instant,58.1,58.0,1.8,flexible: -3/-3 sweep or big draw
+FRA,64,Sanctum Lurker,rare,{2}{B},Creature — Horror,59.6,58.0,3.86,keeps Jace tokens alive with a +2 drain; card engine
+FRA,65,Screeching Soulbreaker,common,{2}{B},Creature — Siren Bard,54.1,54.5,-1.94,defensive 1/4 flyer that drains on attack
+FRA,66,Silence the Echo,common,{1}{B},Sorcery,55.9,57.0,-0.66,kill spell; sac a spent Jace token or pay 3
+FRA,67,Solve for Disappointment,common,{1}{B},Sorcery,54.6,53.0,-0.69,discard a nonland permanent card plus Empower 1
+FRA,68,Terminal Criticism,uncommon,{1}{B},Instant,57.1,56.5,1.11,2-mana instant kill vs U/R; also kills Jace tokens
+FRA,69,Theoretical Necromancer,common,{2}{B},Creature — Vampire Warlock,53.9,54.5,-2.16,3cmc 4/1 with later graveyard regrowth
+FRA,70,Void Extrapolator,common,{1}{B},Creature — Aetherborn Warlock // Sorcery,55.0,54.0,-0.54,2-drop that grows with threshold; mill-3 prepare
+FRA,71,Vraska's Final Mercy,rare,{B}{B},Sorcery,60.2,60.0,3.68,2-mana unconditional kill or Empower 6
+FRA,72,Ajani's Anguish,rare,{X}{R},Enchantment,57.4,58.5,0.71,X burn to any target plus trample
+FRA,73,Artifist Acumen,common,{R},Sorcery,53.2,53.0,-2.49,cantrip team first strike
+FRA,74,Awaken the Inferno,common,{4}{R},Sorcery,56.9,57.0,0.62,6 damage + counter or landcycle; flexible removal
+FRA,75,Blazing Crescendo,common,{1}{R},Instant,53.1,53.0,-2.59,reprint: 52.9 in MSH (-3.3 vs mean); trick + impulse draw
+FRA,76,Chandra's Emberling,common,{2}{R},Creature — Gremlin Elemental,52.7,53.5,-3.4,3cmc 2/2 haste that grows with spells
+FRA,77,Command the Stage,uncommon,{2}{R},Sorcery,54.6,54.0,-1.05,3-mana sorcery 2/2; recursion needs noncombat damage (Stingerquill)
+FRA,78,Craterclaw Colossus,mythic,{4}{R}{R}{R},Artifact Creature — Beast Construct,57.8,55.0,2.71,7-mana RRR haste finisher
+FRA,79,Curse-Marred Demon,rare,{2}{R}{R},Creature — Demon,60.2,61.0,3.3,4cmc 4/4 flying trample plus a tutor
+FRA,80,Draconic Visitor,rare,{3}{R}{R},Creature — Dragon,60.1,62.0,2.66,5cmc 5/5 flyer; Heartwood/Thopter/Lotus tokens become dragons
+FRA,81,Eardrum Rattler,common,{1}{R},Creature — Human Bard,53.3,52.5,-2.12,2cmc 2/2 that grants unblockable to small creatures
+FRA,82,Essence Burn,uncommon,{1}{R},Instant,54.0,55.0,-2.31,5 damage vs B/G; cannot hit blue Jace tokens
+FRA,83,Face Yourself,rare,{5}{R}{R},Sorcery,57.1,55.0,1.78,7-mana copy the opponent's board; Jace token lets you keep copies
+FRA,84,Fulminous Forte,uncommon,{2}{R},Instant,57.3,58.0,0.81,instant 5 damage or a one-sided ping sweep
+FRA,85,Hallway Heckler,common,{2}{R},Creature — Elemental Sorcerer // Sorcery,53.2,55.0,-3.39,repeatable rummage body plus Verse ping
+FRA,86,Heartstring Puller,common,{3}{R},Creature — Elf Sorcerer,55.2,55.0,-0.68,two bodies for 4 (3/1 trample + 2/2)
+FRA,87,Identity Echo,rare,{2}{R},Enchantment,52.0,50.0,-2.74,slow polymorph engine
+FRA,88,Master of Barbs,rare,{1}{R},Creature — Lizard Bard,55.8,55.0,0.1,aggressive menace 2-drop for BR pingers
+FRA,89,No Admittance,common,{1}{R},Sorcery,57.1,57.5,0.66,2-mana 3 to any target plus Empower 1
+FRA,90,Pompous Battlemage,rare,{R},Creature — Goblin Sorcerer // Sorcery,54.6,51.0,0.26,1/1 prowess plus rummage
+FRA,91,Pyre Rhymer,rare,{1}{R}{R},Creature — Elemental Sorcerer // Instant,54.7,54.0,-0.89,3cmc 3/3 prowess; ritual spell marginal
+FRA,92,Skilled Battlecarver,common,{1}{R},Creature — Human Warrior,53.5,53.5,-2.29,aggressive 2-drop with firebreathing
+FRA,93,Stingcaster Mage,mythic,{1}{R},Creature — Human Wizard,59.7,56.5,4.52,hasty 2-drop that rebuys removal
+FRA,94,Tether Technician,common,{4}{R},Creature — Minotaur Artificer,54.7,55.0,-1.33,5cmc 4/5 reach with optional 2-damage ping
+FRA,95,Violent Echoes,uncommon,{2}{R}{R},Instant,57.5,58.0,0.97,4-mana instant 6 damage plus Empower on excess
+FRA,96,Wrath of the Bloodmane,common,{2}{R},Instant,55.9,57.0,-0.67,3-mana instant 4 damage (2 with a legend)
+FRA,97,Arcane Amphisbaena,common,{1}{G},Creature — Snake,56.2,56.0,0.21,2cmc deathtouch plus Empower 2
+FRA,98,Bestial Incursion,common,{3}{G},Sorcery,56.3,57.0,-0.07,4/4 trample token now and again with flashback
+FRA,99,Budding Insurgent,common,{2}{G},Creature — Dryad Scout,54.3,55.5,-2.1,3cmc 3/3 vigilance that answers artifacts/enchantments/Ways
+FRA,100,Carnivorous Cultivator,rare,{1}{G},Creature — Elf Warlock // Sorcery,57.1,57.0,0.92,2cmc 2/3 deathtouch; land recursion
+FRA,101,Compel Brutality,common,{1}{G},Instant,56.4,56.5,0.17,instant bite (also via planeswalker loyalty)
+FRA,102,Flourishing Grapple,uncommon,{G},Instant,56.0,55.0,0.36,1-mana bite vs R/W targets
+FRA,103,Gardenize,rare,{1}{G}{G},Enchantment,50.8,49.0,-3.85,slow ramp enchantment
+FRA,104,Greenhouse Propagator,common,{2}{G},Creature — Cat Druid,54.2,54.0,-1.65,3cmc mana creature with lifegain
+FRA,105,Heartwood Crafter,uncommon,{G},Creature — Elf Artificer // Sorcery,54.9,52.0,0.21,1-drop with restricted mana and a slow mana-rock spell
+FRA,106,Hexhaven Invigorator,mythic,{G}{G}{G}{G},Creature — Chimera Horror,60.7,62.0,3.43,4-mana 6/6 vigilance (GGGG restricts it to heavy green)
+FRA,107,Hungering Puppetbeast,rare,{3}{G}{G},Artifact Creature — Beast Construct,60.4,59.0,4.36,5cmc 5/5 plus mana rock; sac outlet for evasion
+FRA,108,Hunter's Axe,uncommon,{G},Artifact — Equipment,53.0,53.0,-2.69,cheap equipment; deathtouch on attack
+FRA,109,Inspired Tethermage,common,{2}{G},Creature — Elf Warrior,54.7,53.5,-0.73,3cmc 3/2 that grows with empower
+FRA,110,Omnipresence,mythic,{5}{G}{G}{G},Enchantment,53.2,47.0,0.18,8-mana do-nothing in limited
+FRA,111,Puppet Crafting,rare,{1}{G},Enchantment — Aura,52.6,54.0,-3.76,2 mana: turn a Heartwood/Way/Memory Trap into a 5/5
+FRA,112,Restore with Empathy,uncommon,{2}{G},Instant,54.2,52.0,-0.72,instant regrowth plus 4 life
+FRA,113,Simulacrum Shaper,rare,{1}{G}{G},Creature — Elf Druid,58.9,57.0,3.24,ramp body that replaces itself on death
+FRA,114,Something Worth Saving,common,{1}{G},Instant,54.6,53.0,-0.59,instant dig-4 for a permanent; threshold fuel
+FRA,115,Sureshot Sower,common,{1}{G},Creature — Human Archer,55.8,55.0,0.13,3/1 reach for 2 or anti-flyer removal
+FRA,116,Tarmogoyf,mythic,{1}{G},Creature — Lhurgoyf,58.3,57.0,2.46,2-mana body usually 3/4 to 4/5 in limited graveyards
+FRA,117,Tethermage's Advantage,common,{G},Instant,54.3,53.0,-1.08,1-mana pump/untap trick
+FRA,118,Verdant Kraken,rare,{4}{G}{G}{G},Creature — Plant Kraken,59.4,60.0,2.69,7-mana 6/6 that makes two 3/3s every round
+FRA,119,Vinelasher Adept,common,{4}{G}{G},Creature — Rhino Soldier,55.4,55.5,-0.62,6 mana for 5/7 of stats spread out or landcycle
+FRA,120,Wrecking Gecko,common,{4}{G},Artifact Creature — Lizard Construct,54.6,55.5,-1.67,5cmc 5/5 ward 2 with late pump
+FRA,121,Aerid Konstrari,mythic,{1}{R}{G}{G},Legendary Creature — Elder Sphinx,62.2,63.0,4.97,4-mana 5/4 flyer plus mana rocks; bomb
+FRA,122,Avatar of Burgeoning Echoes,mythic,{G}{U},Creature — Avatar,62.0,60.0,6.05,2cmc 2/3 that empowers 2 per land drop: card engine
+FRA,123,Blessed Ghoul,common,{W/B},Creature — Zombie Cleric,55.0,52.0,0.35,recursive 1/1 lifelink fodder
+FRA,124,Bloombrute,uncommon,{2}{G}{W},Creature — Plant Elemental,57.1,57.0,0.86,4cmc 4/4 that draws with lifegain
+FRA,125,Charge the Sanctum,common,{2}{R/W},Instant,54.2,53.0,-1.2,hybrid combat trick
+FRA,126,Clash of Elements,uncommon,{1}{U}{R},Instant,55.2,54.0,-0.28,instant tempo removal (usually top of library + 2 damage)
+FRA,127,Craftwork Crusher,uncommon,{3}{R}{R}{G}{G},Artifact Creature — Boar Construct,58.9,57.0,3.25,7cmc 7/5 trample with two ETB modes (removal + card)
+FRA,128,Denzilore Fatehold,mythic,{1}{W}{U}{U},Legendary Creature — Elder Sphinx,60.9,63.0,3.35,4-mana flash flyer that pumps the team on every surveil
+FRA,129,Desperate Futurescribe,uncommon,{2}{W}{U},Creature — Kor Scout,56.6,58.0,-0.18,4cmc 3/4 flyer that grows the team
+FRA,130,Emergency Phytomedic,common,{G/W},Creature — Dryad Cleric // Sorcery,55.1,52.0,0.47,1/1 plus Seed Suture
+FRA,131,Entrust the Spark,rare,{3}{G}{U},Sorcery,53.2,46.0,0.6,needs planeswalker cards in deck
+FRA,132,Fatehold Charm,uncommon,{W}{U},Instant,56.5,56.0,0.5,flexible WU instant
+FRA,133,Fatehold Chronologist,common,{1}{W/U},Creature — Bird Wizard // Sorcery,55.2,54.5,-0.46,1/2 flyer plus Peer Review 2/2 later
+FRA,134,Ferocity of the Hunt,common,{1}{B/G},Enchantment — Aura,52.8,52.0,-2.62,flash aura; deathtouch + recursion
+FRA,135,Frostbite Pyromental,rare,{U}{R}{R},Creature — Elemental,56.4,54.0,1.28,one-shot 4/4 haste trample; maybe draw two
+FRA,136,Grim Repriser,uncommon,{B}{R},Creature — Zombie Bard,55.8,55.0,0.08,recursive prowess 2-drop for BR
+FRA,137,Ingris Stingerquill,mythic,{B}{R}{R},Legendary Creature — Elder Sphinx,59.1,60.0,2.26,attack-ping engine plus Cadet mana sink
+FRA,138,Konstrari Charm,uncommon,{R}{G},Instant,56.9,55.0,1.6,flexible RG instant
+FRA,139,Konstrari Improviser,common,{1}{R/G},Creature — Human Artificer // Sorcery,54.3,53.0,-1.03,2/2 plus mana-rock spell (Goblin Glasswright 54.4 analogue)
+FRA,140,Kwia Vigorbloom,mythic,{3}{G}{W}{W},Legendary Creature — Elder Sphinx,63.9,66.0,5.96,5-mana 6/6 flying vigilance lifelink ward bomb
+FRA,141,Mind Meanderer,uncommon,{3}{G}{U}{U},Creature — Bird Fish Illusion,58.8,58.0,2.7,6-mana 4/4 flyer that fights on ETB
+FRA,142,Null Summoner,rare,{2}{U}{B},Creature — Human Warlock,58.9,55.5,3.97,4cmc 4/2 plus hand disruption
+FRA,143,Paradox Shaper,uncommon,{1}{U/B},Creature — Octopus Wizard // Sorcery,54.3,53.0,-1.07,1/3 that mills 3 each turn; threshold enabler
+FRA,144,Primal Witchstalker,uncommon,{1}{B}{G},Creature — Wolf,56.2,53.5,1.33,3cmc 2/1 menace; mill plus possible ramp
+FRA,145,Proctor of Potential,rare,{W}{U},Creature — Human Cleric,58.8,57.0,3.23,2cmc 3/1 surveil engine that recurs
+FRA,146,Prudent Fateseer,uncommon,{1}{W/U}{W/U},Creature — Dwarf Wizard // Sorcery,55.1,54.0,-0.43,1/4 defender-ish plus Peer Review
+FRA,147,Recursive Recruitment,uncommon,{2}{U}{B},Sorcery,57.1,54.0,2.23,two 2/2s for 4; expensive flashback
+FRA,148,Solarium Sentry,rare,{G}{W},Creature — Cat Soldier,58.5,57.0,2.73,2-mana 3/3
+FRA,149,Solitary Cell,rare,{R}{W},Artifact,58.7,58.0,2.61,2-mana exile MV3 or less plus rummage
+FRA,150,Stingerquill Charm,uncommon,{B}{R},Instant,58.1,57.0,2.22,flexible BR instant including 3 to any target
+FRA,151,Stingerquill Voxmancer,uncommon,{B/R},Creature — Goblin Sorcerer // Sorcery,54.4,53.5,-1.11,1/2 that pings 1 each turn for 1 mana
+FRA,152,Stinging Vitriol,rare,{B}{R},Sorcery,56.3,51.0,2.57,2 face damage plus discard
+FRA,153,Tam's Resistance,common,{1}{G/U},Sorcery,56.2,55.5,0.37,2 mana: counter plus a card via Empower 4
+FRA,154,Tenured Tethermage,rare,{1}{R}{G},Creature — Human Artificer,57.4,54.0,2.65,RG artifact ramp body
+FRA,155,Theorix Charm,uncommon,{U}{B},Instant,56.4,55.5,0.61,flexible UB instant
+FRA,156,Theorix Metamage,common,{2}{U/B},Creature — Shade Wizard // Sorcery,54.5,54.5,-1.48,3cmc 2/3 that becomes a 3/3 flyer at threshold
+FRA,157,Twinned Vision,common,{1}{U/R},Instant,56.1,54.0,0.91,cantrip with flashback draw two
+FRA,158,Twisted Fates,uncommon,{2}{W}{W}{B},Sorcery,58.1,58.0,1.81,5-mana destroy any nonland permanent plus team counters
+FRA,159,Uldaros Theorix,mythic,{3}{U}{B}{B},Legendary Creature — Elder Sphinx,63.1,63.0,6.21,6-mana 5/5 flyer that recasts graveyard spells free
+FRA,160,Vigorbloom Charm,uncommon,{G}{W},Instant,58.2,56.5,2.61,flexible GW instant (fight / protect / draw)
+FRA,161,Vigorbloom Vanguard,uncommon,{1}{G/W},Creature — Troll Druid // Sorcery,55.9,53.5,0.87,2/2 plus Seed Suture
+FRA,162,Vindictive Triumph,rare,{W}{B}{B},Instant,58.6,59.0,1.98,3-mana instant exile
+FRA,163,Warrior's Blades,uncommon,{2}{R}{W},Artifact — Equipment,59.1,58.0,3.18,3 damage + 3 life on ETB plus equipment
+FRA,164,Whiplash Wordsmith,common,{3}{B/R},Creature — Vampire Sorcerer // Sorcery,52.9,54.0,-3.35,4cmc 3/3 that becomes flying/haste after a ping
+FRA,165,Woodwork Prodigy,uncommon,{2}{R/G},Creature — Cat Druid // Sorcery,55.2,55.0,-0.69,3cmc 3/3 that can make a mana rock every turn
+FRA,166,Afterthought Sentry,common,{2},Artifact Creature — Gargoyle,53.5,52.0,-1.66,colorless 2/2 with flying for 2
+FRA,167,Archive Arbiter,uncommon,{6},Artifact Creature — Sphinx,55.1,54.0,-0.38,6cmc 4/4 flyer with utility mode
+FRA,168,"Codie, Ravenous Codex",rare,{3},Legendary Artifact Creature — Book Construct,53.5,50.0,-0.7,narrow prepare payoff
+FRA,169,The Echoverse Fulcrum,mythic,{2},Legendary Artifact,57.4,54.0,2.67,loot now; 7-mana total symmetrical wrath later
+FRA,170,Eye of Jace,uncommon,{1},Artifact,52.9,49.0,-1.06,slow surveil artifact
+FRA,171,Keeper of the Quiet Hour,common,{3},Artifact Creature — Chimera,54.7,54.5,-1.17,colorless 3/2 plus Empower 2
+FRA,172,Living Library,common,{2},Artifact Creature — Book Illusion,53.5,53.0,-2.07,0/4 wall with expensive tuck removal
+FRA,173,Medic's Kitesail,common,{2},Artifact — Equipment,52.5,51.0,-2.55,flying equipment
+FRA,174,Murmuring Volume,common,{3},Artifact — Book,53.8,54.0,-2.13,mana rock fixing plus rummage
+FRA,175,Dedicated Commons,common,,Land,55.3,55.8,-0.9,enemy common dual (untapped with a PW)
+FRA,176,Deserted Beach,rare,,Land,56.5,56.3,0.42,rare slowland (faction pair)
+FRA,177,Fatehold Annex,common,,Land,56.2,56.3,0.1,faction common dual
+FRA,178,Formidable Commons,common,,Land,55.5,55.8,-0.72,enemy common dual
+FRA,179,Hall of Echoes,rare,,Land,54.7,52.0,-0.1,colorless utility land
+FRA,180,Haunted Ridge,rare,,Land,55.7,56.3,-0.6,rare slowland (faction pair)
+FRA,181,Hexhaven Dueling Arena,uncommon,,Land,53.5,51.0,-1.18,colorless prepare land (Skycoach Waypoint 51.7 analogue)
+FRA,182,Innovative Commons,common,,Land,55.7,55.8,-0.36,enemy common dual
+FRA,183,Konstrari Annex,common,,Land,55.3,56.3,-1.09,faction common dual
+FRA,184,Meticulous Commons,common,,Land,55.7,55.8,-0.42,enemy common dual
+FRA,185,Overgrown Farmland,rare,,Land,56.6,56.3,0.51,rare slowland (faction pair)
+FRA,186,Rockfall Vale,rare,,Land,56.0,56.3,-0.28,rare slowland (faction pair)
+FRA,187,Roiling Canopy,rare,,Land,53.6,50.0,-0.67,tapped mono land with rare payoff
+FRA,188,Room of Refuge,common,,Land,55.0,54.5,-0.79,tapped any-color land with late counters
+FRA,189,Shipwreck Marsh,rare,,Land,56.2,56.3,-0.03,rare slowland (faction pair)
+FRA,190,Stingerquill Annex,common,,Land,55.1,56.3,-1.44,faction common dual
+FRA,191,Theorist's Sanctum,rare,,Land — Island,55.5,55.0,-0.32,Island with an Empower mana sink
+FRA,192,Theorix Annex,common,,Land,56.1,56.3,-0.09,faction common dual
+FRA,193,Transformative Commons,common,,Land,56.0,55.8,-0.03,enemy common dual
+FRA,194,Vigorbloom Annex,common,,Land,55.9,56.3,-0.37,faction common dual
+FRA,195,Ajani Resolute,mythic,{1}{W},Legendary Planeswalker — Ajani,58.5,53.5,4.36,slow 2-mana PW; little board impact outside lifegain
+FRA,196,"Danitha, Sword of Hope",uncommon,{2}{W},Legendary Creature — Human Knight,54.7,54.0,-0.89,first-strike 2/2 that draws with tricks / equipment
+FRA,197,Ghalta the Immovable,uncommon,{8}{W},Legendary Creature — Elder Dinosaur,54.8,54.0,-0.82,often 5-mana 0/7 that deals 7; toughness-matters
+FRA,198,Gideon's Memorial,rare,{1}{W},Legendary Artifact,56.1,55.0,0.46,token anthem plus cycling-removal mode
+FRA,199,Koth of the Homestead,uncommon,{2}{W},Legendary Creature — Human Citizen,55.7,56.0,-0.51,3cmc 2/3 that adds counters on Plains drops
+FRA,200,Liliana the Faultless,rare,{W},Legendary Creature — Human Cleric,56.6,52.0,2.52,1-drop lifegain enabler
+FRA,201,"Lyra, Archangel of Dawn",rare,{2}{W},Legendary Creature — Angel Knight,59.8,60.0,3.22,3-mana 3/3 flyer that grows with lifegain
+FRA,202,"Rescue Girl, First Responder",uncommon,{2}{W},Legendary Creature — Human Cleric,54.2,53.0,-1.11,1/3 flyer; rebuy ETBs / re-prepare
+FRA,203,"Saheeli, Consul of Oversight",uncommon,{3}{W}{W},Legendary Creature — Human Advisor,56.7,59.0,-0.54,5cmc 4/4 flyer making thopters on surveil
+FRA,204,"Teyo, Lightshield Expert",uncommon,{1}{W},Legendary Creature — Human Cleric,56.3,53.0,1.64,flash trick on a 1/1
+FRA,205,"Thalia, the Survivor",uncommon,{3}{W},Legendary Creature — Human Soldier,55.6,56.0,-0.62,4cmc 3/4 lifelink with a tax
+FRA,206,"Tomik, Orzhov Lawmage",uncommon,{1}{W},Legendary Creature — Human Advisor,56.3,55.0,0.71,2cmc 2/1 flyer with utility
+FRA,207,Way of the Healer,uncommon,{3}{W},Legendary Enchantment,57.1,57.0,0.98,4 mana: about two Cadets plus surveils; lasting PW upgrade
+FRA,208,Way of the Mentor,uncommon,{2}{W},Legendary Enchantment,56.4,54.5,1.12,3 mana: about a card; lifegain grows Jace
+FRA,209,"Yoshimaru, Beloved Companion",uncommon,{2}{W},Legendary Creature — Dog,53.9,53.0,-1.58,counters synergy 2/2
+FRA,210,"Yuriko, Blade of the Mighty",uncommon,{3}{W},Legendary Creature — Human Samurai,53.7,52.0,-1.41,4cmc 2/3; trick denial
+FRA,211,"Arni, Humble Scribe",uncommon,{2}{U},Legendary Creature — Human Wizard,55.5,55.0,-0.38,3cmc 3/2 looter that untaps
+FRA,212,"Chandra, Chill of Compliance",mythic,{1}{U}{U},Legendary Planeswalker — Chandra,58.9,57.5,3.13,3-mana PW: stun removal or card selection
+FRA,213,"Fblthp, Impossibly Lost",uncommon,{1}{U},Legendary Creature — Homunculus,55.2,54.0,-0.29,2-drop that later draws two on a hit
+FRA,214,Geist of Saint Thalia,uncommon,{1}{U},Legendary Creature — Spirit Cleric,54.6,53.0,-0.61,1/2 flyer cost reducer
+FRA,215,"Hapatra, the Desert Frost",uncommon,{3}{U},Legendary Creature — Human Wizard,57.2,55.5,1.66,4cmc 4/3 ETB stun
+FRA,216,"Jace, Reality Sculptor",rare,{3}{U}{U},Legendary Planeswalker — Jace,57.5,58.0,1.05,5-mana PW: about a card every turn plus a defensive -3
+FRA,217,"Lyra, Tolarian Archangel",rare,{1}{U}{U},Legendary Creature — Angel Wizard,59.8,60.0,3.17,3-mana 3/3 flyer plus card-draw upside
+FRA,218,"Proft, Consulting Detective",uncommon,{1}{U},Legendary Creature — Human Detective,56.1,55.0,0.42,surveil-triggered card-draw mana sink
+FRA,219,"Ruric Thar, Biomagus",uncommon,{4}{U}{U},Legendary Creature — Ogre Crab Wizard,55.1,57.0,-1.7,6cmc 4/6 flyer with double prowess
+FRA,220,"Samut, Tyrant of Naktamun",rare,{1}{U},Legendary Creature — Human Wizard,55.2,51.0,1.09,2/1 with marginal split second
+FRA,221,"Tetsuko Umezawa, Fugitive",uncommon,{1}{U},Legendary Creature — Human Rogue,54.7,51.5,0.11,1/3; evasion for few creatures
+FRA,222,"Traxos, Academy Guardian",uncommon,{3}{U},Legendary Artifact Creature — Dragon Construct,53.8,54.0,-2.11,defensive 1/5 flyer; often cheap
+FRA,223,Way of the Cryomancer,uncommon,{2}{U},Legendary Enchantment,55.5,54.0,0.15,3 mana: about a card or a later spell copy
+FRA,224,Way of the Mind Sculptor,uncommon,{4}{U},Legendary Enchantment,55.6,54.5,0.02,5 mana: about two cards plus surveils
+FRA,225,"Yargle, Goliath of Otaria",uncommon,{4}{U},Legendary Creature — Frog Spirit,53.3,51.0,-1.53,vanilla 3/9 wall
+FRA,226,"Yuriko, Hope from the Shadows",uncommon,{U},Legendary Creature — Human Ninja,56.6,52.0,2.44,1-mana flash shrink or surveil 2
+FRA,227,"Danitha, Spear of Agony",uncommon,{2}{B},Legendary Creature — Human Knight,53.5,53.5,-2.35,first-strike 2/2 that grows with targeted spells
+FRA,228,"Gallia, Tragic Host",uncommon,{1}{B},Legendary Creature — Zombie Satyr,54.6,53.0,-0.58,recursive 2/1 menace
+FRA,229,"Garruk, Veiled Butcher",mythic,{3}{B}{B},Legendary Planeswalker — Garruk,63.4,64.0,6.24,5-mana PW: repeatable removal / edict + 4/4 / discard
+FRA,230,Gideon the Oathless,rare,{2}{B},Legendary Creature — Human Mercenary,56.7,56.0,0.77,3cmc 3/3 with ward-discard and pings
+FRA,231,Liliana the Repentant,rare,{1}{B},Legendary Creature — Human Warlock,56.9,55.0,1.51,2-drop with late reanimation
+FRA,232,"Loot, the Anomaly",uncommon,{2}{B},Legendary Creature — Beast Horror,53.6,52.0,-1.47,odd 2/4 body for 3
+FRA,233,"Mabel, Bitter Recluse",uncommon,{B},Legendary Creature — Mouse Warlock,56.9,55.0,1.59,1-mana deathtouch that removes counters (kills Jace tokens)
+FRA,234,"Massacre Girl, Most Wanted",uncommon,{4}{B},Legendary Creature — Human Assassin,55.0,54.5,-0.7,5cmc 4/4 aristocrats / ping payoff
+FRA,235,"Proft, Sinister Mastermind",uncommon,{2}{B},Legendary Creature — Human Rogue,55.1,56.0,-1.3,1-mana -3/-1 early or 3-mana 5/5 menace late
+FRA,236,"Teyo, Diamondblade Mage",uncommon,{3}{B},Legendary Creature — Human Warlock,55.9,54.0,0.65,flash 3/1 with deathtouch trick
+FRA,237,"Tinybones, Pocket Nuisance",uncommon,{2}{B},Legendary Creature — Skeleton Rogue,56.2,54.5,0.86,3cmc 2/1 discard plus pings
+FRA,238,Way of the Deathbringer,uncommon,{2}{B},Legendary Enchantment,54.5,54.0,-1.16,3 mana: card or sac-Cadet-for-4/4 ability
+FRA,239,Way of the Necromancer,uncommon,{1}{B},Legendary Enchantment,54.2,52.0,-0.73,2-mana Empower 2 plus slow growth
+FRA,240,"Winter, Tormented Loner",uncommon,{2}{B},Legendary Creature — Human Warlock,56.4,55.0,0.86,edict on a growing body (can sac a Jace token)
+FRA,241,"Yargle, Glutton of Urborg",uncommon,{4}{B},Legendary Creature — Frog Spirit,53.9,52.0,-1.14,9/3 for 5
+FRA,242,Ajani Unrelenting,mythic,{4}{R}{R},Legendary Planeswalker — Ajani,64.3,63.0,7.86,6-mana PW: one-sided sweep or refill; makes Cadets
+FRA,243,"Arni, Renowned Champion",uncommon,{3}{R},Legendary Creature — Human Berserker,52.4,52.5,-3.38,1/5 trample that pumps on ETBs
+FRA,244,"Chandra, Torch of Defiance",mythic,{2}{R}{R},Legendary Planeswalker — Chandra,61.7,64.0,3.89,4-mana PW: removal plus card advantage
+FRA,245,"Gallia, the Merrymaker",uncommon,{1}{R},Legendary Creature — Satyr,53.9,53.0,-1.52,hasty 2-drop with counter synergy
+FRA,246,"Jiang Yanggu, Alone",uncommon,{4}{R},Legendary Creature — Human Berserker,54.0,54.5,-2.04,5cmc 4/4 menace rummage
+FRA,247,Kiora of Fire and Ashes,uncommon,{4}{R}{R},Legendary Creature — Merfolk Noble,58.1,59.0,1.3,6 mana: 2/2 + 5/5 flying dragon
+FRA,248,"Koth, the Geomancer",uncommon,{2}{R},Legendary Creature — Human Warrior,53.4,54.0,-2.71,3cmc 3/2 reach landfall pinger
+FRA,249,"Marwyn, the Clearcutter",uncommon,{R},Legendary Creature — Elf Warrior,54.3,52.0,-0.61,1-drop sac outlet that draws
+FRA,250,"Pia, Determined Rebuilder",uncommon,{2}{R},Legendary Creature — Human Artificer,56.3,55.0,0.79,two bodies for 3 including a flyer
+FRA,251,"Samut, Hazoret's Champion",rare,{1}{R},Legendary Creature — Human Warrior Cleric,54.4,53.0,-0.88,2/2 haste lord
+FRA,252,"Tetsuko Umezawa, Pursuer",uncommon,{3}{R},Legendary Creature — Human Mercenary,53.5,56.0,-3.4,4cmc 2/4 double strike prowess
+FRA,253,"Tomik, Izzet Sparkmage",uncommon,{1}{R},Legendary Creature — Human Wizard,53.2,53.0,-2.47,prowess 2-drop; +1 noncombat damage
+FRA,254,Way of the Pyromancer,uncommon,{1}{R},Legendary Enchantment,54.4,53.0,-0.87,2-mana Jace that ramps and slowly draws
+FRA,255,Way of the Warlord,uncommon,{2}{R},Legendary Enchantment,56.5,56.5,0.33,3 mana: shock creature + 2 face; or a card
+FRA,256,"Winter, Team Player",uncommon,{4}{R},Legendary Creature — Human Warrior,53.0,52.5,-2.53,convoke 3/3 with spells-pump
+FRA,257,"Edgar, Moonlit Sovereign",uncommon,{3}{G}{G},Legendary Creature — Werewolf Noble,54.8,56.0,-1.66,5cmc flash 4/4 that grows
+FRA,258,"Fblthp, Knows the Way",uncommon,{X}{G}{G},Legendary Creature — Homunculus Scout,56.6,53.0,2.06,domain body that fetches basics
+FRA,259,"Garruk, Curse Breaker",mythic,{3}{G}{G},Legendary Planeswalker — Garruk,62.4,63.0,5.25,5-mana PW: 4/4s that draw; overrun
+FRA,260,Ghalta the Unstoppable,uncommon,{8}{G},Legendary Creature — Elder Dinosaur,53.6,55.0,-2.77,often 4-5 mana 8/8 trample
+FRA,261,"Jiang Yanggu, Never Alone",uncommon,{3}{G},Legendary Creature — Human Druid,56.6,56.0,0.64,two bodies (2/2 + 3/3) for 4
+FRA,262,"Loot, the Nexus",uncommon,{2}{G},Legendary Creature — Beast Noble,54.1,52.0,-0.8,ramp 2/1
+FRA,263,"Marwyn, the Preserver",uncommon,{1}{G},Legendary Creature — Elf Druid,55.6,55.0,-0.16,2cmc 3/2 with land recursion
+FRA,264,"Pia, Aether Ascetic",uncommon,{2}{G},Legendary Creature — Human Druid,55.2,52.0,0.65,2/2 that tutors an enchantment
+FRA,265,"Ruric Thar, Magecrusher",uncommon,{5}{G}{G},Legendary Creature — Ogre Warrior,55.8,56.0,-0.31,7cmc 7/7 reach vigilance trample; protected
+FRA,266,"Titanbones, Towering Heart",uncommon,{3}{G},Legendary Creature — Skeleton Druid,55.1,55.0,-0.81,4cmc 4/3 reach; grows with lifegain
+FRA,267,Way of the Paradox,uncommon,{2}{G},Legendary Enchantment,54.8,52.5,-0.16,3-mana Jace with minor upside
+FRA,268,Way of the Wildspeaker,uncommon,{4}{G},Legendary Enchantment,56.2,57.0,-0.22,5 mana: 4/4 trample now plus a card next turn
+FRA,269,"Yoshimaru, Scrappy Stray",uncommon,{1}{G},Legendary Creature — Dog,57.3,56.0,1.69,2-mana creature-based fight removal
+FRA,270,"Edgar, Ancient Bloodlord",uncommon,{W}{B},Legendary Creature — Vampire Noble,56.2,54.5,0.87,WB sac-outlet 2/3
+FRA,271,"Hapatra, the Desert Fang",uncommon,{2}{B}{B}{G},Legendary Creature — Human Cleric,58.1,57.0,2.23,5cmc 3/3 with -1/-1 counter removal
+FRA,272,"Karn, Gilded Guardian",rare,{2/W}{2/U}{2/B}{2/R}{2/G},Legendary Artifact Creature — Golem,55.6,51.0,1.55,usually 8 mana in two colors
+FRA,273,Kiora of Salt and Sand,uncommon,{1}{G}{U},Legendary Creature — Merfolk Noble,56.0,54.0,0.8,2/4 with PW attack synergies
+FRA,274,"Mabel, Valley Hero",uncommon,{1}{R}{W},Legendary Creature — Mouse Soldier,55.0,56.0,-1.38,go-wide counters engine
+FRA,275,"Saheeli, Jewel of Avishkar",uncommon,{2}{U}{R},Legendary Creature — Human Artificer,54.9,56.0,-1.49,2/4 making hasty thopters per noncreature spell
+FRA,276,"Tam, the Possibility",rare,{1}{G}{U},Legendary Creature — Gorgon Wizard,55.2,52.0,0.55,2/4 with mostly irrelevant text
+FRA,277,"Vraska, Soul of Stone",rare,{U}{R}{W},Legendary Creature — Gorgon Wizard,55.6,54.0,0.25,3-color 3/3 spells engine
+FRA,278,"Vraska, the Cutting Glare",rare,{B}{B}{G},Legendary Creature — Gorgon Assassin,60.9,60.0,4.64,3-mana 4/4 deathtouch; late ETB removal
+FRA,279,"Karn, Argent Defender",rare,{2},Legendary Artifact Creature — Golem,53.9,49.0,0.19,symmetric ETB hate on a 1/3
+FRA,280,"Traxos, Scourge Eternal",uncommon,{4},Legendary Artifact Creature — Dragon Construct,53.6,53.0,-2.01,4-mana 5/4 trample that needs untapping
+SPG,159,Eye of Ugin,mythic,,Legendary Land,52.9,48.0,-0.69,colorless utility land; little value in limited
+SPG,160,Austere Command,mythic,{4}{W}{W},Sorcery,59.6,57.0,4.3,flexible 6-mana wrath
+SPG,161,Flesh Duplicate,mythic,{U}{U},Creature — Shapeshifter Rebel,57.8,54.0,3.2,temporary clone
+SPG,162,Consign to Memory,mythic,{U},Instant,54.1,47.0,1.3,very narrow counter
+SPG,163,Sublime Epiphany,mythic,{4}{U}{U},Instant,62.1,60.0,6.24,6-mana instant multi-mode value
+SPG,164,Consider,mythic,{U},Instant,58.0,55.0,2.95,cantrip (Preordain 56.4 in SOS)
+SPG,165,Necrodominance,mythic,{B}{B}{B},Legendary Enchantment,53.9,51.0,-0.73,pay-life draw engine; no board impact
+SPG,166,Mind Twist,mythic,{X}{B},Sorcery,56.8,53.5,2.03,X random discard
+SPG,167,Splinter Twin,mythic,{2}{R}{R},Enchantment — Aura,56.5,53.0,1.93,aura making a hasty copy each turn
+SPG,168,Root Maze,mythic,{G},Enchantment,52.2,46.0,-0.71,symmetric tempo hoser
