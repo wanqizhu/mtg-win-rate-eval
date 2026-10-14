@@ -10,7 +10,7 @@ OUT_DIR = Path("/workspace/analysis")
 
 
 def main() -> None:
-    df = pd.read_csv(OUT_DIR / "fra_final_predictions.csv")
+    df = pd.read_csv(OUT_DIR / "fra_final_predictions.csv", keep_default_na=False)
     # Sort FRA main set by collector number (1..290), then Special Guests (1..10)
     df["set_order"] = df["set_code"].map({"FRA": 0, "SPG": 1})
     df.sort_values(by=["set_order", "cn_num", "card_name"], inplace=True)

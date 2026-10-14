@@ -242,26 +242,26 @@ All intermediate scripts, datasets, and figures are saved both in the repository
 | Living Library | 0.5413 | 54.13% | FRA | 172 | Common | C | {2} | Artifact Creature — Book Illusion |
 | Medic's Kitesail | 0.5334 | 53.34% | FRA | 173 | Common | C | {2} | Artifact — Equipment |
 | Murmuring Volume | 0.5269 | 52.69% | FRA | 174 | Common | C | {3} | Artifact — Book |
-| Dedicated Commons | 0.5465 | 54.65% | FRA | 175 | Common | RW | nan | Land |
-| Deserted Beach | 0.5711 | 57.11% | FRA | 176 | Rare | WU | nan | Land |
-| Fatehold Annex | 0.5563 | 55.63% | FRA | 177 | Common | WU | nan | Land |
-| Formidable Commons | 0.5450 | 54.50% | FRA | 178 | Common | BG | nan | Land |
-| Hall of Echoes | 0.5540 | 55.40% | FRA | 179 | Rare | Land | nan | Land |
-| Haunted Ridge | 0.5604 | 56.04% | FRA | 180 | Rare | BR | nan | Land |
-| Hexhaven Dueling Arena | 0.5253 | 52.53% | FRA | 181 | Uncommon | Land | nan | Land |
-| Innovative Commons | 0.5485 | 54.85% | FRA | 182 | Common | UR | nan | Land |
-| Konstrari Annex | 0.5423 | 54.23% | FRA | 183 | Common | RG | nan | Land |
-| Meticulous Commons | 0.5498 | 54.98% | FRA | 184 | Common | WB | nan | Land |
-| Overgrown Farmland | 0.5690 | 56.90% | FRA | 185 | Rare | GW | nan | Land |
-| Rockfall Vale | 0.5626 | 56.26% | FRA | 186 | Rare | RG | nan | Land |
-| Roiling Canopy | 0.5455 | 54.55% | FRA | 187 | Rare | G | nan | Land |
-| Room of Refuge | 0.5433 | 54.33% | FRA | 188 | Common | Land | nan | Land |
-| Shipwreck Marsh | 0.5659 | 56.59% | FRA | 189 | Rare | UB | nan | Land |
-| Stingerquill Annex | 0.5403 | 54.03% | FRA | 190 | Common | BR | nan | Land |
-| Theorist's Sanctum | 0.5592 | 55.92% | FRA | 191 | Rare | U | nan | Land — Island |
-| Theorix Annex | 0.5503 | 55.03% | FRA | 192 | Common | UB | nan | Land |
-| Transformative Commons | 0.5537 | 55.37% | FRA | 193 | Common | GU | nan | Land |
-| Vigorbloom Annex | 0.5521 | 55.21% | FRA | 194 | Common | GW | nan | Land |
+| Dedicated Commons | 0.5465 | 54.65% | FRA | 175 | Common | RW |  | Land |
+| Deserted Beach | 0.5711 | 57.11% | FRA | 176 | Rare | WU |  | Land |
+| Fatehold Annex | 0.5563 | 55.63% | FRA | 177 | Common | WU |  | Land |
+| Formidable Commons | 0.5450 | 54.50% | FRA | 178 | Common | BG |  | Land |
+| Hall of Echoes | 0.5540 | 55.40% | FRA | 179 | Rare | Land |  | Land |
+| Haunted Ridge | 0.5604 | 56.04% | FRA | 180 | Rare | BR |  | Land |
+| Hexhaven Dueling Arena | 0.5253 | 52.53% | FRA | 181 | Uncommon | Land |  | Land |
+| Innovative Commons | 0.5485 | 54.85% | FRA | 182 | Common | UR |  | Land |
+| Konstrari Annex | 0.5423 | 54.23% | FRA | 183 | Common | RG |  | Land |
+| Meticulous Commons | 0.5498 | 54.98% | FRA | 184 | Common | WB |  | Land |
+| Overgrown Farmland | 0.5690 | 56.90% | FRA | 185 | Rare | GW |  | Land |
+| Rockfall Vale | 0.5626 | 56.26% | FRA | 186 | Rare | RG |  | Land |
+| Roiling Canopy | 0.5455 | 54.55% | FRA | 187 | Rare | G |  | Land |
+| Room of Refuge | 0.5433 | 54.33% | FRA | 188 | Common | Land |  | Land |
+| Shipwreck Marsh | 0.5659 | 56.59% | FRA | 189 | Rare | UB |  | Land |
+| Stingerquill Annex | 0.5403 | 54.03% | FRA | 190 | Common | BR |  | Land |
+| Theorist's Sanctum | 0.5592 | 55.92% | FRA | 191 | Rare | U |  | Land — Island |
+| Theorix Annex | 0.5503 | 55.03% | FRA | 192 | Common | UB |  | Land |
+| Transformative Commons | 0.5537 | 55.37% | FRA | 193 | Common | GU |  | Land |
+| Vigorbloom Annex | 0.5521 | 55.21% | FRA | 194 | Common | GW |  | Land |
 | Ajani Resolute | 0.6120 | 61.20% | FRA | 195 | Mythic | W | {1}{W} | Legendary Planeswalker — Ajani |
 | Danitha, Sword of Hope | 0.5494 | 54.94% | FRA | 196 | Uncommon | W | {2}{W} | Legendary Creature — Human Knight |
 | Ghalta the Immovable | 0.5595 | 55.95% | FRA | 197 | Uncommon | W | {8}{W} | Legendary Creature — Elder Dinosaur |
@@ -348,12 +348,12 @@ All intermediate scripts, datasets, and figures are saved both in the repository
 | Vraska, the Cutting Glare | 0.5767 | 57.67% | FRA | 278 | Rare | BG | {B}{B}{G} | Legendary Creature — Gorgon Assassin |
 | Karn, Argent Defender | 0.5141 | 51.41% | FRA | 279 | Rare | C | {2} | Legendary Artifact Creature — Golem |
 | Traxos, Scourge Eternal | 0.5300 | 53.00% | FRA | 280 | Uncommon | C | {4} | Legendary Artifact Creature — Dragon Construct |
-| Plains | 0.5633 | 56.33% | FRA | 281 | Common | W | nan | Basic Land — Plains |
-| Island | 0.5574 | 55.74% | FRA | 283 | Common | U | nan | Basic Land — Island |
-| Swamp | 0.5519 | 55.19% | FRA | 285 | Common | B | nan | Basic Land — Swamp |
-| Mountain | 0.5491 | 54.91% | FRA | 287 | Common | R | nan | Basic Land — Mountain |
-| Forest | 0.5547 | 55.47% | FRA | 289 | Common | G | nan | Basic Land — Forest |
-| Eye of Ugin | 0.4760 | 47.60% | SPG | 159 | Mythic | Land | nan | Legendary Land |
+| Plains | 0.5633 | 56.33% | FRA | 281 | Common | W |  | Basic Land — Plains |
+| Island | 0.5574 | 55.74% | FRA | 283 | Common | U |  | Basic Land — Island |
+| Swamp | 0.5519 | 55.19% | FRA | 285 | Common | B |  | Basic Land — Swamp |
+| Mountain | 0.5491 | 54.91% | FRA | 287 | Common | R |  | Basic Land — Mountain |
+| Forest | 0.5547 | 55.47% | FRA | 289 | Common | G |  | Basic Land — Forest |
+| Eye of Ugin | 0.4760 | 47.60% | SPG | 159 | Mythic | Land |  | Legendary Land |
 | Austere Command | 0.6089 | 60.89% | SPG | 160 | Mythic | W | {4}{W}{W} | Sorcery |
 | Flesh Duplicate | 0.5762 | 57.62% | SPG | 161 | Mythic | U | {U}{U} | Creature — Shapeshifter Rebel |
 | Consign to Memory | 0.5178 | 51.78% | SPG | 162 | Mythic | U | {U} | Instant |
