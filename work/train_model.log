@@ -1,0 +1,337 @@
+n features: 123 n cards: 2457
+{'set': 'ECL', 'n': 269, 'mae_zero': 0.030493975000011993, 'mae_rarity': 0.028180169126842194, 'corr_rarity': 0.39274365528579086, 'mae_lgb': 0.026089507984434317, 'corr_lgb': 0.5259319164540469, 'mae_txt': 0.03293463376680831, 'corr_txt': 0.28716733503751235, 'mae_blend': 0.026549659650391466, 'corr_blend': 0.4895020854549125}
+{'set': 'EOE', 'n': 288, 'mae_zero': 0.02756124258750949, 'mae_rarity': 0.027967107979723682, 'corr_rarity': 0.10145566917421207, 'mae_lgb': 0.024448220653340236, 'corr_lgb': 0.4650490504002434, 'mae_txt': 0.030926542585547237, 'corr_txt': 0.3369634004680574, 'mae_blend': 0.023268575160548373, 'corr_blend': 0.48222801867036086}
+{'set': 'FIN', 'n': 343, 'mae_zero': 0.030270719492838227, 'mae_rarity': 0.030103485845040814, 'corr_rarity': 0.14939642368472136, 'mae_lgb': 0.028285715643204073, 'corr_lgb': 0.3915091913641267, 'mae_txt': 0.035452829646060315, 'corr_txt': 0.31695062962567705, 'mae_blend': 0.028039744645039263, 'corr_blend': 0.41736338517255067}
+{'set': 'HOB', 'n': 181, 'mae_zero': 0.03147069921636044, 'mae_rarity': 0.031449788943051324, 'corr_rarity': 0.08068337984456596, 'mae_lgb': 0.0306343080990007, 'corr_lgb': 0.260019484554655, 'mae_txt': 0.038353509363002296, 'corr_txt': 0.1625118613181835, 'mae_blend': 0.03142167129674319, 'corr_blend': 0.25563431496163175}
+{'set': 'MSH', 'n': 274, 'mae_zero': 0.030553704503063234, 'mae_rarity': 0.029514538909599056, 'corr_rarity': 0.33954584962343426, 'mae_lgb': 0.025509560740354233, 'corr_lgb': 0.5489982563528334, 'mae_txt': 0.03255190182829913, 'corr_txt': 0.3386708431580539, 'mae_blend': 0.02566528664324852, 'corr_blend': 0.5167125289329658}
+{'set': 'OM1', 'n': 35, 'mae_zero': 0.02253565394414536, 'mae_rarity': 0.02469647465550742, 'corr_rarity': -0.14829538739871617, 'mae_lgb': 0.0202707353272453, 'corr_lgb': 0.36394811659877974, 'mae_txt': 0.02138884278184504, 'corr_txt': 0.4426533501908082, 'mae_blend': 0.019460314899279185, 'corr_blend': 0.49786702861207666}
+{'set': 'SOS', 'n': 321, 'mae_zero': 0.028054537114529234, 'mae_rarity': 0.0274646293949211, 'corr_rarity': 0.26369546230019797, 'mae_lgb': 0.025909264723203807, 'corr_lgb': 0.40937947153026066, 'mae_txt': 0.034630935457927885, 'corr_txt': 0.24853258086024704, 'mae_blend': 0.026712529833568997, 'corr_blend': 0.3898513435264878}
+{'set': 'TDM', 'n': 274, 'mae_zero': 0.02478312485806019, 'mae_rarity': 0.02304016458476267, 'corr_rarity': 0.45995682256714504, 'mae_lgb': 0.02175296663453187, 'corr_lgb': 0.556288678773554, 'mae_txt': 0.030075134745102008, 'corr_txt': 0.354001723478314, 'mae_blend': 0.021968348732576307, 'corr_blend': 0.539232558714384}
+{'set': 'TLA', 'n': 286, 'mae_zero': 0.029612825258984253, 'mae_rarity': 0.02758177540093432, 'corr_rarity': 0.3864371222349485, 'mae_lgb': 0.022905027698128178, 'corr_lgb': 0.6024771695615476, 'mae_txt': 0.03140506380621202, 'corr_txt': 0.31344212750177874, 'mae_blend': 0.024076478354772793, 'corr_blend': 0.5504673135288559}
+{'set': 'TMT', 'n': 186, 'mae_zero': 0.03152761661225341, 'mae_rarity': 0.03028236641180175, 'corr_rarity': 0.3017233685832556, 'mae_lgb': 0.027263009019655754, 'corr_lgb': 0.4720933644565042, 'mae_txt': 0.03544990508892586, 'corr_txt': 0.28367392385573625, 'mae_blend': 0.028362919225016422, 'corr_blend': 0.4427087124122156}
+   set    n  mae_zero  mae_rarity  ...  mae_txt  corr_txt  mae_blend  corr_blend
+0  ECL  269    0.0305      0.0282  ...   0.0329    0.2872     0.0265      0.4895
+1  EOE  288    0.0276      0.0280  ...   0.0309    0.3370     0.0233      0.4822
+2  FIN  343    0.0303      0.0301  ...   0.0355    0.3170     0.0280      0.4174
+3  HOB  181    0.0315      0.0314  ...   0.0384    0.1625     0.0314      0.2556
+4  MSH  274    0.0306      0.0295  ...   0.0326    0.3387     0.0257      0.5167
+5  OM1   35    0.0225      0.0247  ...   0.0214    0.4427     0.0195      0.4979
+6  SOS  321    0.0281      0.0275  ...   0.0346    0.2485     0.0267      0.3899
+7  TDM  274    0.0248      0.0230  ...   0.0301    0.3540     0.0220      0.5392
+8  TLA  286    0.0296      0.0276  ...   0.0314    0.3134     0.0241      0.5505
+9  TMT  186    0.0315      0.0303  ...   0.0354    0.2837     0.0284      0.4427
+
+[10 rows x 11 columns]
+mean: {'n': 245.7, 'mae_zero': 0.0287, 'mae_rarity': 0.028, 'corr_rarity': 0.2327, 'mae_lgb': 0.0253, 'corr_lgb': 0.4596, 'mae_txt': 0.0323, 'corr_txt': 0.3085, 'mae_blend': 0.0256, 'corr_blend': 0.4582}
+rarity_num            458.0
+text_len              449.0
+power                 142.0
+cmc                   142.0
+toughness             133.0
+n_abilities           117.0
+x_etb                 117.0
+pt_per_cmc             95.0
+pt_sum                 89.0
+n_pips                 84.0
+stats_minus_cmc        83.0
+x_token                50.0
+t_enchantment          49.0
+kw_flying              45.0
+c_W                    40.0
+x_draw                 38.0
+c_R                    38.0
+t_legendary            37.0
+n_color_identity       33.0
+x_lifegain             32.0
+ci_U                   31.0
+n_colors               31.0
+c_U                    29.0
+dmg_amount             29.0
+x_opponent_control     25.0
+x_destroy_creature     25.0
+ci_W                   23.0
+is_colorless           22.0
+x_destroy_all          21.0
+x_counters             21.0
+dtype: float64
+                                           name    rarity  model_blend
+186                       Garruk, Curse Breaker    mythic     0.632429
+0                               Uldaros Theorix    mythic     0.632032
+203                      Garruk, Veiled Butcher    mythic     0.630927
+22                              Kwia Vigorbloom    mythic     0.623559
+140                             Aerid Konstrari    mythic     0.620773
+129                   Vraska, the Cutting Glare      rare     0.617439
+210                               Guiding Hydra      rare     0.616533
+63                   The Theorist, Jace Beleren    mythic     0.615556
+36                         Hexhaven Invigorator    mythic     0.615340
+9                             Craftwork Crusher  uncommon     0.614838
+101                          Denzilore Fatehold    mythic     0.606284
+41                          Ingris Stingerquill    mythic     0.605618
+95                                Null Summoner      rare     0.604360
+51                          Seasoned Cryomancer    mythic     0.599483
+66                        Enlightened Confidant    mythic     0.599181
+126                              Twinned Vision    common     0.597384
+230                    Yoshimaru, Scrappy Stray  uncommon     0.596751
+17                            Simulacrum Shaper      rare     0.594004
+124                               Solitary Cell      rare     0.593592
+236                   Emrakul, the Exigent Doom    mythic     0.593368
+150                            Kindred Judgment      rare     0.592695
+50                                    Tarmogoyf    mythic     0.592504
+243                               Twisted Fates  uncommon     0.592359
+76                            Ajani Unrelenting    mythic     0.591914
+190                       Koth of the Homestead  uncommon     0.591683
+52                        The Echoverse Fulcrum    mythic     0.591466
+142                       Recursive Recruitment  uncommon     0.590275
+25                             Stingcaster Mage    mythic     0.590214
+5                                Sanctum Lurker      rare     0.589927
+24                      Kiora of Fire and Ashes  uncommon     0.589873
+128                 Avatar of Burgeoning Echoes    mythic     0.589432
+221                       Mabel, Bitter Recluse  uncommon     0.589133
+100                       Hungering Puppetbeast      rare     0.587639
+119  Bloodline Recollector // Ancestral Craving    mythic     0.587332
+85                          Repurposed Enforcer      rare     0.587276
+238                    Overwrite the Multiverse    mythic     0.587193
+97                          Craterclaw Colossus    mythic     0.586318
+117                     Dark Matter Manipulator      rare     0.585972
+248                    Hapatra, the Desert Fang  uncommon     0.585949
+258                   Pia, Determined Rebuilder  uncommon     0.585866
+53                           Germinate Recruits      rare     0.585786
+61                              Solarium Sentry      rare     0.584796
+107                        Proctor of Potential      rare     0.583723
+281                   Jiang Yanggu, Never Alone  uncommon     0.582786
+26                  Sphinx of False Conclusions      rare     0.581874
+84                              Master of Barbs      rare     0.581688
+99                                Face Yourself      rare     0.580950
+137                     Unflinching Hortimancer    common     0.580916
+58                        Liliana the Repentant      rare     0.580167
+215        Pompous Battlemage // Improvised Act      rare     0.579426
+229                 Proft, Consulting Detective  uncommon     0.579275
+228                           Tether Technician    common     0.578672
+77                               Verdant Kraken      rare     0.578252
+7                             Darklight Phoenix    mythic     0.578199
+114                            Flickering Hound      rare     0.577853
+242                            Warrior's Blades  uncommon     0.577369
+193                              Mind Meanderer  uncommon     0.577180
+151                          Vindictive Triumph      rare     0.576734
+163                       Tomik, Orzhov Lawmage  uncommon     0.576722
+16                     Lyra, Tolarian Archangel      rare     0.576123
+241                          Awaken the Inferno    common     0.575504
+179                     Lyra, Archangel of Dawn      rare     0.575454
+152                       Liliana the Faultless      rare     0.575443
+43                           Tenured Tethermage      rare     0.575264
+154                            Stinging Vitriol      rare     0.575187
+206                              Fatehold Charm  uncommon     0.574304
+64                              Konstrari Charm  uncommon     0.574119
+240                       Vraska, Soul of Stone      rare     0.573701
+216                         Gideon the Oathless      rare     0.573193
+46                   Chandra, Torch of Defiance    mythic     0.572743
+158                           Gideon's Memorial      rare     0.572689
+146                        Frostbite Pyromental      rare     0.572542
+144                                  Bloombrute  uncommon     0.572540
+71                                Theorix Charm  uncommon     0.572505
+27                        Fblthp, Knows the Way  uncommon     0.572406
+239                       Plan for All Outcomes  uncommon     0.571971
+284                         Pia, Aether Ascetic  uncommon     0.571969
+47                              Fulminous Forte  uncommon     0.571335
+185                  Massacre Girl, Most Wanted  uncommon     0.571173
+136           Variable Chaser // Arc of Fortune      rare     0.571104
+81                                  Memory Trap    common     0.570318
+80                   Tinybones, Pocket Nuisance  uncommon     0.570058
+217          Vigorbloom Vanguard // Seed Suture  uncommon     0.570012
+38                                Countersculpt  uncommon     0.569485
+23         Diviner of Victory // Unwind History      rare     0.568900
+252                          Surgical Precision    common     0.568837
+2                                Deserted Beach      rare     0.568639
+127                    Way of the Mind Sculptor  uncommon     0.568612
+69                          Your Fate Ends Here  uncommon     0.568348
+255                             Ajani's Anguish      rare     0.568293
+98                           Hexhaven Battalion    common     0.568272
+79                              Shipwreck Marsh      rare     0.568152
+78                               Refute Destiny  uncommon     0.567906
+68                 Chandra, Chill of Compliance    mythic     0.567834
+115                           Precise Redaction  uncommon     0.567634
+184                         Arni, Humble Scribe  uncommon     0.567609
+263                           Bestial Incursion    common     0.567229
+10                           Overgrown Farmland      rare     0.566843
+178                   Hapatra, the Desert Frost  uncommon     0.566513
+219                         Flourishing Grapple  uncommon     0.566108
+162                          Stingerquill Charm  uncommon     0.566018
+33                                Rockfall Vale      rare     0.566004
+201                               Haunted Ridge      rare     0.565567
+35                                No Admittance    common     0.565537
+282                            Generous Revival  uncommon     0.565395
+67                                    Last Gasp    common     0.565137
+227                              Sureshot Sower    common     0.565086
+109                        Break Under Pressure  uncommon     0.564690
+3                            Terminal Criticism  uncommon     0.564617
+191                     Winter, Tormented Loner  uncommon     0.564268
+112                         Gallia, Tragic Host  uncommon     0.564110
+168                        Thalia, the Survivor  uncommon     0.564036
+139                        Tam, the Possibility      rare     0.563960
+141                          Curse-Marred Demon      rare     0.563700
+54                           Arcane Amphisbaena    common     0.563360
+245                          Heartstring Puller    common     0.563022
+199                              Room of Refuge    common     0.561815
+145             Prudent Fateseer // Peer Review  uncommon     0.561278
+251                  Proft, Sinister Mastermind  uncommon     0.560926
+253                      Danitha, Sword of Hope  uncommon     0.560525
+195                              Ajani Resolute    mythic     0.560432
+120                                    Rank Rat    common     0.559992
+87                                 Essence Burn  uncommon     0.559835
+34                             Draconic Visitor      rare     0.559423
+233                     Marwyn, the Clearcutter  uncommon     0.559394
+246                 Yuriko, Blade of the Mighty  uncommon     0.559247
+123                              Fatehold Annex    common     0.559094
+223                      Transformative Commons    common     0.558532
+198                        Vraska's Final Mercy      rare     0.558530
+108               Yuriko, Hope from the Shadows  uncommon     0.558494
+232                               Blessed Ghoul    common     0.558301
+59                        Karn, Argent Defender      rare     0.558257
+196                               Theorix Annex    common     0.558144
+260         Emergency Phytomedic // Seed Suture    common     0.558086
+176                          Innovative Commons    common     0.557848
+90                    Tetsuko Umezawa, Fugitive  uncommon     0.557762
+20                                 Omnipresence    mythic     0.557735
+153                            Theorist's Proxy      rare     0.557724
+75                             Vigorbloom Charm  uncommon     0.557654
+280                           Mindseeker Oculus    common     0.557646
+271                            Extended Absence    common     0.557583
+247                           Apex Witchstalker    common     0.557328
+234                            Compel Brutality    common     0.557226
+8                    Return to the Light Realms    mythic     0.557091
+12                          Primal Witchstalker  uncommon     0.557040
+200                            Cryotheory Adept    common     0.556799
+96                              Cast Away Doubt    common     0.556530
+259                                    Unsummon    common     0.556053
+177                       Geist of Saint Thalia  uncommon     0.556005
+72                   Saheeli, Jewel of Avishkar  uncommon     0.555964
+265                     Theoretical Necromancer    common     0.555400
+138                     Danitha, Spear of Agony  uncommon     0.555333
+257                            Vigorbloom Annex    common     0.555332
+192                          Meticulous Commons    common     0.555082
+40                      Fblthp, Impossibly Lost  uncommon     0.555035
+187                            Multiply by Zero  uncommon     0.554907
+218                              Violent Echoes  uncommon     0.554740
+172                               Grim Repriser  uncommon     0.554543
+212                         Infinite Coursework    common     0.554436
+269                          Formidable Commons    common     0.554395
+82                            Dedicated Commons    common     0.554063
+19                 Saheeli, Consul of Oversight  uncommon     0.553914
+30                               Roiling Canopy      rare     0.553885
+89                       Tethermage's Advantage    common     0.553854
+157                      Jace, Reality Sculptor      rare     0.553785
+105                       Marwyn, the Preserver  uncommon     0.553750
+183                               Icy Reception    common     0.553640
+91                              Konstrari Annex    common     0.553302
+149                          Stingerquill Annex    common     0.552969
+209                    Traxos, Academy Guardian  uncommon     0.552825
+249                      Desperate Futurescribe  uncommon     0.552375
+88                 Yoshimaru, Beloved Companion  uncommon     0.552368
+175     Stingerquill Voxmancer // Vicious Verse  uncommon     0.552120
+147                   Samut, Tyrant of Naktamun      rare     0.552097
+122                     Predictive Preparations    common     0.551925
+220                                Lich's Relic      rare     0.551867
+222                            Tam's Resistance    common     0.551724
+133                    Teyo, Lightshield Expert  uncommon     0.551595
+279                              Rampart Hunter    common     0.551428
+264                         Shatterwing Pegasus    common     0.551305
+188            Heartwood Crafter // Soul Tether  uncommon     0.551271
+21                                  Loyal Tutor    mythic     0.550961
+267                            Vinelasher Adept    common     0.550959
+204                         Protege's Awakening    common     0.550945
+224                      Wrath of the Bloodmane    common     0.550900
+171                      Kiora of Salt and Sand  uncommon     0.550578
+116                         Afterthought Sentry    common     0.550410
+121                           Way of the Healer  uncommon     0.550078
+213                        Ferocity of the Hunt    common     0.549854
+268            Paradox Shaper // Omit Variables  uncommon     0.549663
+103                              Wrecking Gecko    common     0.549380
+4                               Archive Arbiter  uncommon     0.549177
+155                             Academic Ascent    common     0.549165
+73         Fatehold Chronologist // Peer Review    common     0.549092
+6                        Something Worth Saving    common     0.549087
+15                      Teyo, Diamondblade Mage  uncommon     0.549043
+135                                Campus Crier    common     0.548555
+250                            Perfected Theory  uncommon     0.548485
+32                                  Eye of Jace  uncommon     0.548101
+207                      Way of the Wildspeaker  uncommon     0.547814
+160                    Solve for Disappointment    common     0.547612
+261                    Tetsuko Umezawa, Pursuer  uncommon     0.547581
+86                         Restore with Empathy  uncommon     0.547400
+161                    Edgar, Ancient Bloodlord  uncommon     0.546958
+226                    Keeper of the Quiet Hour    common     0.545980
+270                         Jiang Yanggu, Alone  uncommon     0.545864
+48                        Codie, Ravenous Codex    mythic     0.545780
+262                         Winter, Team Player  uncommon     0.545484
+74                   Pyre Rhymer // Molten Tide      rare     0.545427
+266                           Sphinx's Approach      rare     0.545253
+143                Rescue Girl, First Responder  uncommon     0.545204
+156                      Screeching Soulbreaker    common     0.544437
+1                          Ruric Thar, Biomagus  uncommon     0.544016
+70                          Jace's Machinations      rare     0.544000
+273                     Ruric Thar, Magecrusher  uncommon     0.543949
+62                               Prophesied End  uncommon     0.542823
+254                            Murmuring Volume    common     0.542815
+13                      Traxos, Scourge Eternal  uncommon     0.542814
+202                       Surveillance Phantasm    common     0.542766
+256                    Edgar, Moonlit Sovereign  uncommon     0.542734
+11                    Yargle, Glutton of Urborg  uncommon     0.541738
+197                          Way of the Paradox  uncommon     0.541708
+65                           Theorist's Sanctum      rare     0.541518
+83                                Graft Surgeon    common     0.541485
+94                        Karn, Gilded Guardian      rare     0.541340
+110                          Mabel, Valley Hero  uncommon     0.541226
+31          Void Extrapolator // Omit Variables    common     0.540901
+274                         Fateshaper Aspirant    common     0.540886
+159            Carnivorous Cultivator // Enroot      rare     0.540780
+275                            Silence the Echo    common     0.540593
+106                             Rewrite Regrets  uncommon     0.540461
+174                           Blazing Crescendo    common     0.540122
+231                   Samut, Hazoret's Champion      rare     0.539995
+132        Blossom-Blessed Angel // Seed Suture    common     0.539958
+167            Semester Foreseer // Peer Review    common     0.539422
+170                    Rise of the Deathbringer      rare     0.539401
+211                       Greenhouse Propagator    common     0.539196
+134                             Eardrum Rattler    common     0.539006
+130                      Tomik, Izzet Sparkmage  uncommon     0.538726
+164             Woodwork Prodigy // Soul Tether  uncommon     0.538632
+244                           Entrust the Spark      rare     0.538556
+148                          Way of the Warlord  uncommon     0.538442
+104         Konstrari Improviser // Soul Tether    common     0.537861
+278                   Yargle, Goliath of Otaria  uncommon     0.537285
+45                            Budding Insurgent    common     0.537236
+57                       Ghalta the Unstoppable  uncommon     0.536948
+28                           Undulating Witness    common     0.536766
+283          Theorix Metamage // Omit Variables    common     0.536231
+166            Hallway Heckler // Vicious Verse    common     0.535730
+29                         Skilled Battlecarver    common     0.534753
+113                              Hall of Echoes      rare     0.534744
+181                            Medic's Kitesail    common     0.534373
+44                   Extrapolate the Impossible      rare     0.534348
+189                      Hexhaven Dueling Arena  uncommon     0.534324
+194                            Divining Duelist    common     0.533395
+214                        Ghalta the Immovable  uncommon     0.533169
+225                           Clash of Elements  uncommon     0.533162
+131                              Living Library    common     0.532546
+277                           Command the Stage  uncommon     0.532262
+102                             Loot, the Nexus  uncommon     0.532233
+180                          Charge the Sanctum    common     0.531060
+235                     Arni, Renowned Champion  uncommon     0.530501
+208                                Hunter's Axe  uncommon     0.530440
+165                             Artifist Acumen    common     0.530317
+93                                Identity Echo      rare     0.529904
+276                      Gallia, the Merrymaker  uncommon     0.529118
+169         Whiplash Wordsmith // Vicious Verse    common     0.528914
+92                          Chandra's Emberling    common     0.528844
+49                            Way of the Mentor  uncommon     0.528088
+272                  Titanbones, Towering Heart  uncommon     0.525427
+39                              Puppet Crafting      rare     0.524901
+37                      Way of the Deathbringer  uncommon     0.523293
+173                       Way of the Cryomancer  uncommon     0.522898
+125                         Koth, the Geomancer  uncommon     0.522658
+18                          Inspired Tethermage    common     0.522067
+205                      Way of the Necromancer  uncommon     0.519747
+118                           Loot, the Anomaly  uncommon     0.519556
+60                                    Gardenize    mythic     0.514323
+182                          Cruel Calculations      rare     0.511452
+237                       Way of the Pyromancer  uncommon     0.503346
