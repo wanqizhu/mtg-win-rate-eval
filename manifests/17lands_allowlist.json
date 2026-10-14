@@ -1,0 +1,757 @@
+{
+  "source": "https://www.17lands.com/public_datasets",
+  "license": "CC BY 4.0",
+  "note": "Frozen allowlist. Reality Fracture (FRA) and related codes are excluded even if 17lands publishes them later.",
+  "sets": [
+    "HOB",
+    "MSH",
+    "SOS",
+    "TMT",
+    "ECL",
+    "TLA",
+    "OM1",
+    "EOE",
+    "FIN",
+    "TDM"
+  ],
+  "files": [
+    {
+      "expansion": "TDM",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TDM.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TDM.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TDM.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TDM.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TDM.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TDM.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TDM.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TDM.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TDM.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TDM",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2025-05-20",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TDM.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FIN.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.FIN.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FIN.Sealed.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.FIN.Sealed.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.FIN.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FIN.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.FIN.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.FIN.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.FIN.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "FIN",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2025-07-18",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.FIN.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.EOE.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.EOE.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.EOE.Sealed.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.EOE.Sealed.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.EOE.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.EOE.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.EOE.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.EOE.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.EOE.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "EOE",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2025-09-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.EOE.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.OM1.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.OM1.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.OM1.Sealed.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.OM1.Sealed.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoDraft",
+      "kind": "draft",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.OM1.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoDraft",
+      "kind": "game",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.OM1.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoDraft",
+      "kind": "replay",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.OM1.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoTradDraft",
+      "kind": "draft",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.OM1.PickTwoTradDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoTradDraft",
+      "kind": "game",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.OM1.PickTwoTradDraft.csv.gz"
+    },
+    {
+      "expansion": "OM1",
+      "format": "PickTwoTradDraft",
+      "kind": "replay",
+      "updated": "2025-10-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.OM1.PickTwoTradDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TLA.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TLA.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TLA.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TLA.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TLA.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TLA.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TLA.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TLA.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TLA.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TLA",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2026-01-10",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TLA.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.ECL.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.ECL.Sealed.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.ECL.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.ECL.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.ECL.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "ECL",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-02-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.ECL.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TMT.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TMT.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TMT.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TMT.Sealed.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TMT.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TMT.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TMT.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.TMT.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.TMT.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "TMT",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2026-04-08",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.TMT.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SOS.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.SOS.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SOS.Sealed.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.SOS.Sealed.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.SOS.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SOS.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.SOS.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.SOS.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.SOS.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "SOS",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2026-06-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.SOS.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.MSH.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.Sealed.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.MSH.Sealed.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PickTwoDraft",
+      "kind": "draft",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.MSH.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PickTwoDraft",
+      "kind": "game",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PickTwoDraft",
+      "kind": "replay",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.MSH.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.MSH.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.MSH.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.MSH.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.MSH.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "MSH",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2026-07-26",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.MSH.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "TradSealed",
+      "kind": "game",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "TradSealed",
+      "kind": "replay",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.HOB.TradSealed.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "Sealed",
+      "kind": "game",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.Sealed.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "Sealed",
+      "kind": "replay",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.HOB.Sealed.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PickTwoDraft",
+      "kind": "draft",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.HOB.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PickTwoDraft",
+      "kind": "game",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PickTwoDraft",
+      "kind": "replay",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.HOB.PickTwoDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "TradDraft",
+      "kind": "draft",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.HOB.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "TradDraft",
+      "kind": "game",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "TradDraft",
+      "kind": "replay",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.HOB.TradDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PremierDraft",
+      "kind": "draft",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/draft_data/draft_data_public.HOB.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PremierDraft",
+      "kind": "game",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/game_data/game_data_public.HOB.PremierDraft.csv.gz"
+    },
+    {
+      "expansion": "HOB",
+      "format": "PremierDraft",
+      "kind": "replay",
+      "updated": "2026-08-30",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/replay_data/replay_data_public.HOB.PremierDraft.csv.gz"
+    }
+  ],
+  "helpers": [
+    {
+      "name": "Dungeon Abilities",
+      "updated": "2021-08-02",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/helper_files/dungeon.csv"
+    },
+    {
+      "name": "Replay Data Types",
+      "updated": "2022-07-06",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/helper_files/replay_dtypes.py"
+    },
+    {
+      "name": "Cards",
+      "updated": "2026-08-30 (HOB)",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/cards/cards.csv",
+      "filter_reality_fracture": true
+    },
+    {
+      "name": "Abilities",
+      "updated": "2026-08-30 (HOB)",
+      "url": "https://17lands-public.s3.amazonaws.com/analysis_data/cards/abilities.csv",
+      "filter_reality_fracture": false
+    }
+  ]
+}
