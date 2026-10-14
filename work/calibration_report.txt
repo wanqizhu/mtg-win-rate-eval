@@ -1,0 +1,98 @@
+FRA expert predictions: calibration report
+============================================================
+main-set cards: 280   overall mean = 55.83   sd = 2.63
+historical per-set mean of card GIH WR (n>=500): {'ECL': 56.19, 'EOE': 55.58, 'FIN': 55.89, 'HOB': 55.89, 'MSH': 56.19, 'OM1': 56.14, 'SOS': 56.03, 'TDM': 56.01, 'TLA': 56.21, 'TMT': 57.41}
+
+By rarity (prediction vs historical pooled, n>=500):
+  common    pred mean 55.22 sd 1.63 (n=81)   hist mean 55.16 sd 2.47 (n=783)
+  uncommon  pred mean 55.57 sd 2.00 (n=109)   hist mean 55.67 sd 3.26 (n=862)
+  rare      pred mean 56.07 sd 3.42 (n=64)   hist mean 57.12 sd 4.68 (n=584)
+  mythic    pred mean 58.21 sd 3.82 (n=26)   hist mean 58.69 sd 4.99 (n=204)
+
+By color (main set):
+  B    n= 39 mean 56.04
+  BR   n=  6 mean 56.35
+  BU   n=  6 mean 57.03
+  C    n= 32 mean 54.74
+  G    n= 37 mean 55.41
+  GR   n=  6 mean 57.28
+  GU   n=  6 mean 54.60
+  GW   n=  6 mean 58.17
+  R    n= 40 mean 55.71
+  U    n= 39 mean 55.82
+  UW   n=  6 mean 57.80
+  W    n= 39 mean 55.73
+
+Correlation expert vs statistical baseline (blend): 0.580  (n=280)
+Mean abs difference: 1.71
+
+Largest expert > model disagreements:
+  Draconic Visitor                       r expert  61.5 model  55.9  (+5.6)
+  Lich's Relic                           r expert  60.5 model  55.2  (+5.3)
+  Curse-Marred Demon                     r expert  61.5 model  56.4  (+5.1)
+  Chandra, Torch of Defiance             m expert  62.0 model  57.3  (+4.7)
+  Desperate Futurescribe                 u expert  59.4 model  55.2  (+4.2)
+  Vraska's Final Mercy                   r expert  60.0 model  55.9  (+4.2)
+  Jace, Reality Sculptor                 r expert  59.4 model  55.4  (+4.0)
+  Rise of the Deathbringer               r expert  57.9 model  53.9  (+4.0)
+  Violent Echoes                         u expert  59.4 model  55.5  (+3.9)
+  Ghalta the Unstoppable                 u expert  57.6 model  53.7  (+3.9)
+  Titanbones, Towering Heart             u expert  56.4 model  52.5  (+3.9)
+  Clash of Elements                      u expert  57.0 model  53.3  (+3.7)
+  Jace's Machinations                    r expert  57.9 model  54.4  (+3.5)
+  Way of the Deathbringer                u expert  55.8 model  52.3  (+3.5)
+  Lyra, Archangel of Dawn                r expert  61.0 model  57.5  (+3.5)
+Largest expert < model disagreements:
+  Loyal Tutor                            r expert  46.8 model  55.1  (-8.3)
+  Omnipresence                           m expert  48.0 model  55.8  (-7.8)
+  Entrust the Spark                      r expert  46.8 model  53.9  (-7.1)
+  Karn, Argent Defender                  r expert  50.0 model  55.8  (-5.8)
+  Precise Redaction                      u expert  51.0 model  56.8  (-5.8)
+  Return to the Light Realms             m expert  50.0 model  55.7  (-5.7)
+  Pompous Battlemage // Improvised Act   r expert  52.6 model  57.9  (-5.3)
+  Bloodline Recollector // Ancestral Cra m expert  53.5 model  58.7  (-5.2)
+  Twinned Vision                         c expert  54.7 model  59.7  (-5.0)
+  Gardenize                              r expert  46.8 model  51.4  (-4.6)
+  Craftwork Crusher                      u expert  57.0 model  61.5  (-4.5)
+  Flourishing Grapple                    u expert  52.2 model  56.6  (-4.4)
+  Pia, Aether Ascetic                    u expert  52.8 model  57.2  (-4.4)
+  Germinate Recruits                     r expert  54.2 model  58.6  (-4.4)
+  The Echoverse Fulcrum                  m expert  55.0 model  59.1  (-4.2)
+
+Top 20 predicted cards:
+   64.0  Kwia Vigorbloom (mythic)
+   63.0  Aerid Konstrari (mythic)
+   62.0  The Theorist, Jace Beleren (mythic)
+   62.0  Denzilore Fatehold (mythic)
+   62.0  Chandra, Torch of Defiance (mythic)
+   61.5  Vraska, the Cutting Glare (rare)
+   61.5  Curse-Marred Demon (rare)
+   61.5  Draconic Visitor (rare)
+   61.0  Lyra, Archangel of Dawn (rare)
+   61.0  Garruk, Veiled Butcher (mythic)
+   61.0  Uldaros Theorix (mythic)
+   60.5  Lyra, Tolarian Archangel (rare)
+   60.5  Vindictive Triumph (rare)
+   60.5  Sphinx of False Conclusions (rare)
+   60.5  Garruk, Curse Breaker (mythic)
+   60.5  Lich's Relic (rare)
+   60.0  Vraska's Final Mercy (rare)
+   60.0  Hexhaven Invigorator (mythic)
+   60.0  Ingris Stingerquill (mythic)
+   60.0  Fulminous Forte (uncommon)
+Bottom 15 predicted cards:
+   46.8  Entrust the Spark (rare)
+   46.8  Gardenize (rare)
+   46.8  Loyal Tutor (rare)
+   48.0  Omnipresence (mythic)
+   49.8  Yargle, Goliath of Otaria (uncommon)
+   50.0  Karn, Argent Defender (rare)
+   50.0  Return to the Light Realms (mythic)
+   51.0  Extrapolate the Impossible (rare)
+   51.0  Precise Redaction (uncommon)
+   51.6  Way of the Necromancer (uncommon)
+   52.0  Artifist Acumen (common)
+   52.0  Living Library (common)
+   52.1  Samut, Tyrant of Naktamun (rare)
+   52.1  Karn, Gilded Guardian (rare)
+   52.1  Identity Echo (rare)
