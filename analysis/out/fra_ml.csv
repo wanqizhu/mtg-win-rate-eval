@@ -1,0 +1,291 @@
+name,rarity_str,type_line,mana_cost,ml_lgb,ml_ridge
+"Emrakul, the Exigent Doom",mythic,Legendary Creature — Eldrazi,{10},0.02010903382011872,0.00878567082528675
+Academic Ascent,common,Instant,{1}{W},-0.0010069247811191864,0.0073668990050805
+Blossom-Blessed Angel,common,Creature — Angel Cleric // Sorcery,{3}{W},-0.017698803410807293,-0.013463928625071146
+Campus Crier,common,Creature — Human Advisor,{1}{W},0.001935575506648664,0.014104969523590334
+Enlightened Confidant,mythic,Creature — Kor Cleric,{1}{W},0.04175694594657585,0.049046840916140706
+Fateshaper Aspirant,common,Creature — Rhino Cleric,{4}{W},-0.007507422203640343,-0.01267642702389739
+Flickering Hound,rare,Creature — Dog,{3}{W},0.015063497038777362,0.008556601023140485
+Generous Revival,uncommon,Sorcery,{2}{W},-9.256680399336968e-05,0.01251722351402394
+Germinate Recruits,rare,Instant,{2}{W},0.011125230224640386,0.020421360152311024
+Graft Surgeon,common,Creature — Human Cleric,{2}{W},-0.014337122019634852,-0.011472410740578415
+Guiding Hydra,rare,Creature — Hydra Horror,{X}{W},0.03084434889396547,0.03385368501105254
+Hexhaven Battalion,common,Sorcery,{4}{W}{W},0.005262416093199163,0.014349382550321968
+Kindred Judgment,rare,Sorcery,{5}{W}{W},0.020096152001068547,0.027766858272446727
+Loyal Tutor,rare,Instant,{W},0.004991919761039132,0.012325304596710817
+Memory Trap,common,Enchantment,{2}{W},0.007021770493677223,-0.007488754402334033
+Predictive Preparations,common,Sorcery,{1}{W},0.004475716026403913,0.0066421911353552136
+Prophesied End,uncommon,Instant,{1}{W},0.009179030194334825,0.013556867585676433
+Refute Destiny,uncommon,Sorcery,{1}{W},-0.001838117187942123,0.013209171010302593
+Repurposed Enforcer,rare,Creature — Human Soldier,{1}{W},0.041773188951853266,0.04027985182062924
+Return to the Light Realms,mythic,Sorcery,{7}{W}{W},0.022472319227705775,0.02951509364130674
+Shatterwing Pegasus,common,Creature — Pegasus,{2}{W},-0.0163332934845833,-0.00170888040219079
+Surgical Precision,common,Sorcery,{1}{W},0.008530294702176614,0.012976869885631076
+Unflinching Hortimancer,common,Creature — Human Cleric,{1}{W},0.0040268936020049235,0.008949214856806272
+Your Fate Ends Here,uncommon,Instant,{2}{W},0.004266847914227412,0.023544788577457395
+Countersculpt,uncommon,Instant,{U}{U},0.010568429880444683,0.024402023599726045
+Cruel Calculations,rare,Sorcery,{2}{U},8.258036669898219e-05,0.011696375191364973
+Cryotheory Adept,common,Creature — Human Wizard,{1}{U},-0.001966247435000823,-0.013433955754596457
+Diviner of Victory,rare,Creature — Dwarf Wizard // Sorcery,{U},0.013530140067375736,0.027016519211229842
+Divining Duelist,common,Creature — Merfolk Wizard,{2}{U},0.0016615859158501862,0.02037912158160503
+Icy Reception,common,Instant,{1}{U},-0.004880147654071074,-0.01725407806301027
+Infinite Coursework,common,Enchantment — Aura,{2}{U},-0.008229223485527295,-0.03211159129344398
+Jace's Machinations,rare,Instant,{2}{U},0.011573765488364002,0.031508288396104936
+Mindseeker Oculus,common,Creature — Homunculus,{2}{U},0.0041156552795977375,0.020729672465401167
+Perfected Theory,uncommon,Instant,{U},-0.007141357959932138,-0.005936826393470955
+Plan for All Outcomes,uncommon,Enchantment,{3}{U},0.008982349384505765,0.007868775084772031
+Precise Redaction,uncommon,Instant,{1}{U},-0.002693382502986605,-0.004054236685960451
+Protege's Awakening,common,Sorcery,{3}{U},-0.0023589263554604583,0.0026008466048582143
+Seasoned Cryomancer,mythic,Creature — Human Wizard,{1}{U}{U},0.05461405906634013,0.06388845657653137
+Semester Foreseer,common,Creature — Human Wizard // Sorcery,{3}{U},0.0012263044024853652,0.002729988363570213
+Sphinx of False Conclusions,rare,Creature — Sphinx Illusion,{2}{U}{U},0.04246905223511968,0.033907197980135466
+Sphinx's Approach,common,Instant,{1}{U}{U},-0.0036789347924234693,-0.003839727327619257
+Surveillance Phantasm,common,Creature — Bird Illusion,{1}{U},-0.0005991598181743447,-0.018765002186749712
+"The Theorist, Jace Beleren",mythic,Legendary Planeswalker — Jace,{2}{U}{U},0.056147331744019334,0.053246309579750885
+Theorist's Proxy,rare,Creature — Illusion,{1}{U},0.03456861956569882,0.04544654444685394
+Undulating Witness,common,Creature — Serpent,{4}{U},-0.024127163941625722,-0.023350051355276843
+Unsummon,common,Instant,{U},-0.0036056662170336974,0.004613238705975153
+Variable Chaser,rare,Creature — Human Wizard // Sorcery,{2}{U},0.008249767064454468,-0.006943137701966516
+Apex Witchstalker,common,Creature — Wolf,{4}{B}{B},0.007461975230441746,-0.004588143370792995
+Bloodline Recollector,mythic,Creature — Vampire Warlock // Instant,{1}{B},0.0229526008120166,0.021404025288717834
+Break Under Pressure,uncommon,Instant,{2}{B},0.002949822932293343,0.0055638784558759615
+Cast Away Doubt,common,Sorcery,{2}{B},-0.015339848208593505,-0.02241598739631103
+Dark Matter Manipulator,rare,Creature — Human Warlock,{B},0.02728085089859226,0.034115046741656635
+Darklight Phoenix,mythic,Creature — Phoenix,{3}{B},0.014891262373051696,0.02238988831143303
+Extended Absence,common,Instant,{3}{B},0.004729621490480298,0.009505158210871589
+Extrapolate the Impossible,rare,Sorcery,{1}{B},-0.005599352841107625,-0.0013408265881676928
+Last Gasp,common,Instant,{1}{B},-0.0004413741389767557,-0.02030781457326458
+Lich's Relic,rare,Artifact — Equipment,{B},0.01412176159956661,0.03368817622742431
+Multiply by Zero,uncommon,Instant,{1}{B},-0.009196316960453916,-0.015234871794830395
+Overwrite the Multiverse,mythic,Sorcery,{4}{B}{B},0.05518975464590465,0.05716279309895536
+Rampart Hunter,common,Creature — Horror,{3}{B},-0.009777590486322327,-0.0076611714905186565
+Rank Rat,common,Creature — Zombie Rat,{1}{B},0.000243888954145298,0.0038010213636496836
+Rewrite Regrets,uncommon,Sorcery,{3}{B},-0.00531188171052766,-0.0003706294015800786
+Rise of the Deathbringer,rare,Instant,{4}{B},0.01795222313311198,0.024869332838491357
+Sanctum Lurker,rare,Creature — Horror,{2}{B},0.03856667563762172,0.04093543663816278
+Screeching Soulbreaker,common,Creature — Siren Bard,{2}{B},-0.01943569958242847,-0.012239814281746733
+Silence the Echo,common,Sorcery,{1}{B},-0.006573506277823984,-0.006753793235344066
+Solve for Disappointment,common,Sorcery,{1}{B},-0.00690682231344914,-0.005080203608112127
+Terminal Criticism,uncommon,Instant,{1}{B},0.011127379238247713,0.019130187496094585
+Theoretical Necromancer,common,Creature — Vampire Warlock,{2}{B},-0.021556335057418927,-0.01918929939934118
+Void Extrapolator,common,Creature — Aetherborn Warlock // Sorcery,{1}{B},-0.005424396651816042,-0.015330778702219086
+Vraska's Final Mercy,rare,Sorcery,{B}{B},0.036804757187753806,0.04247331425262066
+Ajani's Anguish,rare,Enchantment,{X}{R},0.007078413765313345,0.017916558142959404
+Artifist Acumen,common,Sorcery,{R},-0.024948845975617993,-0.03178363805338028
+Awaken the Inferno,common,Sorcery,{4}{R},0.006205193403306072,-0.0022797485206229426
+Blazing Crescendo,common,Instant,{1}{R},-0.02586119256548876,-0.02989878264606461
+Chandra's Emberling,common,Creature — Gremlin Elemental,{2}{R},-0.0339767831558411,-0.019897810421494008
+Command the Stage,uncommon,Sorcery,{2}{R},-0.010537461531891694,-0.01654124376861716
+Craterclaw Colossus,mythic,Artifact Creature — Beast Construct,{4}{R}{R}{R},0.02712037715262374,0.030984328631706883
+Curse-Marred Demon,rare,Creature — Demon,{2}{R}{R},0.033042124327744136,0.017484836787680355
+Draconic Visitor,rare,Creature — Dragon,{3}{R}{R},0.0265760383819558,0.01653682132961424
+Eardrum Rattler,common,Creature — Human Bard,{1}{R},-0.021158809406207717,-0.023390052343554086
+Essence Burn,uncommon,Instant,{1}{R},-0.023084305043714587,-0.015291785403260443
+Face Yourself,rare,Sorcery,{5}{R}{R},0.017834505031496462,0.014188142070670264
+Fulminous Forte,uncommon,Instant,{2}{R},0.008073254166762531,0.02577987029940344
+Hallway Heckler,common,Creature — Elemental Sorcerer // Sorcery,{2}{R},-0.033861979316294054,-0.04069078623167843
+Heartstring Puller,common,Creature — Elf Sorcerer,{3}{R},-0.0068136239247604735,-0.0022039351000135063
+Identity Echo,rare,Enchantment,{2}{R},-0.027382735755968352,-0.004509199258461098
+Master of Barbs,rare,Creature — Lizard Bard,{1}{R},0.0010226804967656976,0.009777751242665365
+No Admittance,common,Sorcery,{1}{R},0.0066016299918889385,0.008479688261586365
+Pompous Battlemage,rare,Creature — Goblin Sorcerer // Sorcery,{R},0.0025925533181125732,-0.0086948615911713
+Pyre Rhymer,rare,Creature — Elemental Sorcerer // Instant,{1}{R}{R},-0.008932694350470612,-0.01678538752587577
+Skilled Battlecarver,common,Creature — Human Warrior,{1}{R},-0.02286987764720112,-0.026102582261971968
+Stingcaster Mage,mythic,Creature — Human Wizard,{1}{R},0.04524032878774725,0.066071045542231
+Tether Technician,common,Creature — Minotaur Artificer,{4}{R},-0.013275485357803643,0.0100832105210895
+Violent Echoes,uncommon,Instant,{2}{R}{R},0.009708104325125502,0.02435986720786192
+Wrath of the Bloodmane,common,Instant,{2}{R},-0.0066909857137515795,-0.011366185688349502
+Arcane Amphisbaena,common,Creature — Snake,{1}{G},0.0021225374312954016,0.020986979397946037
+Bestial Incursion,common,Sorcery,{3}{G},-0.0007423293131790344,0.010310410698735685
+Budding Insurgent,common,Creature — Dryad Scout,{2}{G},-0.020992376647589718,-0.02301845517171989
+Carnivorous Cultivator,rare,Creature — Elf Warlock // Sorcery,{1}{G},0.009153492274260083,-0.0012227958112321483
+Compel Brutality,common,Instant,{1}{G},0.0016890576636760688,0.013640219788609168
+Flourishing Grapple,uncommon,Instant,{G},0.0036101741505449787,0.016919004855946877
+Gardenize,rare,Enchantment,{1}{G}{G},-0.03854357568237064,-0.0141808082347711
+Greenhouse Propagator,common,Creature — Cat Druid,{2}{G},-0.016508312035332342,-0.010844271693405095
+Heartwood Crafter,uncommon,Creature — Elf Artificer // Sorcery,{G},0.002071238937873255,-0.013967490652620521
+Hexhaven Invigorator,mythic,Creature — Chimera Horror,{G}{G}{G}{G},0.034259955541390816,0.045737549776314536
+Hungering Puppetbeast,rare,Artifact Creature — Beast Construct,{3}{G}{G},0.04364254335918847,0.03258030778698222
+Hunter's Axe,uncommon,Artifact — Equipment,{G},-0.026925936684171016,-0.021930896997088736
+Inspired Tethermage,common,Creature — Elf Warrior,{2}{G},-0.007287326843912466,0.008546631672837387
+Omnipresence,mythic,Enchantment,{5}{G}{G}{G},0.0017961726312652395,0.011985612223709178
+Puppet Crafting,rare,Enchantment — Aura,{1}{G},-0.03757490866631536,-0.006890161994737487
+Restore with Empathy,uncommon,Instant,{2}{G},-0.007204637129083315,-0.006617558242640346
+Simulacrum Shaper,rare,Creature — Elf Druid,{1}{G}{G},0.03241591871782547,0.02891207943000806
+Something Worth Saving,common,Instant,{1}{G},-0.005898313940215256,-0.011897891650984848
+Sureshot Sower,common,Creature — Human Archer,{1}{G},0.0013077421210699399,0.014406651733837044
+Tarmogoyf,mythic,Creature — Lhurgoyf,{1}{G},0.02464903257901423,0.027532274290699193
+Tethermage's Advantage,common,Instant,{G},-0.010788927778491445,-0.018087639080626244
+Verdant Kraken,rare,Creature — Plant Kraken,{4}{G}{G}{G},0.026911876138050406,0.014041274963730222
+Vinelasher Adept,common,Creature — Rhino Soldier,{4}{G}{G},-0.006240456580809417,-0.008802254240113891
+Wrecking Gecko,common,Artifact Creature — Lizard Construct,{4}{G},-0.01674836584851998,-0.012786661856825672
+Aerid Konstrari,mythic,Legendary Creature — Elder Sphinx,{1}{R}{G}{G},0.04972024980547455,0.059302241853585055
+Avatar of Burgeoning Echoes,mythic,Creature — Avatar,{G}{U},0.060530420155412705,0.06260165745416646
+Blessed Ghoul,common,Creature — Zombie Cleric,{W/B},0.003542368111429836,0.002866319004930346
+Bloombrute,uncommon,Creature — Plant Elemental,{2}{G}{W},0.008557217482352095,0.010172877187615429
+Charge the Sanctum,common,Instant,{2}{R/W},-0.011988631140826345,-0.008705965422153664
+Clash of Elements,uncommon,Instant,{1}{U}{R},-0.0028202864662657985,-0.015645634016743987
+Craftwork Crusher,uncommon,Artifact Creature — Boar Construct,{3}{R}{R}{G}{G},0.03251646768477856,0.04703684796531404
+Denzilore Fatehold,mythic,Legendary Creature — Elder Sphinx,{1}{W}{U}{U},0.03349308010916218,0.041583328785362896
+Desperate Futurescribe,uncommon,Creature — Kor Scout,{2}{W}{U},-0.001780077705992813,0.0017513315830692971
+Emergency Phytomedic,common,Creature — Dryad Cleric // Sorcery,{G/W},0.00472708730580061,-0.004919257971180381
+Entrust the Spark,rare,Sorcery,{3}{G}{U},0.006002443864959682,0.012070876664288488
+Fatehold Charm,uncommon,Instant,{W}{U},0.005017284771275055,0.015075075747055145
+Fatehold Chronologist,common,Creature — Bird Wizard // Sorcery,{1}{W/U},-0.004623746346081306,-0.004440909562139132
+Ferocity of the Hunt,common,Enchantment — Aura,{1}{B/G},-0.026189880745472797,-0.03167659903877237
+Frostbite Pyromental,rare,Creature — Elemental,{U}{R}{R},0.012750192065971137,0.024301507240589805
+Grim Repriser,uncommon,Creature — Zombie Bard,{B}{R},0.0007630847372810174,-0.027906706189433896
+Ingris Stingerquill,mythic,Legendary Creature — Elder Sphinx,{B}{R}{R},0.022574750088613066,0.030197530036518847
+Konstrari Charm,uncommon,Instant,{R}{G},0.015979261295902245,0.009775131994647726
+Konstrari Improviser,common,Creature — Human Artificer // Sorcery,{1}{R/G},-0.01034555950363871,-0.024368964380164723
+Kwia Vigorbloom,mythic,Legendary Creature — Elder Sphinx,{3}{G}{W}{W},0.05956596299295477,0.06537554272351587
+Mind Meanderer,uncommon,Creature — Bird Fish Illusion,{3}{G}{U}{U},0.026960826740759843,0.038026641846004794
+Null Summoner,rare,Creature — Human Warlock,{2}{U}{B},0.03973062744896034,0.03811270834583021
+Paradox Shaper,uncommon,Creature — Octopus Wizard // Sorcery,{1}{U/B},-0.01069640618884965,-0.023439285233049247
+Primal Witchstalker,uncommon,Creature — Wolf,{1}{B}{G},0.013315674163099917,0.004823057605163493
+Proctor of Potential,rare,Creature — Human Cleric,{W}{U},0.03232247708659427,0.024518674621100352
+Prudent Fateseer,uncommon,Creature — Dwarf Wizard // Sorcery,{1}{W/U}{W/U},-0.0042991482109593655,0.0026093076448991514
+Recursive Recruitment,uncommon,Sorcery,{2}{U}{B},0.022338555071904225,0.033504063996511686
+Solarium Sentry,rare,Creature — Cat Soldier,{G}{W},0.027343530719211057,0.03066433267832764
+Solitary Cell,rare,Artifact,{R}{W},0.0261209318943812,0.025200695488569406
+Stingerquill Charm,uncommon,Instant,{B}{R},0.02216342599180801,0.01507049093100942
+Stingerquill Voxmancer,uncommon,Creature — Goblin Sorcerer // Sorcery,{B/R},-0.011107226500942272,-0.028923688244449214
+Stinging Vitriol,rare,Sorcery,{B}{R},0.02565573484700358,0.014752985269494883
+Tam's Resistance,common,Sorcery,{1}{G/U},0.0037081788349959412,0.004865999642609138
+Tenured Tethermage,rare,Creature — Human Artificer,{1}{R}{G},0.026527473781921076,0.025197032107378007
+Theorix Charm,uncommon,Instant,{U}{B},0.006058163901618839,0.006910906451900595
+Theorix Metamage,common,Creature — Shade Wizard // Sorcery,{2}{U/B},-0.014804204292169599,-0.019486046314522918
+Twinned Vision,common,Instant,{1}{U/R},0.009062753713540761,0.0033229329934941496
+Twisted Fates,uncommon,Sorcery,{2}{W}{W}{B},0.018060791801448334,0.01779532950307116
+Uldaros Theorix,mythic,Legendary Creature — Elder Sphinx,{3}{U}{B}{B},0.062095027766791384,0.06082995731967911
+Vigorbloom Charm,uncommon,Instant,{G}{W},0.026136320866513848,0.03442145412763858
+Vigorbloom Vanguard,uncommon,Creature — Troll Druid // Sorcery,{1}{G/W},0.008663624981852762,0.0017391161991485735
+Vindictive Triumph,rare,Instant,{W}{B}{B},0.01975087141273144,0.03933963769268675
+Warrior's Blades,uncommon,Artifact — Equipment,{2}{R}{W},0.031754074687195565,0.026509722445505805
+Whiplash Wordsmith,common,Creature — Vampire Sorcerer // Sorcery,{3}{B/R},-0.03350767945548601,-0.04459363618272247
+Woodwork Prodigy,uncommon,Creature — Cat Druid // Sorcery,{2}{R/G},-0.006919972450810967,-0.02097125282875095
+Afterthought Sentry,common,Artifact Creature — Gargoyle,{2},-0.016574206531970524,-0.0247088332862829
+Archive Arbiter,uncommon,Artifact Creature — Sphinx,{6},-0.0037815214972209705,-0.006027018797945772
+"Codie, Ravenous Codex",rare,Legendary Artifact Creature — Book Construct,{3},-0.007025402940156593,-0.032134288056492606
+The Echoverse Fulcrum,mythic,Legendary Artifact,{2},0.026705351290231674,0.04711874512022761
+Eye of Jace,uncommon,Artifact,{1},-0.010596445071376505,-0.00850028912334091
+Keeper of the Quiet Hour,common,Artifact Creature — Chimera,{3},-0.011677857085025186,0.006141931147551596
+Living Library,common,Artifact Creature — Book Illusion,{2},-0.020681972172800354,-0.023939164957742693
+Medic's Kitesail,common,Artifact — Equipment,{2},-0.025474625683506436,-0.03736926034770365
+Murmuring Volume,common,Artifact — Book,{3},-0.021274634051488838,-0.032583443409603716
+Dedicated Commons,common,Land,,-0.00901697810905056,-0.013280898867032561
+Deserted Beach,rare,Land,,0.004177771295796868,0.016246289931600752
+Fatehold Annex,common,Land,,0.000951492492183054,0.00023428037183204683
+Formidable Commons,common,Land,,-0.007195056280182679,-0.010408825754017038
+Hall of Echoes,rare,Land,,-0.0010048081956603155,0.009848140656205992
+Haunted Ridge,rare,Land,,-0.006014036513535265,-0.006093395302347392
+Hexhaven Dueling Arena,uncommon,Land,,-0.011826262947388746,-0.03306979659173341
+Innovative Commons,common,Land,,-0.003611434930962197,-0.01555536910443179
+Konstrari Annex,common,Land,,-0.010902719539693234,-0.01737396923519734
+Meticulous Commons,common,Land,,-0.0042021502125301055,-0.006315755385852266
+Overgrown Farmland,rare,Land,,0.005122345785068047,0.014427689800835213
+Rockfall Vale,rare,Land,,-0.0028439763704718175,-0.0013619596754286165
+Roiling Canopy,rare,Land,,-0.0066896263127348395,-0.00274503936470053
+Room of Refuge,common,Land,,-0.007887875735258088,-0.028665296728670374
+Shipwreck Marsh,rare,Land,,-0.0002546650428940328,0.007421783936517224
+Stingerquill Annex,common,Land,,-0.014358848256987468,-0.022105404862116117
+Theorist's Sanctum,rare,Land — Island,,-0.0032396540391624925,0.011369566790451828
+Theorix Annex,common,Land,,-0.0008686617870500729,-0.00859022562325149
+Transformative Commons,common,Land,,-0.00027793477740794734,-0.003858789996332723
+Vigorbloom Annex,common,Land,,-0.003707858607131624,-0.001584319758933498
+Ajani Resolute,mythic,Legendary Planeswalker — Ajani,{1}{W},0.04357668124062982,0.016407709130811906
+"Danitha, Sword of Hope",uncommon,Legendary Creature — Human Knight,{2}{W},-0.008916597390261778,-0.005387828220496367
+Ghalta the Immovable,uncommon,Legendary Creature — Elder Dinosaur,{8}{W},-0.00819404863544129,-0.03667278489087592
+Gideon's Memorial,rare,Legendary Artifact,{1}{W},0.004592449632173774,0.03915136811626361
+Koth of the Homestead,uncommon,Legendary Creature — Human Citizen,{2}{W},-0.00505378074041574,0.0030472203145185286
+Liliana the Faultless,rare,Legendary Creature — Human Cleric,{W},0.02517069508446601,0.03371516045513439
+"Lyra, Archangel of Dawn",rare,Legendary Creature — Angel Knight,{2}{W},0.032231107564496896,0.023687865651961244
+"Rescue Girl, First Responder",uncommon,Legendary Creature — Human Cleric,{2}{W},-0.011107899263124135,-0.006484203666860632
+"Saheeli, Consul of Oversight",uncommon,Legendary Creature — Human Advisor,{3}{W}{W},-0.005413342521911047,0.004476912336964924
+"Teyo, Lightshield Expert",uncommon,Legendary Creature — Human Cleric,{1}{W},0.0164054683131811,0.021043339940514928
+"Thalia, the Survivor",uncommon,Legendary Creature — Human Soldier,{3}{W},-0.0061822005561695224,0.006217235746704561
+"Tomik, Orzhov Lawmage",uncommon,Legendary Creature — Human Advisor,{1}{W},0.007102177758128836,0.013778392896120996
+Way of the Healer,uncommon,Legendary Enchantment,{3}{W},0.009805054547853596,0.012525422147093917
+Way of the Mentor,uncommon,Legendary Enchantment,{2}{W},0.011219886468289315,0.009197306480122111
+"Yoshimaru, Beloved Companion",uncommon,Legendary Creature — Dog,{2}{W},-0.01576480935495111,-0.018184664584639982
+"Yuriko, Blade of the Mighty",uncommon,Legendary Creature — Human Samurai,{3}{W},-0.014060246770533616,-0.008020596664525871
+"Arni, Humble Scribe",uncommon,Legendary Creature — Human Wizard,{2}{U},-0.003771338305430059,0.0030307640065386984
+"Chandra, Chill of Compliance",mythic,Legendary Planeswalker — Chandra,{1}{U}{U},0.031266406357038354,0.015004689573463586
+"Fblthp, Impossibly Lost",uncommon,Legendary Creature — Homunculus,{1}{U},-0.002934755621630277,-0.002477998345039849
+Geist of Saint Thalia,uncommon,Legendary Creature — Spirit Cleric,{1}{U},-0.00606601460610793,-0.001721038582343936
+"Hapatra, the Desert Frost",uncommon,Legendary Creature — Human Wizard,{3}{U},0.016645498519313368,0.011106926687110582
+"Jace, Reality Sculptor",rare,Legendary Planeswalker — Jace,{3}{U}{U},0.010505245905512644,0.03390596473949482
+"Lyra, Tolarian Archangel",rare,Legendary Creature — Angel Wizard,{1}{U}{U},0.031724582051545026,0.031022264616438238
+"Proft, Consulting Detective",uncommon,Legendary Creature — Human Detective,{1}{U},0.004214319455230631,-0.002330766989210932
+"Ruric Thar, Biomagus",uncommon,Legendary Creature — Ogre Crab Wizard,{4}{U}{U},-0.016997833682340695,-0.01718276308473855
+"Samut, Tyrant of Naktamun",rare,Legendary Creature — Human Wizard,{1}{U},0.010946355084612516,0.012744453685961771
+"Tetsuko Umezawa, Fugitive",uncommon,Legendary Creature — Human Rogue,{1}{U},0.001128482875605707,-0.007611065673162167
+"Traxos, Academy Guardian",uncommon,Legendary Artifact Creature — Dragon Construct,{3}{U},-0.02106080647247711,-0.022671585783200075
+Way of the Cryomancer,uncommon,Legendary Enchantment,{2}{U},0.0015126975253106688,0.004400454924822678
+Way of the Mind Sculptor,uncommon,Legendary Enchantment,{4}{U},0.00018756414134851968,0.002562725010583671
+"Yargle, Goliath of Otaria",uncommon,Legendary Creature — Frog Spirit,{4}{U},-0.015298452385171116,-0.01340024285986805
+"Yuriko, Hope from the Shadows",uncommon,Legendary Creature — Human Ninja,{U},0.024437302475753524,0.03123594840637519
+"Danitha, Spear of Agony",uncommon,Legendary Creature — Human Knight,{2}{B},-0.023531463488280682,-0.015377868169390874
+"Gallia, Tragic Host",uncommon,Legendary Creature — Zombie Satyr,{1}{B},-0.0057756496402556505,-0.009668944000102505
+"Garruk, Veiled Butcher",mythic,Legendary Planeswalker — Garruk,{3}{B}{B},0.062434499694353475,0.06188209209969484
+Gideon the Oathless,rare,Legendary Creature — Human Mercenary,{2}{B},0.007695738719956809,0.01120096017907824
+Liliana the Repentant,rare,Legendary Creature — Human Warlock,{1}{B},0.015115925523370616,0.012380244438883565
+"Loot, the Anomaly",uncommon,Legendary Creature — Beast Horror,{2}{B},-0.014653262505365906,-0.015156414969577535
+"Mabel, Bitter Recluse",uncommon,Legendary Creature — Mouse Warlock,{B},0.015931246511866715,0.015272587989209633
+"Massacre Girl, Most Wanted",uncommon,Legendary Creature — Human Assassin,{4}{B},-0.007045530378903326,-0.00245561590342067
+"Proft, Sinister Mastermind",uncommon,Legendary Creature — Human Rogue,{2}{B},-0.012964952359588063,0.005867734128595152
+"Teyo, Diamondblade Mage",uncommon,Legendary Creature — Human Warlock,{3}{B},0.006531879245241173,0.0055792896502179865
+"Tinybones, Pocket Nuisance",uncommon,Legendary Creature — Skeleton Rogue,{2}{B},0.008645413880158609,0.008740406446182231
+Way of the Deathbringer,uncommon,Legendary Enchantment,{2}{B},-0.01156277233006237,-0.008445934221988029
+Way of the Necromancer,uncommon,Legendary Enchantment,{1}{B},-0.007332256132409067,-0.006563047470920512
+"Winter, Tormented Loner",uncommon,Legendary Creature — Human Warlock,{2}{B},0.008580878183337979,0.00014805053740658217
+"Yargle, Glutton of Urborg",uncommon,Legendary Creature — Frog Spirit,{4}{B},-0.011419897058363798,-0.0029593977964271286
+Ajani Unrelenting,mythic,Legendary Planeswalker — Ajani,{4}{R}{R},0.07863035627451298,0.0971085010306236
+"Arni, Renowned Champion",uncommon,Legendary Creature — Human Berserker,{3}{R},-0.03381136847720318,-0.027318934060999826
+"Chandra, Torch of Defiance",mythic,Legendary Planeswalker — Chandra,{2}{R}{R},0.03888004340542957,0.03540584310677379
+"Gallia, the Merrymaker",uncommon,Legendary Creature — Satyr,{1}{R},-0.01519820750509855,-0.010395515767607917
+"Jiang Yanggu, Alone",uncommon,Legendary Creature — Human Berserker,{4}{R},-0.02039211244071043,-0.012003747241755664
+Kiora of Fire and Ashes,uncommon,Legendary Creature — Merfolk Noble,{4}{R}{R},0.013049498110928157,-0.0005560883674827106
+"Koth, the Geomancer",uncommon,Legendary Creature — Human Warrior,{2}{R},-0.027071289310527043,-0.018150355090798955
+"Marwyn, the Clearcutter",uncommon,Legendary Creature — Elf Warrior,{R},-0.006148731357012168,-0.012368036772423664
+"Pia, Determined Rebuilder",uncommon,Legendary Creature — Human Artificer,{2}{R},0.007888402122408105,0.0035986601334407438
+"Samut, Hazoret's Champion",rare,Legendary Creature — Human Warrior Cleric,{1}{R},-0.008763314942840376,-0.0027632042563256495
+"Tetsuko Umezawa, Pursuer",uncommon,Legendary Creature — Human Mercenary,{3}{R},-0.03398220012313703,-0.0353579198904436
+"Tomik, Izzet Sparkmage",uncommon,Legendary Creature — Human Wizard,{1}{R},-0.02467443836150999,-0.028843915411563954
+Way of the Pyromancer,uncommon,Legendary Enchantment,{1}{R},-0.008719305016278352,-0.015342631839007666
+Way of the Warlord,uncommon,Legendary Enchantment,{2}{R},0.003283681069143457,0.011693894462497077
+"Winter, Team Player",uncommon,Legendary Creature — Human Warrior,{4}{R},-0.02533285546538731,-0.015865563014698308
+"Edgar, Moonlit Sovereign",uncommon,Legendary Creature — Werewolf Noble,{3}{G}{G},-0.01660175063290482,-0.010589377244092256
+"Fblthp, Knows the Way",uncommon,Legendary Creature — Homunculus Scout,{X}{G}{G},0.02062474473089561,0.02394079237620537
+"Garruk, Curse Breaker",mythic,Legendary Planeswalker — Garruk,{3}{G}{G},0.05253026261461982,0.06012195118700404
+Ghalta the Unstoppable,uncommon,Legendary Creature — Elder Dinosaur,{8}{G},-0.027724902726328108,-0.022213681425867746
+"Jiang Yanggu, Never Alone",uncommon,Legendary Creature — Human Druid,{3}{G},0.006389144143505763,-0.002575943759534622
+"Loot, the Nexus",uncommon,Legendary Creature — Beast Noble,{2}{G},-0.008010557072088522,-0.011561011621965324
+"Marwyn, the Preserver",uncommon,Legendary Creature — Elf Druid,{1}{G},-0.0016029472637188484,-0.005613231399033523
+"Pia, Aether Ascetic",uncommon,Legendary Creature — Human Druid,{2}{G},0.0064808549985642255,0.004029279603021281
+"Ruric Thar, Magecrusher",uncommon,Legendary Creature — Ogre Warrior,{5}{G}{G},-0.0030966628368809535,-0.007094981704480087
+"Titanbones, Towering Heart",uncommon,Legendary Creature — Skeleton Druid,{3}{G},-0.008126535903530125,0.002089367676862621
+Way of the Paradox,uncommon,Legendary Enchantment,{2}{G},-0.0015620011432610503,0.005645712831755028
+Way of the Wildspeaker,uncommon,Legendary Enchantment,{4}{G},-0.002234825921639284,0.00858190849772972
+"Yoshimaru, Scrappy Stray",uncommon,Legendary Creature — Dog,{1}{G},0.016889916860777055,0.017033566509487053
+"Edgar, Ancient Bloodlord",uncommon,Legendary Creature — Vampire Noble,{W}{B},0.008706208273581912,0.009252372775957045
+"Hapatra, the Desert Fang",uncommon,Legendary Creature — Human Cleric,{2}{B}{B}{G},0.022327521171026578,0.017318488800784734
+"Karn, Gilded Guardian",rare,Legendary Artifact Creature — Golem,{2/W}{2/U}{2/B}{2/R}{2/G},0.015463503423956526,-0.004151303089858675
+Kiora of Salt and Sand,uncommon,Legendary Creature — Merfolk Noble,{1}{G}{U},0.007972343082227417,0.016419361314817988
+"Mabel, Valley Hero",uncommon,Legendary Creature — Mouse Soldier,{1}{R}{W},-0.013755265931043564,-0.013604368236892183
+"Saheeli, Jewel of Avishkar",uncommon,Legendary Creature — Human Artificer,{2}{U}{R},-0.014913762407273837,-0.008978335979968438
+"Tam, the Possibility",rare,Legendary Creature — Gorgon Wizard,{1}{G}{U},0.005463087156281948,0.01689980202186593
+"Vraska, Soul of Stone",rare,Legendary Creature — Gorgon Wizard,{U}{R}{W},0.00253761236471731,0.025774440632719747
+"Vraska, the Cutting Glare",rare,Legendary Creature — Gorgon Assassin,{B}{B}{G},0.04635891427458433,0.058146145898115315
+"Karn, Argent Defender",rare,Legendary Artifact Creature — Golem,{2},0.0019225350075597809,-0.007640644065622844
+"Traxos, Scourge Eternal",uncommon,Legendary Artifact Creature — Dragon Construct,{4},-0.0201162533405171,-0.016855381765830967
+Eye of Ugin,mythic,Legendary Land,,-0.006859002093600844,0.02789174906524589
+Austere Command,mythic,Sorcery,{4}{W}{W},0.042983046019145946,0.05066561220199257
+Flesh Duplicate,mythic,Creature — Shapeshifter Rebel,{U}{U},0.03202009559957865,0.03601032476718573
+Consign to Memory,mythic,Instant,{U},0.012994272932864348,0.03512077158623591
+Sublime Epiphany,mythic,Instant,{4}{U}{U},0.062351456880631345,0.07857803265765943
+Consider,mythic,Instant,{U},0.029526660457105742,0.028857187544943926
+Necrodominance,mythic,Legendary Enchantment,{B}{B}{B},-0.007278564772552823,0.001086805905338261
+Mind Twist,mythic,Sorcery,{X}{B},0.020343683331371265,0.03197923559104926
+Splinter Twin,mythic,Enchantment — Aura,{2}{R}{R},0.01932354433345684,0.015520866506545562
+Root Maze,mythic,Enchantment,{G},-0.007059224844233495,-0.003861564501877439

@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 out_hist*.log
 err_hist*.log
+data

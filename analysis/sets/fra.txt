@@ -1,0 +1,1183 @@
+#1 Emrakul, the Exigent Doom  [mythic]
+  Emrakul, the Exigent Doom {10} | Legendary Creature — Eldrazi 12/12
+    When you cast this spell, untap all lands you control.
+    Flying, trample
+    Ward—Sacrifice three permanents.
+    {3}, Exile this card from your hand: Target land gains "{T}: Add {C}{C}" until this card is cast from exile. You may cast this card for as long as it remains exiled.
+#2 Academic Ascent  [common]
+  Academic Ascent {1}{W} | Instant
+    Target creature gets +2/+2 and gains flying until end of turn.
+    Empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#3 Blossom-Blessed Angel // Seed Suture  [common]
+  Blossom-Blessed Angel {3}{W} | Creature — Angel Cleric 2/4
+    Flying, vigilance
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Seed Suture {G/W} | Sorcery
+    Put a +1/+1 counter on target creature. You gain 1 life.
+#4 Campus Crier  [common]
+  Campus Crier {1}{W} | Creature — Human Advisor 3/1
+    {1}, Exile this card from your graveyard: Empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#5 Enlightened Confidant  [mythic]
+  Enlightened Confidant {1}{W} | Creature — Kor Cleric 2/1
+    Lifelink
+    At the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.
+#6 Fateshaper Aspirant  [common]
+  Fateshaper Aspirant {4}{W} | Creature — Rhino Cleric 3/4
+    When this creature enters, choose one —
+    • Return target legendary card from your graveyard to your hand.
+    • Put a +1/+1 counter on target creature. It gains vigilance and indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+#7 Flickering Hound  [rare]
+  Flickering Hound {3}{W} | Creature — Dog 2/2
+    Whenever you cast a creature spell, exile up to one other target creature you control, then return that card to the battlefield under its owner's control.
+#8 Generous Revival  [uncommon]
+  Generous Revival {2}{W} | Sorcery
+    Return target creature card with mana value 3 or less from your graveyard to the battlefield with an additional +1/+1 counter on it.
+    Flashback {4}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+#9 Germinate Recruits  [rare]
+  Germinate Recruits {2}{W} | Instant
+    Create X 2/2 colorless Wizard Soldier creature tokens named Cadet, where X is the amount of life you gained this turn.
+#10 Graft Surgeon  [common]
+  Graft Surgeon {2}{W} | Creature — Human Cleric 2/2
+    This creature enters with a +1/+1 counter on it.
+    When this creature dies, put its counters on up to one target creature you control.
+#11 Guiding Hydra  [rare]
+  Guiding Hydra {X}{W} | Creature — Hydra Horror 1/0
+    This creature enters with X +1/+1 counters on it.
+    At the beginning of combat on your turn, you may remove a +1/+1 counter from this creature. If you do, put a +1/+1 counter on each other creature you control.
+#12 Hexhaven Battalion  [common]
+  Hexhaven Battalion {4}{W}{W} | Sorcery
+    Create three 2/2 colorless Wizard Soldier creature tokens named Cadet. Empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+#13 Kindred Judgment  [rare]
+  Kindred Judgment {5}{W}{W} | Sorcery
+    Choose a creature type. Destroy all creatures that aren't of the chosen type.
+#14 Loyal Tutor  [rare]
+  Loyal Tutor {W} | Instant
+    Search your library for a planeswalker card, reveal it, then shuffle and put that card on top.
+#15 Memory Trap  [common]
+  Memory Trap {2}{W} | Enchantment
+    When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+#16 Predictive Preparations  [common]
+  Predictive Preparations {1}{W} | Sorcery
+    Put a +1/+1 counter on each of one or two target creatures.
+    Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+#17 Prophesied End  [uncommon]
+  Prophesied End {1}{W} | Instant
+    Destroy target creature. If it wasn't attacking, its controller draws a card.
+#18 Refute Destiny  [uncommon]
+  Refute Destiny {1}{W} | Sorcery
+    Exile target creature or planeswalker that's green or blue. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+#19 Repurposed Enforcer  [rare]
+  Repurposed Enforcer {1}{W} | Creature — Human Soldier 3/2
+    Whenever this creature attacks, empower Jace X, where X is the number of creatures you control. (Put that many loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#20 Return to the Light Realms  [mythic]
+  Return to the Light Realms {7}{W}{W} | Sorcery
+    Return all nonland permanent cards from your graveyard to the battlefield.
+#21 Shatterwing Pegasus  [common]
+  Shatterwing Pegasus {2}{W} | Creature — Pegasus 2/3
+    Flying
+    {4}{W}: Creatures you control get +1/+1 until end of turn.
+#22 Surgical Precision  [common]
+  Surgical Precision {1}{W} | Sorcery
+    Choose one —
+    • Destroy target creature with toughness 4 or greater. You gain 1 life.
+    • You draw a card and gain 2 life.
+#23 Unflinching Hortimancer  [common]
+  Unflinching Hortimancer {1}{W} | Creature — Human Cleric 2/1
+    Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+    Whenever you gain life, put a +1/+1 counter on this creature.
+#24 Your Fate Ends Here  [uncommon]
+  Your Fate Ends Here {2}{W} | Instant
+    Destroy target creature or planeswalker with mana value 3 or greater. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+#25 Countersculpt  [uncommon]
+  Countersculpt {U}{U} | Instant
+    As an additional cost to cast this spell, behold a Jace or pay {1}. (To behold a Jace, choose a Jace you control or reveal a Jace card from your hand.)
+    Counter target spell. Empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#26 Cruel Calculations  [rare]
+  Cruel Calculations {2}{U} | Sorcery
+    Draw X cards, where X is the number of cards that were put into target player's graveyard from their library this turn.
+#27 Cryotheory Adept  [common]
+  Cryotheory Adept {1}{U} | Creature — Human Wizard 2/1
+    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+    {3}{U}, Exile this card from your graveyard: Tap target creature and put a stun counter on it. Activate only as a sorcery. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+#28 Diviner of Victory // Unwind History  [rare]
+  Diviner of Victory {U} | Creature — Dwarf Wizard 1/1
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    Whenever you scry or surveil, this creature gets +1/+1 until end of turn.
+  Unwind History {1}{U} | Sorcery
+    Return target creature an opponent controls with mana value 3 or less to its owner's hand. Surveil 1.
+#29 Divining Duelist  [common]
+  Divining Duelist {2}{U} | Creature — Merfolk Wizard 3/2
+    Flash
+    When this creature enters, choose one —
+    • Tap target creature.
+    • Untap target creature.
+    • Draw a card, then discard a card.
+#30 Icy Reception  [common]
+  Icy Reception {1}{U} | Instant
+    Choose one —
+    • Counter target creature or legendary spell unless its controller pays {3}.
+    • Target creature gets -5/-0 until end of turn.
+#31 Infinite Coursework  [common]
+  Infinite Coursework {2}{U} | Enchantment — Aura
+    Enchant creature
+    When this Aura enters, tap enchanted creature. It becomes unprepared.
+    Enchanted creature loses all abilities and doesn't untap during its controller's untap step.
+#32 Jace's Machinations  [rare]
+  Jace's Machinations {2}{U} | Instant
+    Until end of turn, you may activate loyalty abilities of Jace planeswalkers you control on any player's turn any time you could cast an instant.
+    Empower Jace 8. (Put eight loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#33 Mindseeker Oculus  [common]
+  Mindseeker Oculus {2}{U} | Creature — Homunculus 2/1
+    When this creature enters, empower Jace 4. (Put four loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#34 Perfected Theory  [uncommon]
+  Perfected Theory {U} | Instant
+    Choose one —
+    • Target creature has base power and toughness 1/1 until end of turn.
+    • Target creature has base power and toughness 4/5 until end of turn.
+#35 Plan for All Outcomes  [uncommon]
+  Plan for All Outcomes {3}{U} | Enchantment
+    When this enchantment enters, the owner of up to one other target nonland permanent puts it on their choice of the top or bottom of their library.
+    Whenever you cast your first noncreature spell each turn, empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#36 Precise Redaction  [uncommon]
+  Precise Redaction {1}{U} | Instant
+    Counter target white or black spell.
+#37 Protege's Awakening  [common]
+  Protege's Awakening {3}{U} | Sorcery
+    Empower Jace 6. (Put six loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Draw a card.
+#38 Seasoned Cryomancer  [mythic]
+  Seasoned Cryomancer {1}{U}{U} | Creature — Human Wizard 2/2
+    When this creature enters, draw two cards, then discard two cards. When you discard one or more nonland cards this way, tap up to that many target creatures and put a stun counter on each of them.
+    {3}{U}{U}, Exile this card from your graveyard: Draw two cards.
+#39 Semester Foreseer // Peer Review  [common]
+  Semester Foreseer {3}{U} | Creature — Human Wizard 3/4
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    When this creature enters, surveil 1.
+  Peer Review {2}{W/U} | Sorcery
+    Create a 2/2 colorless Wizard Soldier creature token named Cadet. Surveil 1.
+#40 Sphinx of False Conclusions  [rare]
+  Sphinx of False Conclusions {2}{U}{U} | Creature — Sphinx Illusion 4/2
+    Flash
+    Flying
+    Whenever this creature attacks, draw a card, then discard a card.
+    When this creature dies, if it isn't a token, create a token that's a copy of it.
+#41 Sphinx's Approach  [common]
+  Sphinx's Approach {1}{U}{U} | Instant
+    Draw two cards. Then you may exile this spell and four cards named Sphinx's Approach from your graveyard. If you do, search your library for a Sphinx creature card, put it onto the battlefield, then shuffle.
+    A deck can have any number of cards named Sphinx's Approach.
+#42 Surveillance Phantasm  [common]
+  Surveillance Phantasm {1}{U} | Creature — Bird Illusion 2/3
+    Defender, flying, vigilance
+    As long as you've scried or surveilled this turn, this creature can attack as though it didn't have defender.
+    {3}{U}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+#43 The Theorist, Jace Beleren  [mythic]
+  The Theorist, Jace Beleren {2}{U}{U} | Legendary Planeswalker — Jace loyalty 3
+    At the beginning of each opponent's draw step, you draw a card.
+    +1: Create a 1/1 blue Illusion creature token.
+    −2: For each opponent, return up to one target artifact or creature that player controls to its owner's hand.
+    −6: Draw three cards. Then put X +1/+1 counters on each creature you control, where X is the number of cards in your hand.
+#44 Theorist's Proxy  [rare]
+  Theorist's Proxy {1}{U} | Creature — Illusion 0/3
+    Flash
+    When this creature enters, empower Jace 3. (Put three loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    {U}, Sacrifice this creature: The next spell you cast this turn can't be countered.
+#45 Undulating Witness  [common]
+  Undulating Witness {4}{U} | Creature — Serpent 3/5
+    Flying
+    {2}: This creature gets +1/-1 until end of turn.
+    Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+#46 Unsummon  [common]
+  Unsummon {U} | Instant
+    Return target creature to its owner's hand.
+#47 Variable Chaser // Arc of Fortune  [rare]
+  Variable Chaser {2}{U} | Creature — Human Wizard 2/3
+    Flying, prowess
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Arc of Fortune {2}{U} | Sorcery
+    Each player may discard their hand and draw seven cards.
+#48 Apex Witchstalker  [common]
+  Apex Witchstalker {4}{B}{B} | Creature — Wolf 6/4
+    Menace (This creature can't be blocked except by two or more creatures.)
+    When this creature enters or dies, you gain 2 life.
+    Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+#49 Bloodline Recollector // Ancestral Craving  [mythic]
+  Bloodline Recollector {1}{B} | Creature — Vampire Warlock 2/2
+    At the beginning of each end step, if three or more creatures died this turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Ancestral Craving {B} | Instant
+    Target player draws three cards and loses 3 life.
+#50 Break Under Pressure  [uncommon]
+  Break Under Pressure {2}{B} | Instant
+    Target opponent sacrifices a creature or planeswalker with the greatest mana value among creatures and planeswalkers they control. You gain 2 life.
+#51 Cast Away Doubt  [common]
+  Cast Away Doubt {2}{B} | Sorcery
+    Draw two cards. Cast Away Doubt deals 2 damage to each player.
+#52 Dark Matter Manipulator  [rare]
+  Dark Matter Manipulator {B} | Creature — Human Warlock 1/2
+    When this creature enters, mill three cards.
+    This creature gets +2/+0 for every seven cards in your graveyard.
+#53 Darklight Phoenix  [mythic]
+  Darklight Phoenix {3}{B} | Creature — Phoenix 3/2
+    Flying, haste
+    At the beginning of combat on your turn, if two or more creatures died this turn, return this card from your graveyard to the battlefield.
+#54 Extended Absence  [common]
+  Extended Absence {3}{B} | Instant
+    Exile target creature or planeswalker. Extended Absence deals 1 damage to each opponent and you gain 1 life.
+#55 Extrapolate the Impossible  [rare]
+  Extrapolate the Impossible {1}{B} | Sorcery
+    You may reveal exactly two cards you own with different names from outside the game. An opponent chooses one of them. You put that card into your hand.
+#56 Last Gasp  [common]
+  Last Gasp {1}{B} | Instant
+    Target creature gets -3/-3 until end of turn.
+#57 Lich's Relic  [rare]
+  Lich's Relic {B} | Artifact — Equipment
+    When this Equipment enters, you may pay {2}. When you do, for each opponent, destroy up to one target creature or planeswalker that player controls.
+    Equipped creature gets +2/+1.
+    Equip {2}
+#58 Multiply by Zero  [uncommon]
+  Multiply by Zero {1}{B} | Instant
+    Target creature has base power and toughness 0/0 until end of turn.
+#59 Overwrite the Multiverse  [mythic]
+  Overwrite the Multiverse {4}{B}{B} | Sorcery
+    Exile all creatures. Empower Jace X, where X is the number of creatures exiled this way. (Put that many loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#60 Rampart Hunter  [common]
+  Rampart Hunter {3}{B} | Creature — Horror 3/3
+    Deathtouch
+    When this creature enters, target creature gets +2/+2 and gains deathtouch until end of turn.
+#61 Rank Rat  [common]
+  Rank Rat {1}{B} | Creature — Zombie Rat 1/1
+    When this creature enters, each opponent discards a card.
+#62 Rewrite Regrets  [uncommon]
+  Rewrite Regrets {3}{B} | Sorcery
+    Return target creature or planeswalker card with mana value 6 or less from your graveyard to the battlefield.
+    Empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#63 Rise of the Deathbringer  [rare]
+  Rise of the Deathbringer {4}{B} | Instant
+    Choose one —
+    • Draw cards equal to the greatest power among creatures you control. You lose life equal to the number of cards drawn this way.
+    • All creatures get -3/-3 until end of turn.
+#64 Sanctum Lurker  [rare]
+  Sanctum Lurker {2}{B} | Creature — Horror 3/2
+    When this creature enters, empower Jace 1.
+    Planeswalkers you control aren't put into their owners' graveyards for having 0 loyalty.
+    Planeswalkers you control have "[+2]: This planeswalker deals 1 damage to each opponent and you gain 1 life."
+#65 Screeching Soulbreaker  [common]
+  Screeching Soulbreaker {2}{B} | Creature — Siren Bard 1/4
+    Flying
+    Whenever this creature attacks, it deals 1 damage to each opponent and you gain 1 life.
+#66 Silence the Echo  [common]
+  Silence the Echo {1}{B} | Sorcery
+    As an additional cost to cast this spell, sacrifice a creature or planeswalker or pay {3}.
+    Destroy target creature or planeswalker.
+#67 Solve for Disappointment  [common]
+  Solve for Disappointment {1}{B} | Sorcery
+    Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.
+    Empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#68 Terminal Criticism  [uncommon]
+  Terminal Criticism {1}{B} | Instant
+    Destroy target creature or planeswalker that's blue or red. You gain 1 life.
+#69 Theoretical Necromancer  [common]
+  Theoretical Necromancer {2}{B} | Creature — Vampire Warlock 4/1
+    {3}{B}, Exile this card from your graveyard: Return another target creature card from your graveyard to your hand.
+#70 Void Extrapolator // Omit Variables  [common]
+  Void Extrapolator {1}{B} | Creature — Aetherborn Warlock 2/2
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    Threshold — This creature gets +1/+1 as long as there are seven or more cards in your graveyard.
+  Omit Variables {U/B} | Sorcery
+    Mill three cards. (Put the top three cards of your library into your graveyard.)
+#71 Vraska's Final Mercy  [rare]
+  Vraska's Final Mercy {B}{B} | Sorcery
+    Choose one —
+    • You lose 2 life. Destroy target creature or planeswalker.
+    • You lose 2 life. Empower Jace 6. (Put six loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#72 Ajani's Anguish  [rare]
+  Ajani's Anguish {X}{R} | Enchantment
+    When this enchantment enters, it deals X damage to any target.
+    Creatures you control have trample.
+#73 Artifist Acumen  [common]
+  Artifist Acumen {R} | Sorcery
+    Creatures you control gain first strike until end of turn.
+    Draw a card.
+#74 Awaken the Inferno  [common]
+  Awaken the Inferno {4}{R} | Sorcery
+    Awaken the Inferno deals 6 damage to target creature or planeswalker an opponent controls. Put a +1/+1 counter on up to one target creature you control.
+    Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+#75 Blazing Crescendo  [common]
+  Blazing Crescendo {1}{R} | Instant
+    Target creature gets +3/+1 until end of turn.
+    Exile the top card of your library. Until the end of your next turn, you may play that card.
+#76 Chandra's Emberling  [common]
+  Chandra's Emberling {2}{R} | Creature — Gremlin Elemental 2/2
+    Haste
+    Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+#77 Command the Stage  [uncommon]
+  Command the Stage {2}{R} | Sorcery
+    Create a 2/2 colorless Wizard Soldier creature token named Cadet, then put a +1/+1 counter on each other Wizard token you control.
+    At the beginning of each upkeep, if an opponent was dealt noncombat damage last turn, return this card from your graveyard to your hand.
+#78 Craterclaw Colossus  [mythic]
+  Craterclaw Colossus {4}{R}{R}{R} | Artifact Creature — Beast Construct 5/5
+    Haste
+    When this creature enters, creatures you control gain trample and get +X/+0 until end of turn, where X is the number of artifacts you control.
+#79 Curse-Marred Demon  [rare]
+  Curse-Marred Demon {2}{R}{R} | Creature — Demon 4/4
+    Flying, trample
+    When this creature enters, search your library for a card, put it into your hand, shuffle, then discard a card at random.
+#80 Draconic Visitor  [rare]
+  Draconic Visitor {3}{R}{R} | Creature — Dragon 5/5
+    Flying
+    If one or more artifact tokens would be created under your control, that many 5/5 red Dragon creature tokens with flying are created instead.
+#81 Eardrum Rattler  [common]
+  Eardrum Rattler {1}{R} | Creature — Human Bard 2/2
+    {1}, {T}: Another target creature you control with power 2 or less can't be blocked this turn.
+#82 Essence Burn  [uncommon]
+  Essence Burn {1}{R} | Instant
+    Essence Burn deals 5 damage to target black or green creature or planeswalker. If that permanent would die this turn, exile it instead.
+#83 Face Yourself  [rare]
+  Face Yourself {5}{R}{R} | Sorcery
+    For each creature target player controls, create a token that's a copy of that creature, except it has haste and "At the beginning of the end step, if you don't control a planeswalker, sacrifice this creature."
+#84 Fulminous Forte  [uncommon]
+  Fulminous Forte {2}{R} | Instant
+    Choose one —
+    • Fulminous Forte deals 1 damage to each creature and planeswalker your opponents control.
+    • Fulminous Forte deals 5 damage to target creature or planeswalker.
+#85 Hallway Heckler // Vicious Verse  [common]
+  Hallway Heckler {2}{R} | Creature — Elemental Sorcerer 2/3
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    {T}, Discard a card: Draw a card.
+  Vicious Verse {B/R} | Sorcery
+    Vicious Verse deals 1 damage to target opponent.
+#86 Heartstring Puller  [common]
+  Heartstring Puller {3}{R} | Creature — Elf Sorcerer 3/1
+    Trample
+    When this creature enters, create a 2/2 colorless Wizard Soldier creature token named Cadet.
+#87 Identity Echo  [rare]
+  Identity Echo {2}{R} | Enchantment
+    {3}{R}: Exile target creature or planeswalker you control. Reveal cards from the top of your library until you reveal a creature or planeswalker card. Put that card onto the battlefield and the rest on the bottom of your library in a random order. Activate only as a sorcery.
+#88 Master of Barbs  [rare]
+  Master of Barbs {1}{R} | Creature — Lizard Bard 2/1
+    Menace
+    Whenever one or more opponents are dealt noncombat damage, creatures you control get +1/+0 until end of turn.
+#89 No Admittance  [common]
+  No Admittance {1}{R} | Sorcery
+    No Admittance deals 3 damage to any target.
+    Empower Jace 1. (Put a loyalty counter on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#90 Pompous Battlemage // Improvised Act  [rare]
+  Pompous Battlemage {R} | Creature — Goblin Sorcerer 1/1
+    Prowess
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Improvised Act {R} | Sorcery
+    You may discard a card. If you do, draw a card.
+#91 Pyre Rhymer // Molten Tide  [rare]
+  Pyre Rhymer {1}{R}{R} | Creature — Elemental Sorcerer 3/3
+    Prowess
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Molten Tide {R} | Instant
+    Until end of turn, whenever you tap a Mountain for mana, add an additional {R}.
+#92 Skilled Battlecarver  [common]
+  Skilled Battlecarver {1}{R} | Creature — Human Warrior 2/1
+    During your turn, this creature has first strike.
+    {1}{R}: This creature gets +1/+0 until end of turn.
+#93 Stingcaster Mage  [mythic]
+  Stingcaster Mage {1}{R} | Creature — Human Wizard 2/1
+    Haste
+    When this creature enters, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+#94 Tether Technician  [common]
+  Tether Technician {4}{R} | Creature — Minotaur Artificer 4/5
+    Reach
+    When this creature enters, you may discard a card. When you do, this creature deals 2 damage to any target.
+#95 Violent Echoes  [uncommon]
+  Violent Echoes {2}{R}{R} | Instant
+    Violent Echoes deals 6 damage to target creature or planeswalker. If excess damage was dealt to that permanent this way, empower Jace X, where X is that excess damage. (Put that many loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#96 Wrath of the Bloodmane  [common]
+  Wrath of the Bloodmane {2}{R} | Instant
+    This spell costs {1} less to cast if you control a legendary creature.
+    Wrath of the Bloodmane deals 4 damage to target creature or planeswalker.
+#97 Arcane Amphisbaena  [common]
+  Arcane Amphisbaena {1}{G} | Creature — Snake 1/1
+    Deathtouch
+    When this creature enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#98 Bestial Incursion  [common]
+  Bestial Incursion {3}{G} | Sorcery
+    Create a 4/4 green Beast creature token with trample.
+    Flashback {5}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+#99 Budding Insurgent  [common]
+  Budding Insurgent {2}{G} | Creature — Dryad Scout 3/3
+    Vigilance
+    Sacrifice this creature: Destroy target artifact or enchantment. If that permanent was a legendary enchantment, draw a card. Activate only as a sorcery.
+#100 Carnivorous Cultivator // Enroot  [rare]
+  Carnivorous Cultivator {1}{G} | Creature — Elf Warlock 2/3
+    Deathtouch
+    This creature enters prepared.
+    Whenever this creature deals combat damage to a player, return target land card from your graveyard to your hand.
+  Enroot {G} | Sorcery
+    Search your library for a land card, put it into your graveyard, then shuffle.
+#101 Compel Brutality  [common]
+  Compel Brutality {1}{G} | Instant
+    Choose one —
+    • Target creature you control deals damage equal to its power to target creature or planeswalker an opponent controls.
+    • Target planeswalker you control deals damage equal to its loyalty to target creature or planeswalker an opponent controls.
+#102 Flourishing Grapple  [uncommon]
+  Flourishing Grapple {G} | Instant
+    Target creature or planeswalker an opponent controls that's red or white loses all abilities until end of turn. Target creature you control deals damage equal to its power to that permanent.
+#103 Gardenize  [rare]
+  Gardenize {1}{G}{G} | Enchantment
+    Whenever a creature you control dies, put a charge counter on this enchantment.
+    At the beginning of your first main phase, add {G} for each charge counter on this enchantment.
+#104 Greenhouse Propagator  [common]
+  Greenhouse Propagator {2}{G} | Creature — Cat Druid 2/3
+    Whenever another creature you control enters, you gain 1 life.
+    {T}: Add {G}.
+#105 Heartwood Crafter // Soul Tether  [uncommon]
+  Heartwood Crafter {G} | Creature — Elf Artificer 1/1
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    {T}: Add {C}. This mana can't be spent to cast spells from your hand.
+  Soul Tether {2}{R/G} | Sorcery
+    Create a Heartwood token. (It's a red and green artifact with "{T}: Add {R} or {G}.")
+#106 Hexhaven Invigorator  [mythic]
+  Hexhaven Invigorator {G}{G}{G}{G} | Creature — Chimera Horror 6/6
+    Vigilance
+    Whenever this creature is dealt damage, you may search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle.
+#107 Hungering Puppetbeast  [rare]
+  Hungering Puppetbeast {3}{G}{G} | Artifact Creature — Beast Construct 5/5
+    When this creature enters, create a Heartwood token. (It's a red and green artifact with "{T}: Add {R} or {G}.")
+    {1}, Sacrifice another artifact: Put a +1/+1 counter on this creature. It gains your choice of trample, hexproof, or haste until end of turn.
+#108 Hunter's Axe  [uncommon]
+  Hunter's Axe {G} | Artifact — Equipment
+    Equipped creature gets +2/+0 and has "Whenever this creature attacks, it gains your choice of trample or deathtouch until end of turn."
+    Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+#109 Inspired Tethermage  [common]
+  Inspired Tethermage {2}{G} | Creature — Elf Warrior 3/2
+    Whenever you put one or more loyalty counters on a planeswalker, put a +1/+1 counter on this creature.
+    {6}: Empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#110 Omnipresence  [mythic]
+  Omnipresence {5}{G}{G}{G} | Enchantment
+    You may cast spells with mana value less than or equal to the number of creatures you control from your hand without paying their mana costs.
+#111 Puppet Crafting  [rare]
+  Puppet Crafting {1}{G} | Enchantment — Aura
+    Enchant artifact or non-Aura enchantment
+    Enchanted permanent is a Construct creature with base power and toughness 5/5 in addition to its other types.
+    {4}{G}: Return this card from your graveyard to your hand.
+#112 Restore with Empathy  [uncommon]
+  Restore with Empathy {2}{G} | Instant
+    Return target permanent card from your graveyard to your hand. You gain 4 life.
+#113 Simulacrum Shaper  [rare]
+  Simulacrum Shaper {1}{G}{G} | Creature — Elf Druid 2/2
+    When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+    When this creature dies, draw a card.
+#114 Something Worth Saving  [common]
+  Something Worth Saving {1}{G} | Instant
+    Mill four cards. You may put a permanent card from among them into your hand. You gain 1 life. (To mill four cards, put the top four cards of your library into your graveyard.)
+#115 Sureshot Sower  [common]
+  Sureshot Sower {1}{G} | Creature — Human Archer 3/1
+    Reach
+    {3}{G}, Discard this card: Destroy target creature with flying.
+#116 Tarmogoyf  [mythic]
+  Tarmogoyf {1}{G} | Creature — Lhurgoyf */1+*
+    Tarmogoyf's power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+#117 Tethermage's Advantage  [common]
+  Tethermage's Advantage {G} | Instant
+    Target creature gets +2/+2 and gains reach until end of turn. Untap it.
+#118 Verdant Kraken  [rare]
+  Verdant Kraken {4}{G}{G}{G} | Creature — Plant Kraken 6/6
+    At the beginning of each player's upkeep, you create a 3/3 green Forest Tentacle land creature token. (It has "{T}: Add {G}." It's affected by summoning sickness until your next turn.)
+#119 Vinelasher Adept  [common]
+  Vinelasher Adept {4}{G}{G} | Creature — Rhino Soldier 2/4
+    Reach
+    When this creature enters, put three +1/+1 counters on target creature.
+    Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+#120 Wrecking Gecko  [common]
+  Wrecking Gecko {4}{G} | Artifact Creature — Lizard Construct 5/5
+    Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+    {6}{G}{G}: This creature gets +4/+4 and gains trample until end of turn.
+#121 Aerid Konstrari  [mythic]
+  Aerid Konstrari {1}{R}{G}{G} | Legendary Creature — Elder Sphinx 5/4
+    Flying
+    When Aerid Konstrari enters or dies, create a Heartwood token. (It's a red and green artifact with "{T}: Add {R} or {G}.")
+    {6}: Create a Heartwood token. Then Aerid Konstrari gets +X/+0 until end of turn, where X is the number of artifacts you control.
+#122 Avatar of Burgeoning Echoes  [mythic]
+  Avatar of Burgeoning Echoes {G}{U} | Creature — Avatar 2/3
+    Landfall — Whenever a land you control enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−10]: Put a +1/+1 counter on target creature for each land you control."
+#123 Blessed Ghoul  [common]
+  Blessed Ghoul {W/B} | Creature — Zombie Cleric 1/1
+    Lifelink
+    {2}{W/B}: Return this card from your graveyard to your hand.
+#124 Bloombrute  [uncommon]
+  Bloombrute {2}{G}{W} | Creature — Plant Elemental 4/4
+    Whenever you gain life, draw a card. This ability triggers only once each turn.
+    {4}{G}{W}: Target creature gains trample and lifelink until end of turn.
+#125 Charge the Sanctum  [common]
+  Charge the Sanctum {2}{R/W} | Instant
+    Choose one —
+    • Creatures you control get +2/+0 until end of turn.
+    • Target creature gets +2/+0 and gains first strike until end of turn. Put a +1/+1 counter on it.
+#126 Clash of Elements  [uncommon]
+  Clash of Elements {1}{U}{R} | Instant
+    Choose target nonland permanent. Its owner may put it on top of their library. If they do, Clash of Elements deals 2 damage to them. If they didn't put the card on top of their library, they put it on the bottom.
+#127 Craftwork Crusher  [uncommon]
+  Craftwork Crusher {3}{R}{R}{G}{G} | Artifact Creature — Boar Construct 7/5
+    Trample
+    When this creature enters, choose two —
+    • This creature deals 4 damage to target creature or planeswalker.
+    • Create a 2/2 colorless Wizard Soldier creature token named Cadet.
+    • Draw a card.
+#128 Denzilore Fatehold  [mythic]
+  Denzilore Fatehold {1}{W}{U}{U} | Legendary Creature — Elder Sphinx 3/4
+    Flash
+    Flying
+    Whenever you scry or surveil, put a +1/+1 counter on each creature you control.
+#129 Desperate Futurescribe  [uncommon]
+  Desperate Futurescribe {2}{W}{U} | Creature — Kor Scout 3/4
+    Flying
+    At the beginning of combat on your turn, another target creature you control gets +1/+1 until end of turn. If you've scried or surveilled this turn, put a +1/+1 counter on that creature instead.
+#130 Emergency Phytomedic // Seed Suture  [common]
+  Emergency Phytomedic {G/W} | Creature — Dryad Cleric 1/1
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Seed Suture {G/W} | Sorcery
+    Put a +1/+1 counter on target creature. You gain 1 life.
+#131 Entrust the Spark  [rare]
+  Entrust the Spark {3}{G}{U} | Sorcery
+    You may sacrifice a planeswalker. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle.
+#132 Fatehold Charm  [uncommon]
+  Fatehold Charm {W}{U} | Instant
+    Choose one —
+    • Draw a card. Empower Jace 2.
+    • Return target spell or creature to its owner's hand.
+    • Creatures you control get +1/+2 until end of turn.
+#133 Fatehold Chronologist // Peer Review  [common]
+  Fatehold Chronologist {1}{W/U} | Creature — Bird Wizard 1/2
+    Flying
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Peer Review {2}{W/U} | Sorcery
+    Create a 2/2 colorless Wizard Soldier creature token named Cadet. Surveil 1.
+#134 Ferocity of the Hunt  [common]
+  Ferocity of the Hunt {1}{B/G} | Enchantment — Aura
+    Flash
+    Enchant creature
+    Enchanted creature gets +1/+0 and has deathtouch.
+    When enchanted creature dies, return that card to the battlefield tapped under its owner's control.
+#135 Frostbite Pyromental  [rare]
+  Frostbite Pyromental {U}{R}{R} | Creature — Elemental 4/4
+    Trample, haste
+    Whenever this creature deals combat damage to a player, draw two cards.
+    At the beginning of the end step, sacrifice this creature.
+#136 Grim Repriser  [uncommon]
+  Grim Repriser {B}{R} | Creature — Zombie Bard 2/2
+    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+    {B}{R}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if an opponent has been dealt noncombat damage this turn. (If a creature with a finality counter on it would die, exile it instead.)
+#137 Ingris Stingerquill  [mythic]
+  Ingris Stingerquill {B}{R}{R} | Legendary Creature — Elder Sphinx 1/4
+    Flying
+    Whenever a creature you control attacks, that creature deals 1 damage to each opponent.
+    {4}: Create a 2/2 colorless Wizard Soldier creature token named Cadet. Then creatures you control gain haste until end of turn.
+#138 Konstrari Charm  [uncommon]
+  Konstrari Charm {R}{G} | Instant
+    Choose one —
+    • Konstrari Charm deals 6 damage to target creature with flying.
+    • Put two +1/+1 counters on target creature. It gains trample until end of turn.
+    • Add {C}{C}{C}.
+#139 Konstrari Improviser // Soul Tether  [common]
+  Konstrari Improviser {1}{R/G} | Creature — Human Artificer 2/2
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Soul Tether {2}{R/G} | Sorcery
+    Create a Heartwood token. (It's a red and green artifact with "{T}: Add {R} or {G}.")
+#140 Kwia Vigorbloom  [mythic]
+  Kwia Vigorbloom {3}{G}{W}{W} | Legendary Creature — Elder Sphinx 6/6
+    Flying, vigilance, lifelink, ward {2}
+    Whenever you gain life, create a colorless artifact token named Lotus with "{T}, Sacrifice this token: Add three mana of any one color." This ability triggers only once each turn.
+#141 Mind Meanderer  [uncommon]
+  Mind Meanderer {3}{G}{U}{U} | Creature — Bird Fish Illusion 4/4
+    Flying
+    This creature has vigilance as long as you control a Jace planeswalker.
+    When this creature enters, it fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+#142 Null Summoner  [rare]
+  Null Summoner {2}{U}{B} | Creature — Human Warlock 4/2
+    When this creature enters, if you cast it, target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+    Threshold — As long as there are seven or more cards in your graveyard, you may cast the exiled card, and mana of any type can be spent to cast that spell.
+#143 Paradox Shaper // Omit Variables  [uncommon]
+  Paradox Shaper {1}{U/B} | Creature — Octopus Wizard 1/3
+    At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared.
+    {2}: Put target card from your graveyard on the bottom of your library.
+  Omit Variables {U/B} | Sorcery
+    Mill three cards. (Put the top three cards of your library into your graveyard.)
+#144 Primal Witchstalker  [uncommon]
+  Primal Witchstalker {1}{B}{G} | Creature — Wolf 2/1
+    Menace (This creature can't be blocked except by two or more creatures.)
+    When this creature enters, mill four cards. When you do, return target land card from your graveyard to the battlefield tapped. (To mill four cards, put the top four cards of your library into your graveyard.)
+#145 Proctor of Potential  [rare]
+  Proctor of Potential {W}{U} | Creature — Human Cleric 3/1
+    Whenever this creature or another creature you control enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    {W}{U}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only if you've scried or surveilled this turn. (If a creature with a finality counter on it would die, exile it instead.)
+#146 Prudent Fateseer // Peer Review  [uncommon]
+  Prudent Fateseer {1}{W/U}{W/U} | Creature — Dwarf Wizard 1/4
+    This creature enters prepared.
+    Whenever you scry or surveil, creatures you control get +1/+0 until end of turn. This ability triggers only once each turn.
+  Peer Review {2}{W/U} | Sorcery
+    Create a 2/2 colorless Wizard Soldier creature token named Cadet. Surveil 1.
+#147 Recursive Recruitment  [uncommon]
+  Recursive Recruitment {2}{U}{B} | Sorcery
+    Create two 2/2 colorless Wizard Soldier creature tokens named Cadet. If this spell was cast from a graveyard, put a +1/+1 counter on each of them for every three cards in your graveyard.
+    Flashback {6}{U}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+#148 Solarium Sentry  [rare]
+  Solarium Sentry {G}{W} | Creature — Cat Soldier 3/3
+    Whenever an opponent casts a spell with mana value 2 or less, you gain 2 life.
+#149 Solitary Cell  [rare]
+  Solitary Cell {R}{W} | Artifact
+    When this artifact enters, exile target nonland permanent an opponent controls with mana value 3 or less until this artifact leaves the battlefield.
+    {1}, {T}, Discard a legendary card: Draw a card.
+#150 Stingerquill Charm  [uncommon]
+  Stingerquill Charm {B}{R} | Instant
+    Choose one —
+    • Stingerquill Charm deals 3 damage to any target.
+    • Target creature gains first strike and deathtouch until end of turn.
+    • Create a 2/2 colorless Wizard Soldier creature token named Cadet. It gains haste until end of turn.
+#151 Stingerquill Voxmancer // Vicious Verse  [uncommon]
+  Stingerquill Voxmancer {B/R} | Creature — Goblin Sorcerer 1/2
+    At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Vicious Verse {B/R} | Sorcery
+    Vicious Verse deals 1 damage to target opponent.
+#152 Stinging Vitriol  [rare]
+  Stinging Vitriol {B}{R} | Sorcery
+    Stinging Vitriol deals 2 damage to target opponent. That player reveals their hand. You choose a nonland card from it. They discard that card.
+#153 Tam's Resistance  [common]
+  Tam's Resistance {1}{G/U} | Sorcery
+    Put a +1/+1 counter on up to one target creature. It gains vigilance until end of turn.
+    Empower Jace 4. (Put four loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#154 Tenured Tethermage  [rare]
+  Tenured Tethermage {1}{R}{G} | Creature — Human Artificer 1/1
+    When this creature enters, you may sacrifice a land. If you do, create two tapped Heartwood tokens. (They're red and green artifacts with "{T}: Add {R} or {G}.")
+    Tap two untapped artifacts you control: Put two +1/+1 counters on this creature.
+#155 Theorix Charm  [uncommon]
+  Theorix Charm {U}{B} | Instant
+    Choose one —
+    • Counter target noncreature spell unless its controller pays {2}.
+    • Target creature gets -2/-2 until end of turn.
+    • Mill three cards, then draw a card. (To mill three cards, put the top three cards of your library into your graveyard.)
+#156 Theorix Metamage // Omit Variables  [common]
+  Theorix Metamage {2}{U/B} | Creature — Shade Wizard 2/3
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    Threshold — This creature gets +1/+0 and has flying as long as there are seven or more cards in your graveyard.
+  Omit Variables {U/B} | Sorcery
+    Mill three cards. (Put the top three cards of your library into your graveyard.)
+#157 Twinned Vision  [common]
+  Twinned Vision {1}{U/R} | Instant
+    Draw a card. If this spell wasn't cast from your hand, draw two cards instead.
+    Flashback—{1}{U/R}{U/R}, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+#158 Twisted Fates  [uncommon]
+  Twisted Fates {2}{W}{W}{B} | Sorcery
+    Destroy target nonland permanent. Put a +1/+1 counter on each creature target player controls.
+#159 Uldaros Theorix  [mythic]
+  Uldaros Theorix {3}{U}{B}{B} | Legendary Creature — Elder Sphinx 5/5
+    Flying
+    When Uldaros Theorix enters, if you cast him, exile up to one target nonland card of each card type from your graveyard. Copy those cards. You may cast any number of spells with total mana value 6 or less from among the copies without paying their mana costs. (Permanent spells cast this way become tokens.)
+#160 Vigorbloom Charm  [uncommon]
+  Vigorbloom Charm {G}{W} | Instant
+    Choose one —
+    • Target permanent you control gains hexproof and indestructible until end of turn.
+    • You draw a card and gain 3 life.
+    • Put a +1/+1 counter on target creature you control. Then it fights target creature an opponent controls. (Each deals damage equal to its power to the other.)
+#161 Vigorbloom Vanguard // Seed Suture  [uncommon]
+  Vigorbloom Vanguard {1}{G/W} | Creature — Troll Druid 2/2
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    Each creature you control with a +1/+1 counter on it has vigilance.
+  Seed Suture {G/W} | Sorcery
+    Put a +1/+1 counter on target creature. You gain 1 life.
+#162 Vindictive Triumph  [rare]
+  Vindictive Triumph {W}{B}{B} | Instant
+    Exile target creature or planeswalker. If that permanent's mana value was 3 or less, return it to the battlefield tapped under your control. Exile it at the beginning of the next end step.
+#163 Warrior's Blades  [uncommon]
+  Warrior's Blades {2}{R}{W} | Artifact — Equipment
+    When this Equipment enters, it deals 3 damage to any target and you gain 3 life.
+    Equipped creature gets +2/+1.
+    Equip {3}. This ability costs {1} less to activate for each +1/+1 counter on the creature it targets.
+#164 Whiplash Wordsmith // Vicious Verse  [common]
+  Whiplash Wordsmith {3}{B/R} | Creature — Vampire Sorcerer 3/3
+    This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+    As long as an opponent was dealt noncombat damage this turn, this creature has flying and haste.
+  Vicious Verse {B/R} | Sorcery
+    Vicious Verse deals 1 damage to target opponent.
+#165 Woodwork Prodigy // Soul Tether  [uncommon]
+  Woodwork Prodigy {2}{R/G} | Creature — Cat Druid 3/3
+    At the beginning of your upkeep, if this creature isn't prepared, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  Soul Tether {2}{R/G} | Sorcery
+    Create a Heartwood token. (It's a red and green artifact with "{T}: Add {R} or {G}.")
+#166 Afterthought Sentry  [common]
+  Afterthought Sentry {2} | Artifact Creature — Gargoyle 2/2
+    {2}: This creature gains flying until end of turn.
+    Whenever this creature attacks, exile up to one target card from a graveyard.
+#167 Archive Arbiter  [uncommon]
+  Archive Arbiter {6} | Artifact Creature — Sphinx 4/4
+    Flying
+    When this creature enters, choose one —
+    • Destroy target noncreature, nonland permanent.
+    • You gain 4 life.
+#168 Codie, Ravenous Codex  [rare]
+  Codie, Ravenous Codex {3} | Legendary Artifact Creature — Book Construct 1/4
+    Whenever you cast a prepared spell, copy it. You may choose new targets for the copy.
+    {W}{U}{B}{R}{G}, {T}: Each creature you control becomes prepared. (Only creatures with prepare spells can become prepared.)
+#169 The Echoverse Fulcrum  [mythic]
+  The Echoverse Fulcrum {2} | Legendary Artifact
+    When The Echoverse Fulcrum enters, draw a card, then discard a card.
+    {5}, {T}, Exile The Echoverse Fulcrum: Destroy all creatures. Activate only as a sorcery.
+#170 Eye of Jace  [uncommon]
+  Eye of Jace {1} | Artifact
+    At the beginning of your upkeep, surveil 1. Then if there are seven or more cards in your graveyard, sacrifice this artifact, it deals 2 damage to each opponent, and you gain 2 life. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)
+#171 Keeper of the Quiet Hour  [common]
+  Keeper of the Quiet Hour {3} | Artifact Creature — Chimera 3/2
+    When this creature enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+#172 Living Library  [common]
+  Living Library {2} | Artifact Creature — Book Illusion 0/4
+    {6}, Sacrifice this creature: Choose target creature or planeswalker an opponent controls. Its owner shuffles it into their library.
+#173 Medic's Kitesail  [common]
+  Medic's Kitesail {2} | Artifact — Equipment
+    Equipped creature gets +1/+0 and has flying and "Whenever this creature attacks, you gain 1 life."
+    Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+#174 Murmuring Volume  [common]
+  Murmuring Volume {3} | Artifact — Book
+    {T}: Add one mana of any color.
+    {2}, {T}, Discard a card: Draw a card.
+#175 Dedicated Commons  [common]
+  Dedicated Commons  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {R} or {W}.
+#176 Deserted Beach  [rare]
+  Deserted Beach  | Land
+    This land enters tapped unless you control two or more other lands.
+    {T}: Add {W} or {U}.
+#177 Fatehold Annex  [common]
+  Fatehold Annex  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {W} or {U}.
+#178 Formidable Commons  [common]
+  Formidable Commons  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {B} or {G}.
+#179 Hall of Echoes  [rare]
+  Hall of Echoes  | Land
+    {T}: Add {C}.
+    {5}: This land becomes a copy of target creature you control until end of turn. The "legend rule" doesn't apply to permanents you control this turn.
+#180 Haunted Ridge  [rare]
+  Haunted Ridge  | Land
+    This land enters tapped unless you control two or more other lands.
+    {T}: Add {B} or {R}.
+#181 Hexhaven Dueling Arena  [uncommon]
+  Hexhaven Dueling Arena  | Land
+    {T}: Add {C}.
+    {2}, {T}: Target creature that attacked this turn becomes prepared. Activate only as a sorcery. (Only creatures with prepare spells can become prepared.)
+    {4}, {T}: Target creature becomes prepared.
+#182 Innovative Commons  [common]
+  Innovative Commons  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {U} or {R}.
+#183 Konstrari Annex  [common]
+  Konstrari Annex  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {R} or {G}.
+#184 Meticulous Commons  [common]
+  Meticulous Commons  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {W} or {B}.
+#185 Overgrown Farmland  [rare]
+  Overgrown Farmland  | Land
+    This land enters tapped unless you control two or more other lands.
+    {T}: Add {G} or {W}.
+#186 Rockfall Vale  [rare]
+  Rockfall Vale  | Land
+    This land enters tapped unless you control two or more other lands.
+    {T}: Add {R} or {G}.
+#187 Roiling Canopy  [rare]
+  Roiling Canopy  | Land
+    This land enters tapped.
+    Whenever a Forest you control enters, if you control at least five other Forests, target creature you control gets +3/+3 until end of turn.
+    {T}: Add {G}.
+#188 Room of Refuge  [common]
+  Room of Refuge  | Land
+    This land enters tapped. As it enters, choose a color.
+    {T}: Add one mana of the chosen color.
+    {5}, {T}, Sacrifice this land: Put two +1/+1 counters on target creature. Activate only as a sorcery.
+#189 Shipwreck Marsh  [rare]
+  Shipwreck Marsh  | Land
+    This land enters tapped unless you control two or more other lands.
+    {T}: Add {U} or {B}.
+#190 Stingerquill Annex  [common]
+  Stingerquill Annex  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {B} or {R}.
+#191 Theorist's Sanctum  [rare]
+  Theorist's Sanctum  | Land — Island
+    ({T}: Add {U}.)
+    As this land enters, you may behold a Jace. If you don't, this land enters tapped. (To behold a Jace, choose a Jace you control or reveal a Jace card from your hand.)
+    {2}{U}, {T}: Empower Jace 2.
+#192 Theorix Annex  [common]
+  Theorix Annex  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {U} or {B}.
+#193 Transformative Commons  [common]
+  Transformative Commons  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {G} or {U}.
+#194 Vigorbloom Annex  [common]
+  Vigorbloom Annex  | Land
+    This land enters tapped unless you control a planeswalker.
+    {T}: Add {G} or {W}.
+#195 Ajani Resolute  [mythic]
+  Ajani Resolute {1}{W} | Legendary Planeswalker — Ajani loyalty 2
+    Whenever you gain life, put a loyalty counter on Ajani.
+    0: You gain 1 life.
+    −4: Create a 2/2 white Cat Soldier creature token named Ajani's Pridemate with "Whenever you gain life, put a +1/+1 counter on this token."
+    −10: You get an emblem with "Creatures you control get +2/+2."
+#196 Danitha, Sword of Hope  [uncommon]
+  Danitha, Sword of Hope {2}{W} | Legendary Creature — Human Knight 2/2
+    First strike
+    Whenever you cast an Equipment spell or a spell that targets a creature you control, draw a card. This ability triggers only once each turn.
+#197 Ghalta the Immovable  [uncommon]
+  Ghalta the Immovable {8}{W} | Legendary Creature — Elder Dinosaur 0/7
+    This spell costs {X} less to cast, where X is the greatest toughness among creatures you control.
+    Creatures you control can attack as though they didn't have defender.
+    Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.
+#198 Gideon's Memorial  [rare]
+  Gideon's Memorial {1}{W} | Legendary Artifact
+    Creature tokens you control get +1/+0 and have vigilance.
+    {T}: Add one mana of any color. Spend this mana only to cast a planeswalker spell.
+    {1}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature.
+#199 Koth of the Homestead  [uncommon]
+  Koth of the Homestead {2}{W} | Legendary Creature — Human Citizen 2/3
+    Landfall — Whenever a land you control enters, you gain 1 life.
+    Whenever a Plains you control enters, put a +1/+1 counter on target creature.
+#200 Liliana the Faultless  [rare]
+  Liliana the Faultless {W} | Legendary Creature — Human Cleric 1/1
+    Whenever another creature or planeswalker you control enters, you gain 1 life.
+    {1}, {T}, Discard a card: Another target creature or planeswalker you control gains hexproof until end of turn.
+#201 Lyra, Archangel of Dawn  [rare]
+  Lyra, Archangel of Dawn {2}{W} | Legendary Creature — Angel Knight 3/3
+    Flying
+    Whenever you gain life, put a +1/+1 counter on each Angel you control.
+#202 Rescue Girl, First Responder  [uncommon]
+  Rescue Girl, First Responder {2}{W} | Legendary Creature — Human Cleric 1/3
+    Flying
+    {T}: Return another target permanent you control to its owner's hand. Activate only during your turn.
+#203 Saheeli, Consul of Oversight  [uncommon]
+  Saheeli, Consul of Oversight {3}{W}{W} | Legendary Creature — Human Advisor 4/4
+    Flying
+    Whenever you scry or surveil, create a 1/1 colorless Thopter artifact creature token with flying. This ability triggers only once each turn.
+#204 Teyo, Lightshield Expert  [uncommon]
+  Teyo, Lightshield Expert {1}{W} | Legendary Creature — Human Cleric 1/1
+    Flash
+    When Teyo enters, target permanent you control gains hexproof until end of turn. Put a +1/+1 counter on it if it's a creature. Put a loyalty counter on it if it's a planeswalker. (It can't be the target of spells or abilities your opponents control.)
+#205 Thalia, the Survivor  [uncommon]
+  Thalia, the Survivor {3}{W} | Legendary Creature — Human Soldier 3/4
+    Lifelink
+    Noncreature spells your opponents cast cost {1} more to cast.
+#206 Tomik, Orzhov Lawmage  [uncommon]
+  Tomik, Orzhov Lawmage {1}{W} | Legendary Creature — Human Advisor 2/1
+    Flying
+    Planeswalkers you control have "No more than one creature can attack this planeswalker each combat."
+    {T}: Target creature with a +1/+1 counter on it gains flying until end of turn.
+#207 Way of the Healer  [uncommon]
+  Way of the Healer {3}{W} | Legendary Enchantment
+    When Way of the Healer enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−2]: Create a 2/2 colorless Wizard Soldier creature token named Cadet. Surveil 1."
+#208 Way of the Mentor  [uncommon]
+  Way of the Mentor {2}{W} | Legendary Enchantment
+    When Way of the Mentor enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Whenever you gain life, put a loyalty counter on each planeswalker you control.
+#209 Yoshimaru, Beloved Companion  [uncommon]
+  Yoshimaru, Beloved Companion {2}{W} | Legendary Creature — Dog 2/2
+    If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.
+    {6}: Put a +1/+1 counter on target legendary creature.
+#210 Yuriko, Blade of the Mighty  [uncommon]
+  Yuriko, Blade of the Mighty {3}{W} | Legendary Creature — Human Samurai 2/3
+    During combat, players can't cast spells or activate abilities that aren't mana abilities.
+    Whenever a creature you control attacks a player alone, it gains double strike until end of turn.
+#211 Arni, Humble Scribe  [uncommon]
+  Arni, Humble Scribe {2}{U} | Legendary Creature — Human Wizard 3/2
+    Whenever another nontoken creature you control enters, untap Arni.
+    {T}: Draw a card, then discard a card.
+#212 Chandra, Chill of Compliance  [mythic]
+  Chandra, Chill of Compliance {1}{U}{U} | Legendary Planeswalker — Chandra loyalty 3
+    +1: Surveil 1. If you put a noncreature, nonland card into your graveyard this way, put that card into your hand.
+    +1: Add {U}. Spend this mana only to cast a noncreature spell.
+    −X: Tap target artifact or creature. Put X stun counters on it.
+    −6: You get an emblem with "Whenever you cast a spell, draw a card."
+#213 Fblthp, Impossibly Lost  [uncommon]
+  Fblthp, Impossibly Lost {1}{U} | Legendary Creature — Homunculus 1/1
+    When one or more of your opponents are dealt combat damage during your turn, draw two cards. If your library has no cards in it, you win the game. Fblthp's owner shuffles him into their library. (If you draw from an empty library this way, you still win the game.)
+#214 Geist of Saint Thalia  [uncommon]
+  Geist of Saint Thalia {1}{U} | Legendary Creature — Spirit Cleric 1/2
+    Flying
+    Noncreature spells you cast cost {1} less to cast.
+#215 Hapatra, the Desert Frost  [uncommon]
+  Hapatra, the Desert Frost {3}{U} | Legendary Creature — Human Wizard 4/3
+    When Hapatra enters, for each opponent, tap up to one target creature that player controls. Put a stun counter on each of those creatures. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+    {2}{U}: Untap target creature.
+#216 Jace, Reality Sculptor  [rare]
+  Jace, Reality Sculptor {3}{U}{U} | Legendary Planeswalker — Jace loyalty 5
+    +1: Empower Jace X, where X is the number of Islands you control.
+    −3: Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -5/-0 until end of turn.
+    0: Exile all but the bottom card of each opponent's library. Activate only if there are twenty-five or more loyalty counters among Jaces you control.
+#217 Lyra, Tolarian Archangel  [rare]
+  Lyra, Tolarian Archangel {1}{U}{U} | Legendary Creature — Angel Wizard 3/3
+    Flying
+    At the beginning of each end step, if you've drawn three or more cards this turn, create a 3/3 blue Angel creature token with flying.
+    {3}{U}{U}: Until end of turn, whenever Lyra deals combat damage to a player, draw two cards.
+#218 Proft, Consulting Detective  [uncommon]
+  Proft, Consulting Detective {1}{U} | Legendary Creature — Human Detective 2/2
+    Whenever you scry or surveil, you may pay {2}. If you do, put a +1/+1 counter on Proft and draw a card. (Draw after you scry or surveil.)
+#219 Ruric Thar, Biomagus  [uncommon]
+  Ruric Thar, Biomagus {4}{U}{U} | Legendary Creature — Ogre Crab Wizard 4/6
+    Flying
+    Prowess, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn twice.)
+    Whenever Ruric Thar becomes the target of a spell or ability an opponent controls, draw a card.
+#220 Samut, Tyrant of Naktamun  [rare]
+  Samut, Tyrant of Naktamun {1}{U} | Legendary Creature — Human Wizard 2/1
+    Instant and sorcery spells you control have split second. (As long as a spell with split second is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+#221 Tetsuko Umezawa, Fugitive  [uncommon]
+  Tetsuko Umezawa, Fugitive {1}{U} | Legendary Creature — Human Rogue 1/3
+    Creatures you control with power or toughness 1 or less can't be blocked.
+#222 Traxos, Academy Guardian  [uncommon]
+  Traxos, Academy Guardian {3}{U} | Legendary Artifact Creature — Dragon Construct 1/5
+    This spell costs {2} less to cast if you've cast a noncreature spell this turn.
+    Flying, vigilance
+    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+#223 Way of the Cryomancer  [uncommon]
+  Way of the Cryomancer {2}{U} | Legendary Enchantment
+    When Way of the Cryomancer enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−3]: When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+#224 Way of the Mind Sculptor  [uncommon]
+  Way of the Mind Sculptor {4}{U} | Legendary Enchantment
+    When Way of the Mind Sculptor enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Whenever you activate a loyalty ability, if you removed two or more loyalty counters to activate it, draw a card.
+#225 Yargle, Goliath of Otaria  [uncommon]
+  Yargle, Goliath of Otaria {4}{U} | Legendary Creature — Frog Spirit 3/9
+    
+#226 Yuriko, Hope from the Shadows  [uncommon]
+  Yuriko, Hope from the Shadows {U} | Legendary Creature — Human Ninja 1/1
+    Flash
+    When Yuriko enters, choose one —
+    • Target creature gets -X/-0 until end of turn, where X is the number of cards in your graveyard.
+    • Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+#227 Danitha, Spear of Agony  [uncommon]
+  Danitha, Spear of Agony {2}{B} | Legendary Creature — Human Knight 2/2
+    First strike
+    Whenever you cast a spell that targets an opponent or a creature an opponent controls, put a +1/+1 counter on Danitha.
+#228 Gallia, Tragic Host  [uncommon]
+  Gallia, Tragic Host {1}{B} | Legendary Creature — Zombie Satyr 2/1
+    Menace (This creature can't be blocked except by two or more creatures.)
+    {4}{B}, Exile another creature card from your graveyard: Return this card from your graveyard to the battlefield tapped with a +1/+1 counter on her.
+#229 Garruk, Veiled Butcher  [mythic]
+  Garruk, Veiled Butcher {3}{B}{B} | Legendary Planeswalker — Garruk loyalty 5
+    If a creature an opponent controls would die, exile it instead.
+    +2: Up to one target creature gets -4/-1 until your next turn.
+    −2: Each player sacrifices a creature of their choice. If you sacrificed a creature this way, create a 4/4 green Beast creature token with trample.
+    −3: Each opponent discards two cards. For each opponent who didn't discard two nonland cards this way, you draw a card.
+#230 Gideon the Oathless  [rare]
+  Gideon the Oathless {2}{B} | Legendary Creature — Human Mercenary 3/3
+    Ward—Discard a card.
+    Whenever a creature an opponent controls enters, Gideon deals 1 damage to that player.
+    Whenever an opponent activates a loyalty ability, Gideon deals 1 damage to that player.
+#231 Liliana the Repentant  [rare]
+  Liliana the Repentant {1}{B} | Legendary Creature — Human Warlock 2/2
+    Whenever another creature or planeswalker you control enters, mill two cards.
+    Exhaust — {5}{B}: Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter on Liliana. Activate only as a sorcery. (Activate each exhaust ability only once.)
+#232 Loot, the Anomaly  [uncommon]
+  Loot, the Anomaly {2}{B} | Legendary Creature — Beast Horror -2/4
+    If Loot's power is negative, he assigns combat damage as though his power were positive.
+    Threshold — Sacrifice another creature or planeswalker: Loot gets -2/-0 until end of turn. Activate only if there are seven or more cards in your graveyard.
+#233 Mabel, Bitter Recluse  [uncommon]
+  Mabel, Bitter Recluse {B} | Legendary Creature — Mouse Warlock 1/1
+    Deathtouch
+    When Mabel enters, remove up to three counters from another target creature or planeswalker.
+#234 Massacre Girl, Most Wanted  [uncommon]
+  Massacre Girl, Most Wanted {4}{B} | Legendary Creature — Human Assassin 4/4
+    Whenever another creature or planeswalker you control dies, Massacre Girl deals 1 damage to target opponent and you gain 1 life.
+    Whenever an opponent is dealt noncombat damage, put a +1/+1 counter on Massacre Girl.
+#235 Proft, Sinister Mastermind  [uncommon]
+  Proft, Sinister Mastermind {2}{B} | Legendary Creature — Human Rogue 5/5
+    Threshold — You can't cast this spell unless there are seven or more cards in your graveyard.
+    Menace
+    {B}, Discard this card: Target creature gets -3/-1 until end of turn.
+#236 Teyo, Diamondblade Mage  [uncommon]
+  Teyo, Diamondblade Mage {3}{B} | Legendary Creature — Human Warlock 3/1
+    Flash
+    When Teyo enters, target permanent you control gains deathtouch until end of turn. Put a +1/+1 counter on it if it's a creature. Put a loyalty counter on it if it's a planeswalker.
+#237 Tinybones, Pocket Nuisance  [uncommon]
+  Tinybones, Pocket Nuisance {2}{B} | Legendary Creature — Skeleton Rogue 2/1
+    When Tinybones enters, each opponent discards a card.
+    Whenever a player discards one or more cards, Tinybones deals 1 damage to each opponent.
+#238 Way of the Deathbringer  [uncommon]
+  Way of the Deathbringer {2}{B} | Legendary Enchantment
+    When Way of the Deathbringer enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−2]: You may sacrifice a creature. If you do, create a 4/4 green Beast creature token with trample."
+#239 Way of the Necromancer  [uncommon]
+  Way of the Necromancer {1}{B} | Legendary Enchantment
+    When Way of the Necromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Whenever a creature you control dies, put a loyalty counter on each planeswalker you control.
+#240 Winter, Tormented Loner  [uncommon]
+  Winter, Tormented Loner {2}{B} | Legendary Creature — Human Warlock 0/3
+    When Winter enters, you may sacrifice a creature or planeswalker. When you do, each opponent sacrifices a creature of their choice.
+    Winter gets +1/+0 for each creature and planeswalker card in your graveyard.
+#241 Yargle, Glutton of Urborg  [uncommon]
+  Yargle, Glutton of Urborg {4}{B} | Legendary Creature — Frog Spirit 9/3
+    
+#242 Ajani Unrelenting  [mythic]
+  Ajani Unrelenting {4}{R}{R} | Legendary Planeswalker — Ajani loyalty 5
+    Whenever you activate a loyalty ability, create a 2/2 colorless Wizard Soldier creature token named Cadet.
+    +1: Creatures you control get +1/+0 and gain haste until end of turn.
+    −2: Discard your hand, then draw a card for each creature you control.
+    −3: Ajani deals 4 damage to each creature except for tokens you control.
+#243 Arni, Renowned Champion  [uncommon]
+  Arni, Renowned Champion {3}{R} | Legendary Creature — Human Berserker 1/5
+    Trample
+    Whenever another creature you control enters, Arni gets +X/+0 until end of turn, where X is that creature's power.
+#244 Chandra, Torch of Defiance  [mythic]
+  Chandra, Torch of Defiance {2}{R}{R} | Legendary Planeswalker — Chandra loyalty 4
+    +1: Exile the top card of your library. You may cast that card. If you don't, Chandra deals 2 damage to each opponent.
+    +1: Add {R}{R}.
+    −3: Chandra deals 4 damage to target creature.
+    −7: You get an emblem with "Whenever you cast a spell, this emblem deals 5 damage to any target."
+#245 Gallia, the Merrymaker  [uncommon]
+  Gallia, the Merrymaker {1}{R} | Legendary Creature — Satyr 2/1
+    Haste
+    Each other creature you control with a +1/+1 counter on it has haste.
+    {1}{R}, {T}: Put a +1/+1 counter on target creature that entered this turn.
+#246 Jiang Yanggu, Alone  [uncommon]
+  Jiang Yanggu, Alone {4}{R} | Legendary Creature — Human Berserker 4/4
+    Menace (This creature can't be blocked except by two or more creatures.)
+    Whenever a creature you control attacks a player alone, discard a card, then draw a card. Then put a +1/+1 counter on that creature for each card you've discarded this turn.
+#247 Kiora of Fire and Ashes  [uncommon]
+  Kiora of Fire and Ashes {4}{R}{R} | Legendary Creature — Merfolk Noble 2/2
+    When Kiora enters, create a 5/5 red Dragon creature token with flying.
+    {8}: Create a 5/5 red Dragon creature token with flying.
+#248 Koth, the Geomancer  [uncommon]
+  Koth, the Geomancer {2}{R} | Legendary Creature — Human Warrior 3/2
+    Reach
+    Landfall — Whenever a land you control enters, Koth deals 1 damage to each opponent. If that land is a Mountain, add {R}.
+#249 Marwyn, the Clearcutter  [uncommon]
+  Marwyn, the Clearcutter {R} | Legendary Creature — Elf Warrior 2/1
+    {2}, {T}, Sacrifice an artifact or land: Draw a card.
+#250 Pia, Determined Rebuilder  [uncommon]
+  Pia, Determined Rebuilder {2}{R} | Legendary Creature — Human Artificer 2/2
+    When Pia enters, create a 1/1 colorless Thopter artifact creature token with flying.
+    {5}{R}: Target creature gets +X/+0 until end of turn, where X is the number of artifacts you control.
+#251 Samut, Hazoret's Champion  [rare]
+  Samut, Hazoret's Champion {1}{R} | Legendary Creature — Human Warrior Cleric 2/2
+    Creatures you control have haste.
+#252 Tetsuko Umezawa, Pursuer  [uncommon]
+  Tetsuko Umezawa, Pursuer {3}{R} | Legendary Creature — Human Mercenary 2/4
+    Double strike
+    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+    Whenever a creature an opponent controls with power or toughness 1 or less blocks, Tetsuko Umezawa deals 1 damage to that creature's controller.
+#253 Tomik, Izzet Sparkmage  [uncommon]
+  Tomik, Izzet Sparkmage {1}{R} | Legendary Creature — Human Wizard 1/2
+    Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+    If a source you control would deal noncombat damage to an opponent or a permanent an opponent controls, it deals that much damage plus 1 instead.
+#254 Way of the Pyromancer  [uncommon]
+  Way of the Pyromancer {1}{R} | Legendary Enchantment
+    When Way of the Pyromancer enters, empower Jace 2. (Put two loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[+1]: Add {R}."
+#255 Way of the Warlord  [uncommon]
+  Way of the Warlord {2}{R} | Legendary Enchantment
+    When Way of the Warlord enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−4]: This planeswalker deals 2 damage to up to one target creature or planeswalker and 2 damage to target player."
+#256 Winter, Team Player  [uncommon]
+  Winter, Team Player {4}{R} | Legendary Creature — Human Warrior 3/3
+    Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+    Whenever you cast a noncreature spell, creatures you control get +1/+0 until end of turn.
+#257 Edgar, Moonlit Sovereign  [uncommon]
+  Edgar, Moonlit Sovereign {3}{G}{G} | Legendary Creature — Werewolf Noble 4/4
+    Flash
+    At the beginning of your end step, if you didn't cast a spell this turn, put two +1/+1 counters on Edgar.
+    {4}{G}: Put a +1/+1 counter on each creature you control with a +1/+1 counter on it.
+#258 Fblthp, Knows the Way  [uncommon]
+  Fblthp, Knows the Way {X}{G}{G} | Legendary Creature — Homunculus Scout */2
+    Domain — Fblthp's power is equal to the number of basic land types among lands you control.
+    When Fblthp enters, search your library for up to X basic land cards with different names, reveal them, put them into your hand, then shuffle.
+#259 Garruk, Curse Breaker  [mythic]
+  Garruk, Curse Breaker {3}{G}{G} | Legendary Planeswalker — Garruk loyalty 5
+    Whenever a creature you control with power 4 or greater enters, draw a card.
+    +2: Untap up to two target lands.
+    −3: Create a 4/4 green Beast creature token with trample.
+    −4: Until your next turn, whenever one or more creatures attack one of your opponents, those creatures get +2/+2 and gain trample until end of turn.
+#260 Ghalta the Unstoppable  [uncommon]
+  Ghalta the Unstoppable {8}{G} | Legendary Creature — Elder Dinosaur 8/8
+    This spell costs {X} less to cast, where X is the greatest power among creatures you control.
+    Trample
+    Other creatures you control have trample.
+#261 Jiang Yanggu, Never Alone  [uncommon]
+  Jiang Yanggu, Never Alone {3}{G} | Legendary Creature — Human Druid 2/2
+    When Jiang Yanggu enters, create Mowu, a legendary 3/3 green Dog creature token.
+    At the beginning of your end step, untap all tokens you control.
+#262 Loot, the Nexus  [uncommon]
+  Loot, the Nexus {2}{G} | Legendary Creature — Beast Noble 2/1
+    {T}: Choose a color. Add one mana of that color for each different power among creatures you control.
+#263 Marwyn, the Preserver  [uncommon]
+  Marwyn, the Preserver {1}{G} | Legendary Creature — Elf Druid 3/2
+    Lands you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+    {2}: Return target land card from your graveyard to your hand.
+#264 Pia, Aether Ascetic  [uncommon]
+  Pia, Aether Ascetic {2}{G} | Legendary Creature — Human Druid 2/2
+    When Pia enters, you may discard a card. If you do, search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+#265 Ruric Thar, Magecrusher  [uncommon]
+  Ruric Thar, Magecrusher {5}{G}{G} | Legendary Creature — Ogre Warrior 7/7
+    This spell can't be countered.
+    Reach, vigilance, trample
+    Ruric Thar has hexproof as long as they haven't dealt combat damage yet. (They can't be the target of spells or abilities your opponents control.)
+#266 Titanbones, Towering Heart  [uncommon]
+  Titanbones, Towering Heart {3}{G} | Legendary Creature — Skeleton Druid 4/3
+    Reach
+    Whenever you gain life, put two +1/+1 counters on Titanbones.
+    When you discard this card, you gain 3 life.
+#267 Way of the Paradox  [uncommon]
+  Way of the Paradox {2}{G} | Legendary Enchantment
+    When Way of the Paradox enters, empower Jace 5. (Put five loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Whenever you activate a loyalty ability, you gain 1 life. You may play an additional land this turn.
+#268 Way of the Wildspeaker  [uncommon]
+  Way of the Wildspeaker {4}{G} | Legendary Enchantment
+    When Way of the Wildspeaker enters, empower Jace 7. (Put seven loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+    Planeswalkers you control have "[−4]: Create a 4/4 green Beast creature token with trample."
+#269 Yoshimaru, Scrappy Stray  [uncommon]
+  Yoshimaru, Scrappy Stray {1}{G} | Legendary Creature — Dog 1/1
+    When Yoshimaru enters, another target creature you control fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+    {6}: Put a +1/+1 counter on target nonlegendary creature.
+#270 Edgar, Ancient Bloodlord  [uncommon]
+  Edgar, Ancient Bloodlord {W}{B} | Legendary Creature — Vampire Noble 2/3
+    Whenever another creature or planeswalker you control dies, you gain 1 life.
+    {2}, Sacrifice another creature or planeswalker: Put a +1/+1 counter on Edgar. He gains menace until end of turn. (He can't be blocked except by two or more creatures.)
+#271 Hapatra, the Desert Fang  [uncommon]
+  Hapatra, the Desert Fang {2}{B}{B}{G} | Legendary Creature — Human Cleric 3/3
+    When Hapatra enters, for each opponent, put X -1/-1 counters on up to one target creature that player controls, where X is the greatest mana value among cards in your graveyard.
+#272 Karn, Gilded Guardian  [rare]
+  Karn, Gilded Guardian {2/W}{2/U}{2/B}{2/R}{2/G} | Legendary Artifact Creature — Golem 5/5
+    Vigilance, trample
+    When Karn enters, draw a card for each color among other artifacts you control.
+#273 Kiora of Salt and Sand  [uncommon]
+  Kiora of Salt and Sand {1}{G}{U} | Legendary Creature — Merfolk Noble 2/4
+    Whenever you attack, if you've activated a loyalty ability this turn, untap target attacking creature. It can't be blocked this turn.
+    Planeswalkers you control have "[−8]: Create an 8/8 blue Leviathan creature token with hexproof."
+#274 Mabel, Valley Hero  [uncommon]
+  Mabel, Valley Hero {1}{R}{W} | Legendary Creature — Mouse Soldier 1/2
+    Whenever Mabel or another creature you control enters, put a +1/+1 counter on target creature that entered this turn.
+#275 Saheeli, Jewel of Avishkar  [uncommon]
+  Saheeli, Jewel of Avishkar {2}{U}{R} | Legendary Creature — Human Artificer 2/4
+    Thopters you control have haste.
+    Whenever you cast a noncreature spell, create a 1/1 colorless Thopter artifact creature token with flying.
+#276 Tam, the Possibility  [rare]
+  Tam, the Possibility {1}{G}{U} | Legendary Creature — Gorgon Wizard 2/4
+    Planeswalker spells you cast cost {1} less to cast.
+    {W}{U}{B}{R}{G}, {T}: Proliferate X times, where X is the number of planeswalker types among planeswalkers you control. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)
+#277 Vraska, Soul of Stone  [rare]
+  Vraska, Soul of Stone {U}{R}{W} | Legendary Creature — Gorgon Wizard 3/3
+    Artifact creatures you control have vigilance.
+    Whenever you cast a noncreature spell, create a 1/1 colorless Sculpture Treasure artifact creature token with "{T}, Sacrifice this token: Add one mana of any color."
+#278 Vraska, the Cutting Glare  [rare]
+  Vraska, the Cutting Glare {B}{B}{G} | Legendary Creature — Gorgon Assassin 4/4
+    Deathtouch
+    When Vraska enters, if you control six or more lands, destroy target permanent an opponent controls. They create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+#279 Karn, Argent Defender  [rare]
+  Karn, Argent Defender {2} | Legendary Artifact Creature — Golem 1/3
+    Artifacts and creatures entering the battlefield don't cause abilities to trigger.
+#280 Traxos, Scourge Eternal  [uncommon]
+  Traxos, Scourge Eternal {4} | Legendary Artifact Creature — Dragon Construct 5/4
+    Trample
+    Traxos doesn't untap during your untap step.
+    Whenever you cast an artifact or creature spell, untap Traxos.

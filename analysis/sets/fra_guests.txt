@@ -1,0 +1,46 @@
+#159 Eye of Ugin  [mythic]
+  Eye of Ugin  | Legendary Land
+    Colorless Eldrazi spells you cast cost {2} less to cast.
+    {7}, {T}: Search your library for a colorless creature card, reveal it, put it into your hand, then shuffle.
+#160 Austere Command  [mythic]
+  Austere Command {4}{W}{W} | Sorcery
+    Choose two —
+    • Destroy all artifacts.
+    • Destroy all enchantments.
+    • Destroy all creatures with mana value 3 or less.
+    • Destroy all creatures with mana value 4 or greater.
+#161 Flesh Duplicate  [mythic]
+  Flesh Duplicate {U}{U} | Creature — Shapeshifter Rebel 0/0
+    You may have this creature enter as a copy of any creature on the battlefield, except it has vanishing 3 if that creature doesn't have vanishing. (A permanent with vanishing 3 enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+#162 Consign to Memory  [mythic]
+  Consign to Memory {U} | Instant
+    Replicate {1} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+    Counter target triggered ability or colorless spell.
+#163 Sublime Epiphany  [mythic]
+  Sublime Epiphany {4}{U}{U} | Instant
+    Choose one or more —
+    • Counter target spell.
+    • Counter target activated or triggered ability.
+    • Return target nonland permanent to its owner's hand.
+    • Create a token that's a copy of target creature you control.
+    • Target player draws a card.
+#164 Consider  [mythic]
+  Consider {U} | Instant
+    Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    Draw a card.
+#165 Necrodominance  [mythic]
+  Necrodominance {B}{B}{B} | Legendary Enchantment
+    Skip your draw step.
+    At the beginning of your end step, you may pay any amount of life. If you do, draw that many cards.
+    Your maximum hand size is five.
+    If a card or token would be put into your graveyard from anywhere, exile it instead.
+#166 Mind Twist  [mythic]
+  Mind Twist {X}{B} | Sorcery
+    Target player discards X cards at random.
+#167 Splinter Twin  [mythic]
+  Splinter Twin {2}{R}{R} | Enchantment — Aura
+    Enchant creature
+    Enchanted creature has "{T}: Create a token that's a copy of this creature, except it has haste. Exile that token at the beginning of the next end step."
+#168 Root Maze  [mythic]
+  Root Maze {G} | Enchantment
+    Artifacts and lands enter tapped.
