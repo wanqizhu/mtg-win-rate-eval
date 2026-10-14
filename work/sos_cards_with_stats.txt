@@ -1,0 +1,1152 @@
+#1 [M] The Dawning Archaic  {10}  Legendary Creature — Avatar  7/7   || GIH 54.4% (n=5220) OH 48.1 IWD +3.8 ALSA 1.8 GP 52.6
+     This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
+     Reach
+     Whenever The Dawning Archaic attacks, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
+
+#2 [C] Rancorous Archaic  {5}  Creature — Avatar  2/2   || GIH 54.2% (n=19089) OH 49.4 IWD +4.7 ALSA 6.1 GP 52.0
+     Reach, trample
+     Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+
+#3 [U] Sundering Archaic  {6}  Creature — Avatar  3/3   || GIH 59.2% (n=33571) OH 54.0 IWD +7.2 ALSA 4.3 GP 55.8
+     Converge — When this creature enters, exile target nonland permanent an opponent controls with mana value less than or equal to the number of colors of mana spent to cast this creature.
+     {2}: Put target card from a graveyard on the bottom of its owner's library.
+
+#4 [R] Together as One  {6}  Sorcery   || GIH 66.1% (n=20105) OH 61.8 IWD +16.6 ALSA 2.1 GP 58.2
+     Converge — Target player draws X cards, Together as One deals X damage to any target, and you gain X life, where X is the number of colors of mana spent to cast this spell.
+
+#5 [U] Transcendent Archaic  {7}  Creature — Avatar  6/6   || GIH 57.9% (n=21891) OH 53.1 IWD +7.2 ALSA 4.9 GP 54.3
+     Vigilance
+     Converge — When this creature enters, you may draw X cards, where X is the number of colors of mana spent to cast this spell. If you draw one or more cards this way, discard two cards.
+
+#6 [C] Ajani's Response  {4}{W}  Instant   || GIH 58.1% (n=61023) OH 55.9 IWD +2.2 ALSA 4.4 GP 57.0
+     This spell costs {3} less to cast if it targets a tapped creature.
+     Destroy target creature.
+
+#7 [R] Antiquities on the Loose  {1}{W}{W}  Sorcery   || GIH 65.6% (n=16749) OH 67.0 IWD +10.2 ALSA 1.9 GP 60.2
+     Create two 2/2 red and white Spirit creature tokens. Then if this spell was cast from anywhere other than your hand, put a +1/+1 counter on each Spirit you control.
+     Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#8 [C] Ascendant Dustspeaker  {4}{W}  Creature — Orc Cleric  3/4   || GIH 56.0% (n=36546) OH 54.0 IWD -1.0 ALSA 5.5 GP 56.5
+     Flying
+     When this creature enters, put a +1/+1 counter on another target creature you control.
+     At the beginning of combat on your turn, exile up to one target card from a graveyard.
+
+#9 [U] Daydream  {W}  Sorcery   || GIH 49.4% (n=4933) OH 48.2 IWD -4.2 ALSA 5.5 GP 51.8
+     Exile target creature you control, then return that card to the battlefield under its owner's control with a +1/+1 counter on it.
+     Flashback {2}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#10 [C] Dig Site Inventory  {W}  Sorcery   || GIH 56.2% (n=40069) OH 55.8 IWD -0.3 ALSA 5.1 GP 56.4
+     Put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+     Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#11 [C] Eager Glyphmage  {3}{W}  Creature — Cat Cleric  3/3   || GIH 56.7% (n=39822) OH 56.5 IWD -1.1 ALSA 5.5 GP 57.3
+     When this creature enters, create a 1/1 white and black Inkling creature token with flying.
+
+#12 [C] Elite Interceptor // Rejoinder  {W} // {1}{W}  Creature — Human Wizard // Sorcery  1/2   || GIH 59.6% (n=73786) OH 61.3 IWD +3.1 ALSA 4.1 GP 58.3
+  == Elite Interceptor {W} Creature — Human Wizard 1/2
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Rejoinder {1}{W} Sorcery
+     You may tap or untap target creature.
+     Draw a card.
+
+#13 [M] Emeritus of Truce // Swords to Plowshares  {1}{W}{W} // {W}  Creature — Cat Cleric // Instant  3/3   || GIH 59.0% (n=6456) OH 59.8 IWD +3.3 ALSA 1.8 GP 57.2
+  == Emeritus of Truce {1}{W}{W} Creature — Cat Cleric 3/3
+     When this creature enters, target player creates a 1/1 white and black Inkling creature token with flying. Then if an opponent controls more creatures than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Swords to Plowshares {W} Instant
+     Exile target creature. Its controller gains life equal to its power.
+
+#14 [U] Ennis, Debate Moderator  {1}{W}  Legendary Creature — Human Cleric  1/1   || GIH 51.6% (n=10762) OH 49.9 IWD -4.5 ALSA 4.9 GP 54.0
+     When Ennis enters, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+     At the beginning of your end step, if one or more cards were put into exile this turn, put a +1/+1 counter on Ennis.
+
+#15 [R] Erode  {W}  Instant   || GIH 56.9% (n=10658) OH 53.1 IWD +1.6 ALSA 2.5 GP 56.0
+     Destroy target creature or planeswalker. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+#16 [U] Graduation Day  {W}  Enchantment   || GIH 52.0% (n=7687) OH 53.9 IWD -2.6 ALSA 5.0 GP 53.5
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on target creature you control.
+
+#17 [U] Group Project  {1}{W}  Sorcery   || GIH 57.5% (n=27253) OH 58.3 IWD -0.5 ALSA 4.2 GP 57.7
+     Create a 2/2 red and white Spirit creature token.
+     Flashback—Tap three untapped creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#18 [U] Harsh Annotation  {1}{W}  Instant   || GIH 50.9% (n=4065) OH 49.1 IWD -2.2 ALSA 5.3 GP 52.1
+     Destroy target creature. Its controller creates a 1/1 white and black Inkling creature token with flying.
+
+#19 [C] Honorbound Page // Forum's Favor  {3}{W} // {W}  Creature — Cat Cleric // Sorcery  3/3   || GIH 54.0% (n=22414) OH 52.9 IWD -1.9 ALSA 5.6 GP 55.0
+  == Honorbound Page {3}{W} Creature — Cat Cleric 3/3
+     First strike
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Forum's Favor {W} Sorcery
+     Target creature gets +1/+0 and gains flying until end of turn.
+
+#20 [R] Informed Inkwright  {1}{W}  Creature — Human Wizard  2/2   || GIH 61.7% (n=14958) OH 63.1 IWD +5.8 ALSA 1.8 GP 58.6
+     Vigilance
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, create a 1/1 white and black Inkling creature token with flying.
+
+#21 [U] Inkshape Demonstrator  {3}{W}  Creature — Elephant Cleric  3/4   || GIH 57.3% (n=22154) OH 57.5 IWD +0.5 ALSA 4.3 GP 57.0
+     Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gets +1/+0 and gains lifelink until end of turn.
+
+#22 [C] Interjection  {W}  Instant   || GIH 56.0% (n=17072) OH 55.0 IWD +0.0 ALSA 6.0 GP 56.0
+     Target creature gets +2/+2 and gains first strike until end of turn.
+
+#23 [R] Joined Researchers // Secret Rendezvous  {1}{W} // {1}{W}{W}  Creature — Human Cleric Wizard // Sorcery  2/2   || GIH 55.1% (n=9347) OH 56.1 IWD -2.0 ALSA 3.9 GP 56.2
+  == Joined Researchers {1}{W} Creature — Human Cleric Wizard 2/2
+     First strike
+     At the beginning of each end step, if an opponent has more cards in hand than you, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Secret Rendezvous {1}{W}{W} Sorcery
+     You and target opponent each draw three cards.
+
+#24 [C] Owlin Historian  {2}{W}  Creature — Bird Cleric  2/3   || GIH 55.9% (n=38976) OH 55.7 IWD -1.2 ALSA 5.5 GP 56.5
+     Flying
+     When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+     Whenever one or more cards leave your graveyard, this creature gets +1/+1 until end of turn.
+
+#25 [R] Practiced Offense  {2}{W}  Sorcery   || GIH 65.4% (n=16700) OH 63.1 IWD +10.5 ALSA 1.8 GP 59.6
+     Put a +1/+1 counter on each creature target player controls. Target creature gains your choice of double strike or lifelink until end of turn.
+     Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#26 [U] Primary Research  {4}{W}  Enchantment   || GIH 55.3% (n=19897) OH 54.1 IWD -1.4 ALSA 4.4 GP 56.1
+     When this enchantment enters, return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+     At the beginning of your end step, if a card left your graveyard this turn, draw a card.
+
+#27 [U] Quill-Blade Laureate // Twofold Intent  {1}{W} // {1}{W}  Creature — Human Cleric // Sorcery  1/1   || GIH 57.5% (n=25954) OH 57.9 IWD +0.1 ALSA 3.6 GP 57.4
+  == Quill-Blade Laureate {1}{W} Creature — Human Cleric 1/1
+     Double strike
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Twofold Intent {1}{W} Sorcery
+     Target creature gets +1/+0 and gains double strike until end of turn.
+
+#28 [C] Rapier Wit  {1}{W}  Instant   || GIH 54.4% (n=17046) OH 52.1 IWD -1.6 ALSA 5.9 GP 55.3
+     Tap target creature. If it's your turn, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+     Draw a card.
+
+#29 [C] Rehearsed Debater  {2}{W}  Creature — Djinn Bard  3/3   || GIH 55.4% (n=29370) OH 56.1 IWD -1.3 ALSA 5.7 GP 56.1
+     Vigilance
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gets +1/+1 until end of turn.
+
+#30 [M] Restoration Seminar  {5}{W}{W}  Sorcery — Lesson   || GIH 58.6% (n=6166) OH 55.6 IWD +4.8 ALSA 2.1 GP 56.0
+     Return target nonland permanent card from your graveyard to the battlefield.
+     Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+#31 [C] Shattered Acolyte  {1}{W}  Creature — Dwarf Warlock  2/2   || GIH 56.6% (n=45193) OH 57.2 IWD -0.3 ALSA 5.3 GP 56.8
+     Lifelink
+     {1}, Sacrifice this creature: Destroy target artifact or enchantment.
+
+#32 [U] Soaring Stoneglider  {2}{W}  Creature — Elephant Cleric  4/3   || GIH 54.7% (n=17857) OH 52.7 IWD -0.9 ALSA 4.3 GP 55.2
+     As an additional cost to cast this spell, exile two cards from your graveyard or pay {1}{W}.
+     Flying, vigilance
+
+#33 [U] Spiritcall Enthusiast // Scrollboost  {2}{W} // {1}{W}  Creature — Cat Cleric // Sorcery  3/3   || GIH 52.5% (n=9951) OH 52.3 IWD -3.2 ALSA 5.0 GP 54.4
+  == Spiritcall Enthusiast {2}{W} Creature — Cat Cleric 3/3
+     Whenever one or more tokens you control enter, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Scrollboost {1}{W} Sorcery
+     One or two target creatures each get +2/+2 until end of turn.
+
+#34 [U] Stand Up for Yourself  {2}{W}  Instant   || GIH 57.8% (n=27440) OH 55.3 IWD +1.1 ALSA 3.8 GP 57.2
+     Destroy target creature with power 3 or greater.
+
+#35 [R] Stirring Hopesinger  {2}{W}  Creature — Bird Bard  1/3   || GIH 63.0% (n=15447) OH 63.0 IWD +7.8 ALSA 1.6 GP 58.9
+     Flying, lifelink
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on each creature you control.
+
+#36 [C] Stone Docent  {1}{W}  Creature — Spirit Chimera  3/1   || GIH 57.2% (n=57851) OH 58.4 IWD -0.9 ALSA 5.1 GP 57.6
+     {W}, Exile this card from your graveyard: You gain 2 life. Surveil 1. Activate only as a sorcery. (Look at the top card of your library. You may put it into your graveyard.)
+
+#37 [U] Summoned Dromedary  {3}{W}  Creature — Spirit Camel  4/3   || GIH 55.0% (n=17791) OH 53.6 IWD -0.8 ALSA 4.5 GP 55.4
+     Vigilance
+     {1}{W}: Return this card from your graveyard to your hand. Activate only as a sorcery.
+
+#38 [C] Banishing Betrayal  {1}{U}  Instant   || GIH 55.7% (n=40648) OH 51.1 IWD +4.3 ALSA 5.5 GP 53.7
+     Return target nonland permanent to its owner's hand. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#39 [U] Brush Off  {2}{U}{U}  Instant   || GIH 58.6% (n=28609) OH 53.7 IWD +6.9 ALSA 4.8 GP 55.4
+     This spell costs {1}{U} less to cast if it targets an instant or sorcery spell.
+     Counter target spell.
+
+#40 [U] Campus Composer // Aqueous Aria  {3}{U} // {4}{U}  Creature — Merfolk Bard // Sorcery  3/4   || GIH 54.3% (n=18403) OH 51.2 IWD +2.5 ALSA 4.5 GP 53.1
+  == Campus Composer {3}{U} Creature — Merfolk Bard 3/4
+     Ward {2}
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Aqueous Aria {4}{U} Sorcery
+     Create a 3/3 blue and red Elemental creature token with flying.
+
+#41 [C] Chase Inspiration  {U}  Instant   || GIH 55.4% (n=13680) OH 51.1 IWD +4.1 ALSA 6.4 GP 53.3
+     Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+
+#42 [C] Deluge Virtuoso  {2}{U}  Creature — Human Wizard  2/2   || GIH 52.7% (n=22576) OH 50.4 IWD +2.3 ALSA 5.7 GP 51.6
+     When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+     Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, this creature gets +2/+2 until end of turn instead.
+
+#43 [U] Divergent Equation  {X}{X}{U}  Instant   || GIH 58.9% (n=33205) OH 51.8 IWD +7.6 ALSA 4.6 GP 55.3
+     Return up to X target instant and/or sorcery cards from your graveyard to your hand.
+     Exile Divergent Equation.
+
+#44 [M] Echocasting Symposium  {4}{U}{U}  Sorcery — Lesson   || GIH 59.2% (n=7289) OH 53.9 IWD +9.7 ALSA 1.8 GP 54.5
+     Target player creates a token that's a copy of target creature you control.
+     Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+#45 [M] Emeritus of Ideation // Ancestral Recall  {3}{U}{U} // {U}  Creature — Human Wizard // Instant  5/5   || GIH 65.2% (n=7801) OH 61.8 IWD +14.9 ALSA 1.4 GP 58.1
+  == Emeritus of Ideation {3}{U}{U} Creature — Human Wizard 5/5
+     Flying, ward {2}
+     This creature enters prepared.
+     Whenever this creature attacks, you may exile eight cards from your graveyard. If you do, this creature becomes prepared.
+  == Ancestral Recall {U} Instant
+     Target player draws three cards.
+
+#46 [U] Encouraging Aviator // Jump  {2}{U} // {U}  Creature — Bird Wizard // Instant  2/3   || GIH 51.3% (n=10358) OH 48.2 IWD +0.7 ALSA 5.0 GP 50.9
+  == Encouraging Aviator {2}{U} Creature — Bird Wizard 2/3
+     Flying
+     Whenever this creature attacks, it becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Jump {U} Instant
+     Target creature gains flying until end of turn.
+
+#47 [C] Essence Scatter  {1}{U}  Instant   || GIH 57.4% (n=65822) OH 55.4 IWD +5.9 ALSA 4.8 GP 54.7
+     Counter target creature spell.
+
+#48 [R] Exhibition Tidecaller  {U}  Creature — Djinn Wizard  0/2   || GIH 60.9% (n=16847) OH 57.5 IWD +10.3 ALSA 2.4 GP 56.1
+     Opus — Whenever you cast an instant or sorcery spell, target player mills three cards. If five or more mana was spent to cast that spell, that player mills ten cards instead.
+
+#49 [U] Flow State  {1}{U}  Sorcery   || GIH 57.3% (n=30329) OH 53.9 IWD +5.7 ALSA 3.6 GP 54.6
+     Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order. If there is an instant card and a sorcery card in your graveyard, instead put two of them into your hand and the rest on the bottom of your library in any order.
+
+#50 [U] Fractal Anomaly  {U}  Instant   || GIH 48.5% (n=2324) OH 43.2 IWD +2.1 ALSA 6.1 GP 47.5
+     Create a 0/0 green and blue Fractal creature token and put X +1/+1 counters on it, where X is the number of cards you've drawn this turn.
+
+#51 [U] Fractalize  {X}{U}  Instant   || GIH 52.5% (n=4695) OH 48.3 IWD +2.1 ALSA 5.9 GP 51.5
+     Until end of turn, target creature becomes a green and blue Fractal with base power and toughness each equal to X plus 1. (It loses all other colors and creature types.)
+
+#52 [R] Harmonized Trio // Brainstorm  {U} // {U}  Creature — Merfolk Bard Wizard // Instant  1/1   || GIH 53.4% (n=7112) OH 53.5 IWD +3.6 ALSA 3.5 GP 51.5
+  == Harmonized Trio {U} Creature — Merfolk Bard Wizard 1/1
+     {T}, Tap two untapped creatures you control: This creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Brainstorm {U} Instant
+     Draw three cards, then put two cards from your hand on top of your library in any order.
+
+#53 [U] Homesickness  {4}{U}{U}  Instant   || GIH 56.5% (n=23376) OH 51.0 IWD +5.5 ALSA 4.7 GP 53.8
+     Target player draws two cards. Tap up to two target creatures. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+#54 [C] Hydro-Channeler  {1}{U}  Creature — Merfolk Wizard  1/3   || GIH 55.0% (n=49818) OH 54.4 IWD +3.0 ALSA 5.2 GP 53.6
+     {T}: Add {U}. Spend this mana only to cast an instant or sorcery spell.
+     {1}, {T}: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+
+#55 [R] Jadzi, Steward of Fate // Oracle's Gift  {2}{U} // {X}{X}{U}  Legendary Creature — Human Wizard // Sorcery  2/4   || GIH 59.8% (n=16220) OH 57.6 IWD +8.6 ALSA 1.9 GP 55.5
+  == Jadzi, Steward of Fate {2}{U} Legendary Creature — Human Wizard 2/4
+     Jadzi enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+     When Jadzi enters, draw two cards, then discard two cards.
+  == Oracle's Gift {X}{X}{U} Sorcery
+     Create X 0/0 green and blue Fractal creature tokens, then put X +1/+1 counters on each Fractal you control.
+
+#56 [C] Landscape Painter // Vibrant Idea  {1}{U} // {4}{U}  Creature — Merfolk Wizard // Sorcery  2/1   || GIH 53.9% (n=34260) OH 50.9 IWD +2.2 ALSA 5.5 GP 52.8
+  == Landscape Painter {1}{U} Creature — Merfolk Wizard 2/1
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Vibrant Idea {4}{U} Sorcery
+     Draw two cards.
+
+#57 [R] Mana Sculpt  {1}{U}{U}  Instant   || GIH 58.4% (n=12907) OH 54.3 IWD +8.1 ALSA 3.5 GP 54.4
+     Counter target spell. If you control a Wizard, add an amount of {C} equal to the amount of mana spent to cast that spell at the beginning of your next main phase.
+
+#58 [M] Mathemagics  {X}{X}{U}{U}  Sorcery   || GIH 63.2% (n=9400) OH 53.8 IWD +13.5 ALSA 2.4 GP 57.2
+     Target player draws 2ˣ cards. (2⁰ = 1, 2¹ = 2, 2² = 4, 2³ = 8, 2⁴ = 16, 2⁵ = 32, and so on.)
+
+#59 [U] Matterbending Mage  {2}{U}  Creature — Human Wizard  2/2   || GIH 58.7% (n=33189) OH 55.5 IWD +6.2 ALSA 3.7 GP 55.7
+     When this creature enters, return up to one other target creature to its owner's hand.
+     Whenever you cast a spell with {X} in its mana cost, this creature can't be blocked this turn.
+
+#60 [U] Muse Seeker  {1}{U}  Creature — Elf Wizard  1/2   || GIH 53.3% (n=18492) OH 51.8 IWD +2.1 ALSA 4.6 GP 52.3
+     Opus — Whenever you cast an instant or sorcery spell, draw a card. Then discard a card unless five or more mana was spent to cast that spell.
+
+#61 [C] Muse's Encouragement  {4}{U}  Instant   || GIH 53.6% (n=23004) OH 49.2 IWD +4.0 ALSA 6.0 GP 51.7
+     Create a 3/3 blue and red Elemental creature token with flying.
+     Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+#62 [U] Orysa, Tide Choreographer  {4}{U}  Legendary Creature — Merfolk Bard  2/2   || GIH 54.3% (n=12963) OH 51.4 IWD +3.8 ALSA 4.9 GP 52.4
+     This spell costs {3} less to cast if creatures you control have total toughness 10 or greater.
+     When Orysa enters, draw two cards.
+
+#63 [R] Pensive Professor  {1}{U}{U}  Creature — Human Wizard  0/2   || GIH 59.1% (n=14626) OH 57.7 IWD +8.0 ALSA 2.1 GP 55.1
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     Whenever one or more +1/+1 counters are put on this creature, draw a card.
+
+#64 [C] Procrastinate  {X}{U}  Sorcery   || GIH 53.3% (n=21685) OH 48.7 IWD +3.1 ALSA 5.9 GP 51.8
+     Tap target creature. Put twice X stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+#65 [C] Quick Study  {2}{U}  Instant   || GIH 56.4% (n=42416) OH 54.0 IWD +5.2 ALSA 5.4 GP 53.9
+     Draw two cards.
+
+#66 [C] Run Behind  {3}{U}  Instant   || GIH 57.4% (n=58682) OH 54.4 IWD +5.3 ALSA 5.3 GP 55.0
+     This spell costs {1} less to cast if it targets an attacking creature.
+     Target creature's owner puts it on their choice of the top or bottom of their library.
+
+#67 [R] Skycoach Conductor // All Aboard  {2}{U} // {U}  Creature — Bird Pilot // Instant  2/3   || GIH 57.0% (n=12356) OH 55.8 IWD +5.1 ALSA 2.5 GP 54.5
+  == Skycoach Conductor {2}{U} Creature — Bird Pilot 2/3
+     Flash
+     Flying, vigilance
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == All Aboard {U} Instant
+     Exile target non-Pilot creature you control, then return that card to the battlefield under its owner's control.
+
+#68 [C] Spellbook Seeker // Careful Study  {3}{U} // {U}  Creature — Bird Wizard // Sorcery  3/3   || GIH 51.5% (n=15290) OH 48.3 IWD +1.8 ALSA 5.8 GP 50.7
+  == Spellbook Seeker {3}{U} Creature — Bird Wizard 3/3
+     Flying
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Careful Study {U} Sorcery
+     Draw two cards, then discard two cards.
+
+#69 [U] Tester of the Tangential  {1}{U}  Creature — Djinn Wizard  1/1   || GIH 54.2% (n=16381) OH 53.9 IWD +2.9 ALSA 4.5 GP 52.7
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     At the beginning of combat on your turn, you may pay {X}. When you do, move X +1/+1 counters from this creature onto another target creature.
+
+#70 [C] Textbook Tabulator  {2}{U}  Creature — Frog Wizard  0/3   || GIH 52.7% (n=17327) OH 50.7 IWD +2.8 ALSA 6.0 GP 51.4
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+#71 [R] Wisdom of Ages  {4}{U}{U}{U}  Sorcery   || GIH 59.2% (n=15845) OH 50.8 IWD +8.4 ALSA 3.9 GP 55.3
+     Return all instant and sorcery cards from your graveyard to your hand. You have no maximum hand size for the rest of the game.
+     Exile Wisdom of Ages.
+
+#72 [C] Adventurous Eater // Have a Bite  {2}{B} // {B}  Creature — Human Warlock // Sorcery  3/2   || GIH 54.4% (n=32200) OH 53.0 IWD -1.0 ALSA 5.1 GP 55.0
+  == Adventurous Eater {2}{B} Creature — Human Warlock 3/2
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Have a Bite {B} Sorcery
+     Put a +1/+1 counter on target creature. You gain 1 life.
+
+#73 [U] Arcane Omens  {4}{B}  Sorcery   || GIH 60.4% (n=26995) OH 57.0 IWD +9.7 ALSA 5.1 GP 55.8
+     Converge — Target player discards X cards, where X is the number of colors of mana spent to cast this spell.
+
+#74 [U] Arnyn, Deathbloom Botanist  {2}{B}  Legendary Creature — Vampire Druid  2/2   || GIH 50.6% (n=8676) OH 47.9 IWD -2.2 ALSA 4.6 GP 51.8
+     Deathtouch
+     Whenever a creature you control with power or toughness 1 or less dies, target opponent loses 2 life and you gain 2 life.
+
+#75 [C] Burrog Banemaker  {B}  Creature — Frog Warlock  1/1   || GIH 55.0% (n=28536) OH 55.8 IWD +0.7 ALSA 5.2 GP 54.6
+     Deathtouch
+     {1}{B}: This creature gets +1/+1 until end of turn.
+
+#76 [C] Cheerful Osteomancer // Raise Dead  {3}{B} // {B}  Creature — Orc Warlock // Sorcery  4/2   || GIH 51.7% (n=22225) OH 48.7 IWD -2.3 ALSA 5.5 GP 53.0
+  == Cheerful Osteomancer {3}{B} Creature — Orc Warlock 4/2
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Raise Dead {B} Sorcery
+     Return target creature card from your graveyard to your hand.
+
+#77 [C] Cost of Brilliance  {2}{B}  Sorcery   || GIH 57.7% (n=39119) OH 56.8 IWD +1.7 ALSA 5.4 GP 56.8
+     Target player draws two cards and loses 2 life. Put a +1/+1 counter on up to one target creature.
+
+#78 [M] Decorum Dissertation  {3}{B}{B}  Sorcery — Lesson   || GIH 56.7% (n=4812) OH 54.7 IWD +3.3 ALSA 2.0 GP 54.8
+     Target player draws two cards and loses 2 life.
+     Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+#79 [U] Dissection Practice  {B}  Instant   || GIH 58.6% (n=18961) OH 57.9 IWD +3.1 ALSA 4.2 GP 56.9
+     Target opponent loses 1 life and you gain 1 life.
+     Up to one target creature gets +1/+1 until end of turn.
+     Up to one target creature gets -1/-1 until end of turn.
+
+#80 [M] Emeritus of Woe // Demonic Tutor  {3}{B} // {1}{B}  Creature — Vampire Warlock // Sorcery  5/4   || GIH 59.9% (n=6406) OH 58.1 IWD +6.0 ALSA 1.5 GP 56.7
+  == Emeritus of Woe {3}{B} Creature — Vampire Warlock 5/4
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+     At the beginning of your end step, if two or more creatures died this turn, this creature becomes prepared.
+  == Demonic Tutor {1}{B} Sorcery
+     Search your library for a card, put that card into your hand, then shuffle.
+
+#81 [U] End of the Hunt  {1}{B}  Sorcery   || GIH 58.9% (n=26194) OH 57.2 IWD +4.3 ALSA 3.3 GP 56.7
+     Target opponent exiles a creature or planeswalker they control with the greatest mana value among creatures and planeswalkers they control.
+
+#82 [U] Eternal Student  {3}{B}  Creature — Zombie Warlock  4/2   || GIH 54.6% (n=16448) OH 54.0 IWD -0.9 ALSA 4.5 GP 55.1
+     {1}{B}, Exile this card from your graveyard: Create two 1/1 white and black Inkling creature tokens with flying.
+
+#83 [U] Foolish Fate  {2}{B}  Instant   || GIH 59.3% (n=26681) OH 56.3 IWD +5.0 ALSA 2.7 GP 56.7
+     Destroy target creature.
+     Infusion — If you gained life this turn, that creature's controller loses 3 life.
+
+#84 [U] Forum Necroscribe  {5}{B}  Creature — Troll Warlock  5/4   || GIH 52.3% (n=13815) OH 49.3 IWD -1.4 ALSA 4.1 GP 53.1
+     Ward—Discard a card.
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, return target creature card from your graveyard to the battlefield.
+
+#85 [R] Grave Researcher // Reanimate  {2}{B} // {B}  Creature — Troll Warlock // Sorcery  3/3   || GIH 55.9% (n=9657) OH 56.5 IWD +1.0 ALSA 2.1 GP 55.3
+  == Grave Researcher {2}{B} Creature — Troll Warlock 3/3
+     At the beginning of your upkeep, surveil 1. Then if there are three or more creature cards in your graveyard, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Reanimate {B} Sorcery
+     Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to that card's mana value.
+
+#86 [C] Last Gasp  {1}{B}  Instant   || GIH 57.8% (n=55878) OH 56.4 IWD +3.2 ALSA 3.7 GP 56.2
+     Target creature gets -3/-3 until end of turn.
+
+#87 [U] Lecturing Scornmage  {B}  Creature — Human Warlock  1/1   || GIH 58.6% (n=20800) OH 61.5 IWD +2.1 ALSA 3.8 GP 57.5
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on this creature.
+
+#88 [U] Leech Collector // Bloodletting  {1}{B} // {B}  Creature — Human Warlock // Sorcery  2/2   || GIH 52.3% (n=12166) OH 51.6 IWD -2.8 ALSA 4.5 GP 53.9
+  == Leech Collector {1}{B} Creature — Human Warlock 2/2
+     Whenever you gain life for the first time each turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Bloodletting {B} Sorcery
+     Each opponent loses 2 life.
+
+#89 [C] Masterful Flourish  {B}  Instant   || GIH 56.1% (n=17147) OH 54.5 IWD -0.1 ALSA 6.0 GP 56.1
+     Target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+
+#90 [C] Melancholic Poet  {1}{B}  Creature — Elf Bard  2/2   || GIH 56.6% (n=41752) OH 57.1 IWD +0.8 ALSA 4.9 GP 56.2
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 1 life and you gain 1 life.
+
+#91 [R] Moseo, Vein's New Dean  {2}{B}  Legendary Creature — Bird Skeleton Warlock  2/1   || GIH 60.5% (n=12120) OH 59.5 IWD +5.8 ALSA 2.0 GP 57.4
+     Flying
+     When Moseo enters, create a 1/1 black and green Pest creature token with "Whenever this token attacks, you gain 1 life."
+     Infusion — At the beginning of your end step, if you gained life this turn, return up to one target creature card with mana value X or less from your graveyard to the battlefield, where X is the amount of life you gained this turn.
+
+#92 [U] Poisoner's Apprentice  {2}{B}  Creature — Orc Warlock  2/2   || GIH 56.0% (n=15235) OH 55.1 IWD +2.3 ALSA 4.1 GP 54.8
+     Infusion — When this creature enters, target creature an opponent controls gets -4/-4 until end of turn if you gained life this turn.
+
+#93 [R] Postmortem Professor  {1}{B}  Creature — Zombie Warlock  2/2   || GIH 60.2% (n=11377) OH 63.1 IWD +4.9 ALSA 2.4 GP 57.5
+     This creature can't block.
+     Whenever this creature attacks, each opponent loses 1 life and you gain 1 life.
+     {1}{B}, Exile an instant or sorcery card from your graveyard: Return this card from your graveyard to the battlefield.
+
+#94 [R] Pox Plague  {B}{B}{B}{B}{B}  Sorcery   || GIH 40.7% (n=54) OH 33.3 IWD -6.7 ALSA 5.6 GP 44.2
+     Each player loses half their life, then discards half the cards in their hand, then sacrifices half the permanents they control of their choice. Round down each time.
+
+#95 [C] Pull from the Grave  {2}{B}  Sorcery   || GIH 53.0% (n=16806) OH 49.3 IWD -0.8 ALSA 5.9 GP 53.5
+     Return up to two target creature cards from your graveyard to your hand. You gain 2 life.
+
+#96 [U] Rabid Attack  {1}{B}  Instant   || GIH 50.9% (n=4469) OH 48.2 IWD -3.8 ALSA 5.7 GP 53.1
+     Until end of turn, any number of target creatures you control each get +1/+0 and gain "When this creature dies, draw a card."
+
+#97 [M] Ral Zarek, Guest Lecturer  {1}{B}{B}  Legendary Planeswalker — Ral   || GIH 54.4% (n=3906) OH 53.6 IWD +1.7 ALSA 1.7 GP 53.5
+     +1: Surveil 2.
+     −1: Any number of target players each discard a card.
+     −2: Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+     −7: Flip five coins. Target opponent skips their next X turns, where X is the number of coins that came up heads.
+
+#98 [U] Scathing Shadelock // Venomous Words  {4}{B} // {B}  Creature — Snake Warlock // Sorcery  4/6   || GIH 52.8% (n=10363) OH 51.5 IWD -1.4 ALSA 4.7 GP 53.6
+  == Scathing Shadelock {4}{B} Creature — Snake Warlock 4/6
+     At the beginning of your first main phase, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Venomous Words {B} Sorcery
+     Target creature you control gets +2/+0 and gains deathtouch until end of turn.
+
+#99 [R] Scheming Silvertongue // Sign in Blood  {1}{B} // {B}{B}  Creature — Vampire Warlock // Sorcery  1/3   || GIH 59.2% (n=11576) OH 59.8 IWD +4.7 ALSA 1.9 GP 56.6
+  == Scheming Silvertongue {1}{B} Creature — Vampire Warlock 1/3
+     Flying, lifelink
+     At the beginning of your second main phase, if you gained 2 or more life this turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Sign in Blood {B}{B} Sorcery
+     Target player draws two cards and loses 2 life.
+
+#100 [C] Send in the Pest  {1}{B}  Sorcery   || GIH 55.4% (n=31692) OH 55.7 IWD +1.0 ALSA 5.2 GP 55.0
+     Each opponent discards a card. You create a 1/1 black and green Pest creature token with "Whenever this token attacks, you gain 1 life."
+
+#101 [C] Sneering Shadewriter  {4}{B}  Creature — Vampire Warlock  3/3   || GIH 53.5% (n=20627) OH 51.2 IWD -0.8 ALSA 5.7 GP 53.9
+     Flying
+     When this creature enters, each opponent loses 2 life and you gain 2 life.
+
+#102 [R] Tragedy Feaster  {2}{B}{B}  Creature — Demon  7/6   || GIH 55.9% (n=7972) OH 54.2 IWD +1.6 ALSA 2.8 GP 55.0
+     Trample
+     Ward—Discard a card.
+     Infusion — At the beginning of your end step, sacrifice a permanent unless you gained life this turn.
+
+#103 [C] Ulna Alley Shopkeep  {2}{B}  Creature — Goblin Warlock  2/3   || GIH 50.1% (n=5973) OH 50.3 IWD -2.3 ALSA 6.3 GP 51.4
+     Menace (This creature can't be blocked except by two or more creatures.)
+     Infusion — This creature gets +2/+0 as long as you gained life this turn.
+
+#104 [C] Wander Off  {3}{B}  Instant   || GIH 56.3% (n=47942) OH 53.6 IWD +2.3 ALSA 3.7 GP 55.2
+     Exile target creature.
+
+#105 [M] Withering Curse  {1}{B}{B}  Sorcery   || GIH 54.7% (n=3049) OH 51.1 IWD +1.8 ALSA 2.6 GP 53.7
+     All creatures get -2/-2 until end of turn.
+     Infusion — If you gained life this turn, destroy all creatures instead.
+
+#106 [C] Ancestral Anger  {R}  Sorcery   || GIH 53.1% (n=7850) OH 51.9 IWD -0.5 ALSA 6.4 GP 53.3
+     Target creature gains trample and gets +X/+0 until end of turn, where X is 1 plus the number of cards named Ancestral Anger in your graveyard.
+     Draw a card.
+
+#107 [U] Archaic's Agony  {4}{R}  Sorcery   || GIH 57.0% (n=19444) OH 51.8 IWD +5.7 ALSA 5.5 GP 54.3
+     Converge — Archaic's Agony deals X damage to target creature, where X is the number of colors of mana spent to cast this spell. Exile cards from the top of your library equal to the excess damage dealt to that creature this way. You may play those cards until the end of your next turn.
+
+#108 [U] Artistic Process  {3}{R}{R}  Sorcery   || GIH 58.0% (n=31012) OH 54.2 IWD +4.7 ALSA 3.7 GP 55.7
+     Choose one —
+     • Artistic Process deals 6 damage to target creature.
+     • Artistic Process deals 2 damage to each creature you don't control.
+     • Create a 3/3 blue and red Elemental creature token with flying. It gains haste until end of turn.
+
+#109 [U] Blazing Firesinger // Seething Song  {2}{R} // {2}{R}  Creature — Dwarf Bard // Instant  2/3   || GIH 50.8% (n=9166) OH 49.8 IWD -0.5 ALSA 5.2 GP 51.0
+  == Blazing Firesinger {2}{R} Creature — Dwarf Bard 2/3
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Seething Song {2}{R} Instant
+     Add {R}{R}{R}{R}{R}.
+
+#110 [U] Charging Strifeknight  {2}{R}  Creature — Spirit Knight  3/3   || GIH 57.3% (n=28333) OH 57.1 IWD +2.1 ALSA 4.3 GP 56.2
+     Haste
+     {T}, Discard a card: Draw a card.
+
+#111 [R] Choreographed Sparks  {R}{R}  Instant   || GIH 45.5% (n=1056) OH 41.5 IWD -3.9 ALSA 5.2 GP 47.6
+     This spell can't be copied.
+     Choose one or both —
+     • Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+     • Copy target creature spell you control. The copy gains haste and "At the beginning of the end step, sacrifice this token."
+
+#112 [U] Duel Tactics  {R}  Sorcery   || GIH 56.0% (n=10370) OH 53.7 IWD +1.0 ALSA 5.6 GP 55.4
+     Duel Tactics deals 1 damage to target creature. It can't block this turn.
+     Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#113 [M] Emeritus of Conflict // Lightning Bolt  {1}{R} // {R}  Creature — Human Wizard // Instant  2/2   || GIH 55.6% (n=6346) OH 54.3 IWD +2.2 ALSA 2.2 GP 54.4
+  == Emeritus of Conflict {1}{R} Creature — Human Wizard 2/2
+     First strike
+     Whenever you cast your third spell each turn, this creature becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Lightning Bolt {R} Instant
+     Lightning Bolt deals 3 damage to any target.
+
+#114 [C] Expressive Firedancer  {1}{R}  Creature — Human Sorcerer  2/2   || GIH 55.9% (n=41147) OH 56.5 IWD +1.8 ALSA 5.5 GP 55.0
+     Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, this creature also gains double strike until end of turn.
+
+#115 [R] Flashback  {R}  Instant   || GIH 55.1% (n=9004) OH 49.3 IWD +2.2 ALSA 3.9 GP 54.0
+     Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)
+
+#116 [U] Garrison Excavator  {3}{R}  Creature — Orc Sorcerer  3/4   || GIH 57.5% (n=25465) OH 56.5 IWD +0.5 ALSA 4.2 GP 57.2
+     Menace (This creature can't be blocked except by two or more creatures.)
+     Whenever one or more cards leave your graveyard, create a 2/2 red and white Spirit creature token.
+
+#117 [C] Goblin Glasswright // Craft with Pride  {1}{R} // {R}  Creature — Goblin Sorcerer // Sorcery  2/2   || GIH 54.3% (n=48695) OH 54.2 IWD +1.7 ALSA 4.9 GP 53.5
+  == Goblin Glasswright {1}{R} Creature — Goblin Sorcerer 2/2
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Craft with Pride {R} Sorcery
+     Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+#118 [C] Heated Argument  {4}{R}  Instant   || GIH 56.3% (n=55425) OH 52.7 IWD +2.6 ALSA 5.0 GP 55.1
+     Heated Argument deals 6 damage to target creature. You may exile a card from your graveyard. If you do, Heated Argument also deals 2 damage to that creature's controller.
+
+#119 [U] Impractical Joke  {R}  Sorcery   || GIH 59.2% (n=38059) OH 57.8 IWD +5.3 ALSA 2.9 GP 56.7
+     Damage can't be prevented this turn. Impractical Joke deals 3 damage to up to one target creature or planeswalker.
+
+#120 [M] Improvisation Capstone  {5}{R}{R}  Sorcery — Lesson   || GIH 63.4% (n=9163) OH 61.7 IWD +11.1 ALSA 1.8 GP 58.0
+     Exile cards from the top of your library until you exile cards with total mana value 4 or greater. You may cast any number of spells from among them without paying their mana costs.
+     Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+#121 [U] Living History  {1}{R}  Enchantment   || GIH 57.1% (n=23257) OH 57.7 IWD -0.7 ALSA 5.0 GP 57.5
+     When this enchantment enters, create a 2/2 red and white Spirit creature token.
+     Whenever you attack, if a card left your graveyard this turn, target attacking creature gets +2/+0 until end of turn.
+
+#122 [R] Maelstrom Artisan // Rocket Volley  {1}{R}{R} // {1}{R}  Creature — Minotaur Sorcerer // Sorcery  3/2   || GIH 52.6% (n=3782) OH 51.0 IWD +0.6 ALSA 4.5 GP 52.2
+  == Maelstrom Artisan {1}{R}{R} Creature — Minotaur Sorcerer 3/2
+     Haste
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Rocket Volley {1}{R} Sorcery
+     Destroy target nonbasic land.
+
+#123 [R] Magmablood Archaic  {2/R}{2/R}{2/R}  Creature — Avatar  2/2   || GIH 57.5% (n=14168) OH 54.3 IWD +5.0 ALSA 2.4 GP 54.9
+     Reach, trample
+     Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+     Whenever you cast an instant or sorcery spell, creatures you control get +1/+0 until end of turn for each color of mana spent to cast that spell.
+
+#124 [U] Mica, Reader of Ruins  {3}{R}  Legendary Creature — Human Artificer  4/4   || GIH 53.8% (n=8030) OH 51.1 IWD +2.3 ALSA 5.5 GP 52.6
+     Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+     Whenever you cast an instant or sorcery spell, you may sacrifice an artifact. If you do, copy that spell and you may choose new targets for the copy.
+
+#125 [R] Molten-Core Maestro  {1}{R}  Creature — Goblin Bard  2/2   || GIH 59.7% (n=16326) OH 60.8 IWD +6.5 ALSA 1.9 GP 56.4
+     Menace
+     Opus — Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If five or more mana was spent to cast that spell, add an amount of {R} equal to this creature's power.
+
+#126 [U] Pigment Wrangler // Striking Palette  {4}{R} // {R}  Creature — Orc Sorcerer // Sorcery  4/4   || GIH 52.0% (n=17405) OH 49.0 IWD -0.1 ALSA 4.2 GP 52.1
+  == Pigment Wrangler {4}{R} Creature — Orc Sorcerer 4/4
+     Flying
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Striking Palette {R} Sorcery
+     When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+
+#127 [C] Rearing Embermare  {4}{R}  Creature — Horse Beast  4/5   || GIH 50.2% (n=5595) OH 47.8 IWD -1.4 ALSA 6.5 GP 51.0
+     Reach, haste
+
+#128 [C] Rubble Rouser  {2}{R}  Creature — Dwarf Sorcerer  1/4   || GIH 58.3% (n=66846) OH 59.1 IWD +3.7 ALSA 4.8 GP 56.7
+     When this creature enters, you may discard a card. If you do, draw a card.
+     {T}, Exile a card from your graveyard: Add {R}. When you do, this creature deals 1 damage to each opponent.
+
+#129 [C] Seize the Spoils  {2}{R}  Sorcery   || GIH 55.2% (n=38564) OH 53.4 IWD +2.3 ALSA 5.6 GP 54.0
+     As an additional cost to cast this spell, discard a card.
+     Draw two cards and create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+#130 [R] Steal the Show  {2}{R}  Sorcery   || GIH 55.0% (n=6844) OH 50.3 IWD +2.9 ALSA 4.3 GP 53.5
+     Choose one or both —
+     • Target player discards any number of cards, then draws that many cards.
+     • Steal the Show deals damage equal to the number of instant and sorcery cards in your graveyard to target creature or planeswalker.
+
+#131 [C] Strife Scholar // Awaken the Ages  {2}{R} // {5}{R}  Creature — Orc Sorcerer // Sorcery  3/2   || GIH 51.5% (n=14793) OH 50.0 IWD -1.0 ALSA 6.0 GP 52.0
+  == Strife Scholar {2}{R} Creature — Orc Sorcerer 3/2
+     Ward—Pay 2 life.
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Awaken the Ages {5}{R} Sorcery
+     Create two 2/2 red and white Spirit creature tokens.
+
+#132 [U] Tablet of Discovery  {2}{R}  Artifact   || GIH 57.2% (n=26997) OH 55.5 IWD +4.5 ALSA 4.2 GP 55.0
+     When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)
+     {T}: Add {R}.
+     {T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.
+
+#133 [C] Tackle Artist  {3}{R}  Creature — Orc Sorcerer  4/3   || GIH 53.5% (n=27729) OH 51.8 IWD +1.1 ALSA 5.7 GP 52.9
+     Trample
+     Opus — Whenever you cast an instant or sorcery spell, put a +1/+1 counter on this creature. If five or more mana was spent to cast that spell, put two +1/+1 counters on this creature instead.
+
+#134 [U] Thunderdrum Soloist  {1}{R}  Creature — Dwarf Bard  1/3   || GIH 55.9% (n=20712) OH 55.0 IWD +2.8 ALSA 4.3 GP 54.6
+     Reach
+     Opus — Whenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent. If five or more mana was spent to cast that spell, this creature deals 3 damage to each opponent instead.
+
+#135 [C] Tome Blast  {1}{R}  Sorcery   || GIH 58.1% (n=77955) OH 55.6 IWD +3.7 ALSA 4.1 GP 56.4
+     Tome Blast deals 2 damage to any target.
+     Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#136 [C] Unsubtle Mockery  {2}{R}  Instant   || GIH 58.1% (n=77826) OH 56.7 IWD +4.7 ALSA 3.7 GP 55.9
+     Unsubtle Mockery deals 4 damage to target creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#137 [C] Zealous Lorecaster  {5}{R}  Creature — Giant Sorcerer  4/4   || GIH 55.6% (n=42223) OH 50.1 IWD +2.6 ALSA 5.7 GP 54.3
+     When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+
+#138 [U] Aberrant Manawurm  {3}{G}  Creature — Wurm  2/5   || GIH 50.2% (n=7617) OH 47.7 IWD -1.2 ALSA 5.3 GP 50.8
+     Trample
+     Whenever you cast an instant or sorcery spell, this creature gets +X/+0 until end of turn, where X is the amount of mana spent to cast that spell.
+
+#139 [U] Additive Evolution  {3}{G}{G}  Enchantment   || GIH 58.0% (n=21927) OH 56.6 IWD +6.0 ALSA 3.6 GP 55.0
+     When this enchantment enters, create a 0/0 green and blue Fractal creature token. Put three +1/+1 counters on it.
+     At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. It gains vigilance until end of turn.
+
+#140 [R] Ambitious Augmenter  {G}  Creature — Turtle Wizard  1/1   || GIH 60.4% (n=12296) OH 63.0 IWD +7.9 ALSA 2.2 GP 56.2
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     When this creature dies, if it had one or more counters on it, create a 0/0 green and blue Fractal creature token, then put this creature's counters on that token.
+
+#141 [C] Burrog Barrage  {1}{G}  Instant   || GIH 55.7% (n=36365) OH 52.8 IWD +3.2 ALSA 5.1 GP 54.1
+     Target creature you control gets +1/+0 until end of turn if you've cast another instant or sorcery spell this turn. Then it deals damage equal to its power to up to one target creature an opponent controls.
+
+#142 [U] Chelonian Tackle  {2}{G}  Sorcery   || GIH 51.0% (n=6765) OH 48.0 IWD -1.2 ALSA 5.5 GP 51.7
+     Target creature you control gets +0/+10 until end of turn. Then it fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)
+
+#143 [R] Comforting Counsel  {1}{G}  Enchantment   || GIH 46.9% (n=2601) OH 44.8 IWD -5.9 ALSA 4.3 GP 50.2
+     Whenever you gain life, put a growth counter on this enchantment.
+     As long as there are five or more growth counters on this enchantment, creatures you control get +3/+3.
+
+#144 [C] Efflorescence  {2}{G}  Instant   || GIH 50.6% (n=2727) OH 47.4 IWD +0.5 ALSA 6.5 GP 50.3
+     Put two +1/+1 counters on target creature.
+     Infusion — If you gained life this turn, that creature also gains trample and indestructible until end of turn.
+
+#145 [M] Emeritus of Abundance // Regrowth  {2}{G} // {1}{G}  Creature — Elf Druid // Sorcery  3/4   || GIH 60.1% (n=6373) OH 56.6 IWD +8.6 ALSA 1.6 GP 55.7
+  == Emeritus of Abundance {2}{G} Creature — Elf Druid 3/4
+     Vigilance
+     This creature enters prepared.
+     Whenever this creature attacks, if you control eight or more lands, this creature becomes prepared.
+  == Regrowth {1}{G} Sorcery
+     Return target card from your graveyard to your hand.
+
+#146 [U] Emil, Vastlands Roamer  {2}{G}  Legendary Creature — Elf Druid  3/3   || GIH 53.9% (n=16347) OH 51.3 IWD +2.4 ALSA 4.2 GP 52.7
+     Creatures you control with +1/+1 counters on them have trample.
+     {4}{G}, {T}: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it, where X is the number of differently named lands you control.
+
+#147 [U] Environmental Scientist  {1}{G}  Creature — Human Druid  2/2   || GIH 60.9% (n=30676) OH 62.0 IWD +9.5 ALSA 2.8 GP 56.2
+     When this creature enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+#148 [C] Follow the Lumarets  {1}{G}  Sorcery   || GIH 52.4% (n=12735) OH 50.9 IWD -1.0 ALSA 6.1 GP 52.9
+     Infusion — Look at the top four cards of your library. You may reveal a creature or land card from among them and put it into your hand. If you gained life this turn, you may instead reveal two creature and/or land cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+
+#149 [M] Germination Practicum  {3}{G}{G}  Sorcery — Lesson   || GIH 59.4% (n=6146) OH 57.0 IWD +9.0 ALSA 1.6 GP 54.6
+     Put two +1/+1 counters on each creature you control.
+     Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+#150 [C] Glorious Decay  {1}{G}  Instant   || GIH 51.3% (n=3075) OH 47.7 IWD +2.4 ALSA 6.5 GP 50.0
+     Choose one —
+     • Destroy target artifact.
+     • Glorious Decay deals 4 damage to target creature with flying.
+     • Exile target card from a graveyard. Draw a card.
+
+#151 [C] Hungry Graffalon  {3}{G}  Creature — Giraffe  3/4   || GIH 51.3% (n=7295) OH 48.5 IWD -0.4 ALSA 6.3 GP 51.5
+     Reach
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+
+#152 [U] Infirmary Healer // Stream of Life  {1}{G} // {X}{G}  Creature — Cat Cleric // Sorcery  2/3   || GIH 54.1% (n=16941) OH 52.0 IWD +0.5 ALSA 4.7 GP 53.9
+  == Infirmary Healer {1}{G} Creature — Cat Cleric 2/3
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Stream of Life {X}{G} Sorcery
+     Target player gains X life.
+
+#153 [U] Lumaret's Favor  {1}{G}  Instant   || GIH 53.4% (n=3568) OH 51.6 IWD -0.1 ALSA 6.0 GP 53.5
+     Infusion — When you cast this spell, copy it if you gained life this turn. You may choose new targets for the copy.
+     Target creature gets +2/+4 until end of turn.
+
+#154 [C] Mindful Biomancer  {1}{G}  Creature — Dryad Druid  2/2   || GIH 53.6% (n=25954) OH 53.1 IWD +0.5 ALSA 5.6 GP 53.4
+     When this creature enters, you gain 1 life.
+     {2}{G}: This creature gets +2/+2 until end of turn. Activate only once each turn.
+
+#155 [C] Noxious Newt  {1}{G}  Creature — Salamander  1/2   || GIH 55.6% (n=43275) OH 56.0 IWD +3.0 ALSA 4.3 GP 54.2
+     Deathtouch
+     {T}: Add {G}.
+
+#156 [C] Oracle's Restoration  {G}  Sorcery   || GIH 50.6% (n=5706) OH 49.7 IWD -1.4 ALSA 6.3 GP 51.4
+     Target creature you control gets +1/+1 until end of turn. You draw a card and gain 1 life.
+
+#157 [U] Pestbrood Sloth  {3}{G}  Creature — Plant Sloth  4/4   || GIH 59.2% (n=24813) OH 59.3 IWD +6.4 ALSA 3.6 GP 55.9
+     Reach
+     When this creature dies, create two 1/1 black and green Pest creature tokens with "Whenever this token attacks, you gain 1 life."
+
+#158 [R] Planar Engineering  {3}{G}  Sorcery   || GIH 56.3% (n=5671) OH 54.2 IWD +6.6 ALSA 4.1 GP 52.7
+     Sacrifice two lands. Search your library for four basic land cards, put them onto the battlefield tapped, then shuffle.
+
+#159 [C] Shopkeeper's Bane  {2}{G}  Creature — Badger Pest  4/2   || GIH 53.9% (n=20271) OH 53.6 IWD +0.7 ALSA 5.7 GP 53.6
+     Trample
+     Whenever this creature attacks, you gain 2 life.
+
+#160 [R] Slumbering Trudge  {X}{G}  Creature — Plant Beast  6/6   || GIH 59.9% (n=13058) OH 61.8 IWD +7.7 ALSA 2.2 GP 56.0
+     This creature enters with a number of stun counters on it equal to three minus X. If X is 2 or less, it enters tapped. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+#161 [U] Snarl Song  {5}{G}  Sorcery   || GIH 62.0% (n=38874) OH 57.3 IWD +13.4 ALSA 4.0 GP 56.2
+     Converge — Create two 0/0 green and blue Fractal creature tokens. Put X +1/+1 counters on each of them and you gain X life, where X is the number of colors of mana spent to cast this spell.
+
+#162 [C] Studious First-Year // Rampant Growth  {G} // {1}{G}  Creature — Bear Wizard // Sorcery  1/1   || GIH 56.8% (n=51103) OH 59.7 IWD +5.5 ALSA 3.7 GP 54.2
+  == Studious First-Year {G} Creature — Bear Wizard 1/1
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Rampant Growth {1}{G} Sorcery
+     Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+
+#163 [C] Tenured Concocter  {4}{G}  Creature — Troll Druid  4/5   || GIH 52.5% (n=16888) OH 50.2 IWD +0.0 ALSA 6.0 GP 52.5
+     Vigilance
+     Whenever this creature becomes the target of a spell or ability an opponent controls, you may draw a card.
+     Infusion — This creature gets +2/+0 as long as you gained life this turn.
+
+#164 [U] Thornfist Striker  {2}{G}  Creature — Elf Druid  3/3   || GIH 56.3% (n=15096) OH 56.5 IWD +3.5 ALSA 4.6 GP 54.5
+     Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+     Infusion — Creatures you control get +1/+0 and have trample as long as you gained life this turn.
+
+#165 [U] Topiary Lecturer  {2}{G}  Creature — Elf Druid  1/2   || GIH 55.0% (n=15183) OH 54.7 IWD +4.3 ALSA 4.2 GP 52.8
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     {T}: Add an amount of {G} equal to this creature's power.
+
+#166 [R] Vastlands Scavenger // Bind to Life  {1}{G}{G} // {4}{G}  Creature — Bear Druid // Instant  4/4   || GIH 57.2% (n=10036) OH 55.7 IWD +4.7 ALSA 2.2 GP 54.7
+  == Vastlands Scavenger {1}{G}{G} Creature — Bear Druid 4/4
+     Deathtouch
+     This creature enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Bind to Life {4}{G} Instant
+     Mill seven cards. Then put a creature card from among them onto the battlefield.
+
+#167 [C] Wild Hypothesis  {X}{G}  Sorcery   || GIH 53.0% (n=15338) OH 48.8 IWD +2.8 ALSA 5.9 GP 51.7
+     Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on it.
+     Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+#168 [R] Wildgrowth Archaic  {2/G}{2/G}  Creature — Avatar  0/0   || GIH 56.9% (n=12224) OH 57.2 IWD +5.5 ALSA 1.9 GP 54.1
+     Reach, trample
+     Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+     Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it, where X is the number of colors of mana spent to cast it.
+
+#169 [U] Zimone's Experiment  {3}{G}  Sorcery   || GIH 52.5% (n=8391) OH 50.9 IWD +2.7 ALSA 5.3 GP 51.1
+     Look at the top five cards of your library. You may reveal up to two creature and/or land cards from among them, then put the rest on the bottom of your library in a random order. Put all land cards revealed this way onto the battlefield tapped and put all creature cards revealed this way into your hand.
+
+#170 [U] Abigale, Poet Laureate // Heroic Stanza  {1}{W}{B} // {1}{W/B}  Legendary Creature — Bird Bard // Sorcery  2/3   || GIH 55.2% (n=17231) OH 55.4 IWD -1.4 ALSA 3.8 GP 56.0
+  == Abigale, Poet Laureate {1}{W}{B} Legendary Creature — Bird Bard 2/3
+     Flying
+     Whenever you cast a creature spell, Abigale becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Heroic Stanza {1}{W/B} Sorcery
+     Put a +1/+1 counter on target creature.
+
+#171 [U] Abstract Paintmage  {U}{U/R}{R}  Creature — Djinn Sorcerer  2/2   || GIH 50.6% (n=11507) OH 49.4 IWD +0.2 ALSA 5.0 GP 50.5
+     At the beginning of your first main phase, add {U}{R}. Spend this mana only to cast instant and sorcery spells.
+
+#172 [R] Applied Geometry  {2}{G}{U}  Sorcery   || GIH 58.6% (n=14249) OH 55.4 IWD +8.6 ALSA 2.4 GP 54.3
+     Create a token that's a copy of target non-Aura permanent you control, except it's a 0/0 Fractal creature in addition to its other types. Put six +1/+1 counters on it.
+
+#173 [R] Ark of Hunger  {2}{R}{W}  Artifact   || GIH 63.5% (n=18819) OH 62.5 IWD +9.3 ALSA 2.1 GP 58.8
+     Whenever one or more cards leave your graveyard, this artifact deals 1 damage to each opponent and you gain 1 life.
+     {T}: Mill a card. You may play that card this turn.
+
+#174 [R] Aziza, Mage Tower Captain  {R}{W}  Legendary Creature — Djinn Sorcerer  2/2   || GIH 53.9% (n=8579) OH 55.0 IWD -1.2 ALSA 3.7 GP 54.5
+     Whenever you cast an instant or sorcery spell, you may tap three untapped creatures you control. If you do, copy that spell. You may choose new targets for the copy.
+
+#175 [R] Berta, Wise Extrapolator  {2}{G}{U}  Legendary Creature — Frog Druid  1/4   || GIH 56.2% (n=11665) OH 54.1 IWD +6.4 ALSA 2.3 GP 53.0
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     Whenever one or more +1/+1 counters are put on Berta, add one mana of any color.
+     {X}, {T}: Create a 0/0 green and blue Fractal creature token and put X +1/+1 counters on it.
+
+#176 [R] Blech, Loafing Pest  {1}{B}{G}  Legendary Creature — Pest  3/4   || GIH 59.8% (n=8478) OH 60.6 IWD +8.4 ALSA 2.5 GP 55.3
+     Whenever you gain life, put a +1/+1 counter on each Pest, Bat, Insect, Snake, and Spider you control.
+
+#177 [C] Bogwater Lumaret  {B}{G}  Creature — Spirit Frog  2/2   || GIH 55.9% (n=31555) OH 56.8 IWD +3.8 ALSA 4.5 GP 54.2
+     Whenever this creature or another creature you control enters, you gain 1 life.
+
+#178 [U] Borrowed Knowledge  {2}{R}{W}  Sorcery   || GIH 46.4% (n=778) OH 46.4 IWD -3.1 ALSA 6.3 GP 48.1
+     Choose one —
+     • Discard your hand, then draw cards equal to the number of cards in target opponent's hand.
+     • Discard your hand, then draw cards equal to the number of cards discarded this way.
+
+#179 [R] Cauldron of Essence  {1}{B}{G}  Artifact   || GIH 55.3% (n=7979) OH 51.8 IWD +3.3 ALSA 2.6 GP 53.4
+     Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.
+     {1}{B}{G}, {T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.
+
+#180 [R] Colorstorm Stallion  {1}{U}{R}  Creature — Elemental Horse  3/3   || GIH 62.8% (n=16676) OH 62.1 IWD +12.3 ALSA 2.1 GP 56.9
+     Ward {1}, haste
+     Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+1 until end of turn. If five or more mana was spent to cast that spell, create a token that's a copy of this creature.
+
+#181 [U] Colossus of the Blood Age  {4}{R}{W}  Artifact Creature — Construct  6/6   || GIH 59.0% (n=33560) OH 56.1 IWD +3.8 ALSA 3.8 GP 57.1
+     When this creature enters, it deals 3 damage to each opponent and you gain 3 life.
+     When this creature dies, discard any number of cards, then draw that many cards plus one.
+
+#182 [R] Conciliator's Duelist  {W}{W}{B}{B}  Creature — Kor Warlock  4/3   || GIH 60.1% (n=10998) OH 59.2 IWD +5.2 ALSA 2.8 GP 57.4
+     When this creature enters, draw a card. Each player loses 1 life.
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, exile up to one target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+#183 [U] Cuboid Colony  {G}{U}  Creature — Insect  1/1   || GIH 56.1% (n=18194) OH 56.2 IWD +4.8 ALSA 4.2 GP 53.8
+     Flash
+     Flying, trample
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+
+#184 [R] Dina's Guidance  {1}{B}{G}  Instant   || GIH 46.0% (n=643) OH 44.0 IWD -3.7 ALSA 4.9 GP 48.3
+     Search your library for a creature card, reveal it, put it into your hand or graveyard, then shuffle.
+
+#185 [C] Elemental Mascot  {1}{U}{R}  Creature — Elemental Bird  1/4   || GIH 55.1% (n=34506) OH 53.1 IWD +3.8 ALSA 5.5 GP 53.4
+     Flying, vigilance
+     Opus — Whenever you cast an instant or sorcery spell, this creature gets +1/+0 until end of turn. If five or more mana was spent to cast that spell, exile the top card of your library. You may play that card until the end of your next turn.
+
+#186 [C] Embrace the Paradox  {3}{G}{U}  Instant   || GIH 56.5% (n=42806) OH 52.3 IWD +5.3 ALSA 5.4 GP 54.0
+     Draw three cards. You may put a land card from your hand onto the battlefield tapped.
+
+#187 [U] Essenceknit Scholar  {B}{B/G}{G}  Creature — Dryad Warlock  3/1   || GIH 58.1% (n=17705) OH 59.1 IWD +5.6 ALSA 3.5 GP 55.2
+     When this creature enters, create a 1/1 black and green Pest creature token with "Whenever this token attacks, you gain 1 life."
+     At the beginning of your end step, if a creature died under your control this turn, draw a card.
+
+#188 [R] Fix What's Broken  {2}{W}{B}  Sorcery   || GIH 47.4% (n=1656) OH 43.0 IWD -5.7 ALSA 4.7 GP 50.7
+     As an additional cost to cast this spell, pay X life.
+     Return each artifact and creature card with mana value X from your graveyard to the battlefield.
+
+#189 [C] Fractal Mascot  {4}{G}{U}  Creature — Fractal Elk  6/6   || GIH 54.9% (n=26088) OH 50.2 IWD +4.6 ALSA 5.8 GP 52.7
+     Trample
+     When this creature enters, tap target creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+#190 [U] Fractal Tender  {3}{G}{U}  Creature — Elf Wizard  3/3   || GIH 53.8% (n=15676) OH 51.6 IWD +3.2 ALSA 4.4 GP 52.2
+     Ward {2}
+     Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+     At the beginning of each end step, if you put a counter on this creature this turn, create a 0/0 green and blue Fractal creature token and put three +1/+1 counters on it.
+
+#191 [R] Geometer's Arthropod  {G}{U}  Creature — Fractal Crab  1/4   || GIH 54.6% (n=4725) OH 55.0 IWD +1.1 ALSA 4.4 GP 54.0
+     Whenever you cast a spell with {X} in its mana cost, look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
+
+#192 [C] Grapple with Death  {1}{B}{G}  Sorcery   || GIH 56.8% (n=42388) OH 54.0 IWD +4.4 ALSA 3.9 GP 54.7
+     Destroy target artifact or creature. You gain 1 life.
+
+#193 [U] Growth Curve  {G}{U}  Sorcery   || GIH 49.8% (n=2419) OH 47.4 IWD +0.5 ALSA 6.0 GP 49.5
+     Put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on that creature.
+
+#194 [R] Hardened Academic  {R}{W}  Creature — Bird Cleric  2/1   || GIH 61.2% (n=13893) OH 62.4 IWD +5.6 ALSA 2.7 GP 58.3
+     Flying, haste
+     Discard a card: This creature gains lifelink until end of turn.
+     Whenever one or more cards leave your graveyard, put a +1/+1 counter on target creature you control.
+
+#195 [C] Imperious Inkmage  {1}{W}{B}  Creature — Orc Warlock  3/3   || GIH 57.7% (n=35023) OH 58.6 IWD +0.4 ALSA 5.7 GP 57.5
+     Vigilance
+     When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+#196 [C] Inkling Mascot  {W}{B}  Creature — Inkling Cat  2/2   || GIH 57.0% (n=39365) OH 58.0 IWD -0.9 ALSA 5.5 GP 57.4
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature gains flying until end of turn. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#197 [U] Killian's Confidence  {W}{B}  Sorcery   || GIH 57.2% (n=18419) OH 56.7 IWD +0.0 ALSA 4.2 GP 57.2
+     Target creature gets +1/+1 until end of turn. Draw a card.
+     Whenever one or more creatures you control deal combat damage to a player, you may pay {W/B}. If you do, return this card from your graveyard to your hand.
+
+#198 [U] Kirol, History Buff // Pack a Punch  {R}{W} // {1}{R}{W}  Legendary Creature — Vampire Cleric // Sorcery  2/3   || GIH 56.7% (n=23965) OH 57.5 IWD -0.5 ALSA 4.3 GP 57.0
+  == Kirol, History Buff {R}{W} Legendary Creature — Vampire Cleric 2/3
+     Whenever one or more cards leave your graveyard, Kirol becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Pack a Punch {1}{R}{W} Sorcery
+     Mill a card. Put two +1/+1 counters on target creature. It gains trample until end of turn.
+
+#199 [U] Lluwen, Exchange Student // Pest Friend  {2}{B}{G} // {B/G}  Legendary Creature — Elf Druid // Sorcery  3/4   || GIH 56.7% (n=15588) OH 54.2 IWD +3.9 ALSA 3.7 GP 54.6
+  == Lluwen, Exchange Student {2}{B}{G} Legendary Creature — Elf Druid 3/4
+     Lluwen enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+     Exile a creature card from your graveyard: Lluwen becomes prepared. Activate only as a sorcery.
+  == Pest Friend {B/G} Sorcery
+     Create a 1/1 black and green Pest creature token with "Whenever this token attacks, you gain 1 life."
+
+#200 [U] Lorehold Charm  {R}{W}  Instant   || GIH 54.3% (n=12433) OH 52.2 IWD -1.5 ALSA 5.2 GP 55.1
+     Choose one —
+     • Each opponent sacrifices a nontoken artifact of their choice.
+     • Return target artifact or creature card with mana value 2 or less from your graveyard to the battlefield.
+     • Creatures you control get +1/+1 and gain trample until end of turn.
+
+#201 [M] Lorehold, the Historian  {3}{R}{W}  Legendary Creature — Elder Dragon  5/5   || GIH 58.8% (n=7182) OH 56.4 IWD +5.4 ALSA 1.5 GP 55.9
+     Flying, haste
+     Each instant and sorcery card in your hand has miracle {2}. (You may cast a card for its miracle cost when you draw it if it's the first card you drew this turn.)
+     At the beginning of each opponent's upkeep, you may discard a card. If you do, draw a card.
+
+#202 [R] Mind into Matter  {X}{G}{U}  Sorcery   || GIH 58.8% (n=13714) OH 54.5 IWD +8.8 ALSA 2.6 GP 54.4
+     Draw X cards. Then you may put a permanent card with mana value X or less from your hand onto the battlefield tapped.
+
+#203 [U] Mind Roots  {1}{B}{G}  Sorcery   || GIH 53.4% (n=12079) OH 52.7 IWD +0.9 ALSA 4.7 GP 52.9
+     Target player discards two cards. Put up to one land card discarded this way onto the battlefield tapped under your control.
+
+#204 [U] Molten Note  {X}{R}{W}  Sorcery   || GIH 60.2% (n=34903) OH 58.1 IWD +5.0 ALSA 3.9 GP 57.7
+     Molten Note deals damage to target creature equal to the amount of mana spent to cast this spell. Untap all creatures you control.
+     Flashback {6}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#205 [R] Moment of Reckoning  {3}{W}{W}{B}{B}  Sorcery   || GIH 64.3% (n=14374) OH 60.0 IWD +11.2 ALSA 2.5 GP 58.5
+     Choose up to four. You may choose the same mode more than once.
+     • Destroy target nonland permanent.
+     • Return target nonland permanent card from your graveyard to the battlefield.
+
+#206 [R] Nita, Forum Conciliator  {1}{W}{B}  Legendary Creature — Human Advisor  2/3   || GIH 51.8% (n=4851) OH 49.9 IWD -2.6 ALSA 4.1 GP 53.2
+     Whenever you cast a spell you don't own, put a +1/+1 counter on each creature you control.
+     {2}, Sacrifice another creature: Exile target instant or sorcery card from an opponent's graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead. Activate only as a sorcery.
+
+#207 [U] Old-Growth Educator  {2}{B}{G}  Creature — Treefolk Druid  4/4   || GIH 54.4% (n=12996) OH 53.0 IWD +1.0 ALSA 4.4 GP 53.8
+     Reach, vigilance
+     Infusion — When this creature enters, put two +1/+1 counters on it if you gained life this turn.
+
+#208 [U] Paradox Surveyor  {G}{G/U}{U}  Creature — Elf Druid  3/3   || GIH 58.8% (n=24564) OH 57.7 IWD +7.1 ALSA 4.2 GP 55.5
+     Reach
+     When this creature enters, look at the top five cards of your library. You may reveal a land card or a card with {X} in its mana cost from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+#209 [C] Pest Mascot  {1}{B}{G}  Creature — Pest Ape  2/3   || GIH 54.2% (n=27807) OH 53.7 IWD +0.1 ALSA 4.8 GP 54.1
+     Trample
+     Whenever you gain life, put a +1/+1 counter on this creature.
+
+#210 [U] Practiced Scrollsmith  {R}{R/W}{W}  Creature — Dwarf Cleric  3/2   || GIH 59.6% (n=33334) OH 57.0 IWD +3.8 ALSA 3.7 GP 57.7
+     First strike
+     When this creature enters, exile target noncreature, nonland card from your graveyard. Until the end of your next turn, you may cast that card.
+
+#211 [U] Prismari Charm  {U}{R}  Instant   || GIH 57.3% (n=26078) OH 54.5 IWD +5.8 ALSA 4.3 GP 54.6
+     Choose one —
+     • Surveil 2, then draw a card.
+     • Prismari Charm deals 1 damage to each of one or two targets.
+     • Return target nonland permanent to its owner's hand.
+
+#212 [M] Prismari, the Inspiration  {5}{U}{R}  Legendary Creature — Elder Dragon  7/7   || GIH 55.8% (n=5263) OH 50.8 IWD +6.6 ALSA 2.3 GP 52.5
+     Flying
+     Ward—Pay 5 life.
+     Instant and sorcery spells you cast have storm. (Whenever you cast an instant or sorcery spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+
+#213 [U] Proctor's Gaze  {2}{G}{U}  Instant   || GIH 58.1% (n=28430) OH 55.5 IWD +6.3 ALSA 4.0 GP 55.1
+     Return up to one target nonland permanent to its owner's hand. Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+#214 [M] Professor Dellian Fel  {2}{B}{G}  Legendary Planeswalker — Dellian   || GIH 62.7% (n=6376) OH 60.9 IWD +10.7 ALSA 1.3 GP 57.0
+     +2: You gain 3 life.
+     0: You draw a card and lose 1 life.
+     −3: Destroy target creature.
+     −6: You get an emblem with "Whenever you gain life, target opponent loses that much life."
+
+#215 [C] Pterafractyl  {X}{G}{U}  Creature — Dinosaur Fractal  1/0   || GIH 54.6% (n=31147) OH 49.9 IWD +4.0 ALSA 5.4 GP 52.8
+     Flying
+     This creature enters with X +1/+1 counters on it.
+     When this creature enters, you gain 2 life.
+
+#216 [C] Pursue the Past  {R}{W}  Sorcery   || GIH 59.5% (n=55906) OH 59.1 IWD +3.8 ALSA 5.3 GP 57.7
+     You gain 2 life. You may discard a card. If you do, draw two cards.
+     Flashback {2}{R}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+#217 [U] Quandrix Charm  {G}{U}  Instant   || GIH 57.7% (n=19277) OH 54.9 IWD +6.3 ALSA 4.7 GP 54.6
+     Choose one —
+     • Counter target spell unless its controller pays {2}.
+     • Destroy target enchantment.
+     • Target creature has base power and toughness 5/5 until end of turn.
+
+#218 [M] Quandrix, the Proof  {4}{G}{U}  Legendary Creature — Elder Dragon  6/6   || GIH 61.8% (n=7283) OH 58.6 IWD +12.2 ALSA 1.5 GP 55.8
+     Flying, trample
+     Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+     Instant and sorcery spells you cast from your hand have cascade.
+
+#219 [U] Rapturous Moment  {4}{U}{R}  Sorcery   || GIH 54.2% (n=14099) OH 50.1 IWD +4.9 ALSA 5.1 GP 51.8
+     Draw three cards, then discard two cards. Add {U}{U}{R}{R}{R}.
+
+#220 [C] Render Speechless  {2}{W}{B}  Sorcery   || GIH 58.1% (n=35757) OH 57.0 IWD +1.4 ALSA 5.8 GP 57.4
+     Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+     Put two +1/+1 counters on up to one target creature.
+
+#221 [R] Resonating Lute  {2}{U}{R}  Artifact   || GIH 57.1% (n=13080) OH 55.6 IWD +7.2 ALSA 2.8 GP 53.7
+     Lands you control have "{T}: Add two mana of any one color. Spend this mana only to cast instant and sorcery spells."
+     {T}: Draw a card. Activate only if you have seven or more cards in your hand.
+
+#222 [U] Root Manipulation  {3}{B}{G}  Sorcery   || GIH 53.8% (n=6912) OH 50.7 IWD +1.1 ALSA 5.3 GP 53.2
+     Until end of turn, creatures you control get +2/+2 and gain menace and "Whenever this creature attacks, you gain 1 life." (A creature with menace can't be blocked except by two or more creatures.)
+
+#223 [U] Sanar, Unfinished Genius // Wild Idea  {U}{R} // {3}{U}{R}  Legendary Creature — Goblin Sorcerer // Sorcery  0/4   || GIH 59.0% (n=31931) OH 59.7 IWD +7.9 ALSA 3.5 GP 55.4
+  == Sanar, Unfinished Genius {U}{R} Legendary Creature — Goblin Sorcerer 0/4
+     Sanar enters prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+     {T}: Create a Treasure token. Activate only if you've cast an instant or sorcery spell this turn.
+  == Wild Idea {3}{U}{R} Sorcery
+     Search your library for an instant or sorcery card, reveal it, put it into your hand, then shuffle.
+
+#224 [U] Scolding Administrator  {W}{B}  Creature — Dwarf Cleric  2/2   || GIH 60.7% (n=23299) OH 63.2 IWD +5.1 ALSA 3.6 GP 58.1
+     Menace (This creature can't be blocked except by two or more creatures.)
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, put a +1/+1 counter on this creature.
+     When this creature dies, if it had counters on it, put those counters on up to one target creature.
+
+#225 [U] Silverquill Charm  {W}{B}  Instant   || GIH 59.9% (n=21962) OH 58.9 IWD +3.4 ALSA 4.1 GP 58.2
+     Choose one —
+     • Put two +1/+1 counters on target creature.
+     • Exile target creature with power 2 or less.
+     • Each opponent loses 3 life and you gain 3 life.
+
+#226 [M] Silverquill, the Disputant  {2}{W}{B}  Legendary Creature — Elder Dragon  4/4   || GIH 55.8% (n=4702) OH 54.9 IWD +2.3 ALSA 1.8 GP 54.5
+     Flying, vigilance
+     Each instant and sorcery spell you cast has casualty 1. (As you cast that spell, you may sacrifice a creature with power 1 or greater. When you do, copy the spell and you may choose new targets for the copy.)
+
+#227 [U] Snooping Page  {1}{W}{B}  Creature — Human Cleric  2/3   || GIH 56.5% (n=19658) OH 57.1 IWD -0.1 ALSA 4.0 GP 56.5
+     Repartee — Whenever you cast an instant or sorcery spell that targets a creature, this creature can't be blocked this turn.
+     Whenever this creature deals combat damage to a player, you draw a card and lose 1 life.
+
+#228 [U] Social Snub  {1}{W}{B}  Sorcery   || GIH 52.3% (n=2367) OH 50.3 IWD -0.3 ALSA 5.9 GP 52.5
+     When you cast this spell while you control a creature, you may copy this spell.
+     Each player sacrifices a creature of their choice. Each opponent loses 1 life and you gain 1 life.
+
+#229 [U] Spectacular Skywhale  {2}{U}{R}  Creature — Elemental Whale  1/4   || GIH 52.8% (n=17369) OH 49.3 IWD +1.9 ALSA 4.2 GP 51.9
+     Flying
+     Opus — Whenever you cast an instant or sorcery spell, this creature gets +3/+0 until end of turn. If five or more mana was spent to cast that spell, put three +1/+1 counters on this creature instead.
+
+#230 [C] Spirit Mascot  {R}{W}  Creature — Spirit Ox  2/2   || GIH 56.6% (n=47990) OH 57.5 IWD -1.0 ALSA 5.3 GP 57.1
+     Whenever one or more cards leave your graveyard, put a +1/+1 counter on this creature.
+
+#231 [R] Splatter Technique  {1}{U}{U}{R}{R}  Sorcery   || GIH 61.3% (n=16825) OH 58.5 IWD +11.7 ALSA 2.4 GP 55.9
+     Choose one —
+     • Draw four cards.
+     • Splatter Technique deals 4 damage to each creature and planeswalker.
+
+#232 [C] Stadium Tidalmage  {2}{U}{R}  Creature — Djinn Sorcerer  4/4   || GIH 54.4% (n=26369) OH 53.0 IWD +2.8 ALSA 6.0 GP 53.1
+     Whenever this creature enters or attacks, you may draw a card. If you do, discard a card.
+
+#233 [U] Startled Relic Sloth  {2}{R}{W}  Creature — Sloth Beast  4/4   || GIH 57.7% (n=28226) OH 57.1 IWD +1.2 ALSA 3.8 GP 57.1
+     Trample, lifelink
+     At the beginning of combat on your turn, exile up to one target card from a graveyard.
+
+#234 [U] Stirring Honormancer  {2}{W}{W/B}{B}  Creature — Rhino Bard  4/5   || GIH 58.5% (n=22159) OH 57.1 IWD +2.1 ALSA 4.4 GP 57.5
+     When this creature enters, look at the top X cards of your library, where X is the number of creatures you control. Put one of those cards into your hand and the rest into your graveyard.
+
+#235 [U] Stress Dream  {3}{U}{R}  Instant   || GIH 60.0% (n=38821) OH 56.9 IWD +8.8 ALSA 3.2 GP 56.1
+     Stress Dream deals 5 damage to up to one target creature. Look at the top two cards of your library. Put one of those cards into your hand and the other on the bottom of your library.
+
+#236 [R] Suspend Aggression  {1}{R}{W}  Instant   || GIH 58.3% (n=12954) OH 57.6 IWD +2.3 ALSA 3.8 GP 57.1
+     Exile target nonland permanent and the top card of your library. For each of those cards, its owner may play it until the end of their next turn.
+
+#237 [U] Tam, Observant Sequencer // Deep Sight  {2}{G}{U} // {G}{U}  Legendary Creature — Gorgon Wizard // Sorcery  4/3   || GIH 53.1% (n=16301) OH 48.9 IWD +2.4 ALSA 3.9 GP 51.8
+  == Tam, Observant Sequencer {2}{G}{U} Legendary Creature — Gorgon Wizard 4/3
+     Landfall — Whenever a land you control enters, Tam becomes prepared. (While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)
+  == Deep Sight {G}{U} Sorcery
+     You draw a card and gain 1 life.
+
+#238 [U] Teacher's Pest  {B}{G}  Creature — Skeleton Pest  1/1   || GIH 55.5% (n=14986) OH 55.9 IWD +2.1 ALSA 3.9 GP 54.4
+     Menace (This creature can't be blocked except by two or more creatures.)
+     Whenever this creature attacks, you gain 1 life.
+     {B}{G}: Return this card from your graveyard to the battlefield tapped.
+
+#239 [R] Traumatic Critique  {X}{U}{R}  Instant   || GIH 61.0% (n=18322) OH 56.9 IWD +10.1 ALSA 2.1 GP 56.3
+     Traumatic Critique deals X damage to any target. Draw two cards, then discard a card.
+
+#240 [U] Vibrant Outburst  {U}{R}  Instant   || GIH 59.2% (n=32479) OH 55.7 IWD +7.8 ALSA 3.4 GP 55.7
+     Vibrant Outburst deals 3 damage to any target. Tap up to one target creature.
+
+#241 [R] Vicious Rivalry  {2}{B}{G}  Sorcery   || GIH 58.9% (n=10873) OH 56.1 IWD +6.6 ALSA 2.8 GP 55.4
+     As an additional cost to cast this spell, pay X life.
+     Destroy all artifacts and creatures with mana value X or less.
+
+#242 [C] Visionary's Dance  {5}{U}{R}  Sorcery   || GIH 56.7% (n=63774) OH 52.5 IWD +6.0 ALSA 5.0 GP 54.2
+     Create two 3/3 blue and red Elemental creature tokens with flying.
+     {2}, Discard this card: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+
+#243 [C] Wilt in the Heat  {2}{R}{W}  Instant   || GIH 57.9% (n=59126) OH 56.1 IWD +2.5 ALSA 4.9 GP 56.7
+     This spell costs {2} less to cast if one or more cards left your graveyard this turn.
+     Wilt in the Heat deals 5 damage to target creature. If that creature would die this turn, exile it instead.
+
+#244 [U] Witherbloom Charm  {B}{G}  Instant   || GIH 54.2% (n=12906) OH 53.1 IWD +0.4 ALSA 4.5 GP 54.0
+     Choose one —
+     • You may sacrifice a permanent. If you do, draw two cards.
+     • You gain 5 life.
+     • Destroy target nonland permanent with mana value 2 or less.
+
+#245 [M] Witherbloom, the Balancer  {6}{B}{G}  Legendary Creature — Elder Dragon  5/5   || GIH 51.2% (n=3476) OH 48.1 IWD +0.8 ALSA 2.0 GP 50.7
+     Affinity for creatures (This spell costs {1} less to cast for each creature you control.)
+     Flying, deathtouch
+     Instant and sorcery spells you cast have affinity for creatures.
+
+#246 [R] Zaffai and the Tempests  {5}{U}{R}  Legendary Creature — Human Bard Sorcerer  5/7   || GIH 53.1% (n=5267) OH 47.1 IWD +4.9 ALSA 4.3 GP 50.7
+     Once during each of your turns, you may cast an instant or sorcery spell from your hand without paying its mana cost.
+
+#247 [C] Biblioplex Tomekeeper  {4}  Artifact Creature — Construct  3/4   || GIH 45.7% (n=1117) OH 40.2 IWD -2.3 ALSA 6.7 GP 47.0
+     When this creature enters, choose up to one —
+     • Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)
+     • Target creature becomes unprepared.
+
+#248 [U] Diary of Dreams  {2}  Artifact — Book   || GIH 52.0% (n=14695) OH 48.9 IWD +0.0 ALSA 5.0 GP 52.0
+     Whenever you cast an instant or sorcery spell, put a page counter on this artifact.
+     {5}, {T}: Draw a card. This ability costs {1} less to activate for each page counter on this artifact.
+
+#249 [C] Mage Tower Referee  {2}  Artifact Creature — Construct  2/1   || GIH 54.7% (n=17174) OH 54.9 IWD +0.0 ALSA 6.1 GP 54.7
+     Whenever you cast a multicolored spell, put a +1/+1 counter on this creature.
+
+#250 [C] Page, Loose Leaf  {2}  Legendary Artifact Creature — Construct  0/2   || GIH 52.6% (n=9069) OH 52.5 IWD -0.3 ALSA 6.4 GP 52.7
+     {T}: Add {C}.
+     Grandeur — Discard another card named Page, Loose Leaf: Reveal cards from the top of your library until you reveal an instant or sorcery card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+#251 [C] Potioner's Trove  {3}  Artifact   || GIH 57.1% (n=71497) OH 56.0 IWD +6.0 ALSA 4.5 GP 54.4
+     {T}: Add one mana of any color.
+     {T}: You gain 2 life. Activate only if you've cast an instant or sorcery spell this turn.
+
+#252 [U] Strixhaven Skycoach  {3}  Artifact — Vehicle  3/2   || GIH 59.3% (n=39817) OH 58.5 IWD +4.6 ALSA 3.9 GP 57.0
+     Flying
+     When this Vehicle enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+     Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+
+#253 [R] Deathcap Glade    Land   || GIH 56.9% (n=9801) OH 56.3 IWD +3.7 ALSA 3.6 GP 54.9
+     This land enters tapped unless you control two or more other lands.
+     {T}: Add {B} or {G}.
+
+#254 [R] Dreamroot Cascade    Land   || GIH 56.5% (n=12162) OH 55.4 IWD +5.1 ALSA 3.5 GP 54.0
+     This land enters tapped unless you control two or more other lands.
+     {T}: Add {G} or {U}.
+
+#255 [C] Fields of Strife    Land   || GIH 57.6% (n=81292) OH 58.3 IWD +3.0 ALSA 5.1 GP 56.2
+     This land enters tapped.
+     {T}: Add {R} or {W}.
+     {2}{R}{W}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#256 [C] Forum of Amity    Land   || GIH 56.6% (n=60257) OH 57.6 IWD +1.5 ALSA 5.0 GP 55.8
+     This land enters tapped.
+     {T}: Add {W} or {B}.
+     {2}{W}{B}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#257 [R] Great Hall of the Biblioplex    Land   || GIH 59.4% (n=15739) OH 57.2 IWD +6.5 ALSA 3.6 GP 56.1
+     {T}: Add {C}.
+     {T}, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+     {5}: If this land isn't a creature, it becomes a 2/4 Wizard creature with "Whenever you cast an instant or sorcery spell, this creature gets +1/+0 until end of turn." It's still a land.
+
+#258 [C] Paradox Gardens    Land   || GIH 56.4% (n=71445) OH 56.4 IWD +4.5 ALSA 4.8 GP 54.3
+     This land enters tapped.
+     {T}: Add {G} or {U}.
+     {2}{G}{U}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#259 [R] Petrified Hamlet    Land   || GIH 46.8% (n=154) OH 52.9 IWD +2.1 ALSA 5.6 GP 45.6
+     When this land enters, choose a land card name.
+     Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.
+     Lands with the chosen name have "{T}: Add {C}."
+     {T}: Add {C}.
+
+#260 [R] Shattered Sanctum    Land   || GIH 57.9% (n=10159) OH 58.5 IWD +3.3 ALSA 3.7 GP 56.1
+     This land enters tapped unless you control two or more other lands.
+     {T}: Add {W} or {B}.
+
+#261 [U] Skycoach Waypoint    Land   || GIH 51.7% (n=3182) OH 52.0 IWD -0.4 ALSA 6.1 GP 52.0
+     {T}: Add {C}.
+     {3}, {T}: Target creature becomes prepared. (Only creatures with prepare spells can become prepared.)
+
+#262 [C] Spectacle Summit    Land   || GIH 56.8% (n=84174) OH 56.4 IWD +4.2 ALSA 4.8 GP 54.8
+     This land enters tapped.
+     {T}: Add {U} or {R}.
+     {2}{U}{R}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#263 [R] Stormcarved Coast    Land   || GIH 57.3% (n=14425) OH 55.4 IWD +5.4 ALSA 3.5 GP 54.6
+     This land enters tapped unless you control two or more other lands.
+     {T}: Add {U} or {R}.
+
+#264 [R] Sundown Pass    Land   || GIH 57.2% (n=13235) OH 56.9 IWD +2.7 ALSA 3.7 GP 55.8
+     This land enters tapped unless you control two or more other lands.
+     {T}: Add {R} or {W}.
+
+#265 [C] Terramorphic Expanse    Land   || GIH 56.6% (n=81523) OH 57.2 IWD +2.4 ALSA 4.2 GP 55.4
+     {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+#266 [C] Titan's Grave    Land   || GIH 55.8% (n=59917) OH 56.2 IWD +2.5 ALSA 4.9 GP 54.6
+     This land enters tapped.
+     {T}: Add {B} or {G}.
+     {2}{B}{G}, {T}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+#267 [C] Plains    Basic Land — Plains   || GIH 57.4% (n=300423) OH 57.6 IWD +8.0 ALSA 7.4 GP 56.3
+     ({T}: Add {W}.)
+
+#268 [C] Island    Basic Land — Island   || GIH 54.9% (n=273309) OH 54.4 IWD +8.7 ALSA 7.4 GP 54.1
+     ({T}: Add {U}.)
+
+#269 [C] Swamp    Basic Land — Swamp   || GIH 56.2% (n=255253) OH 56.0 IWD +5.9 ALSA 7.4 GP 55.3
+     ({T}: Add {B}.)
+
+#270 [C] Mountain    Basic Land — Mountain   || GIH 56.1% (n=331372) OH 56.1 IWD +8.3 ALSA 7.4 GP 55.2
+     ({T}: Add {R}.)
+
+#271 [C] Forest    Basic Land — Forest   || GIH 55.0% (n=232401) OH 54.9 IWD +8.5 ALSA 7.4 GP 54.0
+     ({T}: Add {G}.)
