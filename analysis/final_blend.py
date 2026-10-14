@@ -102,6 +102,16 @@ def main():
     m = pd.read_csv(f"{OUT}/fra_ml.csv")
     f = prep(e.merge(m, on="name", how="inner", validate="one_to_one").rename(columns={"ml_lgb": "pred_lgb", "ml_ridge": "pred_ridge"}))
     assert len(f) == len(e) == len(m)
+    # Guest-sheet rarity is not a power signal; shift ML by the LOSO residual observed
+    # on historical bonus-sheet cards of the same printed rarity (guest_calibration.py).
+    gc = pd.read_csv(f"{OUT}/guest_calibration.csv")
+    nums = collector_numbers()
+    f["is_guest"] = [nums[n][0] != "" for n in f.name]
+    shift = {}
+    for r, g in gc.groupby("rarity_str"):
+        shift[r] = np.average(g.resid, weights=np.minimum(g.gih, 5000) / 5000)
+    f.loc[f.is_guest, "lgb"] = f.loc[f.is_guest, "lgb"] + f.loc[f.is_guest, "rarity_str"].map(shift)
+    print("Guest ML shift by rarity:", {k: round(v, 2) for k, v in shift.items()})
     f["blend_dev"] = predict(f, final_cols, beta)
     f["pred_gih"] = fra_set_mean + f["blend_dev"]
     f["expert_only"] = fra_set_mean + predict(f, MODELS["expert+rarity"], fit(pooled, MODELS["expert+rarity"], weights(pooled)))

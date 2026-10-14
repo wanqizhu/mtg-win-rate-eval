@@ -279,13 +279,13 @@ FRA,277,"Vraska, Soul of Stone",rare,{U}{R}{W},Legendary Creature — Gorgon Wiz
 FRA,278,"Vraska, the Cutting Glare",rare,{B}{B}{G},Legendary Creature — Gorgon Assassin,60.9,60.0,4.64,3-mana 4/4 deathtouch; late ETB removal
 FRA,279,"Karn, Argent Defender",rare,{2},Legendary Artifact Creature — Golem,53.9,49.0,0.19,symmetric ETB hate on a 1/3
 FRA,280,"Traxos, Scourge Eternal",uncommon,{4},Legendary Artifact Creature — Dragon Construct,53.6,53.0,-2.01,4-mana 5/4 trample that needs untapping
-SPG,159,Eye of Ugin,mythic,,Legendary Land,52.9,48.0,-0.69,colorless utility land; little value in limited
-SPG,160,Austere Command,mythic,{4}{W}{W},Sorcery,59.6,57.0,4.3,flexible 6-mana wrath
-SPG,161,Flesh Duplicate,mythic,{U}{U},Creature — Shapeshifter Rebel,57.8,54.0,3.2,temporary clone
-SPG,162,Consign to Memory,mythic,{U},Instant,54.1,47.0,1.3,very narrow counter
-SPG,163,Sublime Epiphany,mythic,{4}{U}{U},Instant,62.1,60.0,6.24,6-mana instant multi-mode value
-SPG,164,Consider,mythic,{U},Instant,58.0,55.0,2.95,cantrip (Preordain 56.4 in SOS)
-SPG,165,Necrodominance,mythic,{B}{B}{B},Legendary Enchantment,53.9,51.0,-0.73,pay-life draw engine; no board impact
-SPG,166,Mind Twist,mythic,{X}{B},Sorcery,56.8,53.5,2.03,X random discard
-SPG,167,Splinter Twin,mythic,{2}{R}{R},Enchantment — Aura,56.5,53.0,1.93,aura making a hasty copy each turn
-SPG,168,Root Maze,mythic,{G},Enchantment,52.2,46.0,-0.71,symmetric tempo hoser
+SPG,159,Eye of Ugin,mythic,,Legendary Land,53.0,48.0,-0.58,colorless utility land; little value in limited
+SPG,160,Austere Command,mythic,{4}{W}{W},Sorcery,59.7,57.0,4.4,flexible 6-mana wrath
+SPG,161,Flesh Duplicate,mythic,{U}{U},Creature — Shapeshifter Rebel,57.9,54.0,3.3,temporary clone
+SPG,162,Consign to Memory,mythic,{U},Instant,54.1,47.0,1.4,very narrow counter
+SPG,163,Sublime Epiphany,mythic,{4}{U}{U},Instant,62.2,60.0,6.34,6-mana instant multi-mode value
+SPG,164,Consider,mythic,{U},Instant,58.0,55.0,3.05,cantrip (Preordain 56.4 in SOS)
+SPG,165,Necrodominance,mythic,{B}{B}{B},Legendary Enchantment,53.9,51.0,-0.63,pay-life draw engine; no board impact
+SPG,166,Mind Twist,mythic,{X}{B},Sorcery,56.9,53.5,2.14,X random discard
+SPG,167,Splinter Twin,mythic,{2}{R}{R},Enchantment — Aura,56.6,53.0,2.03,aura making a hasty copy each turn
+SPG,168,Root Maze,mythic,{G},Enchantment,52.3,46.0,-0.6,symmetric tempo hoser

@@ -1,0 +1,11 @@
+n=147 r(lgb, actual)=0.316
+mean actual dev 1.02, mean lgb 0.64, weighted mean residual 1.01
+             dev         lgb       resid      
+            mean count  mean count  mean count
+rarity_str                                    
+common      0.84    20 -1.00    20  1.83    20
+mythic      1.55    32  2.58    32 -1.04    32
+rare        1.77    65  0.67    65  1.10    65
+special     0.65     3 -0.07     3  0.72     3
+uncommon   -1.22    27 -0.46    27 -0.75    27
+actual = 1.079 * lgb + 1.13

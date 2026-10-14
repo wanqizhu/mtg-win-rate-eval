@@ -30,13 +30,14 @@ Pooled final coefficients: {'const': np.float64(-0.234), 'exp': np.float64(0.332
 
 Historical card-mean GIH by set: {'ECL': 55.96, 'EOE': 55.38, 'FIN': 55.56, 'HOB': 55.86, 'MSH': 56.2, 'OM1': 56.1, 'SOS': 55.93, 'TDM': 55.9, 'TLA': 56.05, 'TMT': 57.29}
 FRA set mean assumed: 56.02
+Guest ML shift by rarity: {'common': np.float64(1.87), 'mythic': np.float64(0.1), 'rare': np.float64(1.85), 'special': np.float64(1.75), 'uncommon': np.float64(-0.2)}
 
 FRA prediction summary by rarity:
              pred         lgb       pred_gih      
              mean   std  mean   std     mean   std
 rarity_str                                        
 common      54.99  1.58 -0.78  1.08    55.15  1.15
-mythic      56.89  5.44  3.45  2.15    58.97  3.26
+mythic      56.89  5.44  3.48  2.13    58.99  3.24
 rare        55.14  3.64  1.33  1.84    56.79  2.32
 uncommon    54.68  2.05 -0.14  1.42    55.53  1.47
 overall mean 56.13 sd 2.27

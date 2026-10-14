@@ -284,13 +284,13 @@
 | 278 | Vraska, the Cutting Glare | rare | {B}{B}{G} | Legendary Creature — Gorgon Assassin | 60.9 |
 | 279 | Karn, Argent Defender | rare | {2} | Legendary Artifact Creature — Golem | 53.9 |
 | 280 | Traxos, Scourge Eternal | uncommon | {4} | Legendary Artifact Creature — Dragon Construct | 53.6 |
-| SPG 159 | Eye of Ugin | mythic |  | Legendary Land | 52.9 |
-| SPG 160 | Austere Command | mythic | {4}{W}{W} | Sorcery | 59.6 |
-| SPG 161 | Flesh Duplicate | mythic | {U}{U} | Creature — Shapeshifter Rebel | 57.8 |
+| SPG 159 | Eye of Ugin | mythic |  | Legendary Land | 53.0 |
+| SPG 160 | Austere Command | mythic | {4}{W}{W} | Sorcery | 59.7 |
+| SPG 161 | Flesh Duplicate | mythic | {U}{U} | Creature — Shapeshifter Rebel | 57.9 |
 | SPG 162 | Consign to Memory | mythic | {U} | Instant | 54.1 |
-| SPG 163 | Sublime Epiphany | mythic | {4}{U}{U} | Instant | 62.1 |
+| SPG 163 | Sublime Epiphany | mythic | {4}{U}{U} | Instant | 62.2 |
 | SPG 164 | Consider | mythic | {U} | Instant | 58.0 |
 | SPG 165 | Necrodominance | mythic | {B}{B}{B} | Legendary Enchantment | 53.9 |
-| SPG 166 | Mind Twist | mythic | {X}{B} | Sorcery | 56.8 |
-| SPG 167 | Splinter Twin | mythic | {2}{R}{R} | Enchantment — Aura | 56.5 |
-| SPG 168 | Root Maze | mythic | {G} | Enchantment | 52.2 |
+| SPG 166 | Mind Twist | mythic | {X}{B} | Sorcery | 56.9 |
+| SPG 167 | Splinter Twin | mythic | {2}{R}{R} | Enchantment — Aura | 56.6 |
+| SPG 168 | Root Maze | mythic | {G} | Enchantment | 52.3 |
