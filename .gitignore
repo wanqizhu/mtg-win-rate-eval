@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 /data
+analysis/historical_game_stats.json
+analysis/card_catalog.json
+
