@@ -1,0 +1,41 @@
+{
+  "target": "premier_draft_gih_win_rate",
+  "definition": "wins / games where opening_hand or drawn count is non-zero",
+  "premier_draft_game_win_rate_weighted": 0.5559,
+  "model_loo_mae_excess": 0.0257,
+  "model_loo_rmse_excess": 0.0347,
+  "historical_gih_n_at_least_200": {
+    "mean": 0.5587,
+    "std": 0.0403,
+    "p05": 0.494,
+    "p95": 0.625
+  },
+  "historical_gih_n_at_least_8000": {
+    "mean": 0.5658,
+    "std": 0.0289,
+    "p05": 0.523,
+    "p95": 0.615
+  },
+  "reprint_and_class_anchors": {
+    "Last Gasp SOS": 0.577,
+    "Lightning Strike TLA": 0.575,
+    "Lightning Strike MSH": 0.555,
+    "Banishing Light EOE": 0.582,
+    "Quick Study SOS": 0.562,
+    "Counterspell FIN": 0.591,
+    "Blazing Crescendo MSH": 0.529,
+    "Adventurous Eater SOS": 0.544,
+    "Elite Interceptor SOS": 0.596,
+    "Studious First-Year SOS": 0.569,
+    "SOS slow lands": "0.564-0.577",
+    "large-sample mythic median": 0.595
+  },
+  "fra_prediction_distribution": {
+    "cards": 285,
+    "mean": 0.5629,
+    "std": 0.0271,
+    "p05": 0.5184,
+    "p95": 0.612,
+    "mythic_median": 0.601
+  }
+}
