@@ -1,0 +1,43 @@
+Cross-set validation (fit on one blind set, score on the other), gih-weighted errors:
+                  model train test     r  rmse   mae
+                 ml_lgb   SOS  ECL 0.578 2.975 2.355
+                 ml_lgb   ECL  SOS 0.467 2.911 2.305
+           ml_lgb+ridge   SOS  ECL 0.553 3.020 2.391
+           ml_lgb+ridge   ECL  SOS 0.446 2.980 2.351
+                 expert   SOS  ECL 0.572 3.167 2.548
+                 expert   ECL  SOS 0.423 3.007 2.383
+          expert+rarity   SOS  ECL 0.571 3.000 2.374
+          expert+rarity   ECL  SOS 0.449 2.903 2.365
+             expert+lgb   SOS  ECL 0.652 2.869 2.272
+             expert+lgb   ECL  SOS 0.500 2.876 2.306
+      expert+lgb+rarity   SOS  ECL 0.612 2.889 2.282
+      expert+lgb+rarity   ECL  SOS 0.496 2.879 2.331
+expert+lgb+ridge+rarity   SOS  ECL 0.606 2.909 2.293
+expert+lgb+ridge+rarity   ECL  SOS 0.472 2.954 2.354
+                             r   rmse    mae
+model                                       
+expert+lgb               0.576  2.873  2.289
+expert+lgb+rarity        0.554  2.884  2.307
+expert+lgb+ridge+rarity  0.539  2.932  2.324
+ml_lgb                   0.522  2.943  2.330
+expert+rarity            0.510  2.952  2.369
+ml_lgb+ridge             0.500  3.000  2.371
+expert                   0.498  3.087  2.465
+
+Pooled final coefficients: {'const': np.float64(-0.234), 'exp': np.float64(0.332), 'lgb': np.float64(0.755)}
+  in-sample SOS: r=0.500 rmse=3.04
+  in-sample ECL: r=0.654 rmse=3.17
+
+Historical card-mean GIH by set: {'ECL': 55.96, 'EOE': 55.38, 'FIN': 55.56, 'HOB': 55.86, 'MSH': 56.2, 'OM1': 56.1, 'SOS': 55.93, 'TDM': 55.9, 'TLA': 56.05, 'TMT': 57.29}
+FRA set mean assumed: 56.02
+
+FRA prediction summary by rarity:
+             pred         lgb       pred_gih      
+             mean   std  mean   std     mean   std
+rarity_str                                        
+common      54.99  1.58 -0.78  1.08    55.15  1.15
+mythic      56.89  5.44  3.45  2.15    58.97  3.26
+rare        55.14  3.64  1.33  1.84    56.79  2.32
+uncommon    54.68  2.05 -0.14  1.42    55.53  1.47
+overall mean 56.13 sd 2.27
+wrote predictions.csv and PREDICTIONS.md (290 rows)
