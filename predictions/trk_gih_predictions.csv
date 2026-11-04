@@ -1,0 +1,342 @@
+rank,collector_number,name,sheet,rarity,colors,mana_cost,type_line,manual,manual_adj,pred_ens,rel_pred,gih_wr_pred,note
+1,7,Captain Jean-Luc Picard,TRK,mythic,W,{2}{W},Legendary Creature — Human Officer,0.07,0.0764,0.0541,0.0966,0.6566,3-mana anthem + Officer per creature/spacecraft cast; bomb
+2,43,"U.S.S. Enterprise-A, Free Spirit",TRK,mythic,W,{3}{W}{W},Legendary Artifact — Spacecraft,0.052,0.0584,0.0678,0.0933,0.6533,3 Officers + 5/5 flying lifelink ward ship
+3,SDS-9,Decree of Pain,SDS,mythic,B,{6}{B}{B},Sorcery,0.04,0.0464,0.0684,0.085,0.645,wrath + draw or cycling sweep
+4,16,Excalbian Gamemaster,TRK,mythic,W,{5}{W},Creature — Excalbian,0.045,0.0514,0.0615,0.0837,0.6437,6/6 + X Officers + counters on deaths
+5,227,Borg Cube,TRK,mythic,BW,{5}{W}{B},Artifact — Spacecraft,0.03,0.0364,0.0675,0.0771,0.6371,exile ETB + flying for artifacts
+6,228,The City on the Edge of Forever,TRK,rare,BW,{3}{W}{B},Enchantment — Saga,0.025,0.0299,0.0696,0.0739,0.6339,temporary/permanent symmetric wipe + draw 2
+7,74,"Mr. Spock, Science Officer",TRK,mythic,U,{2}{U}{U},Legendary Creature — Vulcan Human Scientist,0.06,0.0664,0.0326,0.0738,0.6338,draw doubling engine on a 2/4
+8,89,"Wesley Crusher, Starfleet Cadet",TRK,rare,U,{2}{U}{U},Legendary Creature — Human Officer,0.015,0.0199,0.0759,0.0711,0.6311,flash 2/2 with two modes
+9,SDS-1,"Mikaeus, the Lunarch",SDS,mythic,W,{X}{W},Legendary Creature — Human Cleric,0.04,0.0464,0.0464,0.0692,0.6292,X-cost growing team pumper
+10,SDS-20,Ertai Resurrected,SDS,mythic,BU,{2}{U}{B},Legendary Creature — Phyrexian Human Wizard,0.04,0.0464,0.0445,0.0678,0.6278,flash removal on a body
+11,SDS-3,"Kenrith, the Returned King",SDS,mythic,W,{4}{W},Legendary Creature — Human Noble,0.04,0.0464,0.0415,0.0656,0.6256,5/5 with activations (FIN +4.2)
+12,SDS-11,"Sheoldred, the Apocalypse",SDS,mythic,B,{2}{B}{B},Legendary Creature — Phyrexian Praetor,0.06,0.0664,0.0185,0.0636,0.6236,4/5 deathtouch drain
+13,SDS-14,"Rishkar, Peema Renegade",SDS,mythic,G,{2}{G},Legendary Creature — Elf Druid,0.03,0.0364,0.0449,0.0607,0.6207,counters + mana
+14,103,The Destruction of Praxis,TRK,rare,B,{3}{B}{B},Sorcery,0.028,0.0329,0.0445,0.058,0.618,scalable sweeper
+15,241,The Inner Light,TRK,rare,GW,{3}{G}{W},Enchantment — Saga,0.018,0.0229,0.0544,0.0578,0.6178,reanimate + draw + life
+16,SDS-15,"Bristly Bill, Spine Sower",SDS,mythic,G,{1}{G},Legendary Creature — Plant Druid,0.03,0.0364,0.0384,0.0561,0.6161,landfall counters
+17,24,"Miles O'Brien, Transporter Ops",TRK,rare,W,{2}{W},Legendary Creature — Human Artificer,0.025,0.0299,0.0431,0.0548,0.6148,3/3 for 3 + rebuy ETB + draw a card same turn
+18,201,Holo-Engineer,TRK,rare,G,{2}{G}{G},Creature — Human Artificer,0.028,0.0329,0.0397,0.0545,0.6145,two 3/3s for 4; tokens become 3/3
+19,165,"Q, Stacking the Deck",TRK,mythic,R,{2}{R}{R},Legendary Creature — Q,0.02,0.0264,0.0449,0.0535,0.6135,4/4 for 4 + repeatable copies of a card
+20,SDS-24,"Prosper, Tome-Bound",SDS,mythic,BR,{2}{B}{R},Legendary Creature — Tiefling Warlock,0.03,0.0364,0.0334,0.0525,0.6125,deathtouch + card each turn
+21,110,"Georgiou, Terran Emperor",TRK,mythic,B,{4}{B}{B},Legendary Creature — Human Rogue Noble,0.025,0.0314,0.0383,0.0524,0.6124,"4/6 draw each turn, can't lose to life"
+22,SDS-23,Riku of Many Paths,SDS,mythic,GRU,{G}{U}{R},Legendary Creature — Human Wizard,0.0,0.0064,0.0609,0.0504,0.6104,3-color modal payoff
+23,142,Captain James T. Kirk,TRK,mythic,R,{2}{R},Legendary Creature — Human Officer,0.018,0.0244,0.0415,0.0496,0.6096,modal ETB/attack value
+24,119,"Khan, Vengeful Heart",TRK,mythic,B,{2}{B}{B},Legendary Creature — Human Warrior,0.02,0.0264,0.0387,0.049,0.609,5/3 for 4 + draw 2 option
+25,261,Crystalline Entity,TRK,mythic,,{8},Artifact Creature — Elemental,0.03,0.0364,0.028,0.0486,0.6086,8-mana wrath + 7/7 flier
+26,186,Captain Jonathan Archer,TRK,rare,G,{2}{G},Legendary Creature — Human Officer,0.02,0.0249,0.0345,0.0449,0.6049,3/3 + 1/1 + pump
+27,181,The Wrath of Khan,TRK,rare,R,{2}{R},Enchantment — Saga,0.032,0.0369,0.0222,0.0449,0.6049,"4 damage + threaten, rummage, edict"
+28,117,In the Pale Moonlight,TRK,uncommon,B,{3}{B}{B},Enchantment — Saga,0.02,0.025,0.0341,0.0447,0.6047,edict + clue + two 2/2s
+29,SDS-6,Empress Galina,SDS,mythic,U,{3}{U}{U},Legendary Creature — Merfolk Noble,0.03,0.0364,0.0203,0.0431,0.6031,steals legendary permanents; TRK full of legends
+30,SDS-17,"Tatyova, Benthic Druid",SDS,mythic,GU,{3}{G}{U},Legendary Creature — Merfolk Druid,0.02,0.0264,0.0286,0.0417,0.6017,landfall draw
+31,221,"U.S.S. Discovery, at Black Alert",TRK,rare,G,{3}{G}{G},Legendary Artifact — Spacecraft,0.03,0.0349,0.0199,0.0417,0.6017,discover 5 ETB + ship
+32,248,Mirror Universe Intrusion,TRK,rare,BU,{1}{U}{B},Sorcery,0.02,0.0249,0.03,0.0417,0.6017,copy best opp creature; late mass copy
+33,91,"Armus, Skin of Evil",TRK,rare,B,{5}{B}{B},Legendary Creature — Ooze Horror,0.025,0.0299,0.0242,0.0412,0.6012,7-drop 6/6 menace discard or 3-mana -4/-4
+34,187,Captain Kathryn Janeway,TRK,mythic,G,{3}{G},Legendary Creature — Human Officer,0.028,0.0344,0.0192,0.0408,0.6008,explore engine + extra land
+35,188,"Captain Pike, Fullness of Time",TRK,rare,G,{1}{G}{G},Legendary Creature — Human Officer Scout,0.015,0.0199,0.0334,0.0405,0.6005,growing body + lands from top
+36,SDS-13,"Loot, Exuberant Explorer",SDS,mythic,G,{2}{G},Legendary Creature — Beast Noble,0.01,0.0164,0.0357,0.0396,0.5996,1/4 ramp + creature cheat
+37,SDS-12,"Torbran, Thane of Red Fell",SDS,mythic,R,{1}{R}{R}{R},Legendary Creature — Dwarf Noble,0.02,0.0264,0.0244,0.0387,0.5987,damage amplifier
+38,127,Salt Vampire,TRK,rare,B,{1}{B},Creature — Vampire Shapeshifter,0.005,0.0099,0.0398,0.0378,0.5978,2/2 lifelink + hand disruption
+39,63,"H.M.S. Bounty, Unlikely Timeship",TRK,rare,U,{4}{U},Legendary Artifact — Spacecraft,0.005,0.0099,0.0395,0.0376,0.5976,tutor whale + slow ship
+40,230,Constable Odo,TRK,uncommon,UW,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,0.02,0.025,0.0236,0.0371,0.5971,hybrid 4/3 + double stun or 2 clues
+41,211,"Rok-Tahk, Budding Scientist",TRK,mythic,G,{4}{G}{G},Legendary Creature — Brikar Scientist,0.005,0.0114,0.0373,0.0371,0.5971,6-mana 5/5 + mana
+42,3,Antagonist Incorporator,TRK,rare,W,{1}{W},Artifact Creature — Borg,0.01,0.0149,0.0336,0.037,0.597,2/3 for 2; Borg token engine in artifact decks
+43,204,"Jadzia Dax, Living Legacy",TRK,mythic,G,{1}{G},Legendary Creature — Trill Scientist,0.018,0.0244,0.023,0.0362,0.5962,growing ramp
+44,33,"Saavik, Stoic Student",TRK,uncommon,W,{4}{W},Legendary Creature — Vulcan Advisor,0.014,0.019,0.0254,0.0341,0.5941,flash 5-mana removal on a body (X ~3-5)
+45,77,Romulan Bird-of-Prey,TRK,rare,U,{1}{U},Artifact — Spacecraft,0.008,0.0129,0.0316,0.0341,0.5941,"cheap hexproof ship, 4/4 flier with spells"
+46,154,Khaaaaaaaaaaaannn!,TRK,uncommon,R,{X}{R},Instant,0.024,0.029,0.015,0.0339,0.5939,X instant burn that exiles
+47,253,"Spock, Always Your Friend",TRK,uncommon,RU,{U}{R},Legendary Creature — Vulcan Human Scientist,0.006,0.011,0.0327,0.0335,0.5935,2/2 + spell
+48,32,"Rutherford, Upgraded Ensign",TRK,uncommon,W,{2}{W},Legendary Creature — Human Artificer,0.004,0.009,0.0327,0.032,0.592,2/2 for 3 + artifact card
+49,113,"Gul Dukat, Colonial Prefect",TRK,mythic,B,{4}{B}{B}{B},Legendary Creature — Cardassian Rogue,0.01,0.0164,0.0251,0.032,0.592,7-mana 6/6 menace drain
+50,SDS-28,Talon Gates of Madara,SDS,mythic,,,Land — Gate,0.0,0.0064,0.0348,0.0316,0.5916,utility land
+51,22,Malfunctioning Holodeck,TRK,common,W,{2}{W},Artifact,0.03,0.0315,0.0089,0.0313,0.5913,"3-mana O-ring any nonland permanent, ward 2"
+52,128,"Sela, Tal Shiar Paradox",TRK,rare,B,{3}{B},Legendary Creature — Romulan Human Rogue,0.014,0.0189,0.0215,0.0312,0.5912,3/3 for 4 token engine on attack
+53,69,Lieutenant Commander Data,TRK,mythic,U,{2}{U},Legendary Artifact Creature — Android Scientist,0.005,0.0114,0.0274,0.0299,0.5899,"grows with noncreature spells, card draw"
+54,61,"Gwyndala, the Progeny",TRK,rare,U,{1}{U},Legendary Creature — Vau-N'Akat Advisor,-0.002,0.0029,0.0349,0.0292,0.5892,2/2 for 2 + equipment
+55,1,"70,000 Light-Years from Home",TRK,uncommon,W,{1}{W},Sorcery,0.032,0.037,0.0001,0.029,0.589,2-mana unconditional exile; land drawback minor in limited
+56,SDS-26,"Mogis, God of Slaughter",SDS,mythic,BR,{2}{B}{R},Legendary Enchantment Creature — God,0.02,0.0264,0.0104,0.0286,0.5886,indestructible 2 per turn
+57,258,"Zero, Incorporeal Sensate",TRK,uncommon,BW,{1}{W/B}{W/B},Legendary Artifact Creature — Medusan Scientist,0.002,0.007,0.0298,0.0285,0.5885,2/2 lifelink + disruption
+58,11,"Deanna Troi, Psychic Counsel",TRK,rare,W,{1}{W},Legendary Creature — Betazoid Human Advisor,0.022,0.0269,0.0082,0.0275,0.5875,"2/2 for 2, every later creature/token +1/+1 counter"
+59,249,"Nog, Ambitious Cadet",TRK,rare,BG,{B}{G},Legendary Creature — Ferengi Rogue,0.014,0.0189,0.0163,0.0274,0.5874,2-drop that becomes 3/4
+60,148,Encounter the Unknown,TRK,rare,R,{1}{R}{R},Instant,0.008,0.0129,0.0222,0.0273,0.5873,impulse 2 or mini-sweeper vs tokens
+61,82,Subcommander T'Pol,TRK,rare,U,{2}{U},Legendary Creature — Vulcan Scientist,0.006,0.0109,0.0234,0.0267,0.5867,flash 3/1 + stun
+62,8,Command Decision,TRK,common,W,{1}{W},Sorcery,0.028,0.0295,0.0044,0.0266,0.5866,2-mana kill power 4+ or cantrip; Spectacular Tactics analog
+63,183,Amok Time,TRK,uncommon,G,{2}{G},Enchantment — Saga,0.014,0.019,0.0141,0.0259,0.5859,fight + life + regrowth
+64,SDS-21,"Jhoira, Weatherlight Captain",SDS,mythic,RU,{2}{U}{R},Legendary Creature — Human Artificer,0.02,0.0264,0.0064,0.0258,0.5858,draw on historic (many legends/artifacts)
+65,SDS-22,Captain Sisay,SDS,mythic,GW,{2}{G}{W},Legendary Creature — Human Soldier,0.01,0.0164,0.0158,0.0252,0.5852,tutor legends
+66,226,All Good Things...,TRK,rare,GU,{3}{G}{U},Enchantment — Saga,0.014,0.0189,0.0132,0.0252,0.5852,card selection/advantage saga
+67,155,"Khan, Despot by Design",TRK,uncommon,R,{4}{R},Legendary Creature — Human Rogue,0.014,0.019,0.0124,0.0247,0.5847,5/4 trample + 1 to each opp creature
+68,6,Captain Benjamin Sisko,TRK,rare,W,{1}{W},Legendary Creature — Human Officer,-0.015,-0.0101,0.0413,0.0243,0.5843,2/2 for 2; dilemma tokens occasional; 5-color ability irrelevant
+69,94,Bat'leth,TRK,uncommon,B,{2}{B},Artifact — Equipment,0.014,0.019,0.0116,0.0241,0.5841,-2/-2 ETB + equipment
+70,23,The Measure of a Man,TRK,uncommon,W,{2}{W},Enchantment — Saga,0.004,0.009,0.0215,0.0239,0.5839,temporary exile + clue; tempo
+71,239,"Hemmer, Fixing What Is Broken",TRK,uncommon,UW,{W}{U},Legendary Creature — Aenar Artificer,0.004,0.009,0.0212,0.0237,0.5837,2/3 for 2 looter
+72,282,Federation Outpost,TRK,rare,,,Land,0.01,0.0149,0.0135,0.0225,0.5825,W fastland-style utility
+73,197,"Dr. Leonard ""Bones"" McCoy",TRK,rare,G,{1}{G}{G},Legendary Creature — Human Doctor,0.01,0.0149,0.0134,0.0225,0.5825,flash 3/2 + regrowth
+74,304,The Unicomplex,TRK,rare,,,Land,0.01,0.0149,0.0133,0.0224,0.5824,B utility
+75,SDS-10,"Drivnod, Carnage Dominus",SDS,mythic,B,{3}{B}{B},Legendary Creature — Phyrexian Horror,0.0,0.0064,0.0202,0.0211,0.5811,8/3 for 5
+76,96,Blastoneuron,TRK,uncommon,B,{3}{B},Creature — Jellyfish Leech,-0.004,0.001,0.0256,0.0211,0.5811,2/2 flier for 4 + temp reanimation + drain
+77,245,"Locutus, the One Who Speaks",TRK,uncommon,BW,{W}{B},Legendary Artifact Creature — Borg,0.012,0.017,0.0088,0.0207,0.5807,artifact anthem or 2 dmg + life
+78,20,Ghost of Illyria,TRK,uncommon,W,{3}{W},Creature — Elemental Spirit,0.008,0.013,0.0125,0.0204,0.5804,"3/3 flier for 4, flicker upside"
+79,214,Species 8472,TRK,uncommon,G,{4}{G}{G},Creature — Insect Beast,0.0,0.005,0.0197,0.0198,0.5798,7/5 + life
+80,SDS-5,"Thada Adel, Acquisitor",SDS,mythic,U,{1}{U}{U},Legendary Creature — Merfolk Rogue,-0.01,-0.0036,0.0284,0.0197,0.5797,2/2 islandwalk
+81,53,Deep Space Scan,TRK,rare,U,{4}{U}{U},Sorcery,0.004,0.0089,0.0151,0.0193,0.5793,6-mana draw 3-4
+82,80,"Seven of Nine, Unassimilated",TRK,mythic,U,{1}{U},Legendary Artifact Creature — Human Officer,0.0,0.0064,0.0176,0.0193,0.5793,0/4 for 2 + loot every turn
+83,180,"Worf, Intelligence Contractor",TRK,rare,R,{2}{R},Legendary Creature — Klingon Warrior Spy,-0.006,-0.0011,0.0243,0.0186,0.5786,3/2 threaten small creature
+84,287,Ni'Var Science Academy,TRK,rare,,,Land,0.007,0.0119,0.01,0.0178,0.5778,U utility
+85,118,"Kai Winn, Faithless Leader",TRK,rare,B,{1}{B},Legendary Creature — Bajoran Cleric,-0.006,-0.0011,0.0228,0.0175,0.5775,3/1 for 2
+86,114,"He's Dead, Jim",TRK,common,B,{3}{B},Instant,0.014,0.0155,0.006,0.0175,0.5775,4-mana instant destroy + surveil
+87,208,Mugato,TRK,uncommon,G,{3}{G}{G},Creature — Ape Beast,0.015,0.02,0.0012,0.0174,0.5774,6/6 reach vigilance deathtouch for 5
+88,145,D-7 Battle Cruiser,TRK,rare,R,{1}{R},Artifact — Spacecraft,0.012,0.0169,0.0043,0.0173,0.5773,2-mana ship; free 2/1 haste attacker each turn at 3+
+89,242,"Kira Nerys, Firebrand",TRK,rare,RW,{1}{R}{W},Legendary Creature — Bajoran Soldier,0.008,0.0129,0.0081,0.0171,0.5771,4/3 trample for 3
+90,290,Q Continuum,TRK,rare,,,Land,0.005,0.0099,0.0108,0.0169,0.5769,G utility
+91,292,Quark's Bar,TRK,rare,,,Land,0.003,0.0079,0.0123,0.0166,0.5766,R utility
+92,44,"U.S.S. Excelsior, Cutting Edge",TRK,uncommon,W,{3}{W},Legendary Artifact — Spacecraft,0.02,0.025,-0.0053,0.0163,0.5763,kill a tapped creature + later 4/4 flier
+93,202,Hologram Stalker,TRK,uncommon,G,{4}{G}{G},Creature — Hirogen Warrior,-0.006,-0.001,0.0201,0.0156,0.5756,regrowth + 3/3s
+94,158,Munitions Enthusiast,TRK,uncommon,R,{1}{R},Creature — Klingon Warrior,0.0,0.005,0.0136,0.0153,0.5753,3/2 trample for 2 + ping
+95,4,Assembly Specialist,TRK,uncommon,W,{1}{W},Artifact Creature — Borg,-0.006,-0.001,0.0194,0.0152,0.5752,two 1/1 artifact bodies for 2; station/Borg fodder
+96,37,"Sulu, Space Swashbuckler",TRK,rare,W,{1}{W},Legendary Creature — Human Pilot,0.004,0.0089,0.0084,0.0145,0.5745,2/2 first strike for 2
+97,222,"U.S.S. Voyager, Lone Wanderer",TRK,uncommon,G,{3}{G},Legendary Artifact — Spacecraft,0.008,0.013,0.004,0.0142,0.5742,ramp 2 lands + ship
+98,135,"U.S.S. Reliant, From Hell's Heart",TRK,rare,B,{2}{B}{B},Legendary Artifact — Spacecraft,0.014,0.0189,-0.0024,0.014,0.574,4-mana reanimate ETB + ship
+99,49,Cloak and Phaser,TRK,uncommon,U,{8}{U},Sorcery,-0.015,-0.01,0.0267,0.0138,0.5738,two 2/2 + loot for ~6
+100,SDS-16,Sen Triplets,SDS,mythic,BUW,{2}{W}{U}{B},Legendary Artifact Creature — Human Wizard,-0.01,-0.0036,0.02,0.0136,0.5736,3-color
+101,SDS-25,"Stella Lee, Wild Card",SDS,mythic,RU,{1}{U}{R},Legendary Creature — Human Rogue,-0.01,-0.0036,0.0185,0.0126,0.5726,spell payoff
+102,205,"Jake Sisko, War Correspondent",TRK,uncommon,G,{1}{G},Legendary Creature — Human Citizen,-0.012,-0.007,0.0218,0.0125,0.5725,2/2 landfall life/clue
+103,100,Commander Raffi Musiker,TRK,uncommon,B,{2}{B},Legendary Creature — Human Officer,0.0,0.005,0.0092,0.0122,0.5722,3/2 for 3 + clue
+104,273,"U.S.S. Enterprise-D, Galaxy-Class",TRK,rare,,{3},Legendary Artifact — Spacecraft,0.025,0.0299,-0.0163,0.012,0.572,"3-mana ship, card each turn you station it"
+105,SDS-4,"Sisay, Weatherlight Captain",SDS,mythic,W,{2}{W},Legendary Creature — Human Soldier,0.0,0.0064,0.0074,0.0118,0.5718,grows with legendaries (many in TRK)
+106,75,"Nyota Uhura, Communications",TRK,rare,U,{2}{U},Legendary Creature — Human Officer,0.006,0.0109,0.0025,0.0117,0.5717,2/4 for 3 + draws
+107,83,Suurok-Class Science Vessel,TRK,common,U,{2}{U},Artifact — Spacecraft,0.004,0.0055,0.008,0.0117,0.5717,"cantrip ship, 3/2 flier at 5"
+108,58,Enterprise NX-01,TRK,uncommon,U,{3}{U},Legendary Artifact — Spacecraft,0.008,0.013,0.0004,0.0117,0.5717,4-mana stun + 4/3 flying vigilance ship
+109,296,Spatial Anomaly,TRK,uncommon,,,Land,0.005,0.01,0.0034,0.0116,0.5716,colorless land with 2 damage
+110,206,MACO Strike Team,TRK,rare,G,{G},Creature — Human Soldier,-0.015,-0.0101,0.0235,0.0115,0.5715,2/1 for 1
+111,178,Transporter Malfunction,TRK,uncommon,R,{1}{R},Sorcery,0.01,0.015,-0.0025,0.0111,0.5711,2-mana 3 damage any target
+112,207,Moopsy,TRK,common,G,{G},Creature — Beast,0.0,0.0015,0.0111,0.011,0.571,1-mana deathtouch
+113,280,Cardassia Prime,TRK,common,,,Land — Planet,0.008,0.0095,0.0029,0.0109,0.5709,WB planet
+114,105,Eject the Warp Core,TRK,common,B,{1}{B},Instant,0.004,0.0055,0.0063,0.0104,0.5704,2-mana -2/-2 or -6/-6 with sac
+115,51,Consider the Prime Directive,TRK,common,U,{2}{U},Instant,0.005,0.0065,0.0051,0.0103,0.5703,soft counter or stun + draw
+116,263,Deep Space 9,TRK,mythic,,{9},Legendary Artifact — Spacecraft,-0.02,-0.0136,0.0252,0.0101,0.5701,9 mana
+117,255,"Vash, Freelance Archaeologist",TRK,uncommon,BG,{1}{B}{G},Legendary Creature — Human Rogue Scientist,0.0,0.005,0.0059,0.0098,0.5698,2/4 surveil draw engine
+118,102,Death Is Irrelevant,TRK,mythic,B,{6}{B}{B},Enchantment,-0.01,-0.0036,0.0144,0.0096,0.5696,8-mana engine
+119,235,The Duras Sisters,TRK,uncommon,BR,{B/R}{B/R},Legendary Creature — Klingon Warrior,0.004,0.009,0.0007,0.009,0.569,3/2 for 2 leaves 2/1 haste
+120,30,Primary Unimatrix Adjunct,TRK,rare,W,{3}{W},Artifact Creature — Borg,0.004,0.0089,0.0002,0.0086,0.5686,double strike for artifact creatures; good in Borg
+121,72,Marooned,TRK,common,U,{U},Enchantment — Aura,0.008,0.0095,-0.0004,0.0085,0.5685,"cheap freeze aura, cheap on tapped attackers"
+122,41,Troubling Tribbles,TRK,rare,W,{2}{W},Creature — Tribble,-0.02,-0.0151,0.0237,0.008,0.568,"0/1 can't block, exponential tokens with no power; fodder"
+123,294,Romulus,TRK,common,,,Land — Planet,0.004,0.0055,0.0029,0.008,0.568,UB planet
+124,305,Vulcan,TRK,common,,,Land — Planet,0.004,0.0055,0.0029,0.008,0.568,WU planet
+125,190,Common Goal,TRK,common,G,{1}{G},Sorcery,0.01,0.0115,-0.0033,0.0079,0.5679,2-mana double bite
+126,125,Resistance Is Futile,TRK,uncommon,B,{1}{B},Sorcery,0.02,0.025,-0.0172,0.0078,0.5678,2-mana kill nonartifact or reanimate artifact
+127,68,Kobayashi Maru Scenario,TRK,mythic,U,{1}{U}{U},Enchantment,-0.03,-0.0236,0.0321,0.0078,0.5678,3 strong upkeeps then you lose unless removed; dead when behind
+128,122,Overflow Submatrix,TRK,rare,B,{2}{B},Artifact Creature — Borg,0.008,0.0129,-0.0054,0.0075,0.5675,3/3 for 3 recast artifact creatures
+129,116,Impossible Choice,TRK,uncommon,B,{2}{B},Instant,0.01,0.015,-0.0075,0.0074,0.5674,instant kill (they get 2 1/1s) or draw 2
+130,97,Cha'DIch Investigator,TRK,common,B,{4}{B},Creature — Klingon Warrior,0.003,0.0045,0.0025,0.007,0.567,4/4 + 2/1 haste for 5
+131,19,Free Borg Revolutionaries,TRK,common,W,{3}{W}{W},Artifact Creature — Borg Rebel,-0.002,-0.0005,0.0075,0.0069,0.5669,4/5 + team pump or landcycling
+132,112,Grand Nagus Zek,TRK,rare,B,{2}{B},Legendary Creature — Ferengi Noble,-0.006,-0.0011,0.0076,0.0066,0.5666,1/1 grows with treasures
+133,64,"Hoshi Sato, Exolinguist",TRK,uncommon,U,{4}{U},Legendary Creature — Human Scientist,-0.01,-0.005,0.0112,0.0063,0.5663,3/3 for 5 + card selection
+134,47,The Caretaker,TRK,rare,U,{5}{U},Legendary Creature — Elemental,0.004,0.0089,-0.0031,0.0062,0.5662,6-mana 5/6 vigilance ward 2 + occasional free spell
+135,196,Dr. Joseph M'Benga,TRK,mythic,G,{2}{G}{G},Legendary Creature — Human Doctor,0.0,0.0064,-0.0006,0.0061,0.5661,"counter doubling, hexproof"
+136,106,"Elim Garak, Simple Tailor",TRK,rare,B,{2}{B},Legendary Creature — Cardassian Rogue,0.008,0.0129,-0.0074,0.006,0.566,3/3 menace for 3 + drain on modes
+137,86,Those Old Scientists,TRK,uncommon,U,{2}{U},Enchantment — Saga,-0.015,-0.01,0.0158,0.006,0.566,loot saga
+138,307,Plains,TRK,basic,,,,,,,0.006,0.566,basic land: historical basic-land offset by color
+139,212,"Saru, Unthreatened",TRK,uncommon,G,{2}{G},Legendary Creature — Kelpien Officer,-0.008,-0.003,0.0078,0.0053,0.5653,flash 3/2 protect
+140,126,Rogue Artificial Intelligence,TRK,common,B,{4}{B}{B},Artifact Creature — Construct,0.0,0.0015,0.003,0.0051,0.5651,6/5 for 6 or landcycling
+141,293,Risa,TRK,common,,,Land — Planet,0.0,0.0015,0.0029,0.005,0.565,GW planet
+142,283,Ferenginar,TRK,common,,,Land — Planet,0.0,0.0015,0.0029,0.005,0.565,BG planet
+143,179,"Will Riker, First in the Field",TRK,rare,R,{3}{R},Legendary Creature — Human Officer,-0.006,-0.0011,0.0046,0.0044,0.5644,4/3 temporary lands each turn
+144,217,"Sylvia Tilly, Joy of Discovery",TRK,uncommon,G,{2}{G},Legendary Creature — Human Scientist Artificer,-0.01,-0.005,0.0084,0.0043,0.5643,2/2 surveil + counters
+145,151,Genesis Effect,TRK,common,R,{4}{R},Instant,0.0,0.0015,0.0016,0.0041,0.5641,5-mana instant 6 damage + planet
+146,60,Guidance Failure,TRK,common,U,{3}{U},Instant,-0.002,-0.0005,0.0033,0.0039,0.5639,3-mana instant tuck vs attacker (owner may put on top)
+147,189,Cold-Blooded Crew,TRK,common,G,{4}{G}{G},Creature — Gorn Warrior,0.0,0.0015,0.0013,0.0039,0.5639,4/4 + counters evasive or landcycling
+148,281,"Earth, Sector 001",TRK,common,,,Land — Planet,-0.002,-0.0005,0.0029,0.0036,0.5636,GU planet
+149,247,"L'Rell, Fierce Visionary",TRK,uncommon,BR,{1}{B}{R},Legendary Creature — Klingon Warrior,0.004,0.009,-0.0073,0.0032,0.5632,1/4 + 2/1 haste each combat
+150,246,"Lore, Positronic Provocateur",TRK,uncommon,BU,{1}{U/B}{U/B},Legendary Artifact Creature — Android Rogue,-0.01,-0.005,0.0056,0.0023,0.5623,2/3 + mode
+151,218,Syndicate Liquidators,TRK,uncommon,G,{4}{G},Creature — Orion Pirate,0.0,0.005,-0.0046,0.0023,0.5623,4/4 trample + landfall counters
+152,17,Federation Field Medic,TRK,common,W,{3}{W},Creature — Human Doctor,-0.008,-0.0065,0.007,0.0022,0.5622,3/2 vigilance + counter/draw for 4
+153,277,Bajor,TRK,common,,,Land — Planet,-0.004,-0.0025,0.0029,0.0021,0.5621,RW planet
+154,291,Qo'noS,TRK,common,,,Land — Planet,-0.004,-0.0025,0.0029,0.0021,0.5621,BR planet
+155,309,Swamp,TRK,basic,,,,,,,0.002,0.562,basic land: historical basic-land offset by color
+156,50,Cloistered Telepath,TRK,common,U,{1}{U},Creature — Talosian Advisor,-0.008,-0.0065,0.0064,0.0017,0.5617,2/1 flash loot
+157,219,Temporal Conqueror,TRK,common,G,{2}{G},Creature — Na'kuhl Warrior,-0.005,-0.0035,0.0027,0.0012,0.5612,2/3 + land back
+158,101,D'Ghor Bloodletter,TRK,uncommon,B,{2}{B},Creature — Klingon Assassin,0.01,0.015,-0.0161,0.0012,0.5612,edict or -1/-1 sweep on a 2/2
+159,176,"Tasha Yar, Out of Time",TRK,rare,R,{1}{R},Legendary Creature — Human Officer,-0.006,-0.0011,0.0,0.0011,0.5611,2/1 haste with value
+160,164,Plasma Cascade,TRK,common,R,{2}{R},Instant,0.002,0.0035,-0.0046,0.0011,0.5611,3 damage any target instant + rummage
+161,79,"Scotty, Miracle Worker",TRK,mythic,U,{1}{U}{U},Legendary Creature — Human Artificer,-0.015,-0.0086,0.0072,0.0008,0.5608,graveyard spells with creature bounce cost
+162,288,Orion,TRK,common,,,Land — Planet,-0.006,-0.0045,0.0029,0.0007,0.5607,RG planet
+163,56,Energize,TRK,uncommon,U,{1}{U},Sorcery,-0.01,-0.005,0.0025,0.0,0.56,bounce + beam rebuy
+164,308,Island,TRK,basic,,,,,,,0.0,0.56,basic land: historical basic-land offset by color
+165,275,Andoria,TRK,common,,,Land — Planet,-0.007,-0.0055,0.0029,-0.0001,0.5599,UR planet
+166,2,Andromedan Automatons,TRK,common,W,{2}{W},Artifact Creature — Android,-0.01,-0.0085,0.0057,-0.0002,0.5598,3/1 artifact for 3; fetches extra copies (card advantage only with multiples)
+167,162,Planetary Bombardment,TRK,common,R,{R},Sorcery,-0.006,-0.0045,0.0015,-0.0003,0.5597,1-mana 2 dmg or 4
+168,254,The Traveler,TRK,uncommon,GU,{G}{U},Legendary Creature — Scout,-0.008,-0.003,-0.0004,-0.0006,0.5594,*/3 reach vigilance
+169,66,Interstellar Effigy,TRK,common,U,{4}{U},Artifact Creature — Construct,-0.005,-0.0035,0.0,-0.0007,0.5593,4/3 + bounce for 5
+170,276,Artificial Anomaly,TRK,uncommon,,,Land,-0.005,0.0,-0.0036,-0.0007,0.5593,colorless utility land
+171,229,"Cleveland Booker, Empath",TRK,uncommon,GR,{2}{R/G}{R/G},Legendary Creature — Kwejian Rogue,0.0,0.005,-0.0088,-0.0008,0.5592,landfall 2/2 tokens
+172,224,Xenobotanist,TRK,common,G,{1}{G},Creature — Vulcan Scientist,-0.005,-0.0035,-0.0002,-0.0008,0.5592,1/3 mana dork any color
+173,182,Adversary by Algorithm,TRK,uncommon,G,{2}{G},Sorcery,-0.004,0.001,-0.0049,-0.0009,0.5591,"3/3 token, beam rebuy"
+174,284,Gaseous Anomaly,TRK,uncommon,,,Land,-0.002,0.003,-0.0077,-0.0014,0.5586,colorless utility land
+175,107,Fugitive Listener,TRK,common,B,{2}{B},Creature — El-Aurian Scout,-0.01,-0.0085,0.0033,-0.0019,0.5581,3/1 + discard
+176,57,Ensign Pavel Chekov,TRK,uncommon,U,{3}{U},Legendary Creature — Human Pilot,-0.025,-0.02,0.0146,-0.0022,0.5578,"1/5 for 4, steal a land"
+177,232,"Daniels, Temporal Agent",TRK,uncommon,BG,{2}{B/G}{B/G},Legendary Creature — Human Advisor,-0.01,-0.005,-0.0008,-0.0023,0.5577,3/1 raise dead
+178,45,Vexing Drone,TRK,common,W,{1}{W},Artifact Creature — Borg,-0.004,-0.0025,-0.0035,-0.0025,0.5575,2/2 artifact + tap
+179,194,Dominion Assault Force,TRK,common,G,{3}{G},Creature — Jem'Hadar Warrior,-0.002,-0.0005,-0.0056,-0.0025,0.5575,4/4 vigilance for 4
+180,147,Dominion Infiltration,TRK,rare,R,{X}{R}{R}{R},Sorcery,-0.022,-0.0171,0.0107,-0.0029,0.5571,temporary copies
+181,300,Subspace Anomaly,TRK,uncommon,,,Land,-0.003,0.002,-0.0088,-0.003,0.557,colorless utility land
+182,311,Forest,TRK,basic,,,,,,,-0.003,0.557,basic land: historical basic-land offset by color
+183,104,De-evolve,TRK,uncommon,B,{1}{B},Enchantment — Aura,-0.002,0.003,-0.0099,-0.003,0.557,-4/-0 can't block aura
+184,12,DOT-7 Repair Squad,TRK,common,W,{3}{W},Artifact Creature — Robot,0.006,0.0075,-0.0149,-0.0034,0.5566,3/3 flier for 4 artifact
+185,26,Oberth-Class Starship,TRK,common,W,{1}{W},Artifact — Spacecraft,-0.016,-0.0145,0.0068,-0.0038,0.5562,land fetch + slow 2/2 flier; Wurmwall Sweeper analog
+186,302,Temporal Anomaly,TRK,uncommon,,,Land,-0.008,-0.003,-0.0054,-0.0042,0.5558,colorless utility land
+187,243,"Kirk, Commanding Officer",TRK,uncommon,RW,{1}{R}{W},Legendary Creature — Human Officer,-0.008,-0.003,-0.0055,-0.0043,0.5557,3/3 for 3 conditional card
+188,269,"Tea, Earl Grey, Hot",TRK,common,,{2},Artifact — Food,-0.01,-0.0085,0.0,-0.0043,0.5557,cantrip food
+189,285,Godless Shrine,TRK,rare,,,Land — Plains Swamp,-0.006,-0.0011,-0.008,-0.0046,0.5554,shock WB
+190,98,Collation Trimatrix,TRK,rare,B,{B},Artifact Creature — Borg,-0.022,-0.0171,0.0075,-0.0052,0.5548,"1/1 for 1, needs 3 artifact creatures"
+191,62,Highly Illogical,TRK,uncommon,U,{1}{U},Instant,-0.02,-0.015,0.0052,-0.0053,0.5547,counterspell
+192,306,Watery Grave,TRK,rare,,,Land — Island Swamp,-0.01,-0.0051,-0.0048,-0.0053,0.5547,shock UB
+193,71,Make It So,TRK,common,U,{3}{U},Sorcery,-0.006,-0.0045,-0.0055,-0.0054,0.5546,draw 2 + 1/1 for 4
+194,SDS-2,Flare of Fortitude,SDS,mythic,W,{2}{W}{W},Instant,-0.04,-0.0336,0.0239,-0.0055,0.5545,protection
+195,65,Humpback Whales,TRK,common,U,{4}{U}{U},Creature — Whale,-0.003,-0.0015,-0.0087,-0.0055,0.5545,5/6 ward or landcycling
+196,172,Silicate Surveyor,TRK,common,R,{4}{R},Creature — Tholian Scout,-0.006,-0.0045,-0.0059,-0.0056,0.5544,4/4 reach + impulse
+197,109,"General Chang, Cold Warrior",TRK,rare,B,{B},Legendary Creature — Klingon Warrior Officer,-0.022,-0.0171,0.0063,-0.006,0.554,1/2 sac outlet for Klingons
+198,279,Breeding Pool,TRK,rare,,,Land — Forest Island,-0.012,-0.0071,-0.0042,-0.0063,0.5537,shock GU
+199,SDS-7,Arcum Dagsson,SDS,mythic,U,{3}{U},Legendary Creature — Human Artificer,-0.02,-0.0136,0.0019,-0.0067,0.5533,niche
+200,286,Hallowed Fountain,TRK,rare,,,Land — Plains Island,-0.01,-0.0051,-0.0075,-0.0072,0.5528,shock WU
+201,237,"Gowron, Eager for Battle",TRK,rare,BR,{2}{B}{R},Legendary Creature — Klingon Warrior,-0.008,-0.0031,-0.0096,-0.0073,0.5527,3/3 grows sac outlet
+202,34,Set Phasers to . . .,TRK,common,W,{W},Instant,0.004,0.0055,-0.0185,-0.0074,0.5526,"1-mana stun or 3 to attacker, flexible"
+203,231,"Dal R'El, Augment Orphan",TRK,uncommon,GR,{1}{R}{G},Legendary Creature — Human Mutant Rogue,-0.01,-0.005,-0.008,-0.0075,0.5525,3/3 for 3 ramp
+204,36,Shuttle Ace,TRK,common,W,{4}{W},Creature — Kelpien Pilot,-0.004,-0.0025,-0.0105,-0.0075,0.5525,5-mana 4/4 flier on your turn + life
+205,234,"The Doctor, EMH",TRK,uncommon,GW,{3}{G/W}{G/W},Legendary Artifact Creature — Illusion Doctor,-0.012,-0.007,-0.0062,-0.0076,0.5524,5-mana 3/3 counters
+206,59,Federation Probe,TRK,common,U,{U},Artifact Creature — Construct,-0.02,-0.0185,0.0054,-0.0077,0.5523,1/1 flier for 1
+207,310,Mountain,TRK,basic,,,,,,,-0.008,0.552,basic land: historical basic-land offset by color
+208,5,"Brad Boimler, Eager Ensign",TRK,uncommon,W,{1}{W},Legendary Creature — Human Officer,-0.012,-0.007,-0.0069,-0.0082,0.5518,"2/2 lifelink for 2, counter text rarely matters"
+209,289,Overgrown Tomb,TRK,rare,,,Land — Swamp Forest,-0.014,-0.0091,-0.0048,-0.0082,0.5518,shock BG
+210,SDS-30,"Shizo, Death's Storehouse",SDS,mythic,,,Legendary Land,-0.01,-0.0036,-0.0105,-0.0083,0.5517,fear land
+211,200,Genesis Device,TRK,rare,G,{2}{G},Legendary Artifact,-0.03,-0.0251,0.0113,-0.0083,0.5517,ramp artifact
+212,13,Dr. Beverly Crusher,TRK,mythic,W,{2}{W},Legendary Creature — Human Doctor,-0.015,-0.0086,-0.0056,-0.0085,0.5515,needs lifegain; 2/2 for 3
+213,115,Hive Mind Coprocessor,TRK,uncommon,B,{4}{B},Artifact Creature — Borg,-0.008,-0.003,-0.0114,-0.0085,0.5515,"4/4 for 5, artifacts draw"
+214,143,Captain Michael Burnham,TRK,uncommon,R,{2}{R},Legendary Creature — Human Officer,-0.008,-0.003,-0.0115,-0.0086,0.5514,3/3 trample landfall ping
+215,303,Unexplored Territory,TRK,common,,,Land,-0.01,-0.0085,-0.0061,-0.0087,0.5513,colorless fetch land
+216,84,Suus Mahna Practitioner,TRK,common,U,{2}{U},Creature — Vulcan Officer,-0.006,-0.0045,-0.0101,-0.0087,0.5513,"3/2 tapper, cheap with lands"
+217,146,Dahar Master,TRK,common,R,{3}{R},Creature — Klingon Warrior,-0.006,-0.0045,-0.0104,-0.0089,0.5511,4/3 + sac for 2 damage
+218,244,Live Long and Prosper,TRK,rare,UW,{5}{W}{U},Sorcery,-0.025,-0.0201,0.0054,-0.0089,0.5511,7-mana draw
+219,250,"Phlox, Unorthodox Doctor",TRK,uncommon,GW,{2}{G}{W},Legendary Creature — Denobulan Doctor,-0.005,0.0,-0.0152,-0.009,0.551,3/4 trample draw
+220,213,Saurian Explorer,TRK,common,G,{3}{G},Creature — Dinosaur Scout,-0.008,-0.0065,-0.0087,-0.0091,0.5509,4/3 landfall
+221,15,Emergency Medical Hologram,TRK,common,W,{W},Artifact Creature — Illusion Doctor,-0.028,-0.0265,0.0113,-0.0093,0.5507,1-mana 0/1 + counter
+222,199,First Contact,TRK,common,G,{1}{G},Instant,-0.015,-0.0135,-0.002,-0.0094,0.5506,dig for permanent
+223,184,Astute Terraformer,TRK,common,G,{1}{G},Creature — Vulcan Scientist,-0.012,-0.0105,-0.0051,-0.0095,0.5505,2/2 pump
+224,78,Rules of Acquisition,TRK,uncommon,U,{3}{U}{U},Sorcery,-0.012,-0.007,-0.0088,-0.0095,0.5505,"steal best permanent, opp draws 3"
+225,272,"U.S.S. Cerritos, Following Up",TRK,uncommon,,{5},Legendary Artifact — Spacecraft,-0.01,-0.005,-0.0109,-0.0096,0.5504,2 Officers + ship for 5
+226,223,Warp Speed,TRK,uncommon,G,{2}{G},Enchantment,-0.025,-0.02,0.0043,-0.0096,0.5504,land enchantment
+227,160,Pah-Wraith,TRK,rare,R,{5}{R}{R},Creature — Wraith,-0.012,-0.0071,-0.0089,-0.0097,0.5503,7-mana 4/4 first strike haste pump
+228,195,Dominion Supervisor,TRK,common,G,{2}{G},Creature — Vorta Doctor,-0.01,-0.0085,-0.0077,-0.0099,0.5501,3/1 + counter
+229,SDS-19,"Isshin, Two Heavens as One",SDS,mythic,BRW,{R}{W}{B},Legendary Creature — Human Samurai,-0.02,-0.0136,-0.0025,-0.0099,0.5501,3-color
+230,301,Temple Garden,TRK,rare,,,Land — Forest Plains,-0.014,-0.0091,-0.0074,-0.0101,0.5499,shock GW
+231,152,Horta,TRK,common,R,{4}{R}{R},Creature — Elemental,-0.006,-0.0045,-0.0125,-0.0104,0.5496,7/6 trample or landcycling
+232,29,"Picard, Leading by Example",TRK,uncommon,W,{1}{W},Legendary Creature — Human Officer,-0.018,-0.013,-0.0042,-0.0106,0.5494,2/2 for 2 with slow pump
+233,210,Photosynthetic Physician,TRK,common,G,{4}{G},Creature — Plant Doctor,-0.006,-0.0045,-0.0128,-0.0106,0.5494,5/5 reach + token
+234,99,Collective Drone,TRK,uncommon,B,{1}{B},Artifact Creature — Borg,-0.016,-0.011,-0.0064,-0.0107,0.5493,*/2 for 2 in artifact deck
+235,133,Tenacious Drone,TRK,common,B,{1}{B},Artifact Creature — Borg,-0.01,-0.0085,-0.009,-0.0108,0.5492,2/1 leaves 1/1
+236,87,"V'Ger, the Intruder",TRK,uncommon,U,{6}{U},Legendary Artifact Creature — Construct,-0.002,0.003,-0.0213,-0.0112,0.5488,7-mana 5/7 flier with value
+237,55,Emergency Holographic Crew,TRK,common,U,{3}{U},Artifact Creature — Illusion Officer,-0.008,-0.0065,-0.0123,-0.0117,0.5483,3/4 for 4 + surveil/regrowth
+238,191,"Culber and Stamets, Star-Crossed",TRK,uncommon,G,{3}{G},Legendary Creature — Human Doctor Artificer,-0.012,-0.007,-0.012,-0.0118,0.5482,3/4 for 4
+239,21,Hologram Janeway,TRK,uncommon,W,{2}{W},Legendary Artifact Creature — Illusion Officer,-0.012,-0.007,-0.0121,-0.0119,0.5481,"3/3 for 3, conditional counters"
+240,SDS-27,"Minamo, School at Water's Edge",SDS,mythic,,,Legendary Land,-0.02,-0.0136,-0.0058,-0.0122,0.5478,legend untapper
+241,93,Automated Warfare System,TRK,common,B,{2}{B},Artifact Creature — Construct,-0.004,-0.0025,-0.0176,-0.0127,0.5473,2/2 flier for 3 + sac draw
+242,209,"Neelix, Moral Support",TRK,uncommon,G,{1}{G},Legendary Creature — Talaxian Advisor,-0.02,-0.015,-0.005,-0.0127,0.5473,1/1 + food
+243,297,Starfleet Academy,TRK,mythic,,,Legendary Land,-0.02,-0.0136,-0.0065,-0.0127,0.5473,colorless legendary land
+244,225,Xindi Surveyors,TRK,common,G,{2}{G},Creature — Xindi Scientist,-0.008,-0.0065,-0.014,-0.0129,0.5471,3/2 landfall grows
+245,185,Branching Timeline,TRK,rare,G,{6}{G}{G},Sorcery,-0.035,-0.0301,0.0098,-0.013,0.547,8 mana
+246,278,Blood Crypt,TRK,rare,,,Land — Swamp Mountain,-0.018,-0.0131,-0.008,-0.0134,0.5466,shock BR
+247,81,Starfleet Spanner Jockey,TRK,common,U,{1}{U},Creature — Human Artificer,-0.01,-0.0085,-0.0127,-0.0135,0.5465,3/3 defender for 2
+248,299,Stomping Ground,TRK,rare,,,Land — Mountain Forest,-0.02,-0.0151,-0.0065,-0.0138,0.5462,shock RG
+249,28,Pet Sehlat,TRK,common,W,{2}{W},Creature — Bear,-0.012,-0.0105,-0.0112,-0.0139,0.5461,4/3 for 3 can't attack alone
+250,124,Relentless Drednok,TRK,common,B,{B},Artifact Creature — Robot,-0.016,-0.0145,-0.0076,-0.0142,0.5458,1/1 lifelink + later card
+251,298,Steam Vents,TRK,rare,,,Land — Island Mountain,-0.02,-0.0151,-0.0074,-0.0144,0.5456,shock UR
+252,38,Tactical Officer,TRK,common,W,{1}{W},Creature — Human Officer,-0.016,-0.0145,-0.0083,-0.0147,0.5453,2/1 for 2
+253,40,There's Coffee in that Nebula,TRK,uncommon,W,{1}{W},Sorcery,-0.022,-0.017,-0.0058,-0.0147,0.5453,card selection + beam
+254,70,Lt. Cmdr. Geordi La Forge,TRK,rare,U,{2}{U},Legendary Creature — Human Artificer,-0.012,-0.0071,-0.0163,-0.015,0.545,3/2 for 3; doubling charge counters niche
+255,39,Test of Conviction,TRK,uncommon,W,{1}{W},Sorcery,-0.01,-0.005,-0.019,-0.0154,0.5446,team counters or draw 2 (opp draws 1)
+256,274,Warp Core,TRK,common,,{2},Artifact,-0.025,-0.0235,-0.0006,-0.0157,0.5443,land fetch artifact
+257,90,"Zefram Cochrane, Warp Pioneer",TRK,uncommon,U,{2}{U},Legendary Creature — Human Pilot,-0.015,-0.01,-0.0145,-0.0158,0.5442,"2/3 for 3, artifact top-deck niche"
+258,236,"D'Vana Tendi, Optimistic Ensign",TRK,uncommon,GU,{1}{G/U}{G/U},Legendary Creature — Orion Scientist,-0.025,-0.02,-0.0044,-0.0159,0.5441,untapper
+259,295,Sacred Foundry,TRK,rare,,,Land — Mountain Plains,-0.02,-0.0151,-0.0097,-0.0161,0.5439,shock RW
+260,95,Battle-Scarred Survivalist,TRK,common,B,{1}{B},Creature — Klingon Scout,-0.016,-0.0145,-0.0104,-0.0162,0.5438,1/1 menace grows
+261,35,Shields Up!,TRK,common,W,{1}{W},Instant,-0.025,-0.0235,-0.0013,-0.0162,0.5438,protection trick
+262,271,Type-2 Phaser,TRK,uncommon,,{2},Artifact — Equipment,-0.01,-0.005,-0.0203,-0.0163,0.5437,stun + equipment
+263,170,"Sarcophagus, Ship of the Dead",TRK,uncommon,R,{2}{R},Legendary Artifact — Spacecraft,0.0,0.005,-0.0305,-0.0164,0.5436,3-mana +1/+0 anthem ship
+264,251,"Sarek, Federation Ambassador",TRK,rare,GUW,{1}{G}{W}{U},Legendary Creature — Vulcan Advisor,-0.04,-0.0351,0.0095,-0.0169,0.5431,3-color 0/5
+265,SDS-18,Hull Breach,SDS,mythic,GR,{R}{G},Sorcery,-0.04,-0.0336,0.0079,-0.017,0.543,artifact/enchantment removal
+266,177,Test of Identity,TRK,uncommon,R,{1}{R},Instant,-0.022,-0.017,-0.009,-0.017,0.543,Klingon double strike or rummage
+267,18,Federation Resupply,TRK,rare,W,{1}{W},Sorcery,-0.035,-0.0301,0.0042,-0.017,0.543,tutor for aura/equipment/spacecraft; low impact
+268,131,Tal Shiar Operative,TRK,common,B,{1}{B},Creature — Romulan Officer Spy,-0.012,-0.0105,-0.0157,-0.0171,0.5429,2/2 for 2
+269,88,Vulcan Mind-Meld,TRK,uncommon,U,{U},Sorcery,-0.022,-0.017,-0.0098,-0.0176,0.5424,card swap
+270,9,Command Subadjunct,TRK,uncommon,W,{W},Artifact Creature — Borg,-0.028,-0.023,-0.0037,-0.0176,0.5424,"1-mana 2/1, vigilance anthem weak"
+271,SDS-8,Bruvac the Grandiloquent,SDS,mythic,U,{2}{U},Legendary Creature — Human Advisor,-0.04,-0.0336,0.0068,-0.0177,0.5423,mill doubler
+272,48,Cetacean Ops,TRK,common,U,{3}{U},Creature — Whale Officer,-0.016,-0.0145,-0.013,-0.0181,0.5419,"4-mana 3/3 ward 1, grows slowly"
+273,SDS-29,Phyrexian Tower,SDS,mythic,,,Legendary Land,-0.02,-0.0136,-0.0142,-0.0183,0.5417,sac land
+274,257,Year of Hell,TRK,rare,RU,{1}{U}{R},Enchantment — Saga,-0.035,-0.0301,0.0022,-0.0185,0.5415,symmetric
+275,54,Dominion Saboteur,TRK,uncommon,U,{4}{U},Creature — Shapeshifter,-0.01,-0.005,-0.0254,-0.02,0.54,5-mana clone
+276,166,"Quark, Humble Proprietor",TRK,mythic,R,{2}{R},Legendary Creature — Ferengi Rogue,-0.04,-0.0336,0.0036,-0.0201,0.5399,1/2 for 3; treasures unusable for mana
+277,171,Savvy Profiteer,TRK,common,R,{1}{R},Creature — Ferengi Rogue,-0.02,-0.0185,-0.0118,-0.0201,0.5399,2/1 mana dork
+278,262,Cybernetic Specialist,TRK,common,,{2},Artifact Creature — Human Scientist,-0.016,-0.0145,-0.0159,-0.0201,0.5399,2/1 surveil
+279,67,"Jett Reno, Problem Solver",TRK,uncommon,U,{1}{U},Legendary Creature — Human Artificer,-0.025,-0.02,-0.0103,-0.0201,0.5399,1/2 for 2 weak legendary
+280,153,Infinite Diversity,TRK,mythic,R,{7}{R}{R},Sorcery,-0.06,-0.0536,0.0236,-0.0203,0.5397,9 mana
+281,14,"Dr. McCoy, Surly Surgeon",TRK,uncommon,W,{2}{W}{W},Legendary Creature — Human Doctor,-0.025,-0.02,-0.0111,-0.0207,0.5393,4-mana 2/2 weak legendary uncommon
+282,92,Assault Drone,TRK,common,B,{3}{B},Artifact Creature — Borg,-0.016,-0.0145,-0.0167,-0.0208,0.5392,2/4 artifact anthem for 4
+283,267,Replicator,TRK,rare,,{2},Artifact,-0.028,-0.0231,-0.009,-0.0214,0.5386,food + token copy
+284,173,Starfleet Security,TRK,common,R,{R},Creature — Human Officer,-0.025,-0.0235,-0.0088,-0.0216,0.5384,1/1 haste
+285,167,Ravenous Cosmozoan,TRK,uncommon,R,{5}{R},Creature — Fish,-0.015,-0.01,-0.0241,-0.0227,0.5373,"3/3 flying haste, cost reduction"
+286,85,Test of Priorities,TRK,uncommon,U,{1}{U},Instant,-0.022,-0.017,-0.0186,-0.0239,0.5361,cantrip/flicker
+287,123,Pattern Buffer Preservation,TRK,common,B,{1}{B},Sorcery,-0.022,-0.0205,-0.015,-0.0239,0.5361,card selection + beam
+288,220,Test of Courage,TRK,uncommon,G,{G},Instant,-0.025,-0.02,-0.0168,-0.0248,0.5352,artifact/ench kill or gy hate
+289,137,Academy Instructor,TRK,uncommon,R,{2}{R},Creature — Bolian Officer,-0.028,-0.023,-0.014,-0.0249,0.5351,0/3 token maker
+290,193,"David and Carol Marcus, Creators",TRK,uncommon,G,{2}{G},Legendary Creature — Human Scientist,-0.025,-0.02,-0.017,-0.025,0.535,1/3 ramp legendary
+291,76,Open Communications,TRK,common,U,{U},Sorcery,-0.025,-0.0235,-0.0138,-0.0252,0.5348,1-mana cantrip + beam
+292,268,Sickbay,TRK,uncommon,,{5},Artifact,-0.03,-0.025,-0.0126,-0.0254,0.5346,5-mana counters
+293,175,Targ Wrangler,TRK,uncommon,R,{2}{R},Creature — Klingon Warrior,-0.018,-0.013,-0.0248,-0.0255,0.5345,5/3 menace with sac drawback
+294,130,Stray from History,TRK,common,B,{2}{B},Sorcery,-0.01,-0.0085,-0.0296,-0.0256,0.5344,regrowth two or discard
+295,240,Hit It!,TRK,rare,GR,{1}{R}{G},Enchantment,-0.04,-0.0351,-0.0034,-0.0262,0.5338,haste enchantment
+296,73,Melkotian Adjudicator,TRK,common,U,{2}{U},Creature — Melkotian Advisor,-0.01,-0.0085,-0.0312,-0.0268,0.5332,2/1 flying vigilance for 3
+297,129,Storied Veteran,TRK,uncommon,B,{B},Creature — Klingon Advisor,-0.028,-0.023,-0.0169,-0.027,0.533,2/1 can't block
+298,198,Final Frontier,TRK,common,G,{2}{G},Sorcery,-0.025,-0.0235,-0.0165,-0.0272,0.5328,ramp + beam
+299,42,"Una Chin-Riley, Number One",TRK,uncommon,W,{4}{W},Legendary Creature — Illyrian Officer,-0.018,-0.013,-0.0274,-0.0273,0.5327,5-mana 4/5 legendary uncommon
+300,25,The Needs of the Many,TRK,rare,W,{1}{W},Instant,-0.045,-0.0401,0.0001,-0.0273,0.5327,sac a creature for a fog/protection
+301,121,Organic Avulsion Unit,TRK,uncommon,B,{2}{B},Artifact Creature — Borg,-0.018,-0.013,-0.0285,-0.0281,0.5319,2/3 for 3
+302,138,"Beckett Mariner, Impetuous Ensign",TRK,uncommon,R,{1}{R},Legendary Creature — Human Officer,-0.02,-0.015,-0.0266,-0.0282,0.5318,2/1 first strike
+303,111,A Good Day to Die,TRK,common,B,{B},Instant,-0.025,-0.0235,-0.0185,-0.0286,0.5314,cantrip-ish trick
+304,233,"Dathon, His Heart Open",TRK,rare,GRU,{G}{U}{R},Legendary Creature — Tamarian Officer,-0.045,-0.0401,-0.0032,-0.0297,0.5303,3-color enchantment payoff
+305,192,Dathon and Picard at El-Adrel,TRK,common,G,{2}{G},Instant,-0.02,-0.0185,-0.0257,-0.0301,0.5299,pump/artifact edict
+306,174,Tal Shiar Analyst,TRK,common,R,{2}{R},Creature — Romulan Scientist,-0.02,-0.0185,-0.0266,-0.0308,0.5292,3/2 pinger
+307,203,"I'm a Doctor, Not a . . .",TRK,common,G,{G},Instant,-0.025,-0.0235,-0.0219,-0.0311,0.5289,trick
+308,259,Class-F Shuttlecraft,TRK,common,,{3},Artifact — Spacecraft,-0.018,-0.0165,-0.0302,-0.0319,0.5281,mana rock ship
+309,163,Planetary Patrol,TRK,common,R,{1}{R},Creature — Scout,-0.025,-0.0235,-0.0233,-0.032,0.528,2/2 landfall
+310,31,Pure Energy,TRK,common,W,{1}{W},Sorcery,-0.03,-0.0285,-0.019,-0.0326,0.5274,two counters sorcery + beam
+311,141,Cantankerous Captain,TRK,common,R,{2}{R},Creature — Tellarite Officer,-0.022,-0.0205,-0.028,-0.0332,0.5268,2/3 for 3 pumper
+312,134,Test of Loyalty,TRK,uncommon,B,{B},Sorcery,-0.025,-0.02,-0.0288,-0.0334,0.5266,raise dead/cantrip
+313,238,"Gray and Adira, Forever Joined",TRK,uncommon,RU,{2}{U/R}{U/R},Legendary Creature — Trill Human Officer,-0.035,-0.03,-0.0201,-0.0344,0.5256,copy with spell condition
+314,156,"La'An Noonien-Singh, Security",TRK,uncommon,R,{2}{R}{R},Legendary Creature — Human Soldier,-0.025,-0.02,-0.0311,-0.0351,0.5249,4/3 for 4
+315,256,"Worf, Honor-Bound Warrior",TRK,uncommon,RW,{R/W}{R/W},Legendary Creature — Klingon Warrior Officer,-0.032,-0.027,-0.0243,-0.0353,0.5247,1/1 for 2
+316,10,Conquest Mission,TRK,uncommon,W,{2}{W},Enchantment,-0.035,-0.03,-0.0213,-0.0353,0.5247,"slow quest enchantment; Mission/""Way of"" class is bad"
+317,157,"Lwaxana Troi, Charming Guest",TRK,rare,R,{1}{R},Legendary Creature — Betazoid Advisor,-0.035,-0.0301,-0.0212,-0.0353,0.5247,do-nothing 2/2
+318,270,Tricorder,TRK,common,,{1},Artifact — Equipment,-0.03,-0.0285,-0.0233,-0.0357,0.5243,equipment
+319,108,"Gabriel Lorca, Mirror Menace",TRK,uncommon,B,{4}{B},Legendary Creature — Human Rogue Officer,-0.015,-0.01,-0.0426,-0.0361,0.5239,5/4 menace for 5 recursive
+320,169,Red Alert!,TRK,uncommon,R,{2}{R},Instant,-0.03,-0.025,-0.0278,-0.0364,0.5236,team pump
+321,139,Boarding Action,TRK,common,R,{1}{R},Sorcery,-0.03,-0.0285,-0.0256,-0.0374,0.5226,2/1 haste token + beam
+322,161,Perils of the Past,TRK,common,R,{1}{R},Instant,-0.025,-0.0235,-0.0316,-0.038,0.522,trick/artifact removal
+323,168,Reckless Impulse,TRK,common,R,{1}{R},Sorcery,-0.025,-0.0235,-0.0318,-0.0382,0.5218,impulse draw
+324,120,Obsidian Order Operative,TRK,common,B,{3}{B},Creature — Cardassian Officer Spy,-0.02,-0.0185,-0.0374,-0.0386,0.5214,2/5 for 4 drain on modes
+325,159,The Naked Time,TRK,uncommon,R,{1}{R},Enchantment — Saga,-0.035,-0.03,-0.0259,-0.0387,0.5213,weak saga
+326,252,Seven of Nine,TRK,uncommon,BU,{2}{U}{B},Legendary Artifact Creature — Human Scientist,-0.02,-0.015,-0.0415,-0.0389,0.5211,2/4 draw on modes
+327,52,"Data, New Life",TRK,uncommon,U,{1}{U},Legendary Artifact Creature — Android Scientist,-0.032,-0.027,-0.0294,-0.0389,0.5211,"0/1 for 2, slow; weak legendary uncommon"
+328,264,Engineered Explosives,TRK,rare,,{X},Artifact,-0.045,-0.0401,-0.0165,-0.0392,0.5208,limited-weak
+329,149,"Erica Ortegas, Plucky Pilot",TRK,uncommon,R,{3}{R},Legendary Creature — Human Pilot,-0.03,-0.025,-0.0321,-0.0394,0.5206,4-mana 3/3 haste weak legendary
+330,140,Brazen Bluff,TRK,rare,R,{R}{R},Instant,-0.05,-0.0451,-0.0161,-0.0426,0.5174,situational
+331,150,Exploratory Mission,TRK,uncommon,R,{2}{R}{R},Enchantment,-0.035,-0.03,-0.0341,-0.0446,0.5154,quest enchantment
+332,266,Isolinear Processor,TRK,uncommon,,{2},Artifact,-0.04,-0.035,-0.0309,-0.0459,0.5141,mana rock looter
+333,144,Captain's Tutelage,TRK,common,R,{1}{R},Enchantment — Aura,-0.035,-0.0335,-0.0325,-0.046,0.514,aura
+334,215,Stable Wormhole,TRK,rare,G,{2}{G},Enchantment,-0.04,-0.0351,-0.0311,-0.0461,0.5139,lands on attack
+335,132,Tell Me What You See,TRK,uncommon,B,{1}{B},Enchantment,-0.035,-0.03,-0.0367,-0.0464,0.5136,punisher enchantment
+336,216,Support Mission,TRK,uncommon,G,{2}{G},Enchantment,-0.035,-0.03,-0.0396,-0.0485,0.5115,quest counters
+337,265,The Holodeck,TRK,rare,,{7},Legendary Artifact,-0.04,-0.0351,-0.0365,-0.05,0.51,7-mana graveyard recursion
+338,46,Anthropological Mission,TRK,uncommon,U,{2}{U},Enchantment,-0.04,-0.035,-0.0406,-0.0529,0.5071,"quest enchantment, slow"
+339,27,Peace in Our Time,TRK,rare,W,{3}{W},Enchantment,-0.06,-0.0551,-0.0287,-0.059,0.501,does nothing on a losing board; alt-win too slow
+340,136,Vengeance Mission,TRK,uncommon,B,{2}{B},Enchantment,-0.045,-0.04,-0.0454,-0.06,0.5,quest drain enchantment
+341,260,Combadge,TRK,uncommon,,{3},Artifact — Communicator Equipment,-0.055,-0.05,-0.0558,-0.0748,0.4852,unblockable equipment
