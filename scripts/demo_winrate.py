@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Hello-world: historical GIH win rates, Reality Fracture cards, and a leakage check."""
+"""Hello-world: historical GIH win rates, Star Trek cards, and a leakage check."""
 
 from __future__ import annotations
 
@@ -10,15 +10,15 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path("/opt/mtg-data")
-GAME = ROOT / "17lands" / "sets" / "HOB" / "game_data_public.HOB.PremierDraft.csv.gz"
-FRA = ROOT / "scryfall" / "sets" / "fra.jsonl.gz"
+GAME = ROOT / "17lands" / "sets" / "FRA" / "game_data_public.FRA.PremierDraft.csv.gz"
+TARGET = ROOT / "scryfall" / "sets" / "trk.jsonl.gz"
 RULES = ROOT / "rules" / "MagicCompRules-20260925.txt"
 
 
 def gih_win_rates(path: Path) -> dict:
     games = 0
     wins = 0
-    seen = defaultdict(lambda: [0, 0])  # games in hand, wins
+    seen = defaultdict(lambda: [0, 0])
     with gzip.open(path, "rt", newline="") as handle:
         reader = csv.reader(handle)
         header = next(reader)
@@ -26,22 +26,19 @@ def gih_win_rates(path: Path) -> dict:
         expansion_index = header.index("expansion")
         hand_cols = []
         for index, name in enumerate(header):
-            if name.startswith("opening_hand_") or name.startswith("drawn_"):
-                card = name.split("_", 2)[-1] if name.startswith("opening_hand_") else name[len("drawn_") :]
-                # Prefixes are opening_hand_ and drawn_; the card name is the remainder.
-                if name.startswith("opening_hand_"):
-                    card = name[len("opening_hand_") :]
-                else:
-                    card = name[len("drawn_") :]
+            if name.startswith("opening_hand_"):
+                card = name[len("opening_hand_") :]
                 hand_cols.append((index, card))
-        # Pair opening hand and drawn columns for the same card.
+            elif name.startswith("drawn_"):
+                card = name[len("drawn_") :]
+                hand_cols.append((index, card))
         paired: dict[str, list[int]] = defaultdict(list)
         for index, card in hand_cols:
             paired[card].append(index)
         for row in reader:
             games += 1
-            if row[expansion_index] != "HOB":
-                raise SystemExit(f"unexpected expansion in HOB file: {row[expansion_index]}")
+            if row[expansion_index] != "FRA":
+                raise SystemExit(f"unexpected expansion in FRA file: {row[expansion_index]}")
             won = row[won_index] in {"1", "True", "true", "TRUE"}
             if won:
                 wins += 1
@@ -72,7 +69,7 @@ def gih_win_rates(path: Path) -> dict:
     }
 
 
-def fra_summary(path: Path) -> dict:
+def target_summary(path: Path) -> dict:
     rarities: dict[str, int] = defaultdict(int)
     cards = []
     with gzip.open(path, "rt") as handle:
@@ -97,19 +94,21 @@ def fra_summary(path: Path) -> dict:
 def main() -> None:
     report_path = ROOT / "manifests" / "leakage_report.json"
     leakage = json.loads(report_path.read_text())
-    if leakage.get("reality_fracture_seventeenlands_rows") != 0:
+    if leakage.get("target_set") != "TRK":
+        raise SystemExit("leakage report is not for Star Trek")
+    if leakage.get("star_trek_seventeenlands_rows") != 0:
         raise SystemExit("leakage report is not clean")
-    if leakage.get("reality_fracture_seventeenlands_files") != 0:
-        raise SystemExit("leakage report found Reality Fracture 17lands files")
+    if leakage.get("star_trek_seventeenlands_files") != 0:
+        raise SystemExit("leakage report found Star Trek 17lands files")
     rules_head = RULES.read_text(errors="replace").splitlines()[:12]
     report = {
         "leakage": {
             "seventeenlands_files": leakage["seventeenlands_file_count"],
-            "reality_fracture_seventeenlands_files": 0,
-            "reality_fracture_seventeenlands_rows": 0,
+            "star_trek_seventeenlands_files": 0,
+            "star_trek_seventeenlands_rows": 0,
         },
         "historical_premier_draft": gih_win_rates(GAME),
-        "reality_fracture_scryfall": fra_summary(FRA),
+        "star_trek_scryfall": target_summary(TARGET),
         "comprehensive_rules_head": rules_head,
     }
     out = ROOT / "manifests" / "demo_winrate.json"

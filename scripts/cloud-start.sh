@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Recreate the workspace link on every boot and refuse a Reality Fracture 17lands leak.
+# Recreate the workspace link on every boot and refuse a Star Trek 17lands leak.
 set -euo pipefail
 
 if [[ ! -d /opt/mtg-data/17lands ]]; then
