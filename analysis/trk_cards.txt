@@ -1,0 +1,1276 @@
+
+### 1 70,000 Light-Years from Home [uncommon] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=[]
+Exile target creature or Spacecraft. Its controller may search their library for a basic land card, reveal it, put it into their hand, then shuffle.
+
+### 2 Andromedan Automatons [common] {2}{W} cmc=3.0 Artifact Creature — Android P/T=3/1 colors=['W'] kw=[]
+When this creature enters, you may search your library for any number of cards named Andromedan Automatons, reveal them, put them into your hand, then shuffle.
+
+### 3 Antagonist Incorporator [rare] {1}{W} cmc=2.0 Artifact Creature — Borg P/T=2/3 colors=['W'] kw=[]
+Artifact creatures you control have "Whenever this creature deals combat damage to a player, you may pay {1}. If you do, create a 1/1 colorless Borg artifact creature token."
+
+### 4 Assembly Specialist [uncommon] {1}{W} cmc=2.0 Artifact Creature — Borg P/T=1/1 colors=['W'] kw=[]
+When this creature enters, create a 1/1 colorless Borg artifact creature token.
+
+### 5 Brad Boimler, Eager Ensign [uncommon] {1}{W} cmc=2.0 Legendary Creature — Human Officer P/T=2/2 colors=['W'] kw=['Lifelink']
+Lifelink
+Whenever Brad Boimler becomes tapped, until end of turn, if one or more counters would be put on a permanent you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+
+### 6 Captain Benjamin Sisko [rare] {1}{W} cmc=2.0 Legendary Creature — Human Officer P/T=2/2 colors=['W'] kw=[]
+At the beginning of your end step, create a 1/1 red Officer creature token for each dilemma you've faced this turn.
+{2}{W}{U}{B}{R}{G}, {T}: Exile the top five cards of your library. You may cast any number of spells with mana value less than or equal to the number of Officers you control from among those cards without paying their mana costs.
+
+### 7 Captain Jean-Luc Picard [mythic] {2}{W} cmc=3.0 Legendary Creature — Human Officer P/T=2/3 colors=['W'] kw=[]
+Other creatures you control get +1/+1.
+Whenever you cast a creature or Spacecraft spell, create a 1/1 red Officer creature token.
+Tap seven untapped Officers you control: Search your library for a Spacecraft card, put it onto the battlefield with seven charge counters on it, then shuffle.
+
+### 8 Command Decision [common] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=[]
+Choose one —
+• Destroy target creature with power 4 or greater.
+• Draw a card.
+
+### 9 Command Subadjunct [uncommon] {W} cmc=1.0 Artifact Creature — Borg P/T=2/1 colors=['W'] kw=[]
+Artifact creatures you control have vigilance.
+
+### 10 Conquest Mission [uncommon] {2}{W} cmc=3.0 Enchantment P/T=None/None colors=['W'] kw=[]
+Whenever a nontoken artifact you control enters, put a quest counter on this enchantment. Create a 1/1 colorless Borg artifact creature token. If this enchantment has six or more quest counters on it, create two of those tokens instead.
+
+### 11 Deanna Troi, Psychic Counsel [rare] {1}{W} cmc=2.0 Legendary Creature — Betazoid Human Advisor P/T=2/2 colors=['W'] kw=[]
+Other creatures you control enter with an additional +1/+1 counter on them.
+
+### 12 DOT-7 Repair Squad [common] {3}{W} cmc=4.0 Artifact Creature — Robot P/T=3/3 colors=['W'] kw=['Flying']
+Flying
+{1}{W}: Untap target creature. Activate only as a sorcery and only once each turn.
+
+### 13 Dr. Beverly Crusher [mythic] {2}{W} cmc=3.0 Legendary Creature — Human Doctor P/T=2/2 colors=['W'] kw=[]
+If you gaining life causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Whenever you gain life, put a +1/+1 counter on Dr. Crusher.
+
+### 14 Dr. McCoy, Surly Surgeon [uncommon] {2}{W}{W} cmc=4.0 Legendary Creature — Human Doctor P/T=2/2 colors=['W'] kw=['Heal']
+When Dr. McCoy enters, put a +1/+1 counter on another target creature you control.
+If another creature you control with a +1/+1 counter on it would be destroyed, instead remove all +1/+1 counters from it and all damage already dealt to it is healed.
+
+### 15 Emergency Medical Hologram [common] {W} cmc=1.0 Artifact Creature — Illusion Doctor P/T=0/1 colors=['W'] kw=[]
+When this creature enters, put a +1/+1 counter on target creature. You gain 1 life.
+
+### 16 Excalbian Gamemaster [mythic] {5}{W} cmc=6.0 Creature — Excalbian P/T=6/6 colors=['W'] kw=['Strange new worlds']
+Strange new worlds — When this creature enters, create X 1/1 red Officer creature tokens, where X is the number of differently named lands you control.
+Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control.
+
+### 17 Federation Field Medic [common] {3}{W} cmc=4.0 Creature — Human Doctor P/T=3/2 colors=['W'] kw=['Vigilance']
+Vigilance
+When this creature enters, choose one —
+• Put a +1/+1 counter on target creature. It gains vigilance until end of turn.
+• Draw a card if you control a permanent with a counter on it.
+
+### 18 Federation Resupply [rare] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=[]
+Search your library for an Aura, Equipment, or Spacecraft card, reveal it, put it into your hand, then shuffle.
+Beam me up {3}{W} (You may cast this card from your graveyard for {3}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 19 Free Borg Revolutionaries [common] {3}{W}{W} cmc=5.0 Artifact Creature — Borg Rebel P/T=4/5 colors=['W'] kw=['Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']
+When this creature enters, creatures you control get +1/+1 until end of turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+### 20 Ghost of Illyria [uncommon] {3}{W} cmc=4.0 Creature — Elemental Spirit P/T=3/3 colors=['W'] kw=['Flying']
+Flying
+When this creature enters, exile up to one other target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+### 21 Hologram Janeway [uncommon] {2}{W} cmc=3.0 Legendary Artifact Creature — Illusion Officer P/T=3/3 colors=['W'] kw=[]
+Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on target creature.
+
+### 22 Malfunctioning Holodeck [common] {2}{W} cmc=3.0 Artifact P/T=None/None colors=['W'] kw=['Ward']
+Ward {2} (Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+
+### 23 The Measure of a Man [uncommon] {2}{W} cmc=3.0 Enchantment — Saga P/T=None/None colors=['W'] kw=['Investigate']
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile up to one target nontoken artifact or creature.
+II — Investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+III — Return the exiled card to the battlefield under its owner's control. You gain 2 life.
+
+### 24 Miles O'Brien, Transporter Ops [rare] {2}{W} cmc=3.0 Legendary Creature — Human Artificer P/T=3/3 colors=['W'] kw=[]
+When Miles O'Brien enters, return up to one other target creature or artifact you control to its owner's hand.
+At the beginning of each end step, if a permanent was returned to your hand from the battlefield this turn, draw a card.
+
+### 25 The Needs of the Many [rare] {1}{W} cmc=2.0 Instant P/T=None/None colors=['W'] kw=[]
+As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control gain hexproof and indestructible until end of turn. You gain hexproof until end of turn. Prevent all damage that would be dealt to you this turn. Exile The Needs of the Many.
+
+### 26 Oberth-Class Starship [common] {1}{W} cmc=2.0 Artifact — Spacecraft P/T=2/2 colors=['W'] kw=['Station']
+When this Spacecraft enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying
+
+### 27 Peace in Our Time [rare] {3}{W} cmc=4.0 Enchantment P/T=None/None colors=['W'] kw=[]
+At the beginning of combat on each player's turn, that player may draw a card. If they do, they can't attack this turn and you put a peace counter on this enchantment.
+At the beginning of your upkeep, if this enchantment has twelve or more peace counters on it, you win the game.
+
+### 28 Pet Sehlat [common] {2}{W} cmc=3.0 Creature — Bear P/T=4/3 colors=['W'] kw=[]
+This creature can't attack alone.
+
+### 29 Picard, Leading by Example [uncommon] {1}{W} cmc=2.0 Legendary Creature — Human Officer P/T=2/2 colors=['W'] kw=[]
+{1}, {T}: Another target creature gets +X/+X until end of turn, where X is Picard's power. Activate only as a sorcery.
+
+### 30 Primary Unimatrix Adjunct [rare] {3}{W} cmc=4.0 Artifact Creature — Borg P/T=2/3 colors=['W'] kw=[]
+Artifact creatures you control have double strike.
+
+### 31 Pure Energy [common] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=[]
+Distribute two +1/+1 counters among one or two target creatures.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 32 Rutherford, Upgraded Ensign [uncommon] {2}{W} cmc=3.0 Legendary Creature — Human Artificer P/T=2/2 colors=['W'] kw=[]
+When Rutherford enters, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you cast a Spacecraft spell, put a +1/+1 counter on target creature.
+
+### 33 Saavik, Stoic Student [uncommon] {4}{W} cmc=5.0 Legendary Creature — Vulcan Advisor P/T=2/2 colors=['W'] kw=['Flash']
+Flash
+Federation — When Saavik enters, she deals X damage to target attacking or blocking creature an opponent controls, where X is the number of creature types among non-Borg creatures you control.
+
+### 34 Set Phasers to . . . [common] {W} cmc=1.0 Instant P/T=None/None colors=['W'] kw=['Kill', 'Stun']
+Choose one —
+• Stun — Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Kill — This spell deals 3 damage to target attacking creature.
+
+### 35 Shields Up! [common] {1}{W} cmc=2.0 Instant P/T=None/None colors=['W'] kw=[]
+Target artifact or creature you control gains hexproof and indestructible until end of turn. If it's a creature, put a +1/+1 counter on it. (It can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
+
+### 36 Shuttle Ace [common] {4}{W} cmc=5.0 Creature — Kelpien Pilot P/T=4/4 colors=['W'] kw=[]
+During your turn, this creature has flying.
+Whenever this creature becomes tapped, you gain 2 life.
+
+### 37 Sulu, Space Swashbuckler [rare] {1}{W} cmc=2.0 Legendary Creature — Human Pilot P/T=2/2 colors=['W'] kw=['First strike']
+First strike
+Whenever Sulu becomes tapped, if an Equipment or Spacecraft entered the battlefield under your control this turn, draw a card.
+
+### 38 Tactical Officer [common] {1}{W} cmc=2.0 Creature — Human Officer P/T=2/1 colors=['W'] kw=[]
+Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on this creature. Untap it.
+
+### 39 Test of Conviction [uncommon] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=['Battle Stations', 'Begin Negotiations']
+Choose one —
+• Battle Stations — Put a +1/+1 counter on each creature you control.
+• Begin Negotiations — Target opponent draws a card. You draw two cards.
+
+### 40 There's Coffee in that Nebula [uncommon] {1}{W} cmc=2.0 Sorcery P/T=None/None colors=['W'] kw=[]
+Look at the top five cards of your library. You may reveal a Plains card or nonland permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom in a random order.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 41 Troubling Tribbles [rare] {2}{W} cmc=3.0 Creature — Tribble P/T=0/1 colors=['W'] kw=[]
+This creature can't block.
+At the beginning of your upkeep, create a token that's a copy of this creature.
+
+### 42 Una Chin-Riley, Number One [uncommon] {4}{W} cmc=5.0 Legendary Creature — Illyrian Officer P/T=4/5 colors=['W'] kw=[]
+Whenever you attack while creatures you control have total power 8 or greater, target attacking creature gets +2/+0 and gains first strike until end of turn.
+
+### 43 U.S.S. Enterprise-A, Free Spirit [mythic] {3}{W}{W} cmc=5.0 Legendary Artifact — Spacecraft P/T=5/5 colors=['W'] kw=['Station', 'Ward']
+Ward {2}
+When U.S.S. Enterprise-A enters, create three 1/1 red Officer creature tokens.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, lifelink
+
+### 44 U.S.S. Excelsior, Cutting Edge [uncommon] {3}{W} cmc=4.0 Legendary Artifact — Spacecraft P/T=4/4 colors=['W'] kw=['Station']
+When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying
+
+### 45 Vexing Drone [common] {1}{W} cmc=2.0 Artifact Creature — Borg P/T=2/2 colors=['W'] kw=[]
+When this creature enters, tap target creature an opponent controls.
+
+### 46 Anthropological Mission [uncommon] {2}{U} cmc=3.0 Enchantment P/T=None/None colors=['U'] kw=[]
+Whenever you cast a noncreature spell, put a quest counter on this enchantment. Draw a card. Then discard a card unless this enchantment has three or more quest counters on it.
+
+### 47 The Caretaker [rare] {5}{U} cmc=6.0 Legendary Creature — Elemental P/T=5/6 colors=['U'] kw=['Vigilance', 'Face a dilemma', 'Ward']
+Vigilance, ward {2}
+At the beginning of each end step, if you faced a dilemma this turn, target opponent exiles cards from the top of their library until they exile a nonland card. You may cast that card without paying its mana cost. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 48 Cetacean Ops [common] {3}{U} cmc=4.0 Creature — Whale Officer P/T=3/3 colors=['U'] kw=['Ward']
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+
+### 49 Cloak and Phaser [uncommon] {8}{U} cmc=9.0 Sorcery P/T=None/None colors=['U'] kw=['Strange new worlds']
+Strange new worlds — This spell costs {X} less to cast, where X is the number of differently named lands you control.
+Create two 2/2 black Romulan creature tokens. Draw two cards, then discard a card.
+
+### 50 Cloistered Telepath [common] {1}{U} cmc=2.0 Creature — Talosian Advisor P/T=2/1 colors=['U'] kw=['Flash']
+Flash
+When this creature enters, draw a card, then discard a card.
+
+### 51 Consider the Prime Directive [common] {2}{U} cmc=3.0 Instant P/T=None/None colors=['U'] kw=['Observe', 'Interfere']
+Choose one —
+• Interfere — Counter target spell unless its controller pays {3}.
+• Observe — Tap up to one target creature and put a stun counter on it. Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+### 52 Data, New Life [uncommon] {1}{U} cmc=2.0 Legendary Artifact Creature — Android Scientist P/T=0/1 colors=['U'] kw=[]
+Whenever you draw a card, put a +1/+1 counter on Data.
+
+### 53 Deep Space Scan [rare] {4}{U}{U} cmc=6.0 Sorcery P/T=None/None colors=['U'] kw=['Strange new worlds']
+Strange new worlds — Draw X cards, where X is the number of differently named lands you control. You have no maximum hand size until your next turn.
+
+### 54 Dominion Saboteur [uncommon] {4}{U} cmc=5.0 Creature — Shapeshifter P/T=3/3 colors=['U'] kw=[]
+You may have this creature enter as a copy of any artifact or creature on the battlefield, except it isn't legendary. If you do, it enters with additional counters on it equal to the same number and kinds of counters the copied permanent has on it.
+
+### 55 Emergency Holographic Crew [common] {3}{U} cmc=4.0 Artifact Creature — Illusion Officer P/T=3/4 colors=['U'] kw=['Surveil']
+When this creature enters, choose one —
+• Return target Spacecraft card from your graveyard to your hand.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+### 56 Energize [uncommon] {1}{U} cmc=2.0 Sorcery P/T=None/None colors=['U'] kw=[]
+Return target creature an opponent controls to its owner's hand.
+Beam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 57 Ensign Pavel Chekov [uncommon] {3}{U} cmc=4.0 Legendary Creature — Human Pilot P/T=1/5 colors=['U'] kw=['Strange new worlds']
+Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.
+
+### 58 Enterprise NX-01 [uncommon] {3}{U} cmc=4.0 Legendary Artifact — Spacecraft P/T=4/3 colors=['U'] kw=['Station']
+When Enterprise NX-01 enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, vigilance
+
+### 59 Federation Probe [common] {U} cmc=1.0 Artifact Creature — Construct P/T=1/1 colors=['U'] kw=['Flying', 'Surveil']
+Flying
+When this creature enters, choose one —
+• Target creature gets +1/+1 until end of turn.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 60 Guidance Failure [common] {3}{U} cmc=4.0 Instant P/T=None/None colors=['U'] kw=[]
+This spell costs {1} less to cast if it targets an attacking creature.
+Target creature or Spacecraft's owner puts it on their choice of the top or bottom of their library.
+
+### 61 Gwyndala, the Progeny [rare] {1}{U} cmc=2.0 Legendary Creature — Vau-N'Akat Advisor P/T=1/1 colors=['U'] kw=[]
+When Gwyndala enters, create a colorless Equipment artifact token named Neuroflux Heirloom with "Equipped creature gets +1/+1" and equip {2}. Attach it to Gwyndala.
+{2}: Each Equipment token you control becomes a copy of target Equipment you control until end of turn.
+
+### 62 Highly Illogical [uncommon] {1}{U} cmc=2.0 Instant P/T=None/None colors=['U'] kw=['Kicker']
+Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Counter target spell with mana value 2 or less. If this spell was kicked, instead counter target spell.
+
+### 63 H.M.S. Bounty, Unlikely Timeship [rare] {4}{U} cmc=5.0 Legendary Artifact — Spacecraft P/T=3/4 colors=['U'] kw=['Station']
+When H.M.S. Bounty enters, you may search your library for a Whale card, reveal it, put it into your hand, then shuffle.
+Station
+8+ | Flying
+Whenever H.M.S. Bounty deals combat damage to a player, draw a card. If you control a Whale and haven't begun an extra turn this game, take an extra turn after this one.
+
+### 64 Hoshi Sato, Exolinguist [uncommon] {4}{U} cmc=5.0 Legendary Creature — Human Scientist P/T=3/3 colors=['U'] kw=[]
+Federation — When Hoshi Sato enters, look at the top X cards of your library, where X is the number of creature types among non-Borg creatures you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+
+### 65 Humpback Whales [common] {4}{U}{U} cmc=6.0 Creature — Whale P/T=5/6 colors=['U'] kw=['Vigilance', 'Landcycling', 'Basic landcycling', 'Ward', 'Typecycling', 'Cycling']
+Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+### 66 Interstellar Effigy [common] {4}{U} cmc=5.0 Artifact Creature — Construct P/T=4/3 colors=['U'] kw=[]
+When this creature enters, return target creature an opponent controls to its owner's hand.
+
+### 67 Jett Reno, Problem Solver [uncommon] {1}{U} cmc=2.0 Legendary Creature — Human Artificer P/T=1/2 colors=['U'] kw=['Surveil', 'Face a dilemma']
+Whenever Jett Reno becomes tapped, surveil 1. If her power is 4 or greater, instead draw a card.
+Whenever you face a dilemma, put a +1/+1 counter on Jett Reno. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 68 Kobayashi Maru Scenario [mythic] {1}{U}{U} cmc=3.0 Enchantment P/T=None/None colors=['U'] kw=['Sensors', 'Abandon Ship', 'Hail', 'Transport']
+At the beginning of your upkeep, choose one that hasn't been chosen —
+• Hail — Return up to one target creature an opponent controls with mana value 3 or less to its owner's hand.
+• Sensors — Draw two cards.
+• Transport — Create two 1/1 red Officer creature tokens.
+• Abandon Ship — You lose the game.
+
+### 69 Lieutenant Commander Data [mythic] {2}{U} cmc=3.0 Legendary Artifact Creature — Android Scientist P/T=2/2 colors=['U'] kw=[]
+Whenever a player casts a noncreature spell, put a +1/+1 counter on Lieutenant Commander Data.
+{1}, Remove three counters from among creatures you control: Draw a card.
+
+### 70 Lt. Cmdr. Geordi La Forge [rare] {2}{U} cmc=3.0 Legendary Creature — Human Artificer P/T=3/2 colors=['U'] kw=[]
+If you would put one or more charge counters on an artifact you control, put twice that many charge counters on that artifact instead.
+
+### 71 Make It So [common] {3}{U} cmc=4.0 Sorcery P/T=None/None colors=['U'] kw=[]
+Choose one —
+• Untap target permanent you control. Target player draws two cards.
+• Create a 1/1 red Officer creature token and draw two cards.
+
+### 72 Marooned [common] {U} cmc=1.0 Enchantment — Aura P/T=None/None colors=['U'] kw=['Enchant']
+Enchant artifact or creature
+When this Aura enters, you may pay {3}. If you do, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step and can't be beamed up.
+
+### 73 Melkotian Adjudicator [common] {2}{U} cmc=3.0 Creature — Melkotian Advisor P/T=2/1 colors=['U'] kw=['Flying', 'Vigilance', 'Face a dilemma']
+Flying, vigilance
+Whenever you face a dilemma, put a +1/+1 counter on this creature. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 74 Mr. Spock, Science Officer [mythic] {2}{U}{U} cmc=4.0 Legendary Creature — Vulcan Human Scientist P/T=2/4 colors=['U'] kw=[]
+If you would draw a card, draw two cards instead.
+
+### 75 Nyota Uhura, Communications [rare] {2}{U} cmc=3.0 Legendary Creature — Human Officer P/T=2/4 colors=['U'] kw=['Open a Channel', 'Hailing Frequencies']
+Hailing Frequencies — As Nyota Uhura enters, choose a number between 0 and 10.
+Open a Channel — Whenever an opponent casts a spell with mana value equal to the chosen number, you draw a card.
+
+### 76 Open Communications [common] {U} cmc=1.0 Sorcery P/T=None/None colors=['U'] kw=[]
+Draw a card.
+Beam me up {2}{U} (You may cast this card from your graveyard for {2}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 77 Romulan Bird-of-Prey [rare] {1}{U} cmc=2.0 Artifact — Spacecraft P/T=4/4 colors=['U'] kw=['Station', 'Cloaking Device']
+Cloaking Device — As long as this Spacecraft isn't a creature, it has hexproof.
+Whenever you cast a noncreature spell, if this Spacecraft isn't a creature, put two charge counters on it.
+Station
+8+ | Flying
+
+### 78 Rules of Acquisition [uncommon] {3}{U}{U} cmc=5.0 Sorcery P/T=None/None colors=['U'] kw=['Follow the 98th Rule']
+Choose one —
+• Follow the 3rd Rule — Gain control of target nonland permanent an opponent controls. That opponent draws three cards.
+• Follow the 98th Rule — Target opponent gains control of target nonland permanent you control. If they do, you draw three cards.
+
+### 79 Scotty, Miracle Worker [mythic] {1}{U}{U} cmc=3.0 Legendary Creature — Human Artificer P/T=2/3 colors=['U'] kw=[]
+During your main phase, each card in your graveyard has beam me up. The beam me up cost is equal to that spell's mana cost. Scotty can't be beamed up to cast a spell this way. (Only instant and sorcery spells can be cast this way. You may cast a card from your graveyard for its beam me up cost if you also return another creature you control to its owner's hand. Then exile that spell.)
+
+### 80 Seven of Nine, Unassimilated [mythic] {1}{U} cmc=2.0 Legendary Artifact Creature — Human Officer P/T=0/4 colors=['U'] kw=[]
+At the beginning of your first main phase, draw a card. Then discard a card unless you control five or more differently named lands.
+{6}{U}: Seven of Nine's base power and toughness become 7/9. Activate only if you control seven or more differently named lands.
+
+### 81 Starfleet Spanner Jockey [common] {1}{U} cmc=2.0 Creature — Human Artificer P/T=3/3 colors=['U'] kw=['Defender']
+Defender
+As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender.
+
+### 82 Subcommander T'Pol [rare] {2}{U} cmc=3.0 Legendary Creature — Vulcan Scientist P/T=3/1 colors=['U'] kw=['Flash']
+Flash
+When Subcommander T'Pol enters, choose one —
+• Counter target activated or triggered ability.
+• Tap up to one target artifact or creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+### 83 Suurok-Class Science Vessel [common] {2}{U} cmc=3.0 Artifact — Spacecraft P/T=3/2 colors=['U'] kw=['Station']
+When this Spacecraft enters, draw a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)
+5+ | Flying
+
+### 84 Suus Mahna Practitioner [common] {2}{U} cmc=3.0 Creature — Vulcan Officer P/T=3/2 colors=['U'] kw=['Strange new worlds']
+Strange new worlds — {4}{U}, {T}: Tap target creature. This ability costs {X} less to activate, where X is the number of differently named lands you control.
+
+### 85 Test of Priorities [uncommon] {1}{U} cmc=2.0 Instant P/T=None/None colors=['U'] kw=['Surveil', 'Power to Engines', 'Power to Life Support']
+Choose one —
+• Power to Engines — Surveil 2, then draw a card.
+• Power to Life Support — Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+### 86 Those Old Scientists [uncommon] {2}{U} cmc=3.0 Enchantment — Saga P/T=None/None colors=['U'] kw=[]
+(As this Saga enters and after your draw
+step, add a lore counter. Sacrifice after III.)
+I — Draw two cards, then discard two cards.
+II — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand.
+III — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.
+
+### 87 V'Ger, the Intruder [uncommon] {6}{U} cmc=7.0 Legendary Artifact Creature — Construct P/T=5/7 colors=['U'] kw=['Flying']
+Flying
+Whenever V'Ger enters or attacks, choose one —
+• Look at target opponent's hand, then draw a card.
+• Creatures your opponents control get -1/-0 until your next turn.
+
+### 88 Vulcan Mind-Meld [uncommon] {U} cmc=1.0 Sorcery P/T=None/None colors=['U'] kw=[]
+Target opponent looks at the top card of your library, then exiles it face down. You look at the top two cards of their library, then exile them face down. For each card exiled this way, the player who exiled it may play it for as long as it remains exiled. Mana of any type can be spent to cast spells this way.
+
+### 89 Wesley Crusher, Starfleet Cadet [rare] {2}{U}{U} cmc=4.0 Legendary Creature — Human Officer P/T=2/2 colors=['U'] kw=['Flash']
+Flash
+When Wesley Crusher enters, choose two —
+• Counter target noncreature spell unless its controller pays {2}.
+• Return target creature with mana value 2 or less to its owner's hand.
+• Target creature can't be blocked this turn.
+• Target player draws two cards, then discards two cards.
+
+### 90 Zefram Cochrane, Warp Pioneer [uncommon] {2}{U} cmc=3.0 Legendary Creature — Human Pilot P/T=2/3 colors=['U'] kw=[]
+You may look at the top card of your library any time.
+Once during each of your turns, you may cast an artifact spell from the top of your library.
+Spacecraft you control enter with two additional charge counters on them.
+
+### 91 Armus, Skin of Evil [rare] {5}{B}{B} cmc=7.0 Legendary Creature — Ooze Horror P/T=6/6 colors=['B'] kw=['Menace']
+Menace
+At the beginning of your end step, target opponent discards two cards.
+{2}{B}, Discard this card: Target creature gets -4/-4 until end of turn.
+
+### 92 Assault Drone [common] {3}{B} cmc=4.0 Artifact Creature — Borg P/T=2/4 colors=['B'] kw=[]
+Artifact creatures you control get +1/+0.
+
+### 93 Automated Warfare System [common] {2}{B} cmc=3.0 Artifact Creature — Construct P/T=2/2 colors=['B'] kw=['Flying']
+Flying
+Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card.
+
+### 94 Bat'leth [uncommon] {2}{B} cmc=3.0 Artifact — Equipment P/T=None/None colors=['B'] kw=['Equip']
+When this Equipment enters, target creature an opponent controls gets -2/-2 until end of turn.
+Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+### 95 Battle-Scarred Survivalist [common] {1}{B} cmc=2.0 Creature — Klingon Scout P/T=1/1 colors=['B'] kw=['Menace']
+Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature dies, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+
+### 96 Blastoneuron [uncommon] {3}{B} cmc=4.0 Creature — Jellyfish Leech P/T=2/2 colors=['B'] kw=['Flying']
+Flying
+When this creature enters, exile target creature card with mana value 3 or less from your graveyard. Create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.
+
+### 97 Cha'DIch Investigator [common] {4}{B} cmc=5.0 Creature — Klingon Warrior P/T=4/4 colors=['B'] kw=[]
+When this creature enters, create a 2/1 red Klingon Warrior creature token with haste.
+
+### 98 Collation Trimatrix [rare] {B} cmc=1.0 Artifact Creature — Borg P/T=1/1 colors=['B'] kw=[]
+Tap three untapped artifact creatures you control: You draw a card and lose 1 life.
+
+### 99 Collective Drone [uncommon] {1}{B} cmc=2.0 Artifact Creature — Borg P/T=*/2 colors=['B'] kw=[]
+Collective Drone's power is equal to the number of artifact creatures you control.
+
+### 100 Commander Raffi Musiker [uncommon] {2}{B} cmc=3.0 Legendary Creature — Human Officer P/T=3/2 colors=['B'] kw=['Investigate']
+When Commander Musiker enters, choose one —
+• Exile up to one target card from a graveyard. You gain 2 life.
+• Investigate. You lose 2 life. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+### 101 D'Ghor Bloodletter [uncommon] {2}{B} cmc=3.0 Creature — Klingon Assassin P/T=2/2 colors=['B'] kw=[]
+When this creature enters, choose one —
+• All other creatures get -1/-1 until end of turn.
+• Each player sacrifices a creature of their choice.
+
+### 102 Death Is Irrelevant [mythic] {6}{B}{B} cmc=8.0 Enchantment P/T=None/None colors=['B'] kw=['Assimilate']
+Artifact creatures you control have indestructible.
+At the beginning of your end step, assimilate target creature card from a graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)
+
+### 103 The Destruction of Praxis [rare] {3}{B}{B} cmc=5.0 Sorcery P/T=None/None colors=['B'] kw=['Strange new worlds']
+Strange new worlds — All creatures get -X/-X until end of turn, where X is the number of differently named lands you control. If X is 6 or more, create two 2/1 red Klingon Warrior creature tokens with haste.
+
+### 104 De-evolve [uncommon] {1}{B} cmc=2.0 Enchantment — Aura P/T=None/None colors=['B'] kw=['Enchant', 'Threshold']
+Enchant creature
+Enchanted creature gets -4/-0, can't block, and is a Salamander. (It loses all other creature types.)
+Threshold — At the beginning of each upkeep, if there are seven or more cards in your graveyard, exile enchanted creature.
+
+### 105 Eject the Warp Core [common] {1}{B} cmc=2.0 Instant P/T=None/None colors=['B'] kw=['Kicker']
+Kicker—Sacrifice an artifact or creature. (You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.
+
+### 106 Elim Garak, Simple Tailor [rare] {2}{B} cmc=3.0 Legendary Creature — Cardassian Rogue P/T=3/3 colors=['B'] kw=['Face a dilemma', 'Menace']
+Menace
+Whenever you face a dilemma, each opponent loses 2 life and you gain 2 life. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 107 Fugitive Listener [common] {2}{B} cmc=3.0 Creature — El-Aurian Scout P/T=3/1 colors=['B'] kw=[]
+When this creature enters, each opponent discards a card.
+
+### 108 Gabriel Lorca, Mirror Menace [uncommon] {4}{B} cmc=5.0 Legendary Creature — Human Rogue Officer P/T=5/4 colors=['B'] kw=['Face a dilemma', 'Menace']
+Menace
+Whenever you face a dilemma, you may pay {B}. If you do, return this card from your graveyard to your hand. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 109 General Chang, Cold Warrior [rare] {B} cmc=1.0 Legendary Creature — Klingon Warrior Officer P/T=1/2 colors=['B'] kw=[]
+{1}, Sacrifice a creature: Put a +1/+1 counter on each Klingon you control.
+
+### 110 Georgiou, Terran Emperor [mythic] {4}{B}{B} cmc=6.0 Legendary Creature — Human Rogue Noble P/T=4/6 colors=['B'] kw=[]
+You don't lose the game for having 0 or less life.
+At the beginning of your end step, you lose 3 life and draw a card. Then if your life total is 0 or less, create ten 1/1 red Officer creature tokens.
+
+### 111 A Good Day to Die [common] {B} cmc=1.0 Instant P/T=None/None colors=['B'] kw=[]
+Target creature gets +2/+0 until end of turn. When that creature dies this turn, you draw a card.
+
+### 112 Grand Nagus Zek [rare] {2}{B} cmc=3.0 Legendary Creature — Ferengi Noble P/T=1/1 colors=['B'] kw=['Treasure']
+Grand Nagus Zek gets +1/+1 for each Treasure you control.
+Whenever another creature dies, create a Treasure token. This ability triggers only once each turn. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+### 113 Gul Dukat, Colonial Prefect [mythic] {4}{B}{B}{B} cmc=7.0 Legendary Creature — Cardassian Rogue P/T=6/6 colors=['B'] kw=['Menace']
+Menace
+At the beginning of each end step, each opponent loses life equal to the life that player lost this turn. You gain life equal to the life lost this way. (Damage causes loss of life.)
+
+### 114 He's Dead, Jim [common] {3}{B} cmc=4.0 Instant P/T=None/None colors=['B'] kw=['Surveil']
+Destroy target creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 115 Hive Mind Coprocessor [uncommon] {4}{B} cmc=5.0 Artifact Creature — Borg P/T=4/4 colors=['B'] kw=[]
+Artifact creatures you control have "Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, draw a card."
+
+### 116 Impossible Choice [uncommon] {2}{B} cmc=3.0 Instant P/T=None/None colors=['B'] kw=['Surgical Separation', 'Remain Fused']
+Choose one —
+• Surgical Separation — Destroy target creature. Its controller creates two 1/1 red Officer creature tokens.
+• Remain Fused — You draw two cards and each player loses 2 life.
+
+### 117 In the Pale Moonlight [uncommon] {3}{B}{B} cmc=5.0 Enchantment — Saga P/T=None/None colors=['B'] kw=['Investigate']
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a nontoken creature of their choice.
+II — Investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+III — You may sacrifice an artifact or creature. If you do, create two 2/2 black Romulan creature tokens.
+
+### 118 Kai Winn, Faithless Leader [rare] {1}{B} cmc=2.0 Legendary Creature — Bajoran Cleric P/T=3/1 colors=['B'] kw=[]
+As Kai Winn enters, choose a nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a source with the chosen name, that player loses 3 life.
+
+### 119 Khan, Vengeful Heart [mythic] {2}{B}{B} cmc=4.0 Legendary Creature — Human Warrior P/T=5/3 colors=['B'] kw=[]
+When Khan enters, you may sacrifice another creature or artifact. If you do, draw two cards.
+You may cast this card from exile.
+
+### 120 Obsidian Order Operative [common] {3}{B} cmc=4.0 Creature — Cardassian Officer Spy P/T=2/5 colors=['B'] kw=['Face a dilemma']
+Whenever you face a dilemma, each opponent loses 1 life and you gain 1 life. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 121 Organic Avulsion Unit [uncommon] {2}{B} cmc=3.0 Artifact Creature — Borg P/T=2/3 colors=['B'] kw=[]
+{2}: Artifact creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)
+
+### 122 Overflow Submatrix [rare] {2}{B} cmc=3.0 Artifact Creature — Borg P/T=3/3 colors=['B'] kw=[]
+Once during each of your turns, you may cast an artifact creature spell from your graveyard. If you cast a spell this way, that artifact creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)
+
+### 123 Pattern Buffer Preservation [common] {1}{B} cmc=2.0 Sorcery P/T=None/None colors=['B'] kw=[]
+Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+Beam me up {1}{B} (You may cast this card from your graveyard for {1}{B} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 124 Relentless Drednok [common] {B} cmc=1.0 Artifact Creature — Robot P/T=1/1 colors=['B'] kw=['Lifelink']
+Lifelink
+{2}{B}, Exile this card from your graveyard: You draw a card and lose 1 life.
+
+### 125 Resistance Is Futile [uncommon] {1}{B} cmc=2.0 Sorcery P/T=None/None colors=['B'] kw=[]
+Choose one —
+• Destroy target nonartifact creature.
+• Return target artifact creature card with mana value 3 or less from your graveyard to the battlefield.
+
+### 126 Rogue Artificial Intelligence [common] {4}{B}{B} cmc=6.0 Artifact Creature — Construct P/T=6/5 colors=['B'] kw=['Surveil', 'Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']
+When this creature enters, choose one —
+• You gain 3 life.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+### 127 Salt Vampire [rare] {1}{B} cmc=2.0 Creature — Vampire Shapeshifter P/T=2/2 colors=['B'] kw=['Lifelink']
+Lifelink
+When this creature enters, look at target opponent's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.
+
+### 128 Sela, Tal Shiar Paradox [rare] {3}{B} cmc=4.0 Legendary Creature — Romulan Human Rogue P/T=3/3 colors=['B'] kw=[]
+Whenever Sela attacks, exile up to one target card from a graveyard.
+Whenever one or more cards leave your graveyard, create a tapped 2/2 black Romulan creature token.
+
+### 129 Storied Veteran [uncommon] {B} cmc=1.0 Creature — Klingon Advisor P/T=2/1 colors=['B'] kw=[]
+This creature can't block.
+You may cast this card from your graveyard. If you do, it enters with a finality counter on it.
+
+### 130 Stray from History [common] {2}{B} cmc=3.0 Sorcery P/T=None/None colors=['B'] kw=['Rewrite the Past', 'Repair the Timeline']
+Choose one —
+• Rewrite the Past — Return one or two target creature and/or Spacecraft cards from your graveyard to your hand.
+• Repair the Timeline — Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+
+### 131 Tal Shiar Operative [common] {1}{B} cmc=2.0 Creature — Romulan Officer Spy P/T=2/2 colors=['B'] kw=['Surveil']
+Whenever this creature attacks, choose one —
+• Target creature you control gains deathtouch until end of turn.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 132 Tell Me What You See [uncommon] {1}{B} cmc=2.0 Enchantment P/T=None/None colors=['B'] kw=['Surveil', 'Face a dilemma']
+When this enchantment enters, target opponent may have you draw a card. If they don't, they lose 4 life and you surveil 1.
+Whenever you face a dilemma, you may return this enchantment to its owner's hand. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 133 Tenacious Drone [common] {1}{B} cmc=2.0 Artifact Creature — Borg P/T=2/1 colors=['B'] kw=[]
+When this creature dies, create a 1/1 colorless Borg artifact creature token.
+
+### 134 Test of Loyalty [uncommon] {B} cmc=1.0 Sorcery P/T=None/None colors=['B'] kw=['Of the Obsidian Order', 'Plain, Simple Garak']
+Choose one —
+• Plain, Simple Garak — Exile target card from a graveyard. Draw a card.
+• Of the Obsidian Order — Return target creature card from your graveyard to your hand.
+
+### 135 U.S.S. Reliant, From Hell's Heart [rare] {2}{B}{B} cmc=4.0 Legendary Artifact — Spacecraft P/T=4/3 colors=['B'] kw=['Station']
+Whenever U.S.S. Reliant enters or deals combat damage to a player, return target creature card with mana value 4 or less from your graveyard to the battlefield with a finality counter on it.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying
+
+### 136 Vengeance Mission [uncommon] {2}{B} cmc=3.0 Enchantment P/T=None/None colors=['B'] kw=[]
+Whenever a creature dies, put a quest counter on this enchantment. Target opponent loses 1 life. That player loses 2 life instead if there are seven or more quest counters on this enchantment.
+
+### 137 Academy Instructor [uncommon] {2}{R} cmc=3.0 Creature — Bolian Officer P/T=0/3 colors=['R'] kw=[]
+This creature gets +1/+0 for each Officer token you control.
+Whenever you cast a noncreature spell, create a 1/1 red Officer creature token.
+
+### 138 Beckett Mariner, Impetuous Ensign [uncommon] {1}{R} cmc=2.0 Legendary Creature — Human Officer P/T=2/1 colors=['R'] kw=['Reckless Behavior', 'First strike']
+First strike
+Reckless Behavior — Whenever Beckett Mariner becomes tapped, put a promotion counter on her. Then if there are three or more promotion counters on her, remove those counters and she deals 2 damage to each opponent.
+
+### 139 Boarding Action [common] {1}{R} cmc=2.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Create a 2/1 red Klingon Warrior creature token with haste.
+Beam me up {2}{R} (You may cast this card from your graveyard for {2}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 140 Brazen Bluff [rare] {R}{R} cmc=2.0 Instant P/T=None/None colors=['R'] kw=[]
+Choose target noncreature spell an opponent controls. That player may exile it. If they don't, you may cast a noncreature spell from your hand without paying its mana cost.
+
+### 141 Cantankerous Captain [common] {2}{R} cmc=3.0 Creature — Tellarite Officer P/T=2/3 colors=['R'] kw=[]
+At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn. Then that creature gains menace until end of turn if creatures you control have total power 8 or greater. (It can't be blocked except by two or more creatures.)
+
+### 142 Captain James T. Kirk [mythic] {2}{R} cmc=3.0 Legendary Creature — Human Officer P/T=2/2 colors=['R'] kw=[]
+Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.
+• Discard a card, then draw a card.
+• Create a 1/1 red Officer creature token.
+• Creatures you control get +1/+0 until end of turn.
+
+### 143 Captain Michael Burnham [uncommon] {2}{R} cmc=3.0 Legendary Creature — Human Officer P/T=3/3 colors=['R'] kw=['Trample', 'Landfall']
+Trample
+Landfall — Whenever a land you control enters, Captain Burnham deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, put a +1/+1 counter on Captain Burnham.
+
+### 144 Captain's Tutelage [common] {1}{R} cmc=2.0 Enchantment — Aura P/T=None/None colors=['R'] kw=['Enchant', 'Flash']
+Flash
+Enchant creature
+When this Aura enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.
+
+### 145 D-7 Battle Cruiser [rare] {1}{R} cmc=2.0 Artifact — Spacecraft P/T=3/3 colors=['R'] kw=['Station']
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+3+ | At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+8+ | Flying
+
+### 146 Dahar Master [common] {3}{R} cmc=4.0 Creature — Klingon Warrior P/T=4/3 colors=['R'] kw=[]
+When this creature enters, you may sacrifice another nonland permanent. When you do, this creature deals 2 damage to any target.
+
+### 147 Dominion Infiltration [rare] {X}{R}{R}{R} cmc=3.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Choose X target creatures your opponents control. For each of them, create a token that's a copy of that creature, except it has changeling. Those tokens gain haste. Exile those tokens at the beginning of the next end step. (They're every creature type.)
+
+### 148 Encounter the Unknown [rare] {1}{R}{R} cmc=3.0 Instant P/T=None/None colors=['R'] kw=['Come in Peace', 'Shoot to Kill']
+Choose one —
+• Come in Peace — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+• Shoot to Kill — Encounter the Unknown deals 2 damage to each creature and each player.
+
+### 149 Erica Ortegas, Plucky Pilot [uncommon] {3}{R} cmc=4.0 Legendary Creature — Human Pilot P/T=3/3 colors=['R'] kw=['Haste']
+Haste
+Whenever Erica Ortegas becomes tapped, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner's hand at the beginning of the next end step.
+
+### 150 Exploratory Mission [uncommon] {2}{R}{R} cmc=4.0 Enchantment P/T=None/None colors=['R'] kw=['Landfall']
+Landfall — Whenever a land you control enters, put a quest counter on this enchantment. Then exile cards from the top of your library until you exile a nonland card. You may play that card this turn. If this enchantment has five or more quest counters on it, add {R}{R}.
+
+### 151 Genesis Effect [common] {4}{R} cmc=5.0 Instant P/T=None/None colors=['R'] kw=[]
+Genesis Effect deals 6 damage to target creature. Destroy target land you control. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 152 Horta [common] {4}{R}{R} cmc=6.0 Creature — Elemental P/T=7/6 colors=['R'] kw=['Landcycling', 'Trample', 'Basic landcycling', 'Typecycling', 'Cycling']
+Trample
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+### 153 Infinite Diversity [mythic] {7}{R}{R} cmc=9.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Federation — Exile target instant or sorcery card from your graveyard. Copy that card X times, where X is the number of creature types among non-Borg creatures you control. You may cast the copies without paying their mana costs. Exile Infinite Diversity.
+
+### 154 Khaaaaaaaaaaaannn! [uncommon] {X}{R} cmc=1.0 Instant P/T=None/None colors=['R'] kw=[]
+Khaaaaaaaaaaaannn! deals twice X damage to target creature. If that creature would die this turn, exile it instead.
+
+### 155 Khan, Despot by Design [uncommon] {4}{R} cmc=5.0 Legendary Creature — Human Rogue P/T=5/4 colors=['R'] kw=['Trample']
+Trample
+When Khan enters, he deals 1 damage to each opponent and each creature your opponents control.
+
+### 156 La'An Noonien-Singh, Security [uncommon] {2}{R}{R} cmc=4.0 Legendary Creature — Human Soldier P/T=4/3 colors=['R'] kw=[]
+Whenever you attack while creatures you control have total power 8 or greater, target creature can't block this turn.
+
+### 157 Lwaxana Troi, Charming Guest [rare] {1}{R} cmc=2.0 Legendary Creature — Betazoid Advisor P/T=2/2 colors=['R'] kw=[]
+You may choose not to untap Lwaxana Troi during your untap step.
+{2}, {T}: Choose another target creature you control. For as long as Lwaxana Troi remains tapped, if a triggered ability of that creature triggers, that ability triggers an additional time.
+
+### 158 Munitions Enthusiast [uncommon] {1}{R} cmc=2.0 Creature — Klingon Warrior P/T=3/2 colors=['R'] kw=['Trample']
+Trample
+When this creature dies, it deals 1 damage to any target.
+
+### 159 The Naked Time [uncommon] {1}{R} cmc=2.0 Enchantment — Saga P/T=None/None colors=['R'] kw=[]
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.
+II — Whenever a creature you control enters this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+III — Sacrifice a land.
+
+### 160 Pah-Wraith [rare] {5}{R}{R} cmc=7.0 Creature — Wraith P/T=4/4 colors=['R'] kw=['First strike', 'Haste', 'Strange new worlds']
+First strike, haste
+Strange new worlds — Whenever this creature attacks, creatures you control get +X/+0 until end of turn, where X is the number of differently named lands you control.
+
+### 161 Perils of the Past [common] {1}{R} cmc=2.0 Instant P/T=None/None colors=['R'] kw=['Destroy the Relic', 'Use the Relic']
+Choose one —
+• Use the Relic — Target creature gets +3/+2 until end of turn.
+• Destroy the Relic — Destroy target artifact.
+
+### 162 Planetary Bombardment [common] {R} cmc=1.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Planetary Bombardment deals 2 damage to target creature. Planetary Bombardment deals 4 damage to that creature instead if a creature died this turn.
+
+### 163 Planetary Patrol [common] {1}{R} cmc=2.0 Creature — Scout P/T=2/2 colors=['R'] kw=['Landfall']
+Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.
+
+### 164 Plasma Cascade [common] {2}{R} cmc=3.0 Instant P/T=None/None colors=['R'] kw=[]
+Plasma Cascade deals 3 damage to any target. You may discard a card. If you do, draw a card.
+
+### 165 Q, Stacking the Deck [mythic] {2}{R}{R} cmc=4.0 Legendary Creature — Q P/T=4/4 colors=['R'] kw=[]
+When Q enters, shuffle your library, then exile cards from the top of your library until you exile a nonland card. That nonland card gains "Exile a card from your hand: Create a copy of this card. You may cast the copy. Activate only during your turn and only if this card is exiled."
+
+### 166 Quark, Humble Proprietor [mythic] {2}{R} cmc=3.0 Legendary Creature — Ferengi Rogue P/T=1/2 colors=['R'] kw=['Treasure']
+You can't sacrifice Treasure tokens.
+At the beginning of each upkeep, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+### 167 Ravenous Cosmozoan [uncommon] {5}{R} cmc=6.0 Creature — Fish P/T=3/3 colors=['R'] kw=['Flying', 'Haste']
+This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+Flying, haste
+
+### 168 Reckless Impulse [common] {1}{R} cmc=2.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+### 169 Red Alert! [uncommon] {2}{R} cmc=3.0 Instant P/T=None/None colors=['R'] kw=[]
+This spell costs {2} less to cast if a creature is attacking you.
+Creatures you control get +2/+0 until end of turn.
+
+### 170 Sarcophagus, Ship of the Dead [uncommon] {2}{R} cmc=3.0 Legendary Artifact — Spacecraft P/T=4/4 colors=['R'] kw=['Station']
+Other creatures you control get +1/+0.
+Whenever a creature dies, if Sarcophagus isn't a creature, put a charge counter on it.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying
+
+### 171 Savvy Profiteer [common] {1}{R} cmc=2.0 Creature — Ferengi Rogue P/T=2/1 colors=['R'] kw=['Treasure']
+{T}: Add {R}.
+{3}, {T}: Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+### 172 Silicate Surveyor [common] {4}{R} cmc=5.0 Creature — Tholian Scout P/T=4/4 colors=['R'] kw=['Reach']
+Reach
+When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+
+### 173 Starfleet Security [common] {R} cmc=1.0 Creature — Human Officer P/T=1/1 colors=['R'] kw=['Investigate', 'Haste']
+Haste
+When this creature dies during your turn, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+### 174 Tal Shiar Analyst [common] {2}{R} cmc=3.0 Creature — Romulan Scientist P/T=3/2 colors=['R'] kw=[]
+{T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.
+
+### 175 Targ Wrangler [uncommon] {2}{R} cmc=3.0 Creature — Klingon Warrior P/T=5/3 colors=['R'] kw=['Menace']
+Menace (This creature can't be blocked except by two or more creatures.)
+At the beginning of your end step, if this creature attacked this turn, sacrifice a nonland permanent.
+
+### 176 Tasha Yar, Out of Time [rare] {1}{R} cmc=2.0 Legendary Creature — Human Officer P/T=2/1 colors=['R'] kw=['Haste']
+Haste
+When Tasha Yar dies, exile the top card of your library. Until the end of your next turn, you may play that card.
+{2}{R}, Exile this card from your graveyard: Create a token that's a copy of this card. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+
+### 177 Test of Identity [uncommon] {1}{R} cmc=2.0 Instant P/T=None/None colors=['R'] kw=['I Am Klingon', 'I Am Starfleet']
+Choose one —
+• I Am Klingon — Target Klingon gets +1/+1 and gains double strike until end of turn.
+• I Am Starfleet — Discard a card. If you do, draw two cards.
+
+### 178 Transporter Malfunction [uncommon] {1}{R} cmc=2.0 Sorcery P/T=None/None colors=['R'] kw=[]
+Transporter Malfunction deals 3 damage to any target.
+Beam me up {3}{R}{R}{R} (You may cast this card from your graveyard for {3}{R}{R}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 179 Will Riker, First in the Field [rare] {3}{R} cmc=4.0 Legendary Creature — Human Officer P/T=4/3 colors=['R'] kw=[]
+At the beginning of combat on your turn, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield and the rest on the bottom of your library in a random order. Sacrifice those lands at the beginning of your next end step.
+
+### 180 Worf, Intelligence Contractor [rare] {2}{R} cmc=3.0 Legendary Creature — Klingon Warrior Spy P/T=3/2 colors=['R'] kw=[]
+When Worf enters, for each opponent, gain control of up to one target creature that player controls with mana value 3 or less until end of turn. Untap those creatures. Until end of turn, they become Warriors in addition to their other types and gain haste.
+
+### 181 The Wrath of Khan [rare] {2}{R} cmc=3.0 Enchantment — Saga P/T=None/None colors=['R'] kw=[]
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga deals 4 damage to target creature an opponent controls. At the beginning of the next combat this turn, gain control of that creature until end of turn. Untap it. It gains haste until end of turn.
+II — You may exile a card from your hand. If you do, draw a card.
+III — Each opponent sacrifices a nontoken permanent of their choice.
+
+### 182 Adversary by Algorithm [uncommon] {2}{G} cmc=3.0 Sorcery P/T=None/None colors=['G'] kw=[]
+Create a 3/3 colorless Illusion artifact creature token.
+Beam me up {3}{G} (You may cast this card from your graveyard for {3}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 183 Amok Time [uncommon] {2}{G} cmc=3.0 Enchantment — Saga P/T=None/None colors=['G'] kw=['Fight']
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Target creature you control fights up to one target creature an opponent controls.
+II — You gain 3 life.
+III — Return target creature card from your graveyard to your hand.
+
+### 184 Astute Terraformer [common] {1}{G} cmc=2.0 Creature — Vulcan Scientist P/T=2/2 colors=['G'] kw=['Strange new worlds']
+Strange new worlds — {6}: This creature gets +2/+2 until end of turn. This ability costs {X} less to activate, where X is the number of differently named lands you control. Activate only once each turn.
+
+### 185 Branching Timeline [rare] {6}{G}{G} cmc=8.0 Sorcery P/T=None/None colors=['G'] kw=['Strange new worlds']
+Strange new worlds — Reveal the top X cards of your library, where X is the number of differently named lands you control. Put all permanent cards revealed this way onto the battlefield tapped and the rest on the bottom of your library in a random order.
+
+### 186 Captain Jonathan Archer [rare] {2}{G} cmc=3.0 Legendary Creature — Human Officer P/T=3/3 colors=['G'] kw=[]
+When Captain Archer enters, create Porthos, a legendary 1/1 green Dog creature token.
+Federation — {G}, {T}: Target creature you control gets +X/+X until end of turn, where X is the number of creature types among non-Borg creatures you control. Activate only as a sorcery.
+
+### 187 Captain Kathryn Janeway [mythic] {3}{G} cmc=4.0 Legendary Creature — Human Officer P/T=2/3 colors=['G'] kw=['Explore']
+You may play an additional land on each of your turns.
+Whenever Captain Janeway or another creature you control enters, that creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)
+
+### 188 Captain Pike, Fullness of Time [rare] {1}{G}{G} cmc=3.0 Legendary Creature — Human Officer Scout P/T=*/* colors=['G'] kw=['Strange new worlds']
+Strange new worlds — Captain Pike's power and toughness are each equal to the number of differently named lands you control.
+You may look at the top card of your library any time.
+You may play lands from the top of your library.
+
+### 189 Cold-Blooded Crew [common] {4}{G}{G} cmc=6.0 Creature — Gorn Warrior P/T=4/4 colors=['G'] kw=['Landcycling', 'Basic landcycling', 'Typecycling', 'Cycling']
+When this creature enters, put two +1/+1 counters on target creature.
+This creature can't be blocked by creatures with power 2 or less.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+### 190 Common Goal [common] {1}{G} cmc=2.0 Sorcery P/T=None/None colors=['G'] kw=[]
+One or two target creatures you control each deal damage equal to their power to target creature an opponent controls.
+
+### 191 Culber and Stamets, Star-Crossed [uncommon] {3}{G} cmc=4.0 Legendary Creature — Human Doctor Artificer P/T=3/4 colors=['G'] kw=[]
+When Culber and Stamets enter, choose one —
+• Put a +1/+1 counter on target creature.
+• Add two mana of any one color.
+
+### 192 Dathon and Picard at El-Adrel [common] {2}{G} cmc=3.0 Instant P/T=None/None colors=['G'] kw=['Temba, His Arms Wide', 'Shaka, When the Walls Fell']
+Choose one —
+• Temba, His Arms Wide — Target creature gets +3/+3 and gains trample until end of turn.
+• Shaka, When the Walls Fell — Each opponent sacrifices a nontoken artifact or enchantment of their choice.
+
+### 193 David and Carol Marcus, Creators [uncommon] {2}{G} cmc=3.0 Legendary Creature — Human Scientist P/T=1/3 colors=['G'] kw=[]
+When David and Carol Marcus enter, create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 194 Dominion Assault Force [common] {3}{G} cmc=4.0 Creature — Jem'Hadar Warrior P/T=4/4 colors=['G'] kw=['Surveil', 'Vigilance']
+Vigilance
+When this creature enters, choose one —
+• Exile target card from a graveyard.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 195 Dominion Supervisor [common] {2}{G} cmc=3.0 Creature — Vorta Doctor P/T=3/1 colors=['G'] kw=[]
+When this creature enters, put a +1/+1 counter on target creature.
+Creatures you control with counters on them have trample.
+
+### 196 Dr. Joseph M'Benga [mythic] {2}{G}{G} cmc=4.0 Legendary Creature — Human Doctor P/T=3/3 colors=['G'] kw=[]
+Other creatures you control with counters on them have hexproof.
+If you would put one or more counters on a creature you control, put twice that many of each of those kinds of counters on that creature instead.
+
+### 197 Dr. Leonard "Bones" McCoy [rare] {1}{G}{G} cmc=3.0 Legendary Creature — Human Doctor P/T=3/2 colors=['G'] kw=['Flash']
+Flash
+When Dr. McCoy enters, choose one —
+• Return target non-Doctor permanent card from your graveyard to your hand.
+• Choose up to one other target creature. When it dies this turn, return that card to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.
+
+### 198 Final Frontier [common] {2}{G} cmc=3.0 Sorcery P/T=None/None colors=['G'] kw=[]
+Search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle.
+Beam me up {1}{G} (You may cast this card from your graveyard for {1}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)
+
+### 199 First Contact [common] {1}{G} cmc=2.0 Instant P/T=None/None colors=['G'] kw=['Mill']
+Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life. (To mill four cards, put the top four cards of your library into your graveyard.)
+
+### 200 Genesis Device [rare] {2}{G} cmc=3.0 Legendary Artifact P/T=None/None colors=['G'] kw=[]
+When Genesis Device enters, search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle.
+{3}{G}{G}, {T}, Sacrifice Genesis Device: Sacrifice any number of lands you control, then search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle. Activate only as a sorcery.
+
+### 201 Holo-Engineer [rare] {2}{G}{G} cmc=4.0 Creature — Human Artificer P/T=3/3 colors=['G'] kw=[]
+When this creature enters, create a 3/3 colorless Illusion artifact creature token.
+If one or more tokens would be created under your control, that many 3/3 colorless Illusion artifact creature tokens are created instead.
+
+### 202 Hologram Stalker [uncommon] {4}{G}{G} cmc=6.0 Creature — Hirogen Warrior P/T=2/2 colors=['G'] kw=[]
+When this creature enters, return target permanent card from your graveyard to your hand.
+Whenever a card leaves your graveyard, create a 3/3 colorless Illusion artifact creature token. This ability triggers only once each turn.
+
+### 203 I'm a Doctor, Not a . . . [common] {G} cmc=1.0 Instant P/T=None/None colors=['G'] kw=[]
+Put a +1/+1 counter on target creature you control. Untap it. Until end of turn, it gets +1/+1 and becomes a Doctor. (It loses all other creature types.)
+
+### 204 Jadzia Dax, Living Legacy [mythic] {1}{G} cmc=2.0 Legendary Creature — Trill Scientist P/T=0/1 colors=['G'] kw=['Transfer Symbiont']
+At the beginning of your first main phase, put a +1/+1 counter on Jadzia Dax, then add an amount of {G} equal to the number of counters on her.
+Transfer Symbiont — {2}{G}, Discard this card: Put two +1/+1 counters on target creature.
+
+### 205 Jake Sisko, War Correspondent [uncommon] {1}{G} cmc=2.0 Legendary Creature — Human Citizen P/T=2/2 colors=['G'] kw=['Investigate', 'Landfall']
+Landfall — Whenever a land you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+### 206 MACO Strike Team [rare] {G} cmc=1.0 Creature — Human Soldier P/T=2/1 colors=['G'] kw=[]
+Whenever a creature you control becomes the target of a spell or ability an opponent controls, create a tapped 1/1 red Officer creature token.
+
+### 207 Moopsy [common] {G} cmc=1.0 Creature — Beast P/T=1/1 colors=['G'] kw=['Deathtouch']
+Deathtouch
+{2}: This creature gains reach until end of turn.
+
+### 208 Mugato [uncommon] {3}{G}{G} cmc=5.0 Creature — Ape Beast P/T=6/6 colors=['G'] kw=['Reach', 'Vigilance', 'Deathtouch']
+Reach, vigilance, deathtouch
+
+### 209 Neelix, Moral Support [uncommon] {1}{G} cmc=2.0 Legendary Creature — Talaxian Advisor P/T=1/1 colors=['G'] kw=['Food']
+When Neelix enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+Whenever you gain life, put a +1/+1 counter on Neelix.
+
+### 210 Photosynthetic Physician [common] {4}{G} cmc=5.0 Creature — Plant Doctor P/T=5/5 colors=['G'] kw=['Reach']
+Reach
+{G}, Exile this card from your graveyard: Create a 1/1 red Officer creature token. Activate only as a sorcery.
+
+### 211 Rok-Tahk, Budding Scientist [mythic] {4}{G}{G} cmc=6.0 Legendary Creature — Brikar Scientist P/T=5/5 colors=['G'] kw=[]
+Creatures you control have "{T}: Add {G}{G}."
+When Rok-Tahk enters, create Murf, a legendary 0/1 green Ooze Slug creature token with indestructible.
+
+### 212 Saru, Unthreatened [uncommon] {2}{G} cmc=3.0 Legendary Creature — Kelpien Officer P/T=3/2 colors=['G'] kw=['Flash']
+Flash
+When Saru enters, another target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+
+### 213 Saurian Explorer [common] {3}{G} cmc=4.0 Creature — Dinosaur Scout P/T=4/3 colors=['G'] kw=['Landfall']
+Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
+{6}: Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color." Activate only as a sorcery.
+
+### 214 Species 8472 [uncommon] {4}{G}{G} cmc=6.0 Creature — Insect Beast P/T=7/5 colors=['G'] kw=['Strange new worlds']
+Strange new worlds — When this creature enters, you gain life equal to the number of differently named lands you control.
+This creature can't be blocked by artifact creatures.
+This creature can't be the target of abilities from artifact sources your opponents control.
+
+### 215 Stable Wormhole [rare] {2}{G} cmc=3.0 Enchantment P/T=None/None colors=['G'] kw=[]
+Whenever you attack, create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 216 Support Mission [uncommon] {2}{G} cmc=3.0 Enchantment P/T=None/None colors=['G'] kw=[]
+Whenever a creature you control enters, put a quest counter on this enchantment. Put a +1/+1 counter on that creature. If this enchantment has five or more quest counters on it, instead put two +1/+1 counters on that creature.
+
+### 217 Sylvia Tilly, Joy of Discovery [uncommon] {2}{G} cmc=3.0 Legendary Creature — Human Scientist Artificer P/T=2/2 colors=['G'] kw=['Surveil']
+When Sylvia Tilly enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+At the beginning of combat on your turn, you may pay {1} and exile a card from your graveyard. When you do, put a +1/+1 counter on target creature.
+
+### 218 Syndicate Liquidators [uncommon] {4}{G} cmc=5.0 Creature — Orion Pirate P/T=4/4 colors=['G'] kw=['Trample', 'Landfall']
+Trample
+Landfall — Whenever a land you control enters, put two +1/+1 counters on target creature you control.
+
+### 219 Temporal Conqueror [common] {2}{G} cmc=3.0 Creature — Na'kuhl Warrior P/T=2/3 colors=['G'] kw=['Treasure', 'Mill']
+When this creature enters, mill three cards. Then return a land card from your graveyard to your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards from your library into your graveyard.)
+
+### 220 Test of Courage [uncommon] {G} cmc=1.0 Instant P/T=None/None colors=['G'] kw=['Obliterate the Transwarp Network', 'Alter the Past']
+Choose one —
+• Alter the Past — Exile target card from a graveyard. You gain 2 life.
+• Obliterate the Transwarp Network — Destroy target artifact or enchantment with mana value 3 or less.
+
+### 221 U.S.S. Discovery, at Black Alert [rare] {3}{G}{G} cmc=5.0 Legendary Artifact — Spacecraft P/T=5/5 colors=['G'] kw=['Station', 'Discover']
+Whenever U.S.S. Discovery enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Station
+6+ | Flying
+
+### 222 U.S.S. Voyager, Lone Wanderer [uncommon] {3}{G} cmc=4.0 Legendary Artifact — Spacecraft P/T=3/3 colors=['G'] kw=['Station']
+When U.S.S. Voyager enters, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, vigilance
+
+### 223 Warp Speed [uncommon] {2}{G} cmc=3.0 Enchantment P/T=None/None colors=['G'] kw=['Strange new worlds']
+Lands you control enter untapped.
+When this enchantment enters, search your library for a basic land card or Planet card, reveal it, put it into your hand, then shuffle.
+Strange new worlds — {7}{U}{U}, Sacrifice this enchantment: Draw two cards. This ability costs {X} less to activate, where X is the number of differently named lands you control.
+
+### 224 Xenobotanist [common] {1}{G} cmc=2.0 Creature — Vulcan Scientist P/T=1/3 colors=['G'] kw=[]
+{T}: Add one mana of any color.
+
+### 225 Xindi Surveyors [common] {2}{G} cmc=3.0 Creature — Xindi Scientist P/T=3/2 colors=['G'] kw=['Landfall']
+Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
+
+### 226 All Good Things... [rare] {3}{G}{U} cmc=5.0 Enchantment — Saga P/T=None/None colors=['G', 'U'] kw=[]
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Draw two cards, then exile a card from your hand.
+IV — If all cards exiled with this Saga share a card type, you gain 10 life.
+
+### 227 Borg Cube [mythic] {5}{W}{B} cmc=7.0 Artifact — Spacecraft P/T=6/6 colors=['B', 'W'] kw=['Assimilate', 'Affinity', 'Station']
+Affinity for artifact creatures
+Whenever this Spacecraft enters or attacks, assimilate a creature card exiled with it. If you can't, exile up to one target creature. (To assimilate a card, put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)
+Station
+12+ | Artifact creatures you control have flying.
+
+### 228 The City on the Edge of Forever [rare] {3}{W}{B} cmc=5.0 Enchantment — Saga P/T=None/None colors=['B', 'W'] kw=[]
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — All artifacts and creatures phase out. Create a 0/1 white Human creature token with "Permanents can't phase in." (Treat phased-out permanents and anything attached to them as though they don't exist.)
+II — You draw two cards and each player loses 2 life.
+III — Sacrifice a creature token. If you do, you gain 5 life.
+
+### 229 Cleveland Booker, Empath [uncommon] {2}{R/G}{R/G} cmc=4.0 Legendary Creature — Kwejian Rogue P/T=2/2 colors=['G', 'R'] kw=['Landfall']
+Landfall — Whenever a land you control enters, create a 2/2 red and green Worm creature token with "This token can't block."
+{8}: Creatures you control get +2/+0 until end of turn.
+
+### 230 Constable Odo [uncommon] {3}{W/U}{W/U} cmc=5.0 Legendary Creature — Shapeshifter Detective P/T=4/3 colors=['U', 'W'] kw=['Investigate']
+When Constable Odo enters, choose one —
+• Tap target creature an opponent controls. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Investigate twice. (To investigate, create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+### 231 Dal R'El, Augment Orphan [uncommon] {1}{R}{G} cmc=3.0 Legendary Creature — Human Mutant Rogue P/T=3/3 colors=['G', 'R'] kw=['Landfall']
+Landfall — Whenever a land you control enters, add {R} or {G}.
+{3}, Sacrifice a land: Draw a card.
+
+### 232 Daniels, Temporal Agent [uncommon] {2}{B/G}{B/G} cmc=4.0 Legendary Creature — Human Advisor P/T=3/1 colors=['B', 'G'] kw=[]
+When Daniels enters, return target creature card from your graveyard to your hand.
+{2}, Put this card from your graveyard on the bottom of your library: You gain 2 life.
+
+### 233 Dathon, His Heart Open [rare] {G}{U}{R} cmc=3.0 Legendary Creature — Tamarian Officer P/T=3/3 colors=['G', 'R', 'U'] kw=[]
+Whenever you cast an enchantment spell, draw a card. If it's a Saga spell, Dathon deals 2 damage to each opponent.
+{2}: Choose a counter on target enchantment you control. Put another counter of that kind on it. Activate only as a sorcery.
+
+### 234 The Doctor, EMH [uncommon] {3}{G/W}{G/W} cmc=5.0 Legendary Artifact Creature — Illusion Doctor P/T=3/3 colors=['G', 'W'] kw=[]
+When The Doctor enters, put a +1/+1 counter on target creature. Then put a +1/+1 counter on each creature you control with a counter on it.
+
+### 235 The Duras Sisters [uncommon] {B/R}{B/R} cmc=2.0 Legendary Creature — Klingon Warrior P/T=3/2 colors=['B', 'R'] kw=[]
+When The Duras Sisters die, create a 2/1 red Klingon Warrior creature token with haste.
+
+### 236 D'Vana Tendi, Optimistic Ensign [uncommon] {1}{G/U}{G/U} cmc=3.0 Legendary Creature — Orion Scientist P/T=2/4 colors=['G', 'U'] kw=['Surveil']
+{T}: Untap another target permanent.
+{3}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 237 Gowron, Eager for Battle [rare] {2}{B}{R} cmc=4.0 Legendary Creature — Klingon Warrior P/T=3/3 colors=['B', 'R'] kw=[]
+Whenever another creature dies, put a +1/+1 counter on Gowron.
+Sacrifice another creature: Gowron gains trample until end of turn. If you sacrificed a Klingon this way, you draw a card and lose 1 life.
+
+### 238 Gray and Adira, Forever Joined [uncommon] {2}{U/R}{U/R} cmc=4.0 Legendary Creature — Trill Human Officer P/T=2/3 colors=['R', 'U'] kw=[]
+At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of target creature you control, except it isn't legendary. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+
+### 239 Hemmer, Fixing What Is Broken [uncommon] {W}{U} cmc=2.0 Legendary Creature — Aenar Artificer P/T=2/3 colors=['U', 'W'] kw=[]
+During your turn, Spacecraft you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+Whenever Hemmer becomes tapped, draw a card, then discard a card.
+
+### 240 Hit It! [rare] {1}{R}{G} cmc=3.0 Enchantment P/T=None/None colors=['G', 'R'] kw=[]
+Creatures you control have haste.
+When this enchantment enters, reveal the top five cards of your library. Put a land card from among them onto the battlefield tapped and the rest into your graveyard.
+
+### 241 The Inner Light [rare] {3}{G}{W} cmc=5.0 Enchantment — Saga P/T=None/None colors=['G', 'W'] kw=['Treasure']
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target green or white creature card from your graveyard to the battlefield.
+II — Choose target creature. Whenever it deals combat damage to a player this turn, you draw that many cards.
+III — You gain life equal to the greatest power among creatures you control. Create a Treasure token.
+
+### 242 Kira Nerys, Firebrand [rare] {1}{R}{W} cmc=3.0 Legendary Creature — Bajoran Soldier P/T=4/3 colors=['R', 'W'] kw=['Trample']
+Trample
+If a creature you control would enter while you control an attacking creature, instead it enters tapped and attacking.
+Whenever another creature you control enters, it gets +1/+1 until end of turn.
+
+### 243 Kirk, Commanding Officer [uncommon] {1}{R}{W} cmc=3.0 Legendary Creature — Human Officer P/T=3/3 colors=['R', 'W'] kw=[]
+Whenever you attack while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn.
+{2}, Sacrifice Kirk: Destroy target artifact or enchantment.
+
+### 244 Live Long and Prosper [rare] {5}{W}{U} cmc=7.0 Sorcery P/T=None/None colors=['U', 'W'] kw=['Double']
+This spell can't be countered.
+Double your life total. Draw cards equal to the number of cards in your hand. You have no maximum hand size until your next turn.
+
+### 245 Locutus, the One Who Speaks [uncommon] {W}{B} cmc=2.0 Legendary Artifact Creature — Borg P/T=1/1 colors=['B', 'W'] kw=[]
+Artifact creatures you control get +1/+1.
+{W}{B}, Discard this card: It deals 2 damage to target creature. You gain 2 life.
+
+### 246 Lore, Positronic Provocateur [uncommon] {1}{U/B}{U/B} cmc=3.0 Legendary Artifact Creature — Android Rogue P/T=2/3 colors=['B', 'U'] kw=['Surveil']
+When Lore enters, choose one —
+• Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+### 247 L'Rell, Fierce Visionary [uncommon] {1}{B}{R} cmc=3.0 Legendary Creature — Klingon Warrior P/T=1/4 colors=['B', 'R'] kw=['Surveil']
+At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+{2}, Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+
+### 248 Mirror Universe Intrusion [rare] {1}{U}{B} cmc=3.0 Sorcery P/T=None/None colors=['B', 'U'] kw=['Kicker']
+Kicker {4}{U}{B} (You may pay an additional 4 as you cast this spell.)
+Create a token that's a copy of target creature an opponent controls, except it has menace. If this spell was kicked, instead for each creature target opponent controls, create a token that's a copy of that creature, except it has menace.
+
+### 249 Nog, Ambitious Cadet [rare] {B}{G} cmc=2.0 Legendary Creature — Ferengi Rogue P/T=2/2 colors=['B', 'G'] kw=['Surveil', 'Menace']
+Menace
+{1}: If Nog is a Rogue, he becomes a Ferengi Scout with base power and toughness 3/4 and gains "Whenever Nog becomes tapped, surveil 2."
+{3}: If Nog is a Scout, he becomes a Ferengi Officer and gains "You may play lands from your graveyard" and "You may play an additional land on each of your turns."
+
+### 250 Phlox, Unorthodox Doctor [uncommon] {2}{G}{W} cmc=4.0 Legendary Creature — Denobulan Doctor P/T=3/4 colors=['G', 'W'] kw=['Trample']
+Trample
+Whenever a creature you control with a counter on it deals combat damage to a player, draw a card.
+
+### 251 Sarek, Federation Ambassador [rare] {1}{G}{W}{U} cmc=4.0 Legendary Creature — Vulcan Advisor P/T=0/5 colors=['G', 'U', 'W'] kw=[]
+Federation — At the beginning of combat on your turn, draw a card for every five creature types among non-Borg creatures you control. If you draw three or more cards this way, put two +1/+1 counters on each creature you control.
+
+### 252 Seven of Nine [uncommon] {2}{U}{B} cmc=4.0 Legendary Artifact Creature — Human Scientist P/T=2/4 colors=['B', 'U'] kw=['Face a dilemma']
+Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)
+
+### 253 Spock, Always Your Friend [uncommon] {U}{R} cmc=2.0 Legendary Creature — Vulcan Human Scientist P/T=2/2 colors=['R', 'U'] kw=[]
+When Spock enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+
+### 254 The Traveler [uncommon] {G}{U} cmc=2.0 Legendary Creature — Scout P/T=*/3 colors=['G', 'U'] kw=['Reach', 'Vigilance', 'Strange new worlds']
+Reach, vigilance
+Strange new worlds — The Traveler's power is equal to the number of differently named lands you control.
+
+### 255 Vash, Freelance Archaeologist [uncommon] {1}{B}{G} cmc=3.0 Legendary Creature — Human Rogue Scientist P/T=2/4 colors=['B', 'G'] kw=['Surveil']
+At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever a card leaves your graveyard, draw a card. This ability triggers only once each turn.
+
+### 256 Worf, Honor-Bound Warrior [uncommon] {R/W}{R/W} cmc=2.0 Legendary Creature — Klingon Warrior Officer P/T=1/1 colors=['R', 'W'] kw=['Double']
+Whenever you attack while creatures you control have total power 8 or greater, double Worf's power until end of turn.
+Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Worf. Activate only as a sorcery.
+
+### 257 Year of Hell [rare] {1}{U}{R} cmc=3.0 Enchantment — Saga P/T=None/None colors=['R', 'U'] kw=[]
+(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Each player draws a card. This Saga deals 2 damage to each player.
+
+### 258 Zero, Incorporeal Sensate [uncommon] {1}{W/B}{W/B} cmc=3.0 Legendary Artifact Creature — Medusan Scientist P/T=2/2 colors=['B', 'W'] kw=['Lifelink']
+Lifelink
+When Zero enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+
+### 259 Class-F Shuttlecraft [common] {3} cmc=3.0 Artifact — Spacecraft P/T=2/4 colors=[] kw=['Station']
+{T}: Add one mana of any color.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, vigilance
+
+### 260 Combadge [uncommon] {3} cmc=3.0 Artifact — Communicator Equipment P/T=None/None colors=[] kw=['Equip']
+When you cast this spell, copy it. (The copy becomes a token.)
+Equipped creature has "Whenever this creature attacks while you control another creature with a Communicator attached to it, this creature can't be blocked this turn."
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+### 261 Crystalline Entity [mythic] {8} cmc=8.0 Artifact Creature — Elemental P/T=7/7 colors=[] kw=['Flying']
+Flying
+When this creature enters, if you cast it, destroy all nonartifact creatures.
+
+### 262 Cybernetic Specialist [common] {2} cmc=2.0 Artifact Creature — Human Scientist P/T=2/1 colors=[] kw=['Surveil']
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}, {T}: Put target card from your graveyard on the bottom of your library.
+
+### 263 Deep Space 9 [mythic] {9} cmc=9.0 Legendary Artifact — Spacecraft P/T=None/None colors=[] kw=['Station']
+When Deep Space 9 enters and at the beginning of your upkeep, exile the top four cards of your library. Put all permanent cards exiled this way onto the battlefield.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+9+ | Creatures you control get +3/+3.
+
+### 264 Engineered Explosives [rare] {X} cmc=0.0 Artifact P/T=None/None colors=[] kw=['Sunburst']
+Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.)
+{2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.
+
+### 265 The Holodeck [rare] {7} cmc=7.0 Legendary Artifact P/T=None/None colors=[] kw=[]
+Once during each of your turns, you may play a permanent card you own from outside the game or from your graveyard.
+
+### 266 Isolinear Processor [uncommon] {2} cmc=2.0 Artifact P/T=None/None colors=[] kw=[]
+{T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}, {T}: Draw a card, then discard a card.
+
+### 267 Replicator [rare] {2} cmc=2.0 Artifact P/T=None/None colors=[] kw=['Food']
+When this artifact enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+{2}, {T}: Create a tapped token that's a copy of target token you control.
+
+### 268 Sickbay [uncommon] {5} cmc=5.0 Artifact P/T=None/None colors=[] kw=[]
+Whenever a creature you control enters, you gain 1 life.
+At the beginning of combat on your turn, put X +1/+1 counters on target creature you control, where X is one plus the amount of life you gained this turn.
+
+### 269 Tea, Earl Grey, Hot [common] {2} cmc=2.0 Artifact — Food P/T=None/None colors=[] kw=[]
+When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Choose one —
+• This artifact deals 2 damage to target opponent.
+• You gain 3 life.
+
+### 270 Tricorder [common] {1} cmc=1.0 Artifact — Equipment P/T=None/None colors=[] kw=['Surveil', 'Equip']
+Equipped creature gets +1/+1.
+Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+
+### 271 Type-2 Phaser [uncommon] {2} cmc=2.0 Artifact — Equipment P/T=None/None colors=[] kw=['Equip']
+When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Equipped creature gets +3/+0.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+
+### 272 U.S.S. Cerritos, Following Up [uncommon] {5} cmc=5.0 Legendary Artifact — Spacecraft P/T=4/4 colors=[] kw=['Station']
+When U.S.S. Cerritos enters, create two 1/1 red Officer creature tokens.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying
+
+### 273 U.S.S. Enterprise-D, Galaxy-Class [rare] {3} cmc=3.0 Legendary Artifact — Spacecraft P/T=4/5 colors=[] kw=['Station']
+Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying, vigilance
+
+### 274 Warp Core [common] {2} cmc=2.0 Artifact P/T=None/None colors=[] kw=[]
+When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Put two charge counters on target Spacecraft. Activate only as a sorcery.
+
+### 275 Andoria [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.
+
+### 276 Artificial Anomaly [uncommon]  cmc=0.0 Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+{3}{B}, {T}, Sacrifice this land: Each opponent loses 2 life and you gain 2 life. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 277 Bajor [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.
+
+### 278 Blood Crypt [rare]  cmc=0.0 Land — Swamp Mountain P/T=None/None colors=[] kw=[]
+({T}: Add {B} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 279 Breeding Pool [rare]  cmc=0.0 Land — Forest Island P/T=None/None colors=[] kw=[]
+({T}: Add {G} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 280 Cardassia Prime [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.
+
+### 281 Earth, Sector 001 [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.
+
+### 282 Federation Outpost [rare]  cmc=0.0 Land P/T=None/None colors=[] kw=['Surveil']
+This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• You gain 2 life.
+• Surveil 1.
+{T}: Add {W}.
+
+### 283 Ferenginar [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.
+
+### 284 Gaseous Anomaly [uncommon]  cmc=0.0 Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+{5}{U}, {T}, Sacrifice this land: Draw two cards. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 285 Godless Shrine [rare]  cmc=0.0 Land — Plains Swamp P/T=None/None colors=[] kw=[]
+({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 286 Hallowed Fountain [rare]  cmc=0.0 Land — Plains Island P/T=None/None colors=[] kw=[]
+({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 287 Ni'Var Science Academy [rare]  cmc=0.0 Land P/T=None/None colors=[] kw=['Surveil']
+This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Target creature gains flying until end of turn.
+• Surveil 1.
+{T}: Add {U}.
+
+### 288 Orion [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.
+
+### 289 Overgrown Tomb [rare]  cmc=0.0 Land — Swamp Forest P/T=None/None colors=[] kw=[]
+({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 290 Q Continuum [rare]  cmc=0.0 Land P/T=None/None colors=[] kw=['Surveil']
+This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Target creature gets +1/+1 and gains vigilance until end of turn.
+• Surveil 1.
+{T}: Add {G}.
+
+### 291 Qo'noS [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.
+
+### 292 Quark's Bar [rare]  cmc=0.0 Land P/T=None/None colors=[] kw=['Surveil']
+This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• This land deals 1 damage to each opponent.
+• Surveil 1.
+{T}: Add {R}.
+
+### 293 Risa [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.
+
+### 294 Romulus [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.
+
+### 295 Sacred Foundry [rare]  cmc=0.0 Land — Mountain Plains P/T=None/None colors=[] kw=[]
+({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 296 Spatial Anomaly [uncommon]  cmc=0.0 Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+{4}{R}, {T}, Sacrifice this land: It deals 2 damage to target creature. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 297 Starfleet Academy [mythic]  cmc=0.0 Legendary Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+Federation — {5}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creature types among non-Borg creatures you control.
+
+### 298 Steam Vents [rare]  cmc=0.0 Land — Island Mountain P/T=None/None colors=[] kw=[]
+({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 299 Stomping Ground [rare]  cmc=0.0 Land — Mountain Forest P/T=None/None colors=[] kw=[]
+({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 300 Subspace Anomaly [uncommon]  cmc=0.0 Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+{4}{W}, {T}, Sacrifice this land: Create two 1/1 red Officer creature tokens. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 301 Temple Garden [rare]  cmc=0.0 Land — Forest Plains P/T=None/None colors=[] kw=[]
+({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.
+
+### 302 Temporal Anomaly [uncommon]  cmc=0.0 Land P/T=None/None colors=[] kw=['Mill']
+{T}: Add {C}.
+{3}{G}, {T}, Sacrifice this land: Mill four cards. You may put a permanent card from among them into your hand. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+
+### 303 Unexplored Territory [common]  cmc=0.0 Land P/T=None/None colors=[] kw=[]
+{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+### 304 The Unicomplex [rare]  cmc=0.0 Land P/T=None/None colors=[] kw=['Surveil']
+This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Put target creature card from your graveyard on top of your library.
+• Surveil 1.
+{T}: Add {B}.
+
+### 305 Vulcan [common]  cmc=0.0 Land — Planet P/T=None/None colors=[] kw=[]
+This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.
+
+### 306 Watery Grave [rare]  cmc=0.0 Land — Island Swamp P/T=None/None colors=[] kw=[]
+({T}: Add {U} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.

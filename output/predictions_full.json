@@ -1,0 +1,3412 @@
+[
+ {
+  "card_name": "U.S.S. Enterprise-A, Free Spirit",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{3}{W}{W}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.6221,
+  "model_raw": 0.6221,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Wesley Crusher, Starfleet Cadet",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{U}{U}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.6197,
+  "model_raw": 0.6197,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Excalbian Gamemaster",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{5}{W}",
+  "type_line": "Creature \u2014 Excalbian",
+  "predicted_gih_win_rate": 0.6163,
+  "model_raw": 0.6163,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Kobayashi Maru Scenario",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{1}{U}{U}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.6144,
+  "model_raw": 0.6144,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Khan, Vengeful Heart",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Human Warrior",
+  "predicted_gih_win_rate": 0.6138,
+  "model_raw": 0.6138,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Inner Light",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{G}{W}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.6077,
+  "model_raw": 0.6077,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The City on the Edge of Forever",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{W}{B}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.6073,
+  "model_raw": 0.6073,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Ertai Resurrected",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{U}{B}",
+  "type_line": "Legendary Creature \u2014 Phyrexian Human Wizard",
+  "predicted_gih_win_rate": 0.6062,
+  "model_raw": 0.6062,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Decree of Pain",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{6}{B}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.6057,
+  "model_raw": 0.6057,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Jean-Luc Picard",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.6034,
+  "model_raw": 0.6034,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Kenrith, the Returned King",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{4}{W}",
+  "type_line": "Legendary Creature \u2014 Human Noble",
+  "predicted_gih_win_rate": 0.6023,
+  "model_raw": 0.6023,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Holo-Engineer",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{G}{G}",
+  "type_line": "Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5995,
+  "model_raw": 0.5995,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Borg Cube",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{5}{W}{B}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5977,
+  "model_raw": 0.5977,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sheoldred, the Apocalypse",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Phyrexian Praetor",
+  "predicted_gih_win_rate": 0.5975,
+  "model_raw": 0.5775,
+  "adjustment_note": "TXT: 4-mana 4/5 deathtouch that gains 2 per draw and drains opponent per draw; proven bomb"
+ },
+ {
+  "card_name": "The Destruction of Praxis",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{B}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5969,
+  "model_raw": 0.5969,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Rok-Tahk, Budding Scientist",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{4}{G}{G}",
+  "type_line": "Legendary Creature \u2014 Brikar Scientist",
+  "predicted_gih_win_rate": 0.5959,
+  "model_raw": 0.5959,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Q, Stacking the Deck",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{R}{R}",
+  "type_line": "Legendary Creature \u2014 Q",
+  "predicted_gih_win_rate": 0.5951,
+  "model_raw": 0.5951,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Drivnod, Carnage Dominus",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{3}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Phyrexian Horror",
+  "predicted_gih_win_rate": 0.595,
+  "model_raw": 0.595,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Jonathan Archer",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.593,
+  "model_raw": 0.593,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "In the Pale Moonlight",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{B}{B}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5922,
+  "model_raw": 0.5922,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Miles O'Brien, Transporter Ops",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5914,
+  "model_raw": 0.5914,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Benjamin Sisko",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5912,
+  "model_raw": 0.5912,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "MACO Strike Team",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{G}",
+  "type_line": "Creature \u2014 Human Soldier",
+  "predicted_gih_win_rate": 0.591,
+  "model_raw": 0.591,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Jhoira, Weatherlight Captain",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{U}{R}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5905,
+  "model_raw": 0.5705,
+  "adjustment_note": "TXT: TRK is saturated with historic cards (artifacts, legendaries, Sagas); draws constantly"
+ },
+ {
+  "card_name": "D-7 Battle Cruiser",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.589,
+  "model_raw": 0.584,
+  "adjustment_note": "STN: makes a hasty 2/1 every combat from 3+ counters, long before full station"
+ },
+ {
+  "card_name": "Captain Pike, Fullness of Time",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{G}{G}",
+  "type_line": "Legendary Creature \u2014 Human Officer Scout",
+  "predicted_gih_win_rate": 0.589,
+  "model_raw": 0.569,
+  "adjustment_note": "SNW: ~5/5 for 3 plus playing lands off the top"
+ },
+ {
+  "card_name": "Cloak and Phaser",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{8}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5888,
+  "model_raw": 0.5788,
+  "adjustment_note": "SNW: typically costs ~4 for two 2/2s + draw 2/discard 1"
+ },
+ {
+  "card_name": "Antagonist Incorporator",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5887,
+  "model_raw": 0.5887,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Bristly Bill, Spine Sower",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{1}{G}",
+  "type_line": "Legendary Creature \u2014 Plant Druid",
+  "predicted_gih_win_rate": 0.5885,
+  "model_raw": 0.5835,
+  "adjustment_note": "LAND: landfall counters plus a counter-doubling finisher"
+ },
+ {
+  "card_name": "Georgiou, Terran Emperor",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{4}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Human Rogue Noble",
+  "predicted_gih_win_rate": 0.5884,
+  "model_raw": 0.6164,
+  "adjustment_note": "TXT: 6-mana 4/6 whose draw costs 3 life/turn; 'don't lose at 0' rarely relevant in limited"
+ },
+ {
+  "card_name": "Rishkar, Peema Renegade",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Elf Druid",
+  "predicted_gih_win_rate": 0.5884,
+  "model_raw": 0.5884,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Mikaeus, the Lunarch",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{X}{W}",
+  "type_line": "Legendary Creature \u2014 Human Cleric",
+  "predicted_gih_win_rate": 0.5875,
+  "model_raw": 0.5875,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Elim Garak, Simple Tailor",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{B}",
+  "type_line": "Legendary Creature \u2014 Cardassian Rogue",
+  "predicted_gih_win_rate": 0.5867,
+  "model_raw": 0.5667,
+  "adjustment_note": "DIL: drains 2 on every modal spell/ability choice; TRK is dense with choose-one effects"
+ },
+ {
+  "card_name": "Scotty, Miracle Worker",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{1}{U}{U}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5866,
+  "model_raw": 0.5866,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Kathryn Janeway",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{3}{G}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5866,
+  "model_raw": 0.5866,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "U.S.S. Reliant, From Hell's Heart",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{B}{B}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5865,
+  "model_raw": 0.5865,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "H.M.S. Bounty, Unlikely Timeship",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{4}{U}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5861,
+  "model_raw": 0.5861,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Mr. Spock, Science Officer",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{U}{U}",
+  "type_line": "Legendary Creature \u2014 Vulcan Human Scientist",
+  "predicted_gih_win_rate": 0.5858,
+  "model_raw": 0.5858,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sarek, Federation Ambassador",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{G}{W}{U}",
+  "type_line": "Legendary Creature \u2014 Vulcan Advisor",
+  "predicted_gih_win_rate": 0.5856,
+  "model_raw": 0.5706,
+  "adjustment_note": "FED: distinct subtypes across a normal board reach 10+, drawing ~2 at each combat"
+ },
+ {
+  "card_name": "Captain James T. Kirk",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{R}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5855,
+  "model_raw": 0.5855,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Wrath of Khan",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{R}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5855,
+  "model_raw": 0.5855,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Tatyova, Benthic Druid",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{3}{G}{U}",
+  "type_line": "Legendary Creature \u2014 Merfolk Druid",
+  "predicted_gih_win_rate": 0.585,
+  "model_raw": 0.58,
+  "adjustment_note": "LAND: landfall draw-a-card in a set with many entering lands/Planet tokens"
+ },
+ {
+  "card_name": "The Traveler",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{G}{U}",
+  "type_line": "Legendary Creature \u2014 Scout",
+  "predicted_gih_win_rate": 0.5849,
+  "model_raw": 0.5599,
+  "adjustment_note": "SNW: power = differently named lands (~5) makes this a ~5/3 reach/vigilance for 2"
+ },
+ {
+  "card_name": "Worf, Intelligence Contractor",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{R}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior Spy",
+  "predicted_gih_win_rate": 0.5846,
+  "model_raw": 0.5846,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Deep Space Scan",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{4}{U}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5831,
+  "model_raw": 0.5681,
+  "adjustment_note": "SNW: draws ~5 cards for 6 mana at typical TRK land diversity"
+ },
+ {
+  "card_name": "Seven of Nine, Unassimilated",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{1}{U}",
+  "type_line": "Legendary Artifact Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5829,
+  "model_raw": 0.5779,
+  "adjustment_note": "TXT: loots (often draws) every first main phase on a 0/4 wall for 2"
+ },
+ {
+  "card_name": "Blastoneuron",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{B}",
+  "type_line": "Creature \u2014 Jellyfish Leech",
+  "predicted_gih_win_rate": 0.5826,
+  "model_raw": 0.5976,
+  "adjustment_note": "TXT: strong but temporary reanimation on a 2/2; below top-uncommon tier"
+ },
+ {
+  "card_name": "Prosper, Tome-Bound",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{B}{R}",
+  "type_line": "Legendary Creature \u2014 Tiefling Warlock",
+  "predicted_gih_win_rate": 0.5821,
+  "model_raw": 0.5821,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Troubling Tribbles",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{W}",
+  "type_line": "Creature \u2014 Tribble",
+  "predicted_gih_win_rate": 0.5819,
+  "model_raw": 0.5769,
+  "adjustment_note": "TXT: self-copying 1-mana-body army supplies station fodder, chump blockers and attack triggers"
+ },
+ {
+  "card_name": "Riku of Many Paths",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{G}{U}{R}",
+  "type_line": "Legendary Creature \u2014 Human Wizard",
+  "predicted_gih_win_rate": 0.5817,
+  "model_raw": 0.5947,
+  "adjustment_note": "TXT: modal-spell payoff is very live in TRK, but a 3-colour {G}{U}{R} cast is hard; net small downgrade from model"
+ },
+ {
+  "card_name": "Salt Vampire",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{B}",
+  "type_line": "Creature \u2014 Vampire Shapeshifter",
+  "predicted_gih_win_rate": 0.5816,
+  "model_raw": 0.6016,
+  "adjustment_note": "TXT: ETB hand disruption gives opponent a replacement card; efficient body but not a premium rare"
+ },
+ {
+  "card_name": "70,000 Light-Years from Home",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5814,
+  "model_raw": 0.5564,
+  "adjustment_note": "TXT: 2-mana sorcery exile of any creature/Spacecraft; compensation is a basic to hand, not battlefield"
+ },
+ {
+  "card_name": "Romulan Bird-of-Prey",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{U}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5806,
+  "model_raw": 0.5756,
+  "adjustment_note": "STN: noncreature spells charge it without tapping creatures; hexproof while charging"
+ },
+ {
+  "card_name": "Mirror Universe Intrusion",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{U}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5802,
+  "model_raw": 0.5802,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Saavik, Stoic Student",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{W}",
+  "type_line": "Legendary Creature \u2014 Vulcan Advisor",
+  "predicted_gih_win_rate": 0.5796,
+  "model_raw": 0.5696,
+  "adjustment_note": "FED: ETB damage X counts all subtypes among non-Borg creatures; usually kills a real creature"
+ },
+ {
+  "card_name": "Armus, Skin of Evil",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{5}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Ooze Horror",
+  "predicted_gih_win_rate": 0.5796,
+  "model_raw": 0.5796,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Crystalline Entity",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{8}",
+  "type_line": "Artifact Creature \u2014 Elemental",
+  "predicted_gih_win_rate": 0.5792,
+  "model_raw": 0.5792,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Kira Nerys, Firebrand",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}{W}",
+  "type_line": "Legendary Creature \u2014 Bajoran Soldier",
+  "predicted_gih_win_rate": 0.5783,
+  "model_raw": 0.5783,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Federation Outpost",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.578,
+  "model_raw": 0.574,
+  "adjustment_note": "Group: monocolour 'enters untapped with 2+ other lands' lands with an ETB effect \u2014 efficient fixing plus value"
+ },
+ {
+  "card_name": "Gul Dukat, Colonial Prefect",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{4}{B}{B}{B}",
+  "type_line": "Legendary Creature \u2014 Cardassian Rogue",
+  "predicted_gih_win_rate": 0.5775,
+  "model_raw": 0.5925,
+  "adjustment_note": "TXT: 7-mana BBB finisher; drain is win-more when already dealing damage"
+ },
+ {
+  "card_name": "Deanna Troi, Psychic Counsel",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Legendary Creature \u2014 Betazoid Human Advisor",
+  "predicted_gih_win_rate": 0.5773,
+  "model_raw": 0.5673,
+  "adjustment_note": "TXT: every creature enters with a +1/+1 counter, permanently"
+ },
+ {
+  "card_name": "Assembly Specialist",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5772,
+  "model_raw": 0.5772,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "All Good Things...",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{G}{U}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5771,
+  "model_raw": 0.5771,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Cleveland Booker, Empath",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R/G}{R/G}",
+  "type_line": "Legendary Creature \u2014 Kwejian Rogue",
+  "predicted_gih_win_rate": 0.5771,
+  "model_raw": 0.5571,
+  "adjustment_note": "LAND: landfall creates a 2/2 token on every land drop"
+ },
+ {
+  "card_name": "Ni'Var Science Academy",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5759,
+  "model_raw": 0.5719,
+  "adjustment_note": "Group: monocolour 'enters untapped with 2+ other lands' lands with an ETB effect \u2014 efficient fixing plus value"
+ },
+ {
+  "card_name": "Arcum Dagsson",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{3}{U}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5758,
+  "model_raw": 0.5658,
+  "adjustment_note": "TXT: sacrifices Borg/artifact tokens to put Spacecraft and other noncreature artifacts straight onto the battlefield"
+ },
+ {
+  "card_name": "Spock, Always Your Friend",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{U}{R}",
+  "type_line": "Legendary Creature \u2014 Vulcan Human Scientist",
+  "predicted_gih_win_rate": 0.5756,
+  "model_raw": 0.5856,
+  "adjustment_note": "TXT: dig-4-for-noncreature on a gold 2/2 is good, not elite"
+ },
+ {
+  "card_name": "Lieutenant Commander Data",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Artifact Creature \u2014 Android Scientist",
+  "predicted_gih_win_rate": 0.5755,
+  "model_raw": 0.5755,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Species 8472",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{G}{G}",
+  "type_line": "Creature \u2014 Insect Beast",
+  "predicted_gih_win_rate": 0.5752,
+  "model_raw": 0.5752,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Talon Gates of Madara",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Gate",
+  "predicted_gih_win_rate": 0.575,
+  "model_raw": 0.575,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Caretaker",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{5}{U}",
+  "type_line": "Legendary Creature \u2014 Elemental",
+  "predicted_gih_win_rate": 0.5735,
+  "model_raw": 0.5635,
+  "adjustment_note": "DIL: dilemma on the turn fuels a free cast from opponent's exile"
+ },
+ {
+  "card_name": "U.S.S. Discovery, at Black Alert",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{G}{G}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.573,
+  "model_raw": 0.573,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Sisay",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{G}{W}",
+  "type_line": "Legendary Creature \u2014 Human Soldier",
+  "predicted_gih_win_rate": 0.5726,
+  "model_raw": 0.5676,
+  "adjustment_note": "TXT: legendary-dense set gives the tutor many premium targets"
+ },
+ {
+  "card_name": "Hemmer, Fixing What Is Broken",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{W}{U}",
+  "type_line": "Legendary Creature \u2014 Aenar Artificer",
+  "predicted_gih_win_rate": 0.5721,
+  "model_raw": 0.5721,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Quark's Bar",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5717,
+  "model_raw": 0.5677,
+  "adjustment_note": "Group: monocolour 'enters untapped with 2+ other lands' lands with an ETB effect \u2014 efficient fixing plus value"
+ },
+ {
+  "card_name": "Rutherford, Upgraded Ensign",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5716,
+  "model_raw": 0.5716,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Unicomplex",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5711,
+  "model_raw": 0.5671,
+  "adjustment_note": "Group: monocolour 'enters untapped with 2+ other lands' lands with an ETB effect \u2014 efficient fixing plus value"
+ },
+ {
+  "card_name": "Federation Resupply",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.571,
+  "model_raw": 0.571,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Jett Reno, Problem Solver",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.571,
+  "model_raw": 0.556,
+  "adjustment_note": "DIL: grows on dilemmas and surveils/draws when tapped (also station synergy)"
+ },
+ {
+  "card_name": "Subcommander T'Pol",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Creature \u2014 Vulcan Scientist",
+  "predicted_gih_win_rate": 0.5709,
+  "model_raw": 0.5709,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Jadzia Dax, Living Legacy",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{1}{G}",
+  "type_line": "Legendary Creature \u2014 Trill Scientist",
+  "predicted_gih_win_rate": 0.5708,
+  "model_raw": 0.5808,
+  "adjustment_note": "TXT: ramp starts at +{G} on turn 3 from a 0/1 body; slow"
+ },
+ {
+  "card_name": "Loot, Exuberant Explorer",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Beast Noble",
+  "predicted_gih_win_rate": 0.5707,
+  "model_raw": 0.5707,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Malfunctioning Holodeck",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{W}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5704,
+  "model_raw": 0.5704,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Andoria",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Bajor",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Cardassia Prime",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Earth, Sector 001",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Ferenginar",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Orion",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Qo'noS",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Risa",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Romulus",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Vulcan",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Planet",
+  "predicted_gih_win_rate": 0.57,
+  "model_raw": 0.562,
+  "adjustment_note": "Group: Planet tapped duals \u2014 historical gain-1 tapped duals average ~+0.01 centred, and each distinct Planet name feeds Strange-new-worlds/landfall in TRK"
+ },
+ {
+  "card_name": "Ghost of Illyria",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{W}",
+  "type_line": "Creature \u2014 Elemental Spirit",
+  "predicted_gih_win_rate": 0.5699,
+  "model_raw": 0.5699,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Transporter Malfunction",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5699,
+  "model_raw": 0.5699,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Command Subadjunct",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{W}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5696,
+  "model_raw": 0.5646,
+  "adjustment_note": "TXT: 2/1 for {W} plus vigilance for all artifact creatures"
+ },
+ {
+  "card_name": "U.S.S. Excelsior, Cutting Edge",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{W}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5695,
+  "model_raw": 0.5645,
+  "adjustment_note": "STN: ETB destroys a tapped creature (removal) before station matters"
+ },
+ {
+  "card_name": "Munitions Enthusiast",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "type_line": "Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5695,
+  "model_raw": 0.5695,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Bat'leth",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Artifact \u2014 Equipment",
+  "predicted_gih_win_rate": 0.5694,
+  "model_raw": 0.5694,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Planetary Bombardment",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5694,
+  "model_raw": 0.5644,
+  "adjustment_note": "TXT: 1-mana 2 (often 4) damage removal at common"
+ },
+ {
+  "card_name": "Q Continuum",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5692,
+  "model_raw": 0.5652,
+  "adjustment_note": "Group: monocolour 'enters untapped with 2+ other lands' lands with an ETB effect \u2014 efficient fixing plus value"
+ },
+ {
+  "card_name": "Dr. Beverly Crusher",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Creature \u2014 Human Doctor",
+  "predicted_gih_win_rate": 0.5689,
+  "model_raw": 0.5689,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Suurok-Class Science Vessel",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5689,
+  "model_raw": 0.5639,
+  "adjustment_note": "STN: ETB draw a card on a common spacecraft that later flies"
+ },
+ {
+  "card_name": "Deep Space 9",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{9}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5688,
+  "model_raw": 0.5838,
+  "adjustment_note": "TXT: 9 mana; powerful cheat effect but very often stranded in hand (GIH penalises)"
+ },
+ {
+  "card_name": "There's Coffee in that Nebula",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5685,
+  "model_raw": 0.5685,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Stella Lee, Wild Card",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{1}{U}{R}",
+  "type_line": "Legendary Creature \u2014 Human Rogue",
+  "predicted_gih_win_rate": 0.5677,
+  "model_raw": 0.5677,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sulu, Space Swashbuckler",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Legendary Creature \u2014 Human Pilot",
+  "predicted_gih_win_rate": 0.5676,
+  "model_raw": 0.5676,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Vexing Drone",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5676,
+  "model_raw": 0.5626,
+  "adjustment_note": "TXT: ETB tap-down tempo on a 2/2 for 2"
+ },
+ {
+  "card_name": "Encounter the Unknown",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5675,
+  "model_raw": 0.5675,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Andromedan Automatons",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{W}",
+  "type_line": "Artifact Creature \u2014 Android",
+  "predicted_gih_win_rate": 0.5673,
+  "model_raw": 0.5573,
+  "adjustment_note": "TXT: ETB tutors every other drafted copy of itself from the library"
+ },
+ {
+  "card_name": "The Duras Sisters",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{B/R}{B/R}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5673,
+  "model_raw": 0.5673,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Energize",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5672,
+  "model_raw": 0.5672,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Jake Sisko, War Correspondent",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G}",
+  "type_line": "Legendary Creature \u2014 Human Citizen",
+  "predicted_gih_win_rate": 0.5671,
+  "model_raw": 0.5671,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Daniels, Temporal Agent",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B/G}{B/G}",
+  "type_line": "Legendary Creature \u2014 Human Advisor",
+  "predicted_gih_win_rate": 0.5671,
+  "model_raw": 0.5671,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Constable Odo",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{W/U}{W/U}",
+  "type_line": "Legendary Creature \u2014 Shapeshifter Detective",
+  "predicted_gih_win_rate": 0.5669,
+  "model_raw": 0.5669,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Neelix, Moral Support",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G}",
+  "type_line": "Legendary Creature \u2014 Talaxian Advisor",
+  "predicted_gih_win_rate": 0.5666,
+  "model_raw": 0.5666,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dr. Leonard \"Bones\" McCoy",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{G}{G}",
+  "type_line": "Legendary Creature \u2014 Human Doctor",
+  "predicted_gih_win_rate": 0.5664,
+  "model_raw": 0.5664,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "He's Dead, Jim",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{B}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5659,
+  "model_raw": 0.5659,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dr. McCoy, Surly Surgeon",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}{W}",
+  "type_line": "Legendary Creature \u2014 Human Doctor",
+  "predicted_gih_win_rate": 0.5658,
+  "model_raw": 0.5658,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Free Borg Revolutionaries",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{W}{W}",
+  "type_line": "Artifact Creature \u2014 Borg Rebel",
+  "predicted_gih_win_rate": 0.5657,
+  "model_raw": 0.5657,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Cloistered Telepath",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{U}",
+  "type_line": "Creature \u2014 Talosian Advisor",
+  "predicted_gih_win_rate": 0.5657,
+  "model_raw": 0.5657,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "D'Ghor Bloodletter",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Creature \u2014 Klingon Assassin",
+  "predicted_gih_win_rate": 0.5656,
+  "model_raw": 0.5556,
+  "adjustment_note": "TXT: ETB is a mini-wrath or an edict on a 2/2"
+ },
+ {
+  "card_name": "Cha'DIch Investigator",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{B}",
+  "type_line": "Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5655,
+  "model_raw": 0.5555,
+  "adjustment_note": "TXT: 4/4 + hasty 2/1 across two bodies for 5"
+ },
+ {
+  "card_name": "Tasha Yar, Out of Time",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5655,
+  "model_raw": 0.5655,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Boarding Action",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5654,
+  "model_raw": 0.5554,
+  "adjustment_note": "TXT: permanent 2/1 haste token for {1}{R} plus Beam-me-up recast"
+ },
+ {
+  "card_name": "Overflow Submatrix",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5653,
+  "model_raw": 0.5603,
+  "adjustment_note": "TXT: repeated artifact-creature recursion from the graveyard"
+ },
+ {
+  "card_name": "Sela, Tal Shiar Paradox",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{B}",
+  "type_line": "Legendary Creature \u2014 Romulan Human Rogue",
+  "predicted_gih_win_rate": 0.5652,
+  "model_raw": 0.5752,
+  "adjustment_note": "TXT: Romulan-token engine needs repeated leaves-graveyard triggers"
+ },
+ {
+  "card_name": "Infinite Diversity",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{7}{R}{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.565,
+  "model_raw": 0.575,
+  "adjustment_note": "TXT: 9 mana and needs a good instant/sorcery already in the graveyard"
+ },
+ {
+  "card_name": "Branching Timeline",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{6}{G}{G}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5649,
+  "model_raw": 0.5649,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Final Frontier",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{G}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5647,
+  "model_raw": 0.5547,
+  "adjustment_note": "TXT: rampant growth onto battlefield plus very cheap Beam-me-up recast"
+ },
+ {
+  "card_name": "Locutus, the One Who Speaks",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{W}{B}",
+  "type_line": "Legendary Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5647,
+  "model_raw": 0.5647,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Death Is Irrelevant",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{6}{B}{B}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5644,
+  "model_raw": 0.5744,
+  "adjustment_note": "TXT: 8-mana enchantment; strong thereafter but slow and Borg-dependent"
+ },
+ {
+  "card_name": "Cold-Blooded Crew",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{G}{G}",
+  "type_line": "Creature \u2014 Gorn Warrior",
+  "predicted_gih_win_rate": 0.5644,
+  "model_raw": 0.5594,
+  "adjustment_note": "TXT: effectively a 6/6 evasive-ish body or spreads counters, with landcycling floor"
+ },
+ {
+  "card_name": "Adversary by Algorithm",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5643,
+  "model_raw": 0.5643,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dr. Joseph M'Benga",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{G}{G}",
+  "type_line": "Legendary Creature \u2014 Human Doctor",
+  "predicted_gih_win_rate": 0.5643,
+  "model_raw": 0.5643,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hull Breach",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{R}{G}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5638,
+  "model_raw": 0.5588,
+  "adjustment_note": "TXT: 2-mana sorcery that can destroy both an artifact and an enchantment in an artifact-heavy set"
+ },
+ {
+  "card_name": "Warp Speed",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5637,
+  "model_raw": 0.5537,
+  "adjustment_note": "SNW/LAND: land tutor plus a late draw-2 activation discounted by SNW"
+ },
+ {
+  "card_name": "Oberth-Class Starship",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5634,
+  "model_raw": 0.5634,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Commander Raffi Musiker",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5634,
+  "model_raw": 0.5634,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Emergency Medical Hologram",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{W}",
+  "type_line": "Artifact Creature \u2014 Illusion Doctor",
+  "predicted_gih_win_rate": 0.5633,
+  "model_raw": 0.5633,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Measure of a Man",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5633,
+  "model_raw": 0.5733,
+  "adjustment_note": "TXT: headline exile is temporary (card returns chapter III); mostly a clue plus delay"
+ },
+ {
+  "card_name": "Test of Priorities",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5633,
+  "model_raw": 0.5533,
+  "adjustment_note": "TXT: surveil 2 + draw at instant speed, or a blink"
+ },
+ {
+  "card_name": "Artificial Anomaly",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5633,
+  "model_raw": 0.5633,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Gwyndala, the Progeny",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{U}",
+  "type_line": "Legendary Creature \u2014 Vau-N'Akat Advisor",
+  "predicted_gih_win_rate": 0.5632,
+  "model_raw": 0.5882,
+  "adjustment_note": "TXT: 1/1 for 2 whose Equipment-token copy ability is very narrow"
+ },
+ {
+  "card_name": "Resistance Is Futile",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5631,
+  "model_raw": 0.5531,
+  "adjustment_note": "TXT: 2-mana destroy or reanimate an artifact creature"
+ },
+ {
+  "card_name": "Sylvia Tilly, Joy of Discovery",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Human Scientist Artificer",
+  "predicted_gih_win_rate": 0.5629,
+  "model_raw": 0.5629,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Ensign Pavel Chekov",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}",
+  "type_line": "Legendary Creature \u2014 Human Pilot",
+  "predicted_gih_win_rate": 0.5627,
+  "model_raw": 0.5627,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Spatial Anomaly",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5626,
+  "model_raw": 0.5626,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Zero, Incorporeal Sensate",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W/B}{W/B}",
+  "type_line": "Legendary Artifact Creature \u2014 Medusan Scientist",
+  "predicted_gih_win_rate": 0.5625,
+  "model_raw": 0.5775,
+  "adjustment_note": "TXT: ETB 'disruption' lets owner replay the card for +{2}; mostly a 2/2 lifelink"
+ },
+ {
+  "card_name": "Set Phasers to . . .",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{W}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5624,
+  "model_raw": 0.5524,
+  "adjustment_note": "TXT: 1-mana stun-lock or 3 to an attacker; cheap flexible interaction"
+ },
+ {
+  "card_name": "Khan, Despot by Design",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{R}",
+  "type_line": "Legendary Creature \u2014 Human Rogue",
+  "predicted_gih_win_rate": 0.5624,
+  "model_raw": 0.5624,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Plasma Cascade",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5623,
+  "model_raw": 0.5623,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Fugitive Listener",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{B}",
+  "type_line": "Creature \u2014 El-Aurian Scout",
+  "predicted_gih_win_rate": 0.5622,
+  "model_raw": 0.5572,
+  "adjustment_note": "TXT: ETB discard on a 3/1 for 3"
+ },
+ {
+  "card_name": "Nog, Ambitious Cadet",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{B}{G}",
+  "type_line": "Legendary Creature \u2014 Ferengi Rogue",
+  "predicted_gih_win_rate": 0.5622,
+  "model_raw": 0.5772,
+  "adjustment_note": "TXT: base 2/2 menace is fine but both upgrades demand substantial mana before paying off"
+ },
+ {
+  "card_name": "Seven of Nine",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}{B}",
+  "type_line": "Legendary Artifact Creature \u2014 Human Scientist",
+  "predicted_gih_win_rate": 0.5622,
+  "model_raw": 0.5372,
+  "adjustment_note": "DIL: draws a card on every dilemma faced; many cheap modal spells in the set"
+ },
+ {
+  "card_name": "Eject the Warp Core",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5618,
+  "model_raw": 0.5568,
+  "adjustment_note": "TXT: -2/-2 floor with kicked -6/-6 hard removal"
+ },
+ {
+  "card_name": "Saru, Unthreatened",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Kelpien Officer",
+  "predicted_gih_win_rate": 0.5617,
+  "model_raw": 0.5617,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Collective Drone",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5612,
+  "model_raw": 0.5512,
+  "adjustment_note": "TXT: in Borg/artifact decks this is routinely a 4+/2 for 2"
+ },
+ {
+  "card_name": "Unexplored Territory",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5609,
+  "model_raw": 0.5509,
+  "adjustment_note": "LAND: {1} sacrifice fetches a basic onto the battlefield: fixing plus ramp"
+ },
+ {
+  "card_name": "Highly Illogical",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5608,
+  "model_raw": 0.5608,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Subspace Anomaly",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5608,
+  "model_raw": 0.5608,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Those Old Scientists",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5607,
+  "model_raw": 0.5607,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dominion Infiltration",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{X}{R}{R}{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5607,
+  "model_raw": 0.5607,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "L'Rell, Fierce Visionary",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}{R}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5606,
+  "model_raw": 0.5406,
+  "adjustment_note": "TXT: creates a free hasty 2/1 at every combat"
+ },
+ {
+  "card_name": "Will Riker, First in the Field",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{R}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5604,
+  "model_raw": 0.5604,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hologram Stalker",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{G}{G}",
+  "type_line": "Creature \u2014 Hirogen Warrior",
+  "predicted_gih_win_rate": 0.56,
+  "model_raw": 0.58,
+  "adjustment_note": "TXT: 2/2 for 6 with value triggers; rate far below model score"
+ },
+ {
+  "card_name": "Khaaaaaaaaaaaannn!",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{X}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5599,
+  "model_raw": 0.5599,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Astute Terraformer",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{G}",
+  "type_line": "Creature \u2014 Vulcan Scientist",
+  "predicted_gih_win_rate": 0.5599,
+  "model_raw": 0.5499,
+  "adjustment_note": "SNW: pump activation typically costs {1}-{2}"
+ },
+ {
+  "card_name": "Picard, Leading by Example",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5598,
+  "model_raw": 0.5598,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Primary Unimatrix Adjunct",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{W}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5593,
+  "model_raw": 0.5593,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Rogue Artificial Intelligence",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{B}{B}",
+  "type_line": "Artifact Creature \u2014 Construct",
+  "predicted_gih_win_rate": 0.5593,
+  "model_raw": 0.5593,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Storied Veteran",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{B}",
+  "type_line": "Creature \u2014 Klingon Advisor",
+  "predicted_gih_win_rate": 0.5591,
+  "model_raw": 0.5591,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Amok Time",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5591,
+  "model_raw": 0.5591,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Plains",
+  "set": "TRK-basic",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Basic Land \u2014 Plains",
+  "predicted_gih_win_rate": 0.5591,
+  "model_raw": 0.5591,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Brad Boimler, Eager Ensign",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5589,
+  "model_raw": 0.5589,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Torbran, Thane of Red Fell",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{1}{R}{R}{R}",
+  "type_line": "Legendary Creature \u2014 Dwarf Noble",
+  "predicted_gih_win_rate": 0.5587,
+  "model_raw": 0.5587,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Open Communications",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5584,
+  "model_raw": 0.5584,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Suus Mahna Practitioner",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "type_line": "Creature \u2014 Vulcan Officer",
+  "predicted_gih_win_rate": 0.5583,
+  "model_raw": 0.5433,
+  "adjustment_note": "SNW: activated tap ability costs ~{U} or less; repeatable tapper"
+ },
+ {
+  "card_name": "Command Decision",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5581,
+  "model_raw": 0.5581,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Interstellar Effigy",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{U}",
+  "type_line": "Artifact Creature \u2014 Construct",
+  "predicted_gih_win_rate": 0.558,
+  "model_raw": 0.558,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Breeding Pool",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Forest Island",
+  "predicted_gih_win_rate": 0.558,
+  "model_raw": 0.5623,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Vash, Freelance Archaeologist",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}{G}",
+  "type_line": "Legendary Creature \u2014 Human Rogue Scientist",
+  "predicted_gih_win_rate": 0.5579,
+  "model_raw": 0.5579,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Test of Conviction",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5578,
+  "model_raw": 0.5378,
+  "adjustment_note": "TXT: mode 2 is draw 2 for 2 (opponent draws 1); mode 1 is a team-wide counter anthem"
+ },
+ {
+  "card_name": "Pah-Wraith",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{5}{R}{R}",
+  "type_line": "Creature \u2014 Wraith",
+  "predicted_gih_win_rate": 0.5576,
+  "model_raw": 0.5426,
+  "adjustment_note": "SNW: attack trigger pumps team by ~+5/+0"
+ },
+ {
+  "card_name": "Syndicate Liquidators",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{G}",
+  "type_line": "Creature \u2014 Orion Pirate",
+  "predicted_gih_win_rate": 0.5575,
+  "model_raw": 0.5475,
+  "adjustment_note": "TXT: landfall puts two +1/+1 counters on any creature, repeatedly"
+ },
+ {
+  "card_name": "Engineered Explosives",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{X}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5575,
+  "model_raw": 0.5575,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Pattern Buffer Preservation",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5572,
+  "model_raw": 0.5572,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Enterprise NX-01",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5571,
+  "model_raw": 0.5571,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Make It So",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.557,
+  "model_raw": 0.557,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Shizo, Death's Storehouse",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "",
+  "type_line": "Legendary Land",
+  "predicted_gih_win_rate": 0.5568,
+  "model_raw": 0.5568,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "V'Ger, the Intruder",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{6}{U}",
+  "type_line": "Legendary Artifact Creature \u2014 Construct",
+  "predicted_gih_win_rate": 0.5565,
+  "model_raw": 0.5565,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Stable Wormhole",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{G}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5559,
+  "model_raw": 0.5109,
+  "adjustment_note": "LAND: creates a tapped any-colour Planet land token on every attack; model parsed no token/value"
+ },
+ {
+  "card_name": "Minamo, School at Water's Edge",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "",
+  "type_line": "Legendary Land",
+  "predicted_gih_win_rate": 0.5559,
+  "model_raw": 0.5559,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "U.S.S. Voyager, Lone Wanderer",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{G}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5558,
+  "model_raw": 0.5558,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Shields Up!",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5557,
+  "model_raw": 0.5557,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "First Contact",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{G}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5557,
+  "model_raw": 0.5557,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Genesis Effect",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5556,
+  "model_raw": 0.5606,
+  "adjustment_note": "TXT: 6 damage for 5 but destroys your own land (partly refunded by a Planet token)"
+ },
+ {
+  "card_name": "Gaseous Anomaly",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5556,
+  "model_raw": 0.5556,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Island",
+  "set": "TRK-basic",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Basic Land \u2014 Island",
+  "predicted_gih_win_rate": 0.5555,
+  "model_raw": 0.5555,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Lt. Cmdr. Geordi La Forge",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5553,
+  "model_raw": 0.5503,
+  "adjustment_note": "STN: doubles station counters, halving the tapping cost of every Spacecraft"
+ },
+ {
+  "card_name": "Live Long and Prosper",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{5}{W}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5553,
+  "model_raw": 0.5753,
+  "adjustment_note": "TXT: 7-mana sorcery lifegain+draw~3 is slow and low board impact"
+ },
+ {
+  "card_name": "Stomping Ground",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Mountain Forest",
+  "predicted_gih_win_rate": 0.5553,
+  "model_raw": 0.5581,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Forest",
+  "set": "TRK-basic",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Basic Land \u2014 Forest",
+  "predicted_gih_win_rate": 0.5553,
+  "model_raw": 0.5553,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "David and Carol Marcus, Creators",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Creature \u2014 Human Scientist",
+  "predicted_gih_win_rate": 0.5551,
+  "model_raw": 0.5401,
+  "adjustment_note": "LAND: ETB creates a tapped any-colour Planet land (ramp+fixing+landfall)"
+ },
+ {
+  "card_name": "Marooned",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{U}",
+  "type_line": "Enchantment \u2014 Aura",
+  "predicted_gih_win_rate": 0.555,
+  "model_raw": 0.555,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Swamp",
+  "set": "TRK-basic",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Basic Land \u2014 Swamp",
+  "predicted_gih_win_rate": 0.555,
+  "model_raw": 0.555,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sen Triplets",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{W}{U}{B}",
+  "type_line": "Legendary Artifact Creature \u2014 Human Wizard",
+  "predicted_gih_win_rate": 0.555,
+  "model_raw": 0.565,
+  "adjustment_note": "TXT: 3/3 for {2}{W}{U}{B}; powerful only from the next upkeep and 3-colour"
+ },
+ {
+  "card_name": "Empress Galina",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{3}{U}{U}",
+  "type_line": "Legendary Creature \u2014 Merfolk Noble",
+  "predicted_gih_win_rate": 0.5548,
+  "model_raw": 0.5848,
+  "adjustment_note": "TXT: 1/3 for 5 with a {U}{U},{T} steal; even in a legendary-dense set the rate is poor"
+ },
+ {
+  "card_name": "Thada Adel, Acquisitor",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{1}{U}{U}",
+  "type_line": "Legendary Creature \u2014 Merfolk Rogue",
+  "predicted_gih_win_rate": 0.5548,
+  "model_raw": 0.5748,
+  "adjustment_note": "TXT: islandwalk steal-an-artifact rarely converts; 2/2 for {1}{U}{U}"
+ },
+ {
+  "card_name": "Sickbay",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{5}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5547,
+  "model_raw": 0.5547,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Mountain",
+  "set": "TRK-basic",
+  "rarity": "common",
+  "mana_cost": "",
+  "type_line": "Basic Land \u2014 Mountain",
+  "predicted_gih_win_rate": 0.5547,
+  "model_raw": 0.5547,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Kai Winn, Faithless Leader",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{B}",
+  "type_line": "Legendary Creature \u2014 Bajoran Cleric",
+  "predicted_gih_win_rate": 0.5544,
+  "model_raw": 0.5694,
+  "adjustment_note": "TXT: name-a-card tax rarely triggers in limited; mostly a 3/1 for 2"
+ },
+ {
+  "card_name": "Guidance Failure",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{U}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5542,
+  "model_raw": 0.5542,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Temporal Conqueror",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{G}",
+  "type_line": "Creature \u2014 Na'kuhl Warrior",
+  "predicted_gih_win_rate": 0.5539,
+  "model_raw": 0.5539,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hit It!",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}{G}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5539,
+  "model_raw": 0.5539,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Collation Trimatrix",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5538,
+  "model_raw": 0.5538,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Xenobotanist",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{G}",
+  "type_line": "Creature \u2014 Vulcan Scientist",
+  "predicted_gih_win_rate": 0.5538,
+  "model_raw": 0.5538,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "U.S.S. Enterprise-D, Galaxy-Class",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5538,
+  "model_raw": 0.5538,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Rules of Acquisition",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{U}{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5536,
+  "model_raw": 0.5536,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "U.S.S. Cerritos, Following Up",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{5}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5536,
+  "model_raw": 0.5536,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Moopsy",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{G}",
+  "type_line": "Creature \u2014 Beast",
+  "predicted_gih_win_rate": 0.5534,
+  "model_raw": 0.5534,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Temporal Anomaly",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "",
+  "type_line": "Land",
+  "predicted_gih_win_rate": 0.5534,
+  "model_raw": 0.5534,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hoshi Sato, Exolinguist",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{U}",
+  "type_line": "Legendary Creature \u2014 Human Scientist",
+  "predicted_gih_win_rate": 0.5533,
+  "model_raw": 0.5683,
+  "adjustment_note": "TXT: 3/3 for 5, ETB digs deep but only keeps one card"
+ },
+ {
+  "card_name": "Saurian Explorer",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{G}",
+  "type_line": "Creature \u2014 Dinosaur Scout",
+  "predicted_gih_win_rate": 0.5528,
+  "model_raw": 0.5528,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Doctor, EMH",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{G/W}{G/W}",
+  "type_line": "Legendary Artifact Creature \u2014 Illusion Doctor",
+  "predicted_gih_win_rate": 0.5525,
+  "model_raw": 0.5525,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Overgrown Tomb",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Swamp Forest",
+  "predicted_gih_win_rate": 0.5524,
+  "model_raw": 0.5537,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "De-evolve",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "type_line": "Enchantment \u2014 Aura",
+  "predicted_gih_win_rate": 0.5523,
+  "model_raw": 0.5523,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Replicator",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5523,
+  "model_raw": 0.5623,
+  "adjustment_note": "TXT: token-copying needs a worthwhile token already; Food ETB is minor"
+ },
+ {
+  "card_name": "Starfleet Academy",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "",
+  "type_line": "Legendary Land",
+  "predicted_gih_win_rate": 0.5523,
+  "model_raw": 0.5523,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Watery Grave",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Island Swamp",
+  "predicted_gih_win_rate": 0.552,
+  "model_raw": 0.553,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Pure Energy",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5519,
+  "model_raw": 0.5519,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Federation Field Medic",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{W}",
+  "type_line": "Creature \u2014 Human Doctor",
+  "predicted_gih_win_rate": 0.5518,
+  "model_raw": 0.5518,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Mogis, God of Slaughter",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{B}{R}",
+  "type_line": "Legendary Enchantment Creature \u2014 God",
+  "predicted_gih_win_rate": 0.5518,
+  "model_raw": 0.5518,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Warp Core",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5515,
+  "model_raw": 0.5515,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Mugato",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{G}{G}",
+  "type_line": "Creature \u2014 Ape Beast",
+  "predicted_gih_win_rate": 0.5512,
+  "model_raw": 0.5412,
+  "adjustment_note": "TXT: 6/6 with reach, vigilance and deathtouch for 5 is above-rate vanilla-plus"
+ },
+ {
+  "card_name": "Tea, Earl Grey, Hot",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}",
+  "type_line": "Artifact \u2014 Food",
+  "predicted_gih_win_rate": 0.551,
+  "model_raw": 0.551,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dominion Saboteur",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{U}",
+  "type_line": "Creature \u2014 Shapeshifter",
+  "predicted_gih_win_rate": 0.5509,
+  "model_raw": 0.5359,
+  "adjustment_note": "TXT: 5-mana clone of the best artifact/creature, keeping its counters"
+ },
+ {
+  "card_name": "Tactical Officer",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{W}",
+  "type_line": "Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5508,
+  "model_raw": 0.5508,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Cybernetic Specialist",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}",
+  "type_line": "Artifact Creature \u2014 Human Scientist",
+  "predicted_gih_win_rate": 0.5508,
+  "model_raw": 0.5508,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Godless Shrine",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Plains Swamp",
+  "predicted_gih_win_rate": 0.5507,
+  "model_raw": 0.551,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Lore, Positronic Provocateur",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U/B}{U/B}",
+  "type_line": "Legendary Artifact Creature \u2014 Android Rogue",
+  "predicted_gih_win_rate": 0.5503,
+  "model_raw": 0.5503,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain Michael Burnham",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.55,
+  "model_raw": 0.55,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dominion Supervisor",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{G}",
+  "type_line": "Creature \u2014 Vorta Doctor",
+  "predicted_gih_win_rate": 0.55,
+  "model_raw": 0.55,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Conquest Mission",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5498,
+  "model_raw": 0.5498,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Obsidian Order Operative",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{B}",
+  "type_line": "Creature \u2014 Cardassian Officer Spy",
+  "predicted_gih_win_rate": 0.5498,
+  "model_raw": 0.5398,
+  "adjustment_note": "DIL: drains 1 on every dilemma"
+ },
+ {
+  "card_name": "Impossible Choice",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5497,
+  "model_raw": 0.5497,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Type-2 Phaser",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}",
+  "type_line": "Artifact \u2014 Equipment",
+  "predicted_gih_win_rate": 0.5494,
+  "model_raw": 0.5394,
+  "adjustment_note": "TXT: ETB stun-tap plus +3/+0 equipment"
+ },
+ {
+  "card_name": "Academy Instructor",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "type_line": "Creature \u2014 Bolian Officer",
+  "predicted_gih_win_rate": 0.5493,
+  "model_raw": 0.5493,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Relentless Drednok",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{B}",
+  "type_line": "Artifact Creature \u2014 Robot",
+  "predicted_gih_win_rate": 0.5492,
+  "model_raw": 0.5492,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Kirk, Commanding Officer",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}{W}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5491,
+  "model_raw": 0.5491,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Melkotian Adjudicator",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "type_line": "Creature \u2014 Melkotian Advisor",
+  "predicted_gih_win_rate": 0.549,
+  "model_raw": 0.534,
+  "adjustment_note": "DIL: flying/vigilance body that grows on dilemmas"
+ },
+ {
+  "card_name": "Data, New Life",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{U}",
+  "type_line": "Legendary Artifact Creature \u2014 Android Scientist",
+  "predicted_gih_win_rate": 0.5488,
+  "model_raw": 0.5488,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sarcophagus, Ship of the Dead",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "type_line": "Legendary Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5484,
+  "model_raw": 0.5384,
+  "adjustment_note": "STN: team-wide +1/+0 anthem applies even before it stations"
+ },
+ {
+  "card_name": "Support Mission",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5484,
+  "model_raw": 0.5284,
+  "adjustment_note": "TXT: 3-mana enchantment giving every creature you cast a +1/+1 counter (two at 5 quests)"
+ },
+ {
+  "card_name": "Pet Sehlat",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{W}",
+  "type_line": "Creature \u2014 Bear",
+  "predicted_gih_win_rate": 0.5482,
+  "model_raw": 0.5482,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Isshin, Two Heavens as One",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{R}{W}{B}",
+  "type_line": "Legendary Creature \u2014 Human Samurai",
+  "predicted_gih_win_rate": 0.5482,
+  "model_raw": 0.5482,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Tenacious Drone",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5481,
+  "model_raw": 0.5481,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Steam Vents",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Island Mountain",
+  "predicted_gih_win_rate": 0.5481,
+  "model_raw": 0.547,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Starfleet Security",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{R}",
+  "type_line": "Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5479,
+  "model_raw": 0.5479,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Vulcan Mind-Meld",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{U}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5477,
+  "model_raw": 0.5477,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Phlox, Unorthodox Doctor",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{G}{W}",
+  "type_line": "Legendary Creature \u2014 Denobulan Doctor",
+  "predicted_gih_win_rate": 0.5476,
+  "model_raw": 0.5476,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Humpback Whales",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{U}{U}",
+  "type_line": "Creature \u2014 Whale",
+  "predicted_gih_win_rate": 0.5475,
+  "model_raw": 0.5475,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Consider the Prime Directive",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{U}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5474,
+  "model_raw": 0.5474,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Starfleet Spanner Jockey",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{U}",
+  "type_line": "Creature \u2014 Human Artificer",
+  "predicted_gih_win_rate": 0.5474,
+  "model_raw": 0.5474,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Reckless Impulse",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5472,
+  "model_raw": 0.5372,
+  "adjustment_note": "TXT: proven 2-mana impulse-draw rate in red"
+ },
+ {
+  "card_name": "Common Goal",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{G}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5472,
+  "model_raw": 0.5472,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Worf, Honor-Bound Warrior",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{R/W}{R/W}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior Officer",
+  "predicted_gih_win_rate": 0.5469,
+  "model_raw": 0.5469,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sisay, Weatherlight Captain",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Creature \u2014 Human Soldier",
+  "predicted_gih_win_rate": 0.5467,
+  "model_raw": 0.5667,
+  "adjustment_note": "TXT: 5-colour activation is near-uncastable; mostly a 2/2 that grows slowly"
+ },
+ {
+  "card_name": "Zefram Cochrane, Warp Pioneer",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Creature \u2014 Human Pilot",
+  "predicted_gih_win_rate": 0.5465,
+  "model_raw": 0.5415,
+  "adjustment_note": "STN: Spacecraft enter with +2 charge counters; artifact spells off the top"
+ },
+ {
+  "card_name": "Dahar Master",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{R}",
+  "type_line": "Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5464,
+  "model_raw": 0.5464,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hallowed Fountain",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Plains Island",
+  "predicted_gih_win_rate": 0.5464,
+  "model_raw": 0.5444,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Gowron, Eager for Battle",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{B}{R}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5462,
+  "model_raw": 0.5462,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Federation Probe",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{U}",
+  "type_line": "Artifact Creature \u2014 Construct",
+  "predicted_gih_win_rate": 0.546,
+  "model_raw": 0.546,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dal R'El, Augment Orphan",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}{G}",
+  "type_line": "Legendary Creature \u2014 Human Mutant Rogue",
+  "predicted_gih_win_rate": 0.546,
+  "model_raw": 0.546,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hive Mind Coprocessor",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5457,
+  "model_raw": 0.5357,
+  "adjustment_note": "TXT: Borg-wide combat-damage card draw in the artifact-creature deck"
+ },
+ {
+  "card_name": "Tal Shiar Operative",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "type_line": "Creature \u2014 Romulan Officer Spy",
+  "predicted_gih_win_rate": 0.5457,
+  "model_raw": 0.5457,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Blood Crypt",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Swamp Mountain",
+  "predicted_gih_win_rate": 0.5451,
+  "model_raw": 0.5424,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "The Naked Time",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.545,
+  "model_raw": 0.545,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "D'Vana Tendi, Optimistic Ensign",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{G/U}{G/U}",
+  "type_line": "Legendary Creature \u2014 Orion Scientist",
+  "predicted_gih_win_rate": 0.5449,
+  "model_raw": 0.5449,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Gray and Adira, Forever Joined",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U/R}{U/R}",
+  "type_line": "Legendary Creature \u2014 Trill Human Officer",
+  "predicted_gih_win_rate": 0.5449,
+  "model_raw": 0.5449,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "I'm a Doctor, Not a . . .",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{G}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5448,
+  "model_raw": 0.5448,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Flare of Fortitude",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{W}{W}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5444,
+  "model_raw": 0.5694,
+  "adjustment_note": "TXT: defensive protection spell with no board impact"
+ },
+ {
+  "card_name": "Temple Garden",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Forest Plains",
+  "predicted_gih_win_rate": 0.5442,
+  "model_raw": 0.5411,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Savvy Profiteer",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Creature \u2014 Ferengi Rogue",
+  "predicted_gih_win_rate": 0.5437,
+  "model_raw": 0.5437,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Genesis Device",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{G}",
+  "type_line": "Legendary Artifact",
+  "predicted_gih_win_rate": 0.5436,
+  "model_raw": 0.5436,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Test of Loyalty",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5434,
+  "model_raw": 0.5334,
+  "adjustment_note": "TXT: 1-mana cantrip or raise-dead"
+ },
+ {
+  "card_name": "Erica Ortegas, Plucky Pilot",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{R}",
+  "type_line": "Legendary Creature \u2014 Human Pilot",
+  "predicted_gih_win_rate": 0.5433,
+  "model_raw": 0.5333,
+  "adjustment_note": "STN: when tapped (e.g. to station) she drops a land from hand"
+ },
+ {
+  "card_name": "Shuttle Ace",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{W}",
+  "type_line": "Creature \u2014 Kelpien Pilot",
+  "predicted_gih_win_rate": 0.5429,
+  "model_raw": 0.5429,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Test of Identity",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5425,
+  "model_raw": 0.5425,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Photosynthetic Physician",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{G}",
+  "type_line": "Creature \u2014 Plant Doctor",
+  "predicted_gih_win_rate": 0.5423,
+  "model_raw": 0.5423,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Sacred Foundry",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "",
+  "type_line": "Land \u2014 Mountain Plains",
+  "predicted_gih_win_rate": 0.5423,
+  "model_raw": 0.5382,
+  "adjustment_note": "Group: shockland historical anchors pooled/smoothed (per-pair samples are colour-confounded)"
+ },
+ {
+  "card_name": "Beckett Mariner, Impetuous Ensign",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{R}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.542,
+  "model_raw": 0.542,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Gabriel Lorca, Mirror Menace",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{B}",
+  "type_line": "Legendary Creature \u2014 Human Rogue Officer",
+  "predicted_gih_win_rate": 0.5414,
+  "model_raw": 0.5314,
+  "adjustment_note": "DIL: self-recursion trigger is easy to enable in this set"
+ },
+ {
+  "card_name": "Xindi Surveyors",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{G}",
+  "type_line": "Creature \u2014 Xindi Scientist",
+  "predicted_gih_win_rate": 0.5412,
+  "model_raw": 0.5412,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dathon, His Heart Open",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{G}{U}{R}",
+  "type_line": "Legendary Creature \u2014 Tamarian Officer",
+  "predicted_gih_win_rate": 0.5412,
+  "model_raw": 0.5412,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Planetary Patrol",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Creature \u2014 Scout",
+  "predicted_gih_win_rate": 0.5411,
+  "model_raw": 0.5411,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dominion Assault Force",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{G}",
+  "type_line": "Creature \u2014 Jem'Hadar Warrior",
+  "predicted_gih_win_rate": 0.541,
+  "model_raw": 0.541,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Hologram Janeway",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{W}",
+  "type_line": "Legendary Artifact Creature \u2014 Illusion Officer",
+  "predicted_gih_win_rate": 0.5409,
+  "model_raw": 0.5409,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Test of Courage",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{G}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5408,
+  "model_raw": 0.5408,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Nyota Uhura, Communications",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Creature \u2014 Human Officer",
+  "predicted_gih_win_rate": 0.5406,
+  "model_raw": 0.5606,
+  "adjustment_note": "TXT: draw trigger requires guessing opponent's spell mana value; unreliable"
+ },
+ {
+  "card_name": "Battle-Scarred Survivalist",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{B}",
+  "type_line": "Creature \u2014 Klingon Scout",
+  "predicted_gih_win_rate": 0.5398,
+  "model_raw": 0.5398,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Silicate Surveyor",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{R}",
+  "type_line": "Creature \u2014 Tholian Scout",
+  "predicted_gih_win_rate": 0.5388,
+  "model_raw": 0.5388,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Grand Nagus Zek",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{2}{B}",
+  "type_line": "Legendary Creature \u2014 Ferengi Noble",
+  "predicted_gih_win_rate": 0.5386,
+  "model_raw": 0.5536,
+  "adjustment_note": "TXT: 1/1 for 3, Treasure engine needs deaths and Treasure payoffs"
+ },
+ {
+  "card_name": "Bruvac the Grandiloquent",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "{2}{U}",
+  "type_line": "Legendary Creature \u2014 Human Advisor",
+  "predicted_gih_win_rate": 0.5381,
+  "model_raw": 0.5631,
+  "adjustment_note": "TXT: mill-doubling has almost no mill support around it; 1/4 for 3"
+ },
+ {
+  "card_name": "Emergency Holographic Crew",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{U}",
+  "type_line": "Artifact Creature \u2014 Illusion Officer",
+  "predicted_gih_win_rate": 0.5379,
+  "model_raw": 0.5379,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Cetacean Ops",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{U}",
+  "type_line": "Creature \u2014 Whale Officer",
+  "predicted_gih_win_rate": 0.5377,
+  "model_raw": 0.5377,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "DOT-7 Repair Squad",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{W}",
+  "type_line": "Artifact Creature \u2014 Robot",
+  "predicted_gih_win_rate": 0.5372,
+  "model_raw": 0.5372,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Lwaxana Troi, Charming Guest",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{R}",
+  "type_line": "Legendary Creature \u2014 Betazoid Advisor",
+  "predicted_gih_win_rate": 0.5363,
+  "model_raw": 0.5513,
+  "adjustment_note": "TXT: must stay tapped to double one creature's triggers; narrow"
+ },
+ {
+  "card_name": "Una Chin-Riley, Number One",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{4}{W}",
+  "type_line": "Legendary Creature \u2014 Illyrian Officer",
+  "predicted_gih_win_rate": 0.5361,
+  "model_raw": 0.5361,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Phyrexian Tower",
+  "set": "SDS",
+  "rarity": "mythic",
+  "mana_cost": "",
+  "type_line": "Legendary Land",
+  "predicted_gih_win_rate": 0.5358,
+  "model_raw": 0.5358,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Class-F Shuttlecraft",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}",
+  "type_line": "Artifact \u2014 Spacecraft",
+  "predicted_gih_win_rate": 0.5356,
+  "model_raw": 0.5356,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Ravenous Cosmozoan",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{5}{R}",
+  "type_line": "Creature \u2014 Fish",
+  "predicted_gih_win_rate": 0.5355,
+  "model_raw": 0.5355,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Horta",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{4}{R}{R}",
+  "type_line": "Creature \u2014 Elemental",
+  "predicted_gih_win_rate": 0.5351,
+  "model_raw": 0.5351,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Brazen Bluff",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{R}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.534,
+  "model_raw": 0.544,
+  "adjustment_note": "TXT: opponent will usually exile their own spell; free-cast outcome is rare"
+ },
+ {
+  "card_name": "Assault Drone",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{3}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5329,
+  "model_raw": 0.5329,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Stray from History",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{B}",
+  "type_line": "Sorcery",
+  "predicted_gih_win_rate": 0.5329,
+  "model_raw": 0.5329,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Culber and Stamets, Star-Crossed",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}{G}",
+  "type_line": "Legendary Creature \u2014 Human Doctor Artificer",
+  "predicted_gih_win_rate": 0.5329,
+  "model_raw": 0.5329,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Red Alert!",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5328,
+  "model_raw": 0.5328,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Captain's Tutelage",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Enchantment \u2014 Aura",
+  "predicted_gih_win_rate": 0.5326,
+  "model_raw": 0.5326,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Targ Wrangler",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}",
+  "type_line": "Creature \u2014 Klingon Warrior",
+  "predicted_gih_win_rate": 0.5318,
+  "model_raw": 0.5318,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Quark, Humble Proprietor",
+  "set": "TRK",
+  "rarity": "mythic",
+  "mana_cost": "{2}{R}",
+  "type_line": "Legendary Creature \u2014 Ferengi Rogue",
+  "predicted_gih_win_rate": 0.5316,
+  "model_raw": 0.5616,
+  "adjustment_note": "TXT: 'You can't sacrifice Treasure tokens' negates his own Treasure production; 1/2 for 3 otherwise"
+ },
+ {
+  "card_name": "Organic Avulsion Unit",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Artifact Creature \u2014 Borg",
+  "predicted_gih_win_rate": 0.5302,
+  "model_raw": 0.5302,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Cantankerous Captain",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{R}",
+  "type_line": "Creature \u2014 Tellarite Officer",
+  "predicted_gih_win_rate": 0.5299,
+  "model_raw": 0.5299,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "A Good Day to Die",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{B}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5294,
+  "model_raw": 0.5294,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Year of Hell",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{U}{R}",
+  "type_line": "Enchantment \u2014 Saga",
+  "predicted_gih_win_rate": 0.5287,
+  "model_raw": 0.5437,
+  "adjustment_note": "TXT: symmetric draw 3 + symmetric damage over three chapters helps opponent too"
+ },
+ {
+  "card_name": "Peace in Our Time",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{3}{W}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5281,
+  "model_raw": 0.5481,
+  "adjustment_note": "TXT: symmetric draw-or-no-attack; opponents simply attack; 12-counter win is unreachable"
+ },
+ {
+  "card_name": "Automated Warfare System",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{B}",
+  "type_line": "Artifact Creature \u2014 Construct",
+  "predicted_gih_win_rate": 0.5276,
+  "model_raw": 0.5276,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Isolinear Processor",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}",
+  "type_line": "Artifact",
+  "predicted_gih_win_rate": 0.5276,
+  "model_raw": 0.5326,
+  "adjustment_note": "TXT: restricted mana rock with a slow loot activation"
+ },
+ {
+  "card_name": "Exploratory Mission",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}{R}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5273,
+  "model_raw": 0.5273,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "General Chang, Cold Warrior",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{B}",
+  "type_line": "Legendary Creature \u2014 Klingon Warrior Officer",
+  "predicted_gih_win_rate": 0.5268,
+  "model_raw": 0.5368,
+  "adjustment_note": "TXT: Klingon-count payoff is narrow; 1/2 for {B} with a sac outlet only"
+ },
+ {
+  "card_name": "The Needs of the Many",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{1}{W}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5266,
+  "model_raw": 0.5366,
+  "adjustment_note": "TXT: requires sacrificing a creature for a one-turn protection effect"
+ },
+ {
+  "card_name": "Tricorder",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}",
+  "type_line": "Artifact \u2014 Equipment",
+  "predicted_gih_win_rate": 0.5258,
+  "model_raw": 0.5258,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "The Holodeck",
+  "set": "TRK",
+  "rarity": "rare",
+  "mana_cost": "{7}",
+  "type_line": "Legendary Artifact",
+  "predicted_gih_win_rate": 0.5257,
+  "model_raw": 0.5257,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Tal Shiar Analyst",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{R}",
+  "type_line": "Creature \u2014 Romulan Scientist",
+  "predicted_gih_win_rate": 0.5254,
+  "model_raw": 0.5254,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "La'An Noonien-Singh, Security",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{R}{R}",
+  "type_line": "Legendary Creature \u2014 Human Soldier",
+  "predicted_gih_win_rate": 0.5204,
+  "model_raw": 0.5204,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Combadge",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{3}",
+  "type_line": "Artifact \u2014 Communicator Equipment",
+  "predicted_gih_win_rate": 0.5203,
+  "model_raw": 0.5203,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Dathon and Picard at El-Adrel",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{2}{G}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5201,
+  "model_raw": 0.5201,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Tell Me What You See",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{1}{B}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.5192,
+  "model_raw": 0.5192,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Perils of the Past",
+  "set": "TRK",
+  "rarity": "common",
+  "mana_cost": "{1}{R}",
+  "type_line": "Instant",
+  "predicted_gih_win_rate": 0.5182,
+  "model_raw": 0.5182,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Anthropological Mission",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{U}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.518,
+  "model_raw": 0.518,
+  "adjustment_note": ""
+ },
+ {
+  "card_name": "Vengeance Mission",
+  "set": "TRK",
+  "rarity": "uncommon",
+  "mana_cost": "{2}{B}",
+  "type_line": "Enchantment",
+  "predicted_gih_win_rate": 0.517,
+  "model_raw": 0.517,
+  "adjustment_note": ""
+ }
+]

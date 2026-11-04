@@ -1,0 +1,342 @@
+card_name,set,rarity,mana_cost,type_line,predicted_gih_win_rate
+"U.S.S. Enterprise-A, Free Spirit",TRK,mythic,{3}{W}{W},Legendary Artifact — Spacecraft,0.6221
+"Wesley Crusher, Starfleet Cadet",TRK,rare,{2}{U}{U},Legendary Creature — Human Officer,0.6197
+Excalbian Gamemaster,TRK,mythic,{5}{W},Creature — Excalbian,0.6163
+Kobayashi Maru Scenario,TRK,mythic,{1}{U}{U},Enchantment,0.6144
+"Khan, Vengeful Heart",TRK,mythic,{2}{B}{B},Legendary Creature — Human Warrior,0.6138
+The Inner Light,TRK,rare,{3}{G}{W},Enchantment — Saga,0.6077
+The City on the Edge of Forever,TRK,rare,{3}{W}{B},Enchantment — Saga,0.6073
+Ertai Resurrected,SDS,mythic,{2}{U}{B},Legendary Creature — Phyrexian Human Wizard,0.6062
+Decree of Pain,SDS,mythic,{6}{B}{B},Sorcery,0.6057
+Captain Jean-Luc Picard,TRK,mythic,{2}{W},Legendary Creature — Human Officer,0.6034
+"Kenrith, the Returned King",SDS,mythic,{4}{W},Legendary Creature — Human Noble,0.6023
+Holo-Engineer,TRK,rare,{2}{G}{G},Creature — Human Artificer,0.5995
+Borg Cube,TRK,mythic,{5}{W}{B},Artifact — Spacecraft,0.5977
+"Sheoldred, the Apocalypse",SDS,mythic,{2}{B}{B},Legendary Creature — Phyrexian Praetor,0.5975
+The Destruction of Praxis,TRK,rare,{3}{B}{B},Sorcery,0.5969
+"Rok-Tahk, Budding Scientist",TRK,mythic,{4}{G}{G},Legendary Creature — Brikar Scientist,0.5959
+"Q, Stacking the Deck",TRK,mythic,{2}{R}{R},Legendary Creature — Q,0.5951
+"Drivnod, Carnage Dominus",SDS,mythic,{3}{B}{B},Legendary Creature — Phyrexian Horror,0.595
+Captain Jonathan Archer,TRK,rare,{2}{G},Legendary Creature — Human Officer,0.593
+In the Pale Moonlight,TRK,uncommon,{3}{B}{B},Enchantment — Saga,0.5922
+"Miles O'Brien, Transporter Ops",TRK,rare,{2}{W},Legendary Creature — Human Artificer,0.5914
+Captain Benjamin Sisko,TRK,rare,{1}{W},Legendary Creature — Human Officer,0.5912
+MACO Strike Team,TRK,rare,{G},Creature — Human Soldier,0.591
+"Jhoira, Weatherlight Captain",SDS,mythic,{2}{U}{R},Legendary Creature — Human Artificer,0.5905
+D-7 Battle Cruiser,TRK,rare,{1}{R},Artifact — Spacecraft,0.589
+"Captain Pike, Fullness of Time",TRK,rare,{1}{G}{G},Legendary Creature — Human Officer Scout,0.589
+Cloak and Phaser,TRK,uncommon,{8}{U},Sorcery,0.5888
+Antagonist Incorporator,TRK,rare,{1}{W},Artifact Creature — Borg,0.5887
+"Bristly Bill, Spine Sower",SDS,mythic,{1}{G},Legendary Creature — Plant Druid,0.5885
+"Georgiou, Terran Emperor",TRK,mythic,{4}{B}{B},Legendary Creature — Human Rogue Noble,0.5884
+"Rishkar, Peema Renegade",SDS,mythic,{2}{G},Legendary Creature — Elf Druid,0.5884
+"Mikaeus, the Lunarch",SDS,mythic,{X}{W},Legendary Creature — Human Cleric,0.5875
+"Elim Garak, Simple Tailor",TRK,rare,{2}{B},Legendary Creature — Cardassian Rogue,0.5867
+"Scotty, Miracle Worker",TRK,mythic,{1}{U}{U},Legendary Creature — Human Artificer,0.5866
+Captain Kathryn Janeway,TRK,mythic,{3}{G},Legendary Creature — Human Officer,0.5866
+"U.S.S. Reliant, From Hell's Heart",TRK,rare,{2}{B}{B},Legendary Artifact — Spacecraft,0.5865
+"H.M.S. Bounty, Unlikely Timeship",TRK,rare,{4}{U},Legendary Artifact — Spacecraft,0.5861
+"Mr. Spock, Science Officer",TRK,mythic,{2}{U}{U},Legendary Creature — Vulcan Human Scientist,0.5858
+"Sarek, Federation Ambassador",TRK,rare,{1}{G}{W}{U},Legendary Creature — Vulcan Advisor,0.5856
+Captain James T. Kirk,TRK,mythic,{2}{R},Legendary Creature — Human Officer,0.5855
+The Wrath of Khan,TRK,rare,{2}{R},Enchantment — Saga,0.5855
+"Tatyova, Benthic Druid",SDS,mythic,{3}{G}{U},Legendary Creature — Merfolk Druid,0.585
+The Traveler,TRK,uncommon,{G}{U},Legendary Creature — Scout,0.5849
+"Worf, Intelligence Contractor",TRK,rare,{2}{R},Legendary Creature — Klingon Warrior Spy,0.5846
+Deep Space Scan,TRK,rare,{4}{U}{U},Sorcery,0.5831
+"Seven of Nine, Unassimilated",TRK,mythic,{1}{U},Legendary Artifact Creature — Human Officer,0.5829
+Blastoneuron,TRK,uncommon,{3}{B},Creature — Jellyfish Leech,0.5826
+"Prosper, Tome-Bound",SDS,mythic,{2}{B}{R},Legendary Creature — Tiefling Warlock,0.5821
+Troubling Tribbles,TRK,rare,{2}{W},Creature — Tribble,0.5819
+Riku of Many Paths,SDS,mythic,{G}{U}{R},Legendary Creature — Human Wizard,0.5817
+Salt Vampire,TRK,rare,{1}{B},Creature — Vampire Shapeshifter,0.5816
+"70,000 Light-Years from Home",TRK,uncommon,{1}{W},Sorcery,0.5814
+Romulan Bird-of-Prey,TRK,rare,{1}{U},Artifact — Spacecraft,0.5806
+Mirror Universe Intrusion,TRK,rare,{1}{U}{B},Sorcery,0.5802
+"Saavik, Stoic Student",TRK,uncommon,{4}{W},Legendary Creature — Vulcan Advisor,0.5796
+"Armus, Skin of Evil",TRK,rare,{5}{B}{B},Legendary Creature — Ooze Horror,0.5796
+Crystalline Entity,TRK,mythic,{8},Artifact Creature — Elemental,0.5792
+"Kira Nerys, Firebrand",TRK,rare,{1}{R}{W},Legendary Creature — Bajoran Soldier,0.5783
+Federation Outpost,TRK,rare,,Land,0.578
+"Gul Dukat, Colonial Prefect",TRK,mythic,{4}{B}{B}{B},Legendary Creature — Cardassian Rogue,0.5775
+"Deanna Troi, Psychic Counsel",TRK,rare,{1}{W},Legendary Creature — Betazoid Human Advisor,0.5773
+Assembly Specialist,TRK,uncommon,{1}{W},Artifact Creature — Borg,0.5772
+All Good Things...,TRK,rare,{3}{G}{U},Enchantment — Saga,0.5771
+"Cleveland Booker, Empath",TRK,uncommon,{2}{R/G}{R/G},Legendary Creature — Kwejian Rogue,0.5771
+Ni'Var Science Academy,TRK,rare,,Land,0.5759
+Arcum Dagsson,SDS,mythic,{3}{U},Legendary Creature — Human Artificer,0.5758
+"Spock, Always Your Friend",TRK,uncommon,{U}{R},Legendary Creature — Vulcan Human Scientist,0.5756
+Lieutenant Commander Data,TRK,mythic,{2}{U},Legendary Artifact Creature — Android Scientist,0.5755
+Species 8472,TRK,uncommon,{4}{G}{G},Creature — Insect Beast,0.5752
+Talon Gates of Madara,SDS,mythic,,Land — Gate,0.575
+The Caretaker,TRK,rare,{5}{U},Legendary Creature — Elemental,0.5735
+"U.S.S. Discovery, at Black Alert",TRK,rare,{3}{G}{G},Legendary Artifact — Spacecraft,0.573
+Captain Sisay,SDS,mythic,{2}{G}{W},Legendary Creature — Human Soldier,0.5726
+"Hemmer, Fixing What Is Broken",TRK,uncommon,{W}{U},Legendary Creature — Aenar Artificer,0.5721
+Quark's Bar,TRK,rare,,Land,0.5717
+"Rutherford, Upgraded Ensign",TRK,uncommon,{2}{W},Legendary Creature — Human Artificer,0.5716
+The Unicomplex,TRK,rare,,Land,0.5711
+Federation Resupply,TRK,rare,{1}{W},Sorcery,0.571
+"Jett Reno, Problem Solver",TRK,uncommon,{1}{U},Legendary Creature — Human Artificer,0.571
+Subcommander T'Pol,TRK,rare,{2}{U},Legendary Creature — Vulcan Scientist,0.5709
+"Jadzia Dax, Living Legacy",TRK,mythic,{1}{G},Legendary Creature — Trill Scientist,0.5708
+"Loot, Exuberant Explorer",SDS,mythic,{2}{G},Legendary Creature — Beast Noble,0.5707
+Malfunctioning Holodeck,TRK,common,{2}{W},Artifact,0.5704
+Andoria,TRK,common,,Land — Planet,0.57
+Bajor,TRK,common,,Land — Planet,0.57
+Cardassia Prime,TRK,common,,Land — Planet,0.57
+"Earth, Sector 001",TRK,common,,Land — Planet,0.57
+Ferenginar,TRK,common,,Land — Planet,0.57
+Orion,TRK,common,,Land — Planet,0.57
+Qo'noS,TRK,common,,Land — Planet,0.57
+Risa,TRK,common,,Land — Planet,0.57
+Romulus,TRK,common,,Land — Planet,0.57
+Vulcan,TRK,common,,Land — Planet,0.57
+Ghost of Illyria,TRK,uncommon,{3}{W},Creature — Elemental Spirit,0.5699
+Transporter Malfunction,TRK,uncommon,{1}{R},Sorcery,0.5699
+Command Subadjunct,TRK,uncommon,{W},Artifact Creature — Borg,0.5696
+"U.S.S. Excelsior, Cutting Edge",TRK,uncommon,{3}{W},Legendary Artifact — Spacecraft,0.5695
+Munitions Enthusiast,TRK,uncommon,{1}{R},Creature — Klingon Warrior,0.5695
+Bat'leth,TRK,uncommon,{2}{B},Artifact — Equipment,0.5694
+Planetary Bombardment,TRK,common,{R},Sorcery,0.5694
+Q Continuum,TRK,rare,,Land,0.5692
+Dr. Beverly Crusher,TRK,mythic,{2}{W},Legendary Creature — Human Doctor,0.5689
+Suurok-Class Science Vessel,TRK,common,{2}{U},Artifact — Spacecraft,0.5689
+Deep Space 9,TRK,mythic,{9},Legendary Artifact — Spacecraft,0.5688
+There's Coffee in that Nebula,TRK,uncommon,{1}{W},Sorcery,0.5685
+"Stella Lee, Wild Card",SDS,mythic,{1}{U}{R},Legendary Creature — Human Rogue,0.5677
+"Sulu, Space Swashbuckler",TRK,rare,{1}{W},Legendary Creature — Human Pilot,0.5676
+Vexing Drone,TRK,common,{1}{W},Artifact Creature — Borg,0.5676
+Encounter the Unknown,TRK,rare,{1}{R}{R},Instant,0.5675
+Andromedan Automatons,TRK,common,{2}{W},Artifact Creature — Android,0.5673
+The Duras Sisters,TRK,uncommon,{B/R}{B/R},Legendary Creature — Klingon Warrior,0.5673
+Energize,TRK,uncommon,{1}{U},Sorcery,0.5672
+"Jake Sisko, War Correspondent",TRK,uncommon,{1}{G},Legendary Creature — Human Citizen,0.5671
+"Daniels, Temporal Agent",TRK,uncommon,{2}{B/G}{B/G},Legendary Creature — Human Advisor,0.5671
+Constable Odo,TRK,uncommon,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,0.5669
+"Neelix, Moral Support",TRK,uncommon,{1}{G},Legendary Creature — Talaxian Advisor,0.5666
+"Dr. Leonard ""Bones"" McCoy",TRK,rare,{1}{G}{G},Legendary Creature — Human Doctor,0.5664
+"He's Dead, Jim",TRK,common,{3}{B},Instant,0.5659
+"Dr. McCoy, Surly Surgeon",TRK,uncommon,{2}{W}{W},Legendary Creature — Human Doctor,0.5658
+Free Borg Revolutionaries,TRK,common,{3}{W}{W},Artifact Creature — Borg Rebel,0.5657
+Cloistered Telepath,TRK,common,{1}{U},Creature — Talosian Advisor,0.5657
+D'Ghor Bloodletter,TRK,uncommon,{2}{B},Creature — Klingon Assassin,0.5656
+Cha'DIch Investigator,TRK,common,{4}{B},Creature — Klingon Warrior,0.5655
+"Tasha Yar, Out of Time",TRK,rare,{1}{R},Legendary Creature — Human Officer,0.5655
+Boarding Action,TRK,common,{1}{R},Sorcery,0.5654
+Overflow Submatrix,TRK,rare,{2}{B},Artifact Creature — Borg,0.5653
+"Sela, Tal Shiar Paradox",TRK,rare,{3}{B},Legendary Creature — Romulan Human Rogue,0.5652
+Infinite Diversity,TRK,mythic,{7}{R}{R},Sorcery,0.565
+Branching Timeline,TRK,rare,{6}{G}{G},Sorcery,0.5649
+Final Frontier,TRK,common,{2}{G},Sorcery,0.5647
+"Locutus, the One Who Speaks",TRK,uncommon,{W}{B},Legendary Artifact Creature — Borg,0.5647
+Death Is Irrelevant,TRK,mythic,{6}{B}{B},Enchantment,0.5644
+Cold-Blooded Crew,TRK,common,{4}{G}{G},Creature — Gorn Warrior,0.5644
+Adversary by Algorithm,TRK,uncommon,{2}{G},Sorcery,0.5643
+Dr. Joseph M'Benga,TRK,mythic,{2}{G}{G},Legendary Creature — Human Doctor,0.5643
+Hull Breach,SDS,mythic,{R}{G},Sorcery,0.5638
+Warp Speed,TRK,uncommon,{2}{G},Enchantment,0.5637
+Oberth-Class Starship,TRK,common,{1}{W},Artifact — Spacecraft,0.5634
+Commander Raffi Musiker,TRK,uncommon,{2}{B},Legendary Creature — Human Officer,0.5634
+Emergency Medical Hologram,TRK,common,{W},Artifact Creature — Illusion Doctor,0.5633
+The Measure of a Man,TRK,uncommon,{2}{W},Enchantment — Saga,0.5633
+Test of Priorities,TRK,uncommon,{1}{U},Instant,0.5633
+Artificial Anomaly,TRK,uncommon,,Land,0.5633
+"Gwyndala, the Progeny",TRK,rare,{1}{U},Legendary Creature — Vau-N'Akat Advisor,0.5632
+Resistance Is Futile,TRK,uncommon,{1}{B},Sorcery,0.5631
+"Sylvia Tilly, Joy of Discovery",TRK,uncommon,{2}{G},Legendary Creature — Human Scientist Artificer,0.5629
+Ensign Pavel Chekov,TRK,uncommon,{3}{U},Legendary Creature — Human Pilot,0.5627
+Spatial Anomaly,TRK,uncommon,,Land,0.5626
+"Zero, Incorporeal Sensate",TRK,uncommon,{1}{W/B}{W/B},Legendary Artifact Creature — Medusan Scientist,0.5625
+Set Phasers to . . .,TRK,common,{W},Instant,0.5624
+"Khan, Despot by Design",TRK,uncommon,{4}{R},Legendary Creature — Human Rogue,0.5624
+Plasma Cascade,TRK,common,{2}{R},Instant,0.5623
+Fugitive Listener,TRK,common,{2}{B},Creature — El-Aurian Scout,0.5622
+"Nog, Ambitious Cadet",TRK,rare,{B}{G},Legendary Creature — Ferengi Rogue,0.5622
+Seven of Nine,TRK,uncommon,{2}{U}{B},Legendary Artifact Creature — Human Scientist,0.5622
+Eject the Warp Core,TRK,common,{1}{B},Instant,0.5618
+"Saru, Unthreatened",TRK,uncommon,{2}{G},Legendary Creature — Kelpien Officer,0.5617
+Collective Drone,TRK,uncommon,{1}{B},Artifact Creature — Borg,0.5612
+Unexplored Territory,TRK,common,,Land,0.5609
+Highly Illogical,TRK,uncommon,{1}{U},Instant,0.5608
+Subspace Anomaly,TRK,uncommon,,Land,0.5608
+Those Old Scientists,TRK,uncommon,{2}{U},Enchantment — Saga,0.5607
+Dominion Infiltration,TRK,rare,{X}{R}{R}{R},Sorcery,0.5607
+"L'Rell, Fierce Visionary",TRK,uncommon,{1}{B}{R},Legendary Creature — Klingon Warrior,0.5606
+"Will Riker, First in the Field",TRK,rare,{3}{R},Legendary Creature — Human Officer,0.5604
+Hologram Stalker,TRK,uncommon,{4}{G}{G},Creature — Hirogen Warrior,0.56
+Khaaaaaaaaaaaannn!,TRK,uncommon,{X}{R},Instant,0.5599
+Astute Terraformer,TRK,common,{1}{G},Creature — Vulcan Scientist,0.5599
+"Picard, Leading by Example",TRK,uncommon,{1}{W},Legendary Creature — Human Officer,0.5598
+Primary Unimatrix Adjunct,TRK,rare,{3}{W},Artifact Creature — Borg,0.5593
+Rogue Artificial Intelligence,TRK,common,{4}{B}{B},Artifact Creature — Construct,0.5593
+Storied Veteran,TRK,uncommon,{B},Creature — Klingon Advisor,0.5591
+Amok Time,TRK,uncommon,{2}{G},Enchantment — Saga,0.5591
+Plains,TRK-basic,common,,Basic Land — Plains,0.5591
+"Brad Boimler, Eager Ensign",TRK,uncommon,{1}{W},Legendary Creature — Human Officer,0.5589
+"Torbran, Thane of Red Fell",SDS,mythic,{1}{R}{R}{R},Legendary Creature — Dwarf Noble,0.5587
+Open Communications,TRK,common,{U},Sorcery,0.5584
+Suus Mahna Practitioner,TRK,common,{2}{U},Creature — Vulcan Officer,0.5583
+Command Decision,TRK,common,{1}{W},Sorcery,0.5581
+Interstellar Effigy,TRK,common,{4}{U},Artifact Creature — Construct,0.558
+Breeding Pool,TRK,rare,,Land — Forest Island,0.558
+"Vash, Freelance Archaeologist",TRK,uncommon,{1}{B}{G},Legendary Creature — Human Rogue Scientist,0.5579
+Test of Conviction,TRK,uncommon,{1}{W},Sorcery,0.5578
+Pah-Wraith,TRK,rare,{5}{R}{R},Creature — Wraith,0.5576
+Syndicate Liquidators,TRK,uncommon,{4}{G},Creature — Orion Pirate,0.5575
+Engineered Explosives,TRK,rare,{X},Artifact,0.5575
+Pattern Buffer Preservation,TRK,common,{1}{B},Sorcery,0.5572
+Enterprise NX-01,TRK,uncommon,{3}{U},Legendary Artifact — Spacecraft,0.5571
+Make It So,TRK,common,{3}{U},Sorcery,0.557
+"Shizo, Death's Storehouse",SDS,mythic,,Legendary Land,0.5568
+"V'Ger, the Intruder",TRK,uncommon,{6}{U},Legendary Artifact Creature — Construct,0.5565
+Stable Wormhole,TRK,rare,{2}{G},Enchantment,0.5559
+"Minamo, School at Water's Edge",SDS,mythic,,Legendary Land,0.5559
+"U.S.S. Voyager, Lone Wanderer",TRK,uncommon,{3}{G},Legendary Artifact — Spacecraft,0.5558
+Shields Up!,TRK,common,{1}{W},Instant,0.5557
+First Contact,TRK,common,{1}{G},Instant,0.5557
+Genesis Effect,TRK,common,{4}{R},Instant,0.5556
+Gaseous Anomaly,TRK,uncommon,,Land,0.5556
+Island,TRK-basic,common,,Basic Land — Island,0.5555
+Lt. Cmdr. Geordi La Forge,TRK,rare,{2}{U},Legendary Creature — Human Artificer,0.5553
+Live Long and Prosper,TRK,rare,{5}{W}{U},Sorcery,0.5553
+Stomping Ground,TRK,rare,,Land — Mountain Forest,0.5553
+Forest,TRK-basic,common,,Basic Land — Forest,0.5553
+"David and Carol Marcus, Creators",TRK,uncommon,{2}{G},Legendary Creature — Human Scientist,0.5551
+Marooned,TRK,common,{U},Enchantment — Aura,0.555
+Swamp,TRK-basic,common,,Basic Land — Swamp,0.555
+Sen Triplets,SDS,mythic,{2}{W}{U}{B},Legendary Artifact Creature — Human Wizard,0.555
+Empress Galina,SDS,mythic,{3}{U}{U},Legendary Creature — Merfolk Noble,0.5548
+"Thada Adel, Acquisitor",SDS,mythic,{1}{U}{U},Legendary Creature — Merfolk Rogue,0.5548
+Sickbay,TRK,uncommon,{5},Artifact,0.5547
+Mountain,TRK-basic,common,,Basic Land — Mountain,0.5547
+"Kai Winn, Faithless Leader",TRK,rare,{1}{B},Legendary Creature — Bajoran Cleric,0.5544
+Guidance Failure,TRK,common,{3}{U},Instant,0.5542
+Temporal Conqueror,TRK,common,{2}{G},Creature — Na'kuhl Warrior,0.5539
+Hit It!,TRK,rare,{1}{R}{G},Enchantment,0.5539
+Collation Trimatrix,TRK,rare,{B},Artifact Creature — Borg,0.5538
+Xenobotanist,TRK,common,{1}{G},Creature — Vulcan Scientist,0.5538
+"U.S.S. Enterprise-D, Galaxy-Class",TRK,rare,{3},Legendary Artifact — Spacecraft,0.5538
+Rules of Acquisition,TRK,uncommon,{3}{U}{U},Sorcery,0.5536
+"U.S.S. Cerritos, Following Up",TRK,uncommon,{5},Legendary Artifact — Spacecraft,0.5536
+Moopsy,TRK,common,{G},Creature — Beast,0.5534
+Temporal Anomaly,TRK,uncommon,,Land,0.5534
+"Hoshi Sato, Exolinguist",TRK,uncommon,{4}{U},Legendary Creature — Human Scientist,0.5533
+Saurian Explorer,TRK,common,{3}{G},Creature — Dinosaur Scout,0.5528
+"The Doctor, EMH",TRK,uncommon,{3}{G/W}{G/W},Legendary Artifact Creature — Illusion Doctor,0.5525
+Overgrown Tomb,TRK,rare,,Land — Swamp Forest,0.5524
+De-evolve,TRK,uncommon,{1}{B},Enchantment — Aura,0.5523
+Replicator,TRK,rare,{2},Artifact,0.5523
+Starfleet Academy,TRK,mythic,,Legendary Land,0.5523
+Watery Grave,TRK,rare,,Land — Island Swamp,0.552
+Pure Energy,TRK,common,{1}{W},Sorcery,0.5519
+Federation Field Medic,TRK,common,{3}{W},Creature — Human Doctor,0.5518
+"Mogis, God of Slaughter",SDS,mythic,{2}{B}{R},Legendary Enchantment Creature — God,0.5518
+Warp Core,TRK,common,{2},Artifact,0.5515
+Mugato,TRK,uncommon,{3}{G}{G},Creature — Ape Beast,0.5512
+"Tea, Earl Grey, Hot",TRK,common,{2},Artifact — Food,0.551
+Dominion Saboteur,TRK,uncommon,{4}{U},Creature — Shapeshifter,0.5509
+Tactical Officer,TRK,common,{1}{W},Creature — Human Officer,0.5508
+Cybernetic Specialist,TRK,common,{2},Artifact Creature — Human Scientist,0.5508
+Godless Shrine,TRK,rare,,Land — Plains Swamp,0.5507
+"Lore, Positronic Provocateur",TRK,uncommon,{1}{U/B}{U/B},Legendary Artifact Creature — Android Rogue,0.5503
+Captain Michael Burnham,TRK,uncommon,{2}{R},Legendary Creature — Human Officer,0.55
+Dominion Supervisor,TRK,common,{2}{G},Creature — Vorta Doctor,0.55
+Conquest Mission,TRK,uncommon,{2}{W},Enchantment,0.5498
+Obsidian Order Operative,TRK,common,{3}{B},Creature — Cardassian Officer Spy,0.5498
+Impossible Choice,TRK,uncommon,{2}{B},Instant,0.5497
+Type-2 Phaser,TRK,uncommon,{2},Artifact — Equipment,0.5494
+Academy Instructor,TRK,uncommon,{2}{R},Creature — Bolian Officer,0.5493
+Relentless Drednok,TRK,common,{B},Artifact Creature — Robot,0.5492
+"Kirk, Commanding Officer",TRK,uncommon,{1}{R}{W},Legendary Creature — Human Officer,0.5491
+Melkotian Adjudicator,TRK,common,{2}{U},Creature — Melkotian Advisor,0.549
+"Data, New Life",TRK,uncommon,{1}{U},Legendary Artifact Creature — Android Scientist,0.5488
+"Sarcophagus, Ship of the Dead",TRK,uncommon,{2}{R},Legendary Artifact — Spacecraft,0.5484
+Support Mission,TRK,uncommon,{2}{G},Enchantment,0.5484
+Pet Sehlat,TRK,common,{2}{W},Creature — Bear,0.5482
+"Isshin, Two Heavens as One",SDS,mythic,{R}{W}{B},Legendary Creature — Human Samurai,0.5482
+Tenacious Drone,TRK,common,{1}{B},Artifact Creature — Borg,0.5481
+Steam Vents,TRK,rare,,Land — Island Mountain,0.5481
+Starfleet Security,TRK,common,{R},Creature — Human Officer,0.5479
+Vulcan Mind-Meld,TRK,uncommon,{U},Sorcery,0.5477
+"Phlox, Unorthodox Doctor",TRK,uncommon,{2}{G}{W},Legendary Creature — Denobulan Doctor,0.5476
+Humpback Whales,TRK,common,{4}{U}{U},Creature — Whale,0.5475
+Consider the Prime Directive,TRK,common,{2}{U},Instant,0.5474
+Starfleet Spanner Jockey,TRK,common,{1}{U},Creature — Human Artificer,0.5474
+Reckless Impulse,TRK,common,{1}{R},Sorcery,0.5472
+Common Goal,TRK,common,{1}{G},Sorcery,0.5472
+"Worf, Honor-Bound Warrior",TRK,uncommon,{R/W}{R/W},Legendary Creature — Klingon Warrior Officer,0.5469
+"Sisay, Weatherlight Captain",SDS,mythic,{2}{W},Legendary Creature — Human Soldier,0.5467
+"Zefram Cochrane, Warp Pioneer",TRK,uncommon,{2}{U},Legendary Creature — Human Pilot,0.5465
+Dahar Master,TRK,common,{3}{R},Creature — Klingon Warrior,0.5464
+Hallowed Fountain,TRK,rare,,Land — Plains Island,0.5464
+"Gowron, Eager for Battle",TRK,rare,{2}{B}{R},Legendary Creature — Klingon Warrior,0.5462
+Federation Probe,TRK,common,{U},Artifact Creature — Construct,0.546
+"Dal R'El, Augment Orphan",TRK,uncommon,{1}{R}{G},Legendary Creature — Human Mutant Rogue,0.546
+Hive Mind Coprocessor,TRK,uncommon,{4}{B},Artifact Creature — Borg,0.5457
+Tal Shiar Operative,TRK,common,{1}{B},Creature — Romulan Officer Spy,0.5457
+Blood Crypt,TRK,rare,,Land — Swamp Mountain,0.5451
+The Naked Time,TRK,uncommon,{1}{R},Enchantment — Saga,0.545
+"D'Vana Tendi, Optimistic Ensign",TRK,uncommon,{1}{G/U}{G/U},Legendary Creature — Orion Scientist,0.5449
+"Gray and Adira, Forever Joined",TRK,uncommon,{2}{U/R}{U/R},Legendary Creature — Trill Human Officer,0.5449
+"I'm a Doctor, Not a . . .",TRK,common,{G},Instant,0.5448
+Flare of Fortitude,SDS,mythic,{2}{W}{W},Instant,0.5444
+Temple Garden,TRK,rare,,Land — Forest Plains,0.5442
+Savvy Profiteer,TRK,common,{1}{R},Creature — Ferengi Rogue,0.5437
+Genesis Device,TRK,rare,{2}{G},Legendary Artifact,0.5436
+Test of Loyalty,TRK,uncommon,{B},Sorcery,0.5434
+"Erica Ortegas, Plucky Pilot",TRK,uncommon,{3}{R},Legendary Creature — Human Pilot,0.5433
+Shuttle Ace,TRK,common,{4}{W},Creature — Kelpien Pilot,0.5429
+Test of Identity,TRK,uncommon,{1}{R},Instant,0.5425
+Photosynthetic Physician,TRK,common,{4}{G},Creature — Plant Doctor,0.5423
+Sacred Foundry,TRK,rare,,Land — Mountain Plains,0.5423
+"Beckett Mariner, Impetuous Ensign",TRK,uncommon,{1}{R},Legendary Creature — Human Officer,0.542
+"Gabriel Lorca, Mirror Menace",TRK,uncommon,{4}{B},Legendary Creature — Human Rogue Officer,0.5414
+Xindi Surveyors,TRK,common,{2}{G},Creature — Xindi Scientist,0.5412
+"Dathon, His Heart Open",TRK,rare,{G}{U}{R},Legendary Creature — Tamarian Officer,0.5412
+Planetary Patrol,TRK,common,{1}{R},Creature — Scout,0.5411
+Dominion Assault Force,TRK,common,{3}{G},Creature — Jem'Hadar Warrior,0.541
+Hologram Janeway,TRK,uncommon,{2}{W},Legendary Artifact Creature — Illusion Officer,0.5409
+Test of Courage,TRK,uncommon,{G},Instant,0.5408
+"Nyota Uhura, Communications",TRK,rare,{2}{U},Legendary Creature — Human Officer,0.5406
+Battle-Scarred Survivalist,TRK,common,{1}{B},Creature — Klingon Scout,0.5398
+Silicate Surveyor,TRK,common,{4}{R},Creature — Tholian Scout,0.5388
+Grand Nagus Zek,TRK,rare,{2}{B},Legendary Creature — Ferengi Noble,0.5386
+Bruvac the Grandiloquent,SDS,mythic,{2}{U},Legendary Creature — Human Advisor,0.5381
+Emergency Holographic Crew,TRK,common,{3}{U},Artifact Creature — Illusion Officer,0.5379
+Cetacean Ops,TRK,common,{3}{U},Creature — Whale Officer,0.5377
+DOT-7 Repair Squad,TRK,common,{3}{W},Artifact Creature — Robot,0.5372
+"Lwaxana Troi, Charming Guest",TRK,rare,{1}{R},Legendary Creature — Betazoid Advisor,0.5363
+"Una Chin-Riley, Number One",TRK,uncommon,{4}{W},Legendary Creature — Illyrian Officer,0.5361
+Phyrexian Tower,SDS,mythic,,Legendary Land,0.5358
+Class-F Shuttlecraft,TRK,common,{3},Artifact — Spacecraft,0.5356
+Ravenous Cosmozoan,TRK,uncommon,{5}{R},Creature — Fish,0.5355
+Horta,TRK,common,{4}{R}{R},Creature — Elemental,0.5351
+Brazen Bluff,TRK,rare,{R}{R},Instant,0.534
+Assault Drone,TRK,common,{3}{B},Artifact Creature — Borg,0.5329
+Stray from History,TRK,common,{2}{B},Sorcery,0.5329
+"Culber and Stamets, Star-Crossed",TRK,uncommon,{3}{G},Legendary Creature — Human Doctor Artificer,0.5329
+Red Alert!,TRK,uncommon,{2}{R},Instant,0.5328
+Captain's Tutelage,TRK,common,{1}{R},Enchantment — Aura,0.5326
+Targ Wrangler,TRK,uncommon,{2}{R},Creature — Klingon Warrior,0.5318
+"Quark, Humble Proprietor",TRK,mythic,{2}{R},Legendary Creature — Ferengi Rogue,0.5316
+Organic Avulsion Unit,TRK,uncommon,{2}{B},Artifact Creature — Borg,0.5302
+Cantankerous Captain,TRK,common,{2}{R},Creature — Tellarite Officer,0.5299
+A Good Day to Die,TRK,common,{B},Instant,0.5294
+Year of Hell,TRK,rare,{1}{U}{R},Enchantment — Saga,0.5287
+Peace in Our Time,TRK,rare,{3}{W},Enchantment,0.5281
+Automated Warfare System,TRK,common,{2}{B},Artifact Creature — Construct,0.5276
+Isolinear Processor,TRK,uncommon,{2},Artifact,0.5276
+Exploratory Mission,TRK,uncommon,{2}{R}{R},Enchantment,0.5273
+"General Chang, Cold Warrior",TRK,rare,{B},Legendary Creature — Klingon Warrior Officer,0.5268
+The Needs of the Many,TRK,rare,{1}{W},Instant,0.5266
+Tricorder,TRK,common,{1},Artifact — Equipment,0.5258
+The Holodeck,TRK,rare,{7},Legendary Artifact,0.5257
+Tal Shiar Analyst,TRK,common,{2}{R},Creature — Romulan Scientist,0.5254
+"La'An Noonien-Singh, Security",TRK,uncommon,{2}{R}{R},Legendary Creature — Human Soldier,0.5204
+Combadge,TRK,uncommon,{3},Artifact — Communicator Equipment,0.5203
+Dathon and Picard at El-Adrel,TRK,common,{2}{G},Instant,0.5201
+Tell Me What You See,TRK,uncommon,{1}{B},Enchantment,0.5192
+Perils of the Past,TRK,common,{1}{R},Instant,0.5182
+Anthropological Mission,TRK,uncommon,{2}{U},Enchantment,0.518
+Vengeance Mission,TRK,uncommon,{2}{B},Enchantment,0.517
