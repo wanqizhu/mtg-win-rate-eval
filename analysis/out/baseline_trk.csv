@@ -1,0 +1,732 @@
+name,collector_number,rarity,mana_cost,cmc,colors,color_identity,type_line,power,toughness,layout,keywords,oracle,bonus,sheet,pred_gbm,pred_ridge,pred_ens
+"70,000 Light-Years from Home",1,uncommon,{1}{W},2.0,W,W,Sorcery,,,normal,,"Exile target creature or Spacecraft. Its controller may search their library for a basic land card, reveal it, put it into their hand, then shuffle.",0.0,TRK,0.0017999205718282607,-0.0015451707587004486,0.00012737490656390606
+Andromedan Automatons,2,common,{2}{W},3.0,W,W,Artifact Creature — Android,3,1,normal,,"When this creature enters, you may search your library for any number of cards named Andromedan Automatons, reveal them, put them into your hand, then shuffle.",0.0,TRK,0.00493321577218075,0.006403584328107106,0.005668400050143928
+Antagonist Incorporator,3,rare,{1}{W},2.0,W,W,Artifact Creature — Borg,2,3,normal,,"Artifact creatures you control have ""Whenever this creature deals combat damage to a player, you may pay {1}. If you do, create a 1/1 colorless Borg artifact creature token.""",0.0,TRK,0.0350475785355138,0.03212675705348313,0.03358716779449847
+Assembly Specialist,4,uncommon,{1}{W},2.0,W,W,Artifact Creature — Borg,1,1,normal,,"When this creature enters, create a 1/1 colorless Borg artifact creature token.",0.0,TRK,0.020503389550596114,0.01837298815393444,0.019438188852265278
+"Brad Boimler, Eager Ensign",5,uncommon,{1}{W},2.0,W,W,Legendary Creature — Human Officer,2,2,normal,Lifelink,"Lifelink
+Whenever Brad Boimler becomes tapped, until end of turn, if one or more counters would be put on a permanent you control, that many plus one of each of those kinds of counters are put on that permanent instead.",0.0,TRK,0.013667694135887977,-0.027438278047099744,-0.0068852919556058835
+Captain Benjamin Sisko,6,rare,{1}{W},2.0,W,BGRUW,Legendary Creature — Human Officer,2,2,normal,,"At the beginning of your end step, create a 1/1 red Officer creature token for each dilemma you've faced this turn.
+{2}{W}{U}{B}{R}{G}, {T}: Exile the top five cards of your library. You may cast any number of spells with mana value less than or equal to the number of Officers you control from among those cards without paying their mana costs.",0.0,TRK,0.03657678237127082,0.04595216325011348,0.04126447281069215
+Captain Jean-Luc Picard,7,mythic,{2}{W},3.0,W,W,Legendary Creature — Human Officer,2,3,normal,,"Other creatures you control get +1/+1.
+Whenever you cast a creature or Spacecraft spell, create a 1/1 red Officer creature token.
+Tap seven untapped Officers you control: Search your library for a Spacecraft card, put it onto the battlefield with seven charge counters on it, then shuffle.",0.0,TRK,0.02918391879552893,0.07894855458699711,0.05406623669126302
+Command Decision,8,common,{1}{W},2.0,W,W,Sorcery,,,normal,,"Choose one —
+• Destroy target creature with power 4 or greater.
+• Draw a card.",0.0,TRK,0.0028273035825419927,0.005931715488819581,0.004379509535680786
+Command Subadjunct,9,uncommon,{W},1.0,W,W,Artifact Creature — Borg,2,1,normal,,Artifact creatures you control have vigilance.,0.0,TRK,0.017868702160856984,-0.02536083355650734,-0.0037460656978251777
+Conquest Mission,10,uncommon,{2}{W},3.0,W,W,Enchantment,,,normal,,"Whenever a nontoken artifact you control enters, put a quest counter on this enchantment. Create a 1/1 colorless Borg artifact creature token. If this enchantment has six or more quest counters on it, create two of those tokens instead.",0.0,TRK,0.0008915001588110502,-0.04344041448151597,-0.02127445716135246
+"Deanna Troi, Psychic Counsel",11,rare,{1}{W},2.0,W,W,Legendary Creature — Betazoid Human Advisor,2,2,normal,,Other creatures you control enter with an additional +1/+1 counter on them.,0.0,TRK,0.029313451902137366,-0.012856660320530122,0.008228395790803622
+DOT-7 Repair Squad,12,common,{3}{W},4.0,W,W,Artifact Creature — Robot,3,3,normal,Flying,"Flying
+{1}{W}: Untap target creature. Activate only as a sorcery and only once each turn.",0.0,TRK,-0.02077041238396869,-0.00909114177310022,-0.014930777078534454
+Dr. Beverly Crusher,13,mythic,{2}{W},3.0,W,W,Legendary Creature — Human Doctor,2,2,normal,,"If you gaining life causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+Whenever you gain life, put a +1/+1 counter on Dr. Crusher.",0.0,TRK,0.009914600341307324,-0.021190493923930916,-0.005637946791311796
+"Dr. McCoy, Surly Surgeon",14,uncommon,{2}{W}{W},4.0,W,W,Legendary Creature — Human Doctor,2,2,normal,Heal,"When Dr. McCoy enters, put a +1/+1 counter on another target creature you control.
+If another creature you control with a +1/+1 counter on it would be destroyed, instead remove all +1/+1 counters from it and all damage already dealt to it is healed.",0.0,TRK,0.01721962634312903,-0.03933461700612741,-0.011057495331499191
+Emergency Medical Hologram,15,common,{W},1.0,W,W,Artifact Creature — Illusion Doctor,0,1,normal,,"When this creature enters, put a +1/+1 counter on target creature. You gain 1 life.",0.0,TRK,0.009808192298425347,0.012865585980042376,0.011336889139233862
+Excalbian Gamemaster,16,mythic,{5}{W},6.0,W,W,Creature — Excalbian,6,6,normal,Strange new worlds,"Strange new worlds — When this creature enters, create X 1/1 red Officer creature tokens, where X is the number of differently named lands you control.
+Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control.",0.0,TRK,0.05018588062488311,0.07290441137282302,0.061545145998853065
+Federation Field Medic,17,common,{3}{W},4.0,W,W,Creature — Human Doctor,3,2,normal,Vigilance,"Vigilance
+When this creature enters, choose one —
+• Put a +1/+1 counter on target creature. It gains vigilance until end of turn.
+• Draw a card if you control a permanent with a counter on it.",0.0,TRK,0.003295140353704083,0.010694187080355433,0.006994663717029758
+Federation Resupply,18,rare,{1}{W},2.0,W,W,Sorcery,,,normal,,"Search your library for an Aura, Equipment, or Spacecraft card, reveal it, put it into your hand, then shuffle.
+Beam me up {3}{W} (You may cast this card from your graveyard for {3}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,0.00034705707413792275,0.00805337783362777,0.004200217453882846
+Free Borg Revolutionaries,19,common,{3}{W}{W},5.0,W,W,Artifact Creature — Borg Rebel,4,5,normal,Landcycling;Basic landcycling;Typecycling;Cycling,"When this creature enters, creatures you control get +1/+1 until end of turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",0.0,TRK,0.004627894374878724,0.010330386352645918,0.007479140363762321
+Ghost of Illyria,20,uncommon,{3}{W},4.0,W,W,Creature — Elemental Spirit,3,3,normal,Flying,"Flying
+When this creature enters, exile up to one other target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.",0.0,TRK,0.021525806211017948,0.0034832257320912556,0.012504515971554601
+Hologram Janeway,21,uncommon,{2}{W},3.0,W,W,Legendary Artifact Creature — Illusion Officer,3,3,normal,,"Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on target creature.",0.0,TRK,-0.00928655356559784,-0.014891325219693094,-0.012088939392645468
+Malfunctioning Holodeck,22,common,{2}{W},3.0,W,W,Artifact,,,normal,Ward,"Ward {2} (Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.",0.0,TRK,0.007646823838922024,0.01016632492088148,0.008906574379901753
+The Measure of a Man,23,uncommon,{2}{W},3.0,W,W,Enchantment — Saga,,,saga,Investigate,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Exile up to one target nontoken artifact or creature.
+II — Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+III — Return the exiled card to the battlefield under its owner's control. You gain 2 life.",0.0,TRK,0.026219986899463754,0.016721032978931964,0.021470509939197857
+"Miles O'Brien, Transporter Ops",24,rare,{2}{W},3.0,W,W,Legendary Creature — Human Artificer,3,3,normal,,"When Miles O'Brien enters, return up to one other target creature or artifact you control to its owner's hand.
+At the beginning of each end step, if a permanent was returned to your hand from the battlefield this turn, draw a card.",0.0,TRK,0.02718996566963467,0.05892677141416071,0.04305836854189769
+The Needs of the Many,25,rare,{1}{W},2.0,W,W,Instant,,,normal,,"As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control gain hexproof and indestructible until end of turn. You gain hexproof until end of turn. Prevent all damage that would be dealt to you this turn. Exile The Needs of the Many.",0.0,TRK,0.006646781410148245,-0.006540399842856313,5.3190783645966095e-05
+Oberth-Class Starship,26,common,{1}{W},2.0,W,W,Artifact — Spacecraft,2,2,normal,Station,"When this Spacecraft enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying",0.0,TRK,0.002295852309874285,0.011235712949963379,0.006765782629918832
+Peace in Our Time,27,rare,{3}{W},4.0,W,W,Enchantment,,,normal,,"At the beginning of combat on each player's turn, that player may draw a card. If they do, they can't attack this turn and you put a peace counter on this enchantment.
+At the beginning of your upkeep, if this enchantment has twelve or more peace counters on it, you win the game.",0.0,TRK,-0.014464602353321506,-0.04301819887172071,-0.028741400612521107
+Pet Sehlat,28,common,{2}{W},3.0,W,W,Creature — Bear,4,3,normal,,This creature can't attack alone.,0.0,TRK,-0.012680955876084775,-0.0097278260730943,-0.011204390974589537
+"Picard, Leading by Example",29,uncommon,{1}{W},2.0,W,W,Legendary Creature — Human Officer,2,2,normal,,"{1}, {T}: Another target creature gets +X/+X until end of turn, where X is Picard's power. Activate only as a sorcery.",0.0,TRK,0.005141268585442609,-0.013457267617034089,-0.00415799951579574
+Primary Unimatrix Adjunct,30,rare,{3}{W},4.0,W,W,Artifact Creature — Borg,2,3,normal,,Artifact creatures you control have double strike.,0.0,TRK,0.005110475621593178,-0.004651927263972667,0.00022927417881025546
+Pure Energy,31,common,{1}{W},2.0,W,W,Sorcery,,,normal,,"Distribute two +1/+1 counters among one or two target creatures.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.006968172149436459,-0.031049116074805327,-0.019008644112120894
+"Rutherford, Upgraded Ensign",32,uncommon,{2}{W},3.0,W,W,Legendary Creature — Human Artificer,2,2,normal,,"When Rutherford enters, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+Whenever you cast a Spacecraft spell, put a +1/+1 counter on target creature.",0.0,TRK,0.016355484065522334,0.04904100104650222,0.03269824255601228
+"Saavik, Stoic Student",33,uncommon,{4}{W},5.0,W,W,Legendary Creature — Vulcan Advisor,2,2,normal,Flash,"Flash
+Federation — When Saavik enters, she deals X damage to target attacking or blocking creature an opponent controls, where X is the number of creature types among non-Borg creatures you control.",0.0,TRK,0.013474383710519443,0.03741103741446481,0.025442710562492126
+Set Phasers to . . .,34,common,{W},1.0,W,W,Instant,,,normal,Kill;Stun,"Choose one —
+• Stun — Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Kill — This spell deals 3 damage to target attacking creature.",0.0,TRK,-0.0019807720883678157,-0.03502552096927221,-0.018503146528820014
+Shields Up!,35,common,{1}{W},2.0,W,W,Instant,,,normal,,"Target artifact or creature you control gains hexproof and indestructible until end of turn. If it's a creature, put a +1/+1 counter on it. (It can't be the target of spells or abilities your opponents control. Damage and effects that say ""destroy"" don't destroy it.)",0.0,TRK,-0.0019765457317388476,-0.0006261256485682355,-0.0013013356901535416
+Shuttle Ace,36,common,{4}{W},5.0,W,W,Creature — Kelpien Pilot,4,4,normal,,"During your turn, this creature has flying.
+Whenever this creature becomes tapped, you gain 2 life.",0.0,TRK,-0.01656043771262735,-0.00453664655008745,-0.0105485421313574
+"Sulu, Space Swashbuckler",37,rare,{1}{W},2.0,W,W,Legendary Creature — Human Pilot,2,2,normal,First strike,"First strike
+Whenever Sulu becomes tapped, if an Equipment or Spacecraft entered the battlefield under your control this turn, draw a card.",0.0,TRK,0.011429650892344831,0.005457019189251065,0.008443335040797948
+Tactical Officer,38,common,{1}{W},2.0,W,W,Creature — Human Officer,2,1,normal,,"Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on this creature. Untap it.",0.0,TRK,-0.0005022921168228564,-0.016103117568052376,-0.008302704842437615
+Test of Conviction,39,uncommon,{1}{W},2.0,W,W,Sorcery,,,normal,Battle Stations;Begin Negotiations,"Choose one —
+• Battle Stations — Put a +1/+1 counter on each creature you control.
+• Begin Negotiations — Target opponent draws a card. You draw two cards.",0.0,TRK,-0.010105281403009128,-0.027844533786374744,-0.018974907594691937
+There's Coffee in that Nebula,40,uncommon,{1}{W},2.0,W,W,Sorcery,,,normal,,"Look at the top five cards of your library. You may reveal a Plains card or nonland permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom in a random order.
+Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.0025689425076651446,-0.009117592388945689,-0.005843267448305416
+Troubling Tribbles,41,rare,{2}{W},3.0,W,W,Creature — Tribble,0,1,normal,,"This creature can't block.
+At the beginning of your upkeep, create a token that's a copy of this creature.",0.0,TRK,0.012967205146799835,0.0344105507020719,0.023688877924435865
+"Una Chin-Riley, Number One",42,uncommon,{4}{W},5.0,W,W,Legendary Creature — Illyrian Officer,4,5,normal,,"Whenever you attack while creatures you control have total power 8 or greater, target attacking creature gets +2/+0 and gains first strike until end of turn.",0.0,TRK,-0.014790083654200068,-0.03992742396418987,-0.027358753809194968
+"U.S.S. Enterprise-A, Free Spirit",43,mythic,{3}{W}{W},5.0,W,W,Legendary Artifact — Spacecraft,5,5,normal,Station;Ward,"Ward {2}
+When U.S.S. Enterprise-A enters, create three 1/1 red Officer creature tokens.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, lifelink",0.0,TRK,0.05913686541888573,0.07642889615057129,0.06778288078472851
+"U.S.S. Excelsior, Cutting Edge",44,uncommon,{3}{W},4.0,W,W,Legendary Artifact — Spacecraft,4,4,normal,Station,"When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying",0.0,TRK,-0.002741002780965196,-0.007950807130403798,-0.005345904955684497
+Vexing Drone,45,common,{1}{W},2.0,W,W,Artifact Creature — Borg,2,2,normal,,"When this creature enters, tap target creature an opponent controls.",0.0,TRK,0.00815094744070799,-0.015133924489888043,-0.003491488524590027
+Anthropological Mission,46,uncommon,{2}{U},3.0,U,U,Enchantment,,,normal,,"Whenever you cast a noncreature spell, put a quest counter on this enchantment. Draw a card. Then discard a card unless this enchantment has three or more quest counters on it.",0.0,TRK,-0.024396124540258805,-0.0568733763755037,-0.04063475045788125
+The Caretaker,47,rare,{5}{U},6.0,U,U,Legendary Creature — Elemental,5,6,normal,Vigilance;Face a dilemma;Ward,"Vigilance, ward {2}
+At the beginning of each end step, if you faced a dilemma this turn, target opponent exiles cards from the top of their library until they exile a nonland card. You may cast that card without paying its mana cost. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,0.02033065308708239,-0.026624841231895333,-0.003147094072406471
+Cetacean Ops,48,common,{3}{U},4.0,U,U,Creature — Whale Officer,3,3,normal,Ward,"Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",0.0,TRK,-0.0165096967129954,-0.00951881470598695,-0.013014255709491175
+Cloak and Phaser,49,uncommon,{8}{U},9.0,U,U,Sorcery,,,normal,Strange new worlds,"Strange new worlds — This spell costs {X} less to cast, where X is the number of differently named lands you control.
+Create two 2/2 black Romulan creature tokens. Draw two cards, then discard a card.",0.0,TRK,0.011266364865406988,0.042060399195276134,0.026663382030341562
+Cloistered Telepath,50,common,{1}{U},2.0,U,U,Creature — Talosian Advisor,2,1,normal,Flash,"Flash
+When this creature enters, draw a card, then discard a card.",0.0,TRK,0.006990819771226695,0.005734474589524223,0.006362647180375458
+Consider the Prime Directive,51,common,{2}{U},3.0,U,U,Instant,,,normal,Observe;Interfere,"Choose one —
+• Interfere — Counter target spell unless its controller pays {3}.
+• Observe — Tap up to one target creature and put a stun counter on it. Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)",0.0,TRK,0.0018995508133476638,0.008315537380410729,0.005107544096879196
+"Data, New Life",52,uncommon,{1}{U},2.0,U,U,Legendary Artifact Creature — Android Scientist,0,1,normal,,"Whenever you draw a card, put a +1/+1 counter on Data.",0.0,TRK,-0.00397422014898572,-0.05474305474796152,-0.02935863744847362
+Deep Space Scan,53,rare,{4}{U}{U},6.0,U,U,Sorcery,,,normal,Strange new worlds,"Strange new worlds — Draw X cards, where X is the number of differently named lands you control. You have no maximum hand size until your next turn.",0.0,TRK,0.005299879762151317,0.02480166505172173,0.015050772406936525
+Dominion Saboteur,54,uncommon,{4}{U},5.0,U,U,Creature — Shapeshifter,3,3,normal,,"You may have this creature enter as a copy of any artifact or creature on the battlefield, except it isn't legendary. If you do, it enters with additional counters on it equal to the same number and kinds of counters the copied permanent has on it.",0.0,TRK,-0.024944046899214912,-0.025782148486893128,-0.025363097693054018
+Emergency Holographic Crew,55,common,{3}{U},4.0,U,U,Artifact Creature — Illusion Officer,3,4,normal,Surveil,"When this creature enters, choose one —
+• Return target Spacecraft card from your graveyard to your hand.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",0.0,TRK,-0.011969656783270636,-0.012539496641774558,-0.012254576712522596
+Energize,56,uncommon,{1}{U},2.0,U,U,Sorcery,,,normal,,"Return target creature an opponent controls to its owner's hand.
+Beam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,0.00014245596794885875,0.004807478614272848,0.0024749672911108535
+Ensign Pavel Chekov,57,uncommon,{3}{U},4.0,U,U,Legendary Creature — Human Pilot,1,5,normal,Strange new worlds,"Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.",0.0,TRK,0.01917895717615028,0.00995317681972083,0.014566066997935554
+Enterprise NX-01,58,uncommon,{3}{U},4.0,U,U,Legendary Artifact — Spacecraft,4,3,normal,Station,"When Enterprise NX-01 enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, vigilance",0.0,TRK,0.004334774902313254,-0.0035929583950978024,0.00037090825360772584
+Federation Probe,59,common,{U},1.0,U,U,Artifact Creature — Construct,1,1,normal,Flying;Surveil,"Flying
+When this creature enters, choose one —
+• Target creature gets +1/+1 until end of turn.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",0.0,TRK,0.008132773468761683,0.0027315670506849964,0.00543217025972334
+Guidance Failure,60,common,{3}{U},4.0,U,U,Instant,,,normal,,"This spell costs {1} less to cast if it targets an attacking creature.
+Target creature or Spacecraft's owner puts it on their choice of the top or bottom of their library.",0.0,TRK,-0.0009577944052901387,0.00762171964541598,0.0033319626200629207
+"Gwyndala, the Progeny",61,rare,{1}{U},2.0,U,U,Legendary Creature — Vau-N'Akat Advisor,1,1,normal,,"When Gwyndala enters, create a colorless Equipment artifact token named Neuroflux Heirloom with ""Equipped creature gets +1/+1"" and equip {2}. Attach it to Gwyndala.
+{2}: Each Equipment token you control becomes a copy of target Equipment you control until end of turn.",0.0,TRK,0.02647807942123902,0.043277419740209,0.03487774958072401
+Highly Illogical,62,uncommon,{1}{U},2.0,U,U,Instant,,,normal,Kicker,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Counter target spell with mana value 2 or less. If this spell was kicked, instead counter target spell.",0.0,TRK,0.000169272873427775,0.010321048723379534,0.005245160798403654
+"H.M.S. Bounty, Unlikely Timeship",63,rare,{4}{U},5.0,U,U,Legendary Artifact — Spacecraft,3,4,normal,Station,"When H.M.S. Bounty enters, you may search your library for a Whale card, reveal it, put it into your hand, then shuffle.
+Station
+8+ | Flying
+Whenever H.M.S. Bounty deals combat damage to a player, draw a card. If you control a Whale and haven't begun an extra turn this game, take an extra turn after this one.",0.0,TRK,0.01998860254225121,0.058961490361290836,0.03947504645177102
+"Hoshi Sato, Exolinguist",64,uncommon,{4}{U},5.0,U,U,Legendary Creature — Human Scientist,3,3,normal,,"Federation — When Hoshi Sato enters, look at the top X cards of your library, where X is the number of creature types among non-Borg creatures you control. Put one of them into your hand and the rest on the bottom of your library in a random order.",0.0,TRK,0.011336417760969919,0.011043069475010443,0.011189743617990182
+Humpback Whales,65,common,{4}{U}{U},6.0,U,U,Creature — Whale,5,6,normal,Vigilance;Landcycling;Basic landcycling;Ward;Typecycling;Cycling,"Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",0.0,TRK,-0.007406264159447453,-0.01004775624866337,-0.008727010204055412
+Interstellar Effigy,66,common,{4}{U},5.0,U,U,Artifact Creature — Construct,4,3,normal,,"When this creature enters, return target creature an opponent controls to its owner's hand.",0.0,TRK,-0.00905829641668945,0.00912298277177103,3.234317754079001e-05
+"Jett Reno, Problem Solver",67,uncommon,{1}{U},2.0,U,U,Legendary Creature — Human Artificer,1,2,normal,Surveil;Face a dilemma,"Whenever Jett Reno becomes tapped, surveil 1. If her power is 4 or greater, instead draw a card.
+Whenever you face a dilemma, put a +1/+1 counter on Jett Reno. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.0013689146722313745,-0.019327499225600193,-0.010348206948915783
+Kobayashi Maru Scenario,68,mythic,{1}{U}{U},3.0,U,U,Enchantment,,,normal,Sensors;Abandon Ship;Hail;Transport,"At the beginning of your upkeep, choose one that hasn't been chosen —
+• Hail — Return up to one target creature an opponent controls with mana value 3 or less to its owner's hand.
+• Sensors — Draw two cards.
+• Transport — Create two 1/1 red Officer creature tokens.
+• Abandon Ship — You lose the game.",0.0,TRK,0.027864214610659195,0.03631088935639154,0.032087551983525364
+Lieutenant Commander Data,69,mythic,{2}{U},3.0,U,U,Legendary Artifact Creature — Android Scientist,2,2,normal,,"Whenever a player casts a noncreature spell, put a +1/+1 counter on Lieutenant Commander Data.
+{1}, Remove three counters from among creatures you control: Draw a card.",0.0,TRK,0.014261034219194738,0.040507278451859585,0.02738415633552716
+Lt. Cmdr. Geordi La Forge,70,rare,{2}{U},3.0,U,U,Legendary Creature — Human Artificer,3,2,normal,,"If you would put one or more charge counters on an artifact you control, put twice that many charge counters on that artifact instead.",0.0,TRK,-0.0028340265597582054,-0.0297029252280346,-0.016268475893896402
+Make It So,71,common,{3}{U},4.0,U,U,Sorcery,,,normal,,"Choose one —
+• Untap target permanent you control. Target player draws two cards.
+• Create a 1/1 red Officer creature token and draw two cards.",0.0,TRK,-0.010005221082684201,-0.0010493373627570913,-0.005527279222720646
+Marooned,72,common,{U},1.0,U,U,Enchantment — Aura,,,normal,Enchant,"Enchant artifact or creature
+When this Aura enters, you may pay {3}. If you do, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step and can't be beamed up.",0.0,TRK,0.002676421602460582,-0.0035115559218931555,-0.00041756715971628684
+Melkotian Adjudicator,73,common,{2}{U},3.0,U,U,Creature — Melkotian Advisor,2,1,normal,Flying;Vigilance;Face a dilemma,"Flying, vigilance
+Whenever you face a dilemma, put a +1/+1 counter on this creature. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.015067672910445444,-0.04726745865571418,-0.031167565783079814
+"Mr. Spock, Science Officer",74,mythic,{2}{U}{U},4.0,U,U,Legendary Creature — Vulcan Human Scientist,2,4,normal,,"If you would draw a card, draw two cards instead.",0.0,TRK,0.02484752309285582,0.04041151638526881,0.032629519739062314
+"Nyota Uhura, Communications",75,rare,{2}{U},3.0,U,U,Legendary Creature — Human Officer,2,4,normal,Open a Channel;Hailing Frequencies,"Hailing Frequencies — As Nyota Uhura enters, choose a number between 0 and 10.
+Open a Channel — Whenever an opponent casts a spell with mana value equal to the chosen number, you draw a card.",0.0,TRK,0.007542559640980579,-0.0025631299098874895,0.0024897148655465447
+Open Communications,76,common,{U},1.0,U,U,Sorcery,,,normal,,"Draw a card.
+Beam me up {2}{U} (You may cast this card from your graveyard for {2}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.003705240329265784,-0.023819776629471948,-0.013762508479368865
+Romulan Bird-of-Prey,77,rare,{1}{U},2.0,U,U,Artifact — Spacecraft,4,4,normal,Station;Cloaking Device,"Cloaking Device — As long as this Spacecraft isn't a creature, it has hexproof.
+Whenever you cast a noncreature spell, if this Spacecraft isn't a creature, put two charge counters on it.
+Station
+8+ | Flying",0.0,TRK,0.007092708760079512,0.0560508538311802,0.031571781295629854
+Rules of Acquisition,78,uncommon,{3}{U}{U},5.0,U,U,Sorcery,,,normal,Follow the 98th Rule,"Choose one —
+• Follow the 3rd Rule — Gain control of target nonland permanent an opponent controls. That opponent draws three cards.
+• Follow the 98th Rule — Target opponent gains control of target nonland permanent you control. If they do, you draw three cards.",0.0,TRK,-0.011672099643239184,-0.00591327117514584,-0.008792685409192511
+"Scotty, Miracle Worker",79,mythic,{1}{U}{U},3.0,U,U,Legendary Creature — Human Artificer,2,3,normal,,"During your main phase, each card in your graveyard has beam me up. The beam me up cost is equal to that spell's mana cost. Scotty can't be beamed up to cast a spell this way. (Only instant and sorcery spells can be cast this way. You may cast a card from your graveyard for its beam me up cost if you also return another creature you control to its owner's hand. Then exile that spell.)",0.0,TRK,0.01689190160193302,-0.002517213159539658,0.007187344221196682
+"Seven of Nine, Unassimilated",80,mythic,{1}{U},2.0,U,U,Legendary Artifact Creature — Human Officer,0,4,normal,,"At the beginning of your first main phase, draw a card. Then discard a card unless you control five or more differently named lands.
+{6}{U}: Seven of Nine's base power and toughness become 7/9. Activate only if you control seven or more differently named lands.",0.0,TRK,0.01879922162803416,0.016497504599369443,0.0176483631137018
+Starfleet Spanner Jockey,81,common,{1}{U},2.0,U,U,Creature — Human Artificer,3,3,normal,Defender,"Defender
+As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender.",0.0,TRK,-0.012485676155577297,-0.012957482369157867,-0.012721579262367583
+Subcommander T'Pol,82,rare,{2}{U},3.0,U,U,Legendary Creature — Vulcan Scientist,3,1,normal,Flash,"Flash
+When Subcommander T'Pol enters, choose one —
+• Counter target activated or triggered ability.
+• Tap up to one target artifact or creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",0.0,TRK,0.033549840453890645,0.013293383307879872,0.02342161188088526
+Suurok-Class Science Vessel,83,common,{2}{U},3.0,U,U,Artifact — Spacecraft,3,2,normal,Station,"When this Spacecraft enters, draw a card.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.)
+5+ | Flying",0.0,TRK,0.006425269516462161,0.009603285026660883,0.008014277271561522
+Suus Mahna Practitioner,84,common,{2}{U},3.0,U,U,Creature — Vulcan Officer,3,2,normal,Strange new worlds,"Strange new worlds — {4}{U}, {T}: Tap target creature. This ability costs {X} less to activate, where X is the number of differently named lands you control.",0.0,TRK,-0.0181723437903571,-0.00207896372217971,-0.010125653756268406
+Test of Priorities,85,uncommon,{1}{U},2.0,U,U,Instant,,,normal,Surveil;Power to Engines;Power to Life Support,"Choose one —
+• Power to Engines — Surveil 2, then draw a card.
+• Power to Life Support — Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.",0.0,TRK,0.00649726340338864,-0.0436917585093491,-0.018597247552980232
+Those Old Scientists,86,uncommon,{2}{U},3.0,U,U,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw
+step, add a lore counter. Sacrifice after III.)
+I — Draw two cards, then discard two cards.
+II — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand.
+III — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.",0.0,TRK,0.0016849523428241083,0.02998150984854105,0.01583323109568258
+"V'Ger, the Intruder",87,uncommon,{6}{U},7.0,U,U,Legendary Artifact Creature — Construct,5,7,normal,Flying,"Flying
+Whenever V'Ger enters or attacks, choose one —
+• Look at target opponent's hand, then draw a card.
+• Creatures your opponents control get -1/-0 until your next turn.",0.0,TRK,-0.015220866438815117,-0.027299073605175174,-0.021259970021995145
+Vulcan Mind-Meld,88,uncommon,{U},1.0,U,U,Sorcery,,,normal,,"Target opponent looks at the top card of your library, then exiles it face down. You look at the top two cards of their library, then exile them face down. For each card exiled this way, the player who exiled it may play it for as long as it remains exiled. Mana of any type can be spent to cast spells this way.",0.0,TRK,-0.0012976558781783065,-0.01831334220166657,-0.009805499039922437
+"Wesley Crusher, Starfleet Cadet",89,rare,{2}{U}{U},4.0,U,U,Legendary Creature — Human Officer,2,2,normal,Flash,"Flash
+When Wesley Crusher enters, choose two —
+• Counter target noncreature spell unless its controller pays {2}.
+• Return target creature with mana value 2 or less to its owner's hand.
+• Target creature can't be blocked this turn.
+• Target player draws two cards, then discards two cards.",0.0,TRK,0.07023168578135569,0.08152073476999123,0.07587621027567346
+"Zefram Cochrane, Warp Pioneer",90,uncommon,{2}{U},3.0,U,U,Legendary Creature — Human Pilot,2,3,normal,,"You may look at the top card of your library any time.
+Once during each of your turns, you may cast an artifact spell from the top of your library.
+Spacecraft you control enter with two additional charge counters on them.",0.0,TRK,-0.013350880288496318,-0.015647970329884568,-0.014499425309190444
+"Armus, Skin of Evil",91,rare,{5}{B}{B},7.0,B,B,Legendary Creature — Ooze Horror,6,6,normal,Menace,"Menace
+At the beginning of your end step, target opponent discards two cards.
+{2}{B}, Discard this card: Target creature gets -4/-4 until end of turn.",0.0,TRK,0.025998995413805574,0.02233373880727963,0.024166367110542604
+Assault Drone,92,common,{3}{B},4.0,B,B,Artifact Creature — Borg,2,4,normal,,Artifact creatures you control get +1/+0.,0.0,TRK,-0.02863278857145936,-0.0048407036148243755,-0.016736746093141866
+Automated Warfare System,93,common,{2}{B},3.0,B,B,Artifact Creature — Construct,2,2,normal,Flying,"Flying
+Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card.",0.0,TRK,-0.02166407160791759,-0.013629657304091092,-0.017646864456004344
+Bat'leth,94,uncommon,{2}{B},3.0,B,B,Artifact — Equipment,,,normal,Equip,"When this Equipment enters, target creature an opponent controls gets -2/-2 until end of turn.
+Equipped creature gets +2/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",0.0,TRK,0.009358696442650636,0.013861574552852722,0.011610135497751679
+Battle-Scarred Survivalist,95,common,{1}{B},2.0,B,B,Creature — Klingon Scout,1,1,normal,Menace,"Menace (This creature can't be blocked except by two or more creatures.)
+Whenever another creature dies, put a +1/+1 counter on this creature. This ability triggers only once each turn.",0.0,TRK,-0.004630560615281309,-0.0161595188569426,-0.010395039736111954
+Blastoneuron,96,uncommon,{3}{B},4.0,B,B,Creature — Jellyfish Leech,2,2,normal,Flying,"Flying
+When this creature enters, exile target creature card with mana value 3 or less from your graveyard. Create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step.
+Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.",0.0,TRK,0.020781005484333363,0.03042105714439398,0.02560103131436367
+Cha'DIch Investigator,97,common,{4}{B},5.0,B,B,Creature — Klingon Warrior,4,4,normal,,"When this creature enters, create a 2/1 red Klingon Warrior creature token with haste.",0.0,TRK,-0.00031566273572943893,0.005385241928151612,0.0025347895962110865
+Collation Trimatrix,98,rare,{B},1.0,B,B,Artifact Creature — Borg,1,1,normal,,Tap three untapped artifact creatures you control: You draw a card and lose 1 life.,0.0,TRK,0.015098277748470255,-0.00011460616789061477,0.00749183579028982
+Collective Drone,99,uncommon,{1}{B},2.0,B,B,Artifact Creature — Borg,*,2,normal,,Collective Drone's power is equal to the number of artifact creatures you control.,0.0,TRK,-0.010423367454689282,-0.0023797479109131324,-0.0064015576828012075
+Commander Raffi Musiker,100,uncommon,{2}{B},3.0,B,B,Legendary Creature — Human Officer,3,2,normal,Investigate,"When Commander Musiker enters, choose one —
+• Exile up to one target card from a graveyard. You gain 2 life.
+• Investigate. You lose 2 life. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",0.0,TRK,0.009198037285333343,0.009194021808329955,0.009196029546831649
+D'Ghor Bloodletter,101,uncommon,{2}{B},3.0,B,B,Creature — Klingon Assassin,2,2,normal,,"When this creature enters, choose one —
+• All other creatures get -1/-1 until end of turn.
+• Each player sacrifices a creature of their choice.",0.0,TRK,0.0026948783884253756,-0.03499008578488689,-0.016147603698230758
+Death Is Irrelevant,102,mythic,{6}{B}{B},8.0,B,B,Enchantment,,,normal,Assimilate,"Artifact creatures you control have indestructible.
+At the beginning of your end step, assimilate target creature card from a graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)",0.0,TRK,0.01559749199787944,0.013111429930615268,0.014354460964247355
+The Destruction of Praxis,103,rare,{3}{B}{B},5.0,B,B,Sorcery,,,normal,Strange new worlds,"Strange new worlds — All creatures get -X/-X until end of turn, where X is the number of differently named lands you control. If X is 6 or more, create two 2/1 red Klingon Warrior creature tokens with haste.",0.0,TRK,0.05913268330403558,0.02978890024156707,0.04446079177280132
+De-evolve,104,uncommon,{1}{B},2.0,B,B,Enchantment — Aura,,,normal,Enchant;Threshold,"Enchant creature
+Enchanted creature gets -4/-0, can't block, and is a Salamander. (It loses all other creature types.)
+Threshold — At the beginning of each upkeep, if there are seven or more cards in your graveyard, exile enchanted creature.",0.0,TRK,-0.0043332426217716664,-0.015495996213823537,-0.009914619417797602
+Eject the Warp Core,105,common,{1}{B},2.0,B,B,Instant,,,normal,Kicker,"Kicker—Sacrifice an artifact or creature. (You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)
+Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.",0.0,TRK,0.002164244879446679,0.010427972663307767,0.006296108771377223
+"Elim Garak, Simple Tailor",106,rare,{2}{B},3.0,B,B,Legendary Creature — Cardassian Rogue,3,3,normal,Face a dilemma;Menace,"Menace
+Whenever you face a dilemma, each opponent loses 2 life and you gain 2 life. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,0.007683150876169276,-0.022412388868927585,-0.007364618996379154
+Fugitive Listener,107,common,{2}{B},3.0,B,B,Creature — El-Aurian Scout,3,1,normal,,"When this creature enters, each opponent discards a card.",0.0,TRK,0.0025450871537171928,0.00414638330938007,0.0033457352315486317
+"Gabriel Lorca, Mirror Menace",108,uncommon,{4}{B},5.0,B,B,Legendary Creature — Human Rogue Officer,5,4,normal,Face a dilemma;Menace,"Menace
+Whenever you face a dilemma, you may pay {B}. If you do, return this card from your graveyard to your hand. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.020591727054053592,-0.06464581702363117,-0.04261877203884239
+"General Chang, Cold Warrior",109,rare,{B},1.0,B,B,Legendary Creature — Klingon Warrior Officer,1,2,normal,,"{1}, Sacrifice a creature: Put a +1/+1 counter on each Klingon you control.",0.0,TRK,0.020797904995929924,-0.008098923422460895,0.0063494907867345145
+"Georgiou, Terran Emperor",110,mythic,{4}{B}{B},6.0,B,B,Legendary Creature — Human Rogue Noble,4,6,normal,,"You don't lose the game for having 0 or less life.
+At the beginning of your end step, you lose 3 life and draw a card. Then if your life total is 0 or less, create ten 1/1 red Officer creature tokens.",0.0,TRK,0.048946807964854636,0.02771525431273409,0.038331031138794366
+A Good Day to Die,111,common,{B},1.0,B,B,Instant,,,normal,,"Target creature gets +2/+0 until end of turn. When that creature dies this turn, you draw a card.",0.0,TRK,-0.011890383415449584,-0.025039945376658542,-0.018465164396054064
+Grand Nagus Zek,112,rare,{2}{B},3.0,B,B,Legendary Creature — Ferengi Noble,1,1,normal,Treasure,"Grand Nagus Zek gets +1/+1 for each Treasure you control.
+Whenever another creature dies, create a Treasure token. This ability triggers only once each turn. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",0.0,TRK,0.005838014397842084,0.009356931801565369,0.007597473099703727
+"Gul Dukat, Colonial Prefect",113,mythic,{4}{B}{B}{B},7.0,B,B,Legendary Creature — Cardassian Rogue,6,6,normal,Menace,"Menace
+At the beginning of each end step, each opponent loses life equal to the life that player lost this turn. You gain life equal to the life lost this way. (Damage causes loss of life.)",0.0,TRK,0.02953568560027346,0.02076114204905802,0.02514841382466574
+"He's Dead, Jim",114,common,{3}{B},4.0,B,B,Instant,,,normal,Surveil,Destroy target creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.),0.0,TRK,0.003866773061221958,0.008078254068576778,0.005972513564899368
+Hive Mind Coprocessor,115,uncommon,{4}{B},5.0,B,B,Artifact Creature — Borg,4,4,normal,,"Artifact creatures you control have ""Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, draw a card.""",0.0,TRK,-0.021352392663801872,-0.001477442692422322,-0.011414917678112098
+Impossible Choice,116,uncommon,{2}{B},3.0,B,B,Instant,,,normal,Surgical Separation;Remain Fused,"Choose one —
+• Surgical Separation — Destroy target creature. Its controller creates two 1/1 red Officer creature tokens.
+• Remain Fused — You draw two cards and each player loses 2 life.",0.0,TRK,0.0062722737006154,-0.021334686426746966,-0.007531206363065783
+In the Pale Moonlight,117,uncommon,{3}{B}{B},5.0,B,B,Enchantment — Saga,,,saga,Investigate,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each opponent sacrifices a nontoken creature of their choice.
+II — Investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")
+III — You may sacrifice an artifact or creature. If you do, create two 2/2 black Romulan creature tokens.",0.0,TRK,0.04257862742100638,0.025681526600334743,0.03413007701067056
+"Kai Winn, Faithless Leader",118,rare,{1}{B},2.0,B,B,Legendary Creature — Bajoran Cleric,3,1,normal,,"As Kai Winn enters, choose a nonland card name.
+Whenever an opponent casts a spell with the chosen name or activates an ability of a source with the chosen name, that player loses 3 life.",0.0,TRK,0.012129227892719939,0.033375212960970346,0.022752220426845143
+"Khan, Vengeful Heart",119,mythic,{2}{B}{B},4.0,B,B,Legendary Creature — Human Warrior,5,3,normal,,"When Khan enters, you may sacrifice another creature or artifact. If you do, draw two cards.
+You may cast this card from exile.",0.0,TRK,0.032586195004739645,0.04485286553337283,0.03871953026905624
+Obsidian Order Operative,120,common,{3}{B},4.0,B,B,Creature — Cardassian Officer Spy,2,5,normal,Face a dilemma,"Whenever you face a dilemma, each opponent loses 1 life and you gain 1 life. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.025115486886355606,-0.049760963738410074,-0.03743822531238284
+Organic Avulsion Unit,121,uncommon,{2}{B},3.0,B,B,Artifact Creature — Borg,2,3,normal,,{2}: Artifact creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.),0.0,TRK,-0.02526370222022277,-0.03179753617916513,-0.02853061919969395
+Overflow Submatrix,122,rare,{2}{B},3.0,B,B,Artifact Creature — Borg,3,3,normal,,"Once during each of your turns, you may cast an artifact creature spell from your graveyard. If you cast a spell this way, that artifact creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",0.0,TRK,0.012568906652152845,-0.02333892848971102,-0.0053850109187790875
+Pattern Buffer Preservation,123,common,{1}{B},2.0,B,B,Sorcery,,,normal,,"Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+Beam me up {1}{B} (You may cast this card from your graveyard for {1}{B} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.014012534606173225,-0.016076727411637168,-0.015044631008905195
+Relentless Drednok,124,common,{B},1.0,B,B,Artifact Creature — Robot,1,1,normal,Lifelink,"Lifelink
+{2}{B}, Exile this card from your graveyard: You draw a card and lose 1 life.",0.0,TRK,-0.008709256500013423,-0.006465561961010887,-0.007587409230512155
+Resistance Is Futile,125,uncommon,{1}{B},2.0,B,B,Sorcery,,,normal,,"Choose one —
+• Destroy target nonartifact creature.
+• Return target artifact creature card with mana value 3 or less from your graveyard to the battlefield.",0.0,TRK,-0.002304625751583387,-0.0320542507461233,-0.017179438248853346
+Rogue Artificial Intelligence,126,common,{4}{B}{B},6.0,B,B,Artifact Creature — Construct,6,5,normal,Surveil;Landcycling;Basic landcycling;Typecycling;Cycling,"When this creature enters, choose one —
+• You gain 3 life.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",0.0,TRK,0.00708435828151932,-0.0011005087528271921,0.002991924764346064
+Salt Vampire,127,rare,{1}{B},2.0,B,B,Creature — Vampire Shapeshifter,2,2,normal,Lifelink,"Lifelink
+When this creature enters, look at target opponent's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.",0.0,TRK,0.028993223048272333,0.05051931216469147,0.039756267606481904
+"Sela, Tal Shiar Paradox",128,rare,{3}{B},4.0,B,B,Legendary Creature — Romulan Human Rogue,3,3,normal,,"Whenever Sela attacks, exile up to one target card from a graveyard.
+Whenever one or more cards leave your graveyard, create a tapped 2/2 black Romulan creature token.",0.0,TRK,0.024159665224869616,0.018910186595802705,0.02153492591033616
+Storied Veteran,129,uncommon,{B},1.0,B,B,Creature — Klingon Advisor,2,1,normal,,"This creature can't block.
+You may cast this card from your graveyard. If you do, it enters with a finality counter on it.",0.0,TRK,0.009610151869988863,-0.04331746070652268,-0.01685365441826691
+Stray from History,130,common,{2}{B},3.0,B,B,Sorcery,,,normal,Rewrite the Past;Repair the Timeline,"Choose one —
+• Rewrite the Past — Return one or two target creature and/or Spacecraft cards from your graveyard to your hand.
+• Repair the Timeline — Target opponent reveals their hand. You choose a nonland card from it. Exile that card.",0.0,TRK,-0.021615380258345546,-0.03757713887481695,-0.029596259566581247
+Tal Shiar Operative,131,common,{1}{B},2.0,B,B,Creature — Romulan Officer Spy,2,2,normal,Surveil,"Whenever this creature attacks, choose one —
+• Target creature you control gains deathtouch until end of turn.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",0.0,TRK,-0.005330409672365323,-0.026119021314580212,-0.015724715493472766
+Tell Me What You See,132,uncommon,{1}{B},2.0,B,B,Enchantment,,,normal,Surveil;Face a dilemma,"When this enchantment enters, target opponent may have you draw a card. If they don't, they lose 4 life and you surveil 1.
+Whenever you face a dilemma, you may return this enchantment to its owner's hand. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.023314899352353192,-0.050100421692243026,-0.03670766052229811
+Tenacious Drone,133,common,{1}{B},2.0,B,B,Artifact Creature — Borg,2,1,normal,,"When this creature dies, create a 1/1 colorless Borg artifact creature token.",0.0,TRK,-0.011273326308767297,-0.006716796259760741,-0.008995061284264019
+Test of Loyalty,134,uncommon,{B},1.0,B,B,Sorcery,,,normal,"Of the Obsidian Order;Plain, Simple Garak","Choose one —
+• Plain, Simple Garak — Exile target card from a graveyard. Draw a card.
+• Of the Obsidian Order — Return target creature card from your graveyard to your hand.",0.0,TRK,-0.02273684728925134,-0.03476482279307545,-0.028750835041163395
+"U.S.S. Reliant, From Hell's Heart",135,rare,{2}{B}{B},4.0,B,B,Legendary Artifact — Spacecraft,4,3,normal,Station,"Whenever U.S.S. Reliant enters or deals combat damage to a player, return target creature card with mana value 4 or less from your graveyard to the battlefield with a finality counter on it.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying",0.0,TRK,-0.0073024993603853896,0.002433782505400123,-0.0024343584274926335
+Vengeance Mission,136,uncommon,{2}{B},3.0,B,B,Enchantment,,,normal,,"Whenever a creature dies, put a quest counter on this enchantment. Target opponent loses 1 life. That player loses 2 life instead if there are seven or more quest counters on this enchantment.",0.0,TRK,-0.026164864684334866,-0.06455050171989365,-0.04535768320211426
+Academy Instructor,137,uncommon,{2}{R},3.0,R,R,Creature — Bolian Officer,0,3,normal,,"This creature gets +1/+0 for each Officer token you control.
+Whenever you cast a noncreature spell, create a 1/1 red Officer creature token.",0.0,TRK,-0.024327113602119445,-0.0036203153462718777,-0.013973714474195662
+"Beckett Mariner, Impetuous Ensign",138,uncommon,{1}{R},2.0,R,R,Legendary Creature — Human Officer,2,1,normal,Reckless Behavior;First strike,"First strike
+Reckless Behavior — Whenever Beckett Mariner becomes tapped, put a promotion counter on her. Then if there are three or more promotion counters on her, remove those counters and she deals 2 damage to each opponent.",0.0,TRK,-0.0221425399163342,-0.031098477167401325,-0.02662050854186776
+Boarding Action,139,common,{1}{R},2.0,R,R,Sorcery,,,normal,,"Create a 2/1 red Klingon Warrior creature token with haste.
+Beam me up {2}{R} (You may cast this card from your graveyard for {2}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.01858160036860007,-0.03265688221186428,-0.025619241290232176
+Brazen Bluff,140,rare,{R}{R},2.0,R,R,Instant,,,normal,,"Choose target noncreature spell an opponent controls. That player may exile it. If they don't, you may cast a noncreature spell from your hand without paying its mana cost.",0.0,TRK,-0.010674617486120535,-0.02156658713525108,-0.016120602310685808
+Cantankerous Captain,141,common,{2}{R},3.0,R,R,Creature — Tellarite Officer,2,3,normal,,"At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn. Then that creature gains menace until end of turn if creatures you control have total power 8 or greater. (It can't be blocked except by two or more creatures.)",0.0,TRK,-0.03595394988405354,-0.020012052974645603,-0.02798300142934957
+Captain James T. Kirk,142,mythic,{2}{R},3.0,R,R,Legendary Creature — Human Officer,2,2,normal,,"Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead.
+• Discard a card, then draw a card.
+• Create a 1/1 red Officer creature token.
+• Creatures you control get +1/+0 until end of turn.",0.0,TRK,0.027130010279607326,0.055906691999448296,0.041518351139527815
+Captain Michael Burnham,143,uncommon,{2}{R},3.0,R,R,Legendary Creature — Human Officer,3,3,normal,Trample;Landfall,"Trample
+Landfall — Whenever a land you control enters, Captain Burnham deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, put a +1/+1 counter on Captain Burnham.",0.0,TRK,-0.017061516556345385,-0.006015712326843486,-0.011538614441594435
+Captain's Tutelage,144,common,{1}{R},2.0,R,R,Enchantment — Aura,,,normal,Enchant;Flash,"Flash
+Enchant creature
+When this Aura enters, enchanted creature gains first strike until end of turn.
+Enchanted creature gets +2/+0.",0.0,TRK,-0.031104629340147346,-0.03391542905398496,-0.03251002919706615
+D-7 Battle Cruiser,145,rare,{1}{R},2.0,R,R,Artifact — Spacecraft,3,3,normal,Station,"Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+3+ | At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+8+ | Flying",0.0,TRK,0.001789662817629162,0.006723959745791564,0.004256811281710363
+Dahar Master,146,common,{3}{R},4.0,R,R,Creature — Klingon Warrior,4,3,normal,,"When this creature enters, you may sacrifice another nonland permanent. When you do, this creature deals 2 damage to any target.",0.0,TRK,-0.014380583602278854,-0.006334140603602094,-0.010357362102940474
+Dominion Infiltration,147,rare,{X}{R}{R}{R},3.0,R,R,Sorcery,,,normal,,"Choose X target creatures your opponents control. For each of them, create a token that's a copy of that creature, except it has changeling. Those tokens gain haste. Exile those tokens at the beginning of the next end step. (They're every creature type.)",0.0,TRK,0.0005117728081071437,0.0208883212860141,0.010700047047060622
+Encounter the Unknown,148,rare,{1}{R}{R},3.0,R,R,Instant,,,normal,Come in Peace;Shoot to Kill,"Choose one —
+• Come in Peace — Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+• Shoot to Kill — Encounter the Unknown deals 2 damage to each creature and each player.",0.0,TRK,0.01688243975545604,0.027506098019096717,0.02219426888727638
+"Erica Ortegas, Plucky Pilot",149,uncommon,{3}{R},4.0,R,R,Legendary Creature — Human Pilot,3,3,normal,Haste,"Haste
+Whenever Erica Ortegas becomes tapped, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner's hand at the beginning of the next end step.",0.0,TRK,-0.02774822610736239,-0.03641048100321029,-0.032079353555286336
+Exploratory Mission,150,uncommon,{2}{R}{R},4.0,R,R,Enchantment,,,normal,Landfall,"Landfall — Whenever a land you control enters, put a quest counter on this enchantment. Then exile cards from the top of your library until you exile a nonland card. You may play that card this turn. If this enchantment has five or more quest counters on it, add {R}{R}.",0.0,TRK,-0.030212730783227268,-0.03804570713637657,-0.03412921895980192
+Genesis Effect,151,common,{4}{R},5.0,R,R,Instant,,,normal,,"Genesis Effect deals 6 damage to target creature. Destroy target land you control. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,0.006723609585855876,-0.0036011966411482635,0.0015612064723538063
+Horta,152,common,{4}{R}{R},6.0,R,R,Creature — Elemental,7,6,normal,Landcycling;Trample;Basic landcycling;Typecycling;Cycling,"Trample
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",0.0,TRK,-0.019317307712773908,-0.005677599422781909,-0.012497453567777908
+Infinite Diversity,153,mythic,{7}{R}{R},9.0,R,R,Sorcery,,,normal,,"Federation — Exile target instant or sorcery card from your graveyard. Copy that card X times, where X is the number of creature types among non-Borg creatures you control. You may cast the copies without paying their mana costs. Exile Infinite Diversity.",0.0,TRK,0.035686604825627924,0.011420196670913174,0.02355340074827055
+Khaaaaaaaaaaaannn!,154,uncommon,{X}{R},1.0,R,R,Instant,,,normal,,"Khaaaaaaaaaaaannn! deals twice X damage to target creature. If that creature would die this turn, exile it instead.",0.0,TRK,0.012297778960630192,0.017746671764990098,0.015022225362810145
+"Khan, Despot by Design",155,uncommon,{4}{R},5.0,R,R,Legendary Creature — Human Rogue,5,4,normal,Trample,"Trample
+When Khan enters, he deals 1 damage to each opponent and each creature your opponents control.",0.0,TRK,-0.0019643211893848444,0.026842070578794865,0.012438874694705011
+"La'An Noonien-Singh, Security",156,uncommon,{2}{R}{R},4.0,R,R,Legendary Creature — Human Soldier,4,3,normal,,"Whenever you attack while creatures you control have total power 8 or greater, target creature can't block this turn.",0.0,TRK,-0.02652340280946477,-0.035737609103877584,-0.031130505956671176
+"Lwaxana Troi, Charming Guest",157,rare,{1}{R},2.0,R,R,Legendary Creature — Betazoid Advisor,2,2,normal,,"You may choose not to untap Lwaxana Troi during your untap step.
+{2}, {T}: Choose another target creature you control. For as long as Lwaxana Troi remains tapped, if a triggered ability of that creature triggers, that ability triggers an additional time.",0.0,TRK,-0.010924255272171546,-0.0314935110975219,-0.021208883184846726
+Munitions Enthusiast,158,uncommon,{1}{R},2.0,R,R,Creature — Klingon Warrior,3,2,normal,Trample,"Trample
+When this creature dies, it deals 1 damage to any target.",0.0,TRK,0.008369597293760063,0.018772645089237927,0.013571121191498996
+The Naked Time,159,uncommon,{1}{R},2.0,R,R,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle.
+II — Whenever a creature you control enters this turn, put a +1/+1 counter on it and it gains haste until end of turn.
+III — Sacrifice a land.",0.0,TRK,-0.027897420463421408,-0.023969665841317087,-0.025933543152369246
+Pah-Wraith,160,rare,{5}{R}{R},7.0,R,R,Creature — Wraith,4,4,normal,First strike;Haste;Strange new worlds,"First strike, haste
+Strange new worlds — Whenever this creature attacks, creatures you control get +X/+0 until end of turn, where X is the number of differently named lands you control.",0.0,TRK,-0.006761412683225464,-0.01100630236833105,-0.008883857525778256
+Perils of the Past,161,common,{1}{R},2.0,R,R,Instant,,,normal,Destroy the Relic;Use the Relic,"Choose one —
+• Use the Relic — Target creature gets +3/+2 until end of turn.
+• Destroy the Relic — Destroy target artifact.",0.0,TRK,-0.032353019720422295,-0.030854032986200767,-0.03160352635331153
+Planetary Bombardment,162,common,{R},1.0,R,R,Sorcery,,,normal,,Planetary Bombardment deals 2 damage to target creature. Planetary Bombardment deals 4 damage to that creature instead if a creature died this turn.,0.0,TRK,-0.0015242180548333162,0.0044933103516499135,0.0014845461484082987
+Planetary Patrol,163,common,{1}{R},2.0,R,R,Creature — Scout,2,2,normal,Landfall,"Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.",0.0,TRK,-0.020181469002838546,-0.026393390617226346,-0.023287429810032446
+Plasma Cascade,164,common,{2}{R},3.0,R,R,Instant,,,normal,,"Plasma Cascade deals 3 damage to any target. You may discard a card. If you do, draw a card.",0.0,TRK,0.0012664733296983246,-0.010465144219573718,-0.0045993354449376965
+"Q, Stacking the Deck",165,mythic,{2}{R}{R},4.0,R,R,Legendary Creature — Q,4,4,normal,,"When Q enters, shuffle your library, then exile cards from the top of your library until you exile a nonland card. That nonland card gains ""Exile a card from your hand: Create a copy of this card. You may cast the copy. Activate only during your turn and only if this card is exiled.""",0.0,TRK,0.04596048363115556,0.04380702243209098,0.04488375303162327
+"Quark, Humble Proprietor",166,mythic,{2}{R},3.0,R,R,Legendary Creature — Ferengi Rogue,1,2,normal,Treasure,"You can't sacrifice Treasure tokens.
+At the beginning of each upkeep, create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",0.0,TRK,-0.005018891489586946,0.012137226480791139,0.0035591674956020965
+Ravenous Cosmozoan,167,uncommon,{5}{R},6.0,R,R,Creature — Fish,3,3,normal,Flying;Haste,"This spell costs {1} less to cast for each noncreature, nonland card in your graveyard.
+Flying, haste",0.0,TRK,-0.03203582652410164,-0.016084337073837968,-0.024060081798969804
+Reckless Impulse,168,common,{1}{R},2.0,R,R,Sorcery,,,normal,,"Exile the top two cards of your library. Until the end of your next turn, you may play those cards.",0.0,TRK,-0.022521258018003962,-0.04102452613350977,-0.03177289207575687
+Red Alert!,169,uncommon,{2}{R},3.0,R,R,Instant,,,normal,,"This spell costs {2} less to cast if a creature is attacking you.
+Creatures you control get +2/+0 until end of turn.",0.0,TRK,-0.023362879089813927,-0.032304863501979315,-0.027833871295896623
+"Sarcophagus, Ship of the Dead",170,uncommon,{2}{R},3.0,R,R,Legendary Artifact — Spacecraft,4,4,normal,Station,"Other creatures you control get +1/+0.
+Whenever a creature dies, if Sarcophagus isn't a creature, put a charge counter on it.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.)
+10+ | Flying",0.0,TRK,-0.0340874019803152,-0.026948641253223493,-0.030518021616769347
+Savvy Profiteer,171,common,{1}{R},2.0,R,R,Creature — Ferengi Rogue,2,1,normal,Treasure,"{T}: Add {R}.
+{3}, {T}: Create a Treasure token. (It's an artifact with ""{T}, Sacrifice this token: Add one mana of any color."")",0.0,TRK,-0.012910930397021491,-0.010603255531941094,-0.011757092964481294
+Silicate Surveyor,172,common,{4}{R},5.0,R,R,Creature — Tholian Scout,4,4,normal,Reach,"Reach
+When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.",0.0,TRK,-0.01618262192370235,0.00446997174260302,-0.005856325090549664
+Starfleet Security,173,common,{R},1.0,R,R,Creature — Human Officer,1,1,normal,Investigate;Haste,"Haste
+When this creature dies during your turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",0.0,TRK,-0.016230100500892502,-0.0013811340468744735,-0.008805617273883487
+Tal Shiar Analyst,174,common,{2}{R},3.0,R,R,Creature — Romulan Scientist,3,2,normal,,"{T}: This creature deals 1 damage to each opponent.
+Whenever you cast a noncreature spell, untap this creature.",0.0,TRK,-0.03681374086797112,-0.016367334496590155,-0.02659053768228064
+Targ Wrangler,175,uncommon,{2}{R},3.0,R,R,Creature — Klingon Warrior,5,3,normal,Menace,"Menace (This creature can't be blocked except by two or more creatures.)
+At the beginning of your end step, if this creature attacked this turn, sacrifice a nonland permanent.",0.0,TRK,-0.02551779264496623,-0.02413679148644981,-0.02482729206570802
+"Tasha Yar, Out of Time",176,rare,{1}{R},2.0,R,R,Legendary Creature — Human Officer,2,1,normal,Haste,"Haste
+When Tasha Yar dies, exile the top card of your library. Until the end of your next turn, you may play that card.
+{2}{R}, Exile this card from your graveyard: Create a token that's a copy of this card. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.",0.0,TRK,-0.002626278889154095,0.0026716067519905714,2.2663931418238133e-05
+Test of Identity,177,uncommon,{1}{R},2.0,R,R,Instant,,,normal,I Am Klingon;I Am Starfleet,"Choose one —
+• I Am Klingon — Target Klingon gets +1/+1 and gains double strike until end of turn.
+• I Am Starfleet — Discard a card. If you do, draw two cards.",0.0,TRK,-0.01649344874318468,-0.001563413360969218,-0.00902843105207695
+Transporter Malfunction,178,uncommon,{1}{R},2.0,R,R,Sorcery,,,normal,,"Transporter Malfunction deals 3 damage to any target.
+Beam me up {3}{R}{R}{R} (You may cast this card from your graveyard for {3}{R}{R}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.0008915702551473275,-0.004080236562030546,-0.002485903408588937
+"Will Riker, First in the Field",179,rare,{3}{R},4.0,R,R,Legendary Creature — Human Officer,4,3,normal,,"At the beginning of combat on your turn, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield and the rest on the bottom of your library in a random order. Sacrifice those lands at the beginning of your next end step.",0.0,TRK,0.0005183253373821578,0.008718952552223217,0.004618638944802687
+"Worf, Intelligence Contractor",180,rare,{2}{R},3.0,R,R,Legendary Creature — Klingon Warrior Spy,3,2,normal,,"When Worf enters, for each opponent, gain control of up to one target creature that player controls with mana value 3 or less until end of turn. Untap those creatures. Until end of turn, they become Warriors in addition to their other types and gain haste.",0.0,TRK,0.018698480702507472,0.029969547085721908,0.02433401389411469
+The Wrath of Khan,181,rare,{2}{R},3.0,R,R,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — This Saga deals 4 damage to target creature an opponent controls. At the beginning of the next combat this turn, gain control of that creature until end of turn. Untap it. It gains haste until end of turn.
+II — You may exile a card from your hand. If you do, draw a card.
+III — Each opponent sacrifices a nontoken permanent of their choice.",0.0,TRK,0.022033861848150402,0.022443101707383138,0.022238481777766772
+Adversary by Algorithm,182,uncommon,{2}{G},3.0,G,G,Sorcery,,,normal,,"Create a 3/3 colorless Illusion artifact creature token.
+Beam me up {3}{G} (You may cast this card from your graveyard for {3}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.006137264228762887,-0.003587618298760058,-0.004862441263761472
+Amok Time,183,uncommon,{2}{G},3.0,G,G,Enchantment — Saga,,,saga,Fight,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Target creature you control fights up to one target creature an opponent controls.
+II — You gain 3 life.
+III — Return target creature card from your graveyard to your hand.",0.0,TRK,0.014111433157931149,0.013999012266761927,0.014055222712346539
+Astute Terraformer,184,common,{1}{G},2.0,G,G,Creature — Vulcan Scientist,2,2,normal,Strange new worlds,"Strange new worlds — {6}: This creature gets +2/+2 until end of turn. This ability costs {X} less to activate, where X is the number of differently named lands you control. Activate only once each turn.",0.0,TRK,-0.002515759418165769,-0.007681995449210652,-0.00509887743368821
+Branching Timeline,185,rare,{6}{G}{G},8.0,G,G,Sorcery,,,normal,Strange new worlds,"Strange new worlds — Reveal the top X cards of your library, where X is the number of differently named lands you control. Put all permanent cards revealed this way onto the battlefield tapped and the rest on the bottom of your library in a random order.",0.0,TRK,0.005491472170601509,0.014110845508997525,0.009801158839799517
+Captain Jonathan Archer,186,rare,{2}{G},3.0,G,G,Legendary Creature — Human Officer,3,3,normal,,"When Captain Archer enters, create Porthos, a legendary 1/1 green Dog creature token.
+Federation — {G}, {T}: Target creature you control gets +X/+X until end of turn, where X is the number of creature types among non-Borg creatures you control. Activate only as a sorcery.",0.0,TRK,0.03145997648199914,0.03756406655456784,0.03451202151828349
+Captain Kathryn Janeway,187,mythic,{3}{G},4.0,G,G,Legendary Creature — Human Officer,2,3,normal,Explore,"You may play an additional land on each of your turns.
+Whenever Captain Janeway or another creature you control enters, that creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)",0.0,TRK,0.02280996341007943,0.015577734603190474,0.019193849006634952
+"Captain Pike, Fullness of Time",188,rare,{1}{G}{G},3.0,G,G,Legendary Creature — Human Officer Scout,*,*,normal,Strange new worlds,"Strange new worlds — Captain Pike's power and toughness are each equal to the number of differently named lands you control.
+You may look at the top card of your library any time.
+You may play lands from the top of your library.",0.0,TRK,0.015169619288745924,0.05168601007675582,0.03342781468275087
+Cold-Blooded Crew,189,common,{4}{G}{G},6.0,G,G,Creature — Gorn Warrior,4,4,normal,Landcycling;Basic landcycling;Typecycling;Cycling,"When this creature enters, put two +1/+1 counters on target creature.
+This creature can't be blocked by creatures with power 2 or less.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)",0.0,TRK,-0.0018072199524001619,0.004411463877686921,0.0013021219626433798
+Common Goal,190,common,{1}{G},2.0,G,G,Sorcery,,,normal,,One or two target creatures you control each deal damage equal to their power to target creature an opponent controls.,0.0,TRK,-0.013558030677273961,0.006907915457817835,-0.0033250576097280634
+"Culber and Stamets, Star-Crossed",191,uncommon,{3}{G},4.0,G,G,Legendary Creature — Human Doctor Artificer,3,4,normal,,"When Culber and Stamets enter, choose one —
+• Put a +1/+1 counter on target creature.
+• Add two mana of any one color.",0.0,TRK,-0.02143596362904246,-0.002478348588864742,-0.011957156108953601
+Dathon and Picard at El-Adrel,192,common,{2}{G},3.0,G,G,Instant,,,normal,"Temba, His Arms Wide;Shaka, When the Walls Fell","Choose one —
+• Temba, His Arms Wide — Target creature gets +3/+3 and gains trample until end of turn.
+• Shaka, When the Walls Fell — Each opponent sacrifices a nontoken artifact or enchantment of their choice.",0.0,TRK,-0.002548841609515413,-0.048796883189201404,-0.02567286239935841
+"David and Carol Marcus, Creators",193,uncommon,{2}{G},3.0,G,G,Legendary Creature — Human Scientist,1,3,normal,,"When David and Carol Marcus enter, create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,-0.014462400231372668,-0.019595850291303313,-0.017029125261337992
+Dominion Assault Force,194,common,{3}{G},4.0,G,G,Creature — Jem'Hadar Warrior,4,4,normal,Surveil;Vigilance,"Vigilance
+When this creature enters, choose one —
+• Exile target card from a graveyard.
+• Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",0.0,TRK,-0.006098262887569121,-0.005101744995006374,-0.0056000039412877475
+Dominion Supervisor,195,common,{2}{G},3.0,G,G,Creature — Vorta Doctor,3,1,normal,,"When this creature enters, put a +1/+1 counter on target creature.
+Creatures you control with counters on them have trample.",0.0,TRK,-0.004547620940114029,-0.010835585225064576,-0.0076916030825893026
+Dr. Joseph M'Benga,196,mythic,{2}{G}{G},4.0,G,G,Legendary Creature — Human Doctor,3,3,normal,,"Other creatures you control with counters on them have hexproof.
+If you would put one or more counters on a creature you control, put twice that many of each of those kinds of counters on that creature instead.",0.0,TRK,0.025998268802013065,-0.027171119517129163,-0.0005864253575580489
+"Dr. Leonard ""Bones"" McCoy",197,rare,{1}{G}{G},3.0,G,G,Legendary Creature — Human Doctor,3,2,normal,Flash,"Flash
+When Dr. McCoy enters, choose one —
+• Return target non-Doctor permanent card from your graveyard to your hand.
+• Choose up to one other target creature. When it dies this turn, return that card to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.",0.0,TRK,0.033222100307453185,-0.006359387915518393,0.013431356195967397
+Final Frontier,198,common,{2}{G},3.0,G,G,Sorcery,,,normal,,"Search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle.
+Beam me up {1}{G} (You may cast this card from your graveyard for {1}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)",0.0,TRK,-0.015210719176135926,-0.017865357484575742,-0.016538038330355834
+First Contact,199,common,{1}{G},2.0,G,G,Instant,,,normal,Mill,"Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life. (To mill four cards, put the top four cards of your library into your graveyard.)",0.0,TRK,-0.0007175720418092695,-0.003369539838113039,-0.0020435559399611543
+Genesis Device,200,rare,{2}{G},3.0,G,G,Legendary Artifact,,,normal,,"When Genesis Device enters, search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle.
+{3}{G}{G}, {T}, Sacrifice Genesis Device: Sacrifice any number of lands you control, then search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle. Activate only as a sorcery.",0.0,TRK,0.004204912662609969,0.018351389371826572,0.01127815101721827
+Holo-Engineer,201,rare,{2}{G}{G},4.0,G,G,Creature — Human Artificer,3,3,normal,,"When this creature enters, create a 3/3 colorless Illusion artifact creature token.
+If one or more tokens would be created under your control, that many 3/3 colorless Illusion artifact creature tokens are created instead.",0.0,TRK,0.06608345779293837,0.013266272333811637,0.039674865063375
+Hologram Stalker,202,uncommon,{4}{G}{G},6.0,G,G,Creature — Hirogen Warrior,2,2,normal,,"When this creature enters, return target permanent card from your graveyard to your hand.
+Whenever a card leaves your graveyard, create a 3/3 colorless Illusion artifact creature token. This ability triggers only once each turn.",0.0,TRK,0.03455798191315938,0.005596761561512387,0.020077371737335883
+"I'm a Doctor, Not a . . .",203,common,{G},1.0,G,G,Instant,,,normal,,"Put a +1/+1 counter on target creature you control. Untap it. Until end of turn, it gets +1/+1 and becomes a Doctor. (It loses all other creature types.)",0.0,TRK,-0.010125263171070526,-0.033717951256494266,-0.021921607213782397
+"Jadzia Dax, Living Legacy",204,mythic,{1}{G},2.0,G,G,Legendary Creature — Trill Scientist,0,1,normal,Transfer Symbiont,"At the beginning of your first main phase, put a +1/+1 counter on Jadzia Dax, then add an amount of {G} equal to the number of counters on her.
+Transfer Symbiont — {2}{G}, Discard this card: Put two +1/+1 counters on target creature.",0.0,TRK,0.016203196664148396,0.029768542875309324,0.02298586976972886
+"Jake Sisko, War Correspondent",205,uncommon,{1}{G},2.0,G,G,Legendary Creature — Human Citizen,2,2,normal,Investigate;Landfall,"Landfall — Whenever a land you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, investigate. (Create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",0.0,TRK,0.015836549162546662,0.027711305080901413,0.02177392712172404
+MACO Strike Team,206,rare,{G},1.0,G,G,Creature — Human Soldier,2,1,normal,,"Whenever a creature you control becomes the target of a spell or ability an opponent controls, create a tapped 1/1 red Officer creature token.",0.0,TRK,0.030563007920225076,0.016421793425645387,0.023492400672935232
+Moopsy,207,common,{G},1.0,G,G,Creature — Beast,1,1,normal,Deathtouch,"Deathtouch
+{2}: This creature gains reach until end of turn.",0.0,TRK,0.0011117876582283732,0.021106672064461856,0.011109229861345115
+Mugato,208,uncommon,{3}{G}{G},5.0,G,G,Creature — Ape Beast,6,6,normal,Reach;Vigilance;Deathtouch,"Reach, vigilance, deathtouch",0.0,TRK,0.0022733075517303372,0.00022610363890545162,0.0012497055953178944
+"Neelix, Moral Support",209,uncommon,{1}{G},2.0,G,G,Legendary Creature — Talaxian Advisor,1,1,normal,Food,"When Neelix enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+Whenever you gain life, put a +1/+1 counter on Neelix.",0.0,TRK,0.005156454466171953,-0.015191218498508012,-0.0050173820161680295
+Photosynthetic Physician,210,common,{4}{G},5.0,G,G,Creature — Plant Doctor,5,5,normal,Reach,"Reach
+{G}, Exile this card from your graveyard: Create a 1/1 red Officer creature token. Activate only as a sorcery.",0.0,TRK,-0.008190950303743385,-0.017410207085317545,-0.012800578694530464
+"Rok-Tahk, Budding Scientist",211,mythic,{4}{G}{G},6.0,G,G,Legendary Creature — Brikar Scientist,5,5,normal,,"Creatures you control have ""{T}: Add {G}{G}.""
+When Rok-Tahk enters, create Murf, a legendary 0/1 green Ooze Slug creature token with indestructible.",0.0,TRK,0.037031086286477444,0.03764757466879978,0.03733933047763861
+"Saru, Unthreatened",212,uncommon,{2}{G},3.0,G,G,Legendary Creature — Kelpien Officer,3,2,normal,Flash,"Flash
+When Saru enters, another target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",0.0,TRK,0.00809321334684401,0.007546635312812411,0.00781992432982821
+Saurian Explorer,213,common,{3}{G},4.0,G,G,Creature — Dinosaur Scout,4,3,normal,Landfall,"Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn.
+{6}: Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color."" Activate only as a sorcery.",0.0,TRK,-0.00550687279438167,-0.011933768085032593,-0.008720320439707132
+Species 8472,214,uncommon,{4}{G}{G},6.0,G,G,Creature — Insect Beast,7,5,normal,Strange new worlds,"Strange new worlds — When this creature enters, you gain life equal to the number of differently named lands you control.
+This creature can't be blocked by artifact creatures.
+This creature can't be the target of abilities from artifact sources your opponents control.",0.0,TRK,0.02320221959338303,0.016238240446946755,0.019720230020164892
+Stable Wormhole,215,rare,{2}{G},3.0,G,G,Enchantment,,,normal,,"Whenever you attack, create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,-0.029205395961856114,-0.032982078843020866,-0.03109373740243849
+Support Mission,216,uncommon,{2}{G},3.0,G,G,Enchantment,,,normal,,"Whenever a creature you control enters, put a quest counter on this enchantment. Put a +1/+1 counter on that creature. If this enchantment has five or more quest counters on it, instead put two +1/+1 counters on that creature.",0.0,TRK,-0.030229719884325598,-0.04904338112250236,-0.03963655050341398
+"Sylvia Tilly, Joy of Discovery",217,uncommon,{2}{G},3.0,G,G,Legendary Creature — Human Scientist Artificer,2,2,normal,Surveil,"When Sylvia Tilly enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+At the beginning of combat on your turn, you may pay {1} and exile a card from your graveyard. When you do, put a +1/+1 counter on target creature.",0.0,TRK,0.008048883971246099,0.00865722606893736,0.008353055020091728
+Syndicate Liquidators,218,uncommon,{4}{G},5.0,G,G,Creature — Orion Pirate,4,4,normal,Trample;Landfall,"Trample
+Landfall — Whenever a land you control enters, put two +1/+1 counters on target creature you control.",0.0,TRK,-0.014818678965905092,0.00570681895687618,-0.004555930004514456
+Temporal Conqueror,219,common,{2}{G},3.0,G,G,Creature — Na'kuhl Warrior,2,3,normal,Treasure;Mill,"When this creature enters, mill three cards. Then return a land card from your graveyard to your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards from your library into your graveyard.)",0.0,TRK,0.005854321306285894,-0.0005136015831057905,0.0026703598615900517
+Test of Courage,220,uncommon,{G},1.0,G,G,Instant,,,normal,Obliterate the Transwarp Network;Alter the Past,"Choose one —
+• Alter the Past — Exile target card from a graveyard. You gain 2 life.
+• Obliterate the Transwarp Network — Destroy target artifact or enchantment with mana value 3 or less.",0.0,TRK,-0.007407269445372303,-0.02617588008083662,-0.01679157476310446
+"U.S.S. Discovery, at Black Alert",221,rare,{3}{G}{G},5.0,G,G,Legendary Artifact — Spacecraft,5,5,normal,Station;Discover,"Whenever U.S.S. Discovery enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Station
+6+ | Flying",0.0,TRK,-0.012584412026869472,0.05231825882458796,0.019866923398859246
+"U.S.S. Voyager, Lone Wanderer",222,uncommon,{3}{G},4.0,G,G,Legendary Artifact — Spacecraft,3,3,normal,Station,"When U.S.S. Voyager enters, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)
+8+ | Flying, vigilance",0.0,TRK,-0.0063457432368967245,0.014259828920322948,0.0039570428417131116
+Warp Speed,223,uncommon,{2}{G},3.0,G,GU,Enchantment,,,normal,Strange new worlds,"Lands you control enter untapped.
+When this enchantment enters, search your library for a basic land card or Planet card, reveal it, put it into your hand, then shuffle.
+Strange new worlds — {7}{U}{U}, Sacrifice this enchantment: Draw two cards. This ability costs {X} less to activate, where X is the number of differently named lands you control.",0.0,TRK,-0.004248903442946489,0.012752201752169975,0.004251649154611743
+Xenobotanist,224,common,{1}{G},2.0,G,G,Creature — Vulcan Scientist,1,3,normal,,{T}: Add one mana of any color.,0.0,TRK,-0.0033886734496835595,0.0029138641536766673,-0.00023740464800344613
+Xindi Surveyors,225,common,{2}{G},3.0,G,G,Creature — Xindi Scientist,3,2,normal,Landfall,"Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.",0.0,TRK,-0.018133318355196104,-0.009775817206487378,-0.013954567780841741
+All Good Things...,226,rare,{3}{G}{U},5.0,GU,GU,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+I, II, III — Draw two cards, then exile a card from your hand.
+IV — If all cards exiled with this Saga share a card type, you gain 10 life.",0.0,TRK,0.005133662025278354,0.021177757477877777,0.013155709751578065
+Borg Cube,227,mythic,{5}{W}{B},7.0,BW,BW,Artifact — Spacecraft,6,6,normal,Assimilate;Affinity;Station,"Affinity for artifact creatures
+Whenever this Spacecraft enters or attacks, assimilate a creature card exiled with it. If you can't, exile up to one target creature. (To assimilate a card, put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)
+Station
+12+ | Artifact creatures you control have flying.",0.0,TRK,0.05273555526508711,0.08229228449211244,0.06751391987859978
+The City on the Edge of Forever,228,rare,{3}{W}{B},5.0,BW,BW,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — All artifacts and creatures phase out. Create a 0/1 white Human creature token with ""Permanents can't phase in."" (Treat phased-out permanents and anything attached to them as though they don't exist.)
+II — You draw two cards and each player loses 2 life.
+III — Sacrifice a creature token. If you do, you gain 5 life.",0.0,TRK,0.08487492709376232,0.054310282013615534,0.06959260455368893
+"Cleveland Booker, Empath",229,uncommon,{2}{R/G}{R/G},4.0,GR,GR,Legendary Creature — Kwejian Rogue,2,2,normal,Landfall,"Landfall — Whenever a land you control enters, create a 2/2 red and green Worm creature token with ""This token can't block.""
+{8}: Creatures you control get +2/+0 until end of turn.",0.0,TRK,-0.01719248441176969,-0.0004035276283566483,-0.008798006020063169
+Constable Odo,230,uncommon,{3}{W/U}{W/U},5.0,UW,UW,Legendary Creature — Shapeshifter Detective,4,3,normal,Investigate,"When Constable Odo enters, choose one —
+• Tap target creature an opponent controls. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+• Investigate twice. (To investigate, create a Clue token. It's an artifact with ""{2}, Sacrifice this token: Draw a card."")",0.0,TRK,0.0228368217454468,0.024365507853255548,0.023601164799351176
+"Dal R'El, Augment Orphan",231,uncommon,{1}{R}{G},3.0,GR,GR,Legendary Creature — Human Mutant Rogue,3,3,normal,Landfall,"Landfall — Whenever a land you control enters, add {R} or {G}.
+{3}, Sacrifice a land: Draw a card.",0.0,TRK,-0.00894416405257923,-0.007019282861825085,-0.007981723457202158
+"Daniels, Temporal Agent",232,uncommon,{2}{B/G}{B/G},4.0,BG,BG,Legendary Creature — Human Advisor,3,1,normal,,"When Daniels enters, return target creature card from your graveyard to your hand.
+{2}, Put this card from your graveyard on the bottom of your library: You gain 2 life.",0.0,TRK,-0.0017738366583360014,0.00012834622916579191,-0.0008227452145851047
+"Dathon, His Heart Open",233,rare,{G}{U}{R},3.0,GRU,GRU,Legendary Creature — Tamarian Officer,3,3,normal,,"Whenever you cast an enchantment spell, draw a card. If it's a Saga spell, Dathon deals 2 damage to each opponent.
+{2}: Choose a counter on target enchantment you control. Put another counter of that kind on it. Activate only as a sorcery.",0.0,TRK,-0.01091953401766265,0.004491888393743624,-0.0032138228119595134
+"The Doctor, EMH",234,uncommon,{3}{G/W}{G/W},5.0,GW,GW,Legendary Artifact Creature — Illusion Doctor,3,3,normal,,"When The Doctor enters, put a +1/+1 counter on target creature. Then put a +1/+1 counter on each creature you control with a counter on it.",0.0,TRK,0.0031000403681180804,-0.015403198208678207,-0.0061515789202800635
+The Duras Sisters,235,uncommon,{B/R}{B/R},2.0,BR,BR,Legendary Creature — Klingon Warrior,3,2,normal,,"When The Duras Sisters die, create a 2/1 red Klingon Warrior creature token with haste.",0.0,TRK,-0.0054071596450842325,0.006889453441553107,0.0007411468982344372
+"D'Vana Tendi, Optimistic Ensign",236,uncommon,{1}{G/U}{G/U},3.0,GU,GU,Legendary Creature — Orion Scientist,2,4,normal,Surveil,"{T}: Untap another target permanent.
+{3}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",0.0,TRK,-0.011396392420945842,0.002565708335483885,-0.0044153420427309785
+"Gowron, Eager for Battle",237,rare,{2}{B}{R},4.0,BR,BR,Legendary Creature — Klingon Warrior,3,3,normal,,"Whenever another creature dies, put a +1/+1 counter on Gowron.
+Sacrifice another creature: Gowron gains trample until end of turn. If you sacrificed a Klingon this way, you draw a card and lose 1 life.",0.0,TRK,-0.009233793918410248,-0.010060435325914554,-0.0096471146221624
+"Gray and Adira, Forever Joined",238,uncommon,{2}{U/R}{U/R},4.0,RU,RU,Legendary Creature — Trill Human Officer,2,3,normal,,"At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of target creature you control, except it isn't legendary. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",0.0,TRK,-0.015310669174956165,-0.024827253595097392,-0.020068961385026778
+"Hemmer, Fixing What Is Broken",239,uncommon,{W}{U},2.0,UW,UW,Legendary Creature — Aenar Artificer,2,3,normal,,"During your turn, Spacecraft you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+Whenever Hemmer becomes tapped, draw a card, then discard a card.",0.0,TRK,0.013800615253679255,0.02854797869478047,0.021174296974229862
+Hit It!,240,rare,{1}{R}{G},3.0,GR,GR,Enchantment,,,normal,,"Creatures you control have haste.
+When this enchantment enters, reveal the top five cards of your library. Put a land card from among them onto the battlefield tapped and the rest into your graveyard.",0.0,TRK,-0.004112367252827373,-0.0027271409105364976,-0.003419754081681935
+The Inner Light,241,rare,{3}{G}{W},5.0,GW,GW,Enchantment — Saga,,,saga,Treasure,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Return target green or white creature card from your graveyard to the battlefield.
+II — Choose target creature. Whenever it deals combat damage to a player this turn, you draw that many cards.
+III — You gain life equal to the greatest power among creatures you control. Create a Treasure token.",0.0,TRK,0.07485917431367772,0.03400950957013884,0.054434341941908285
+"Kira Nerys, Firebrand",242,rare,{1}{R}{W},3.0,RW,RW,Legendary Creature — Bajoran Soldier,4,3,normal,Trample,"Trample
+If a creature you control would enter while you control an attacking creature, instead it enters tapped and attacking.
+Whenever another creature you control enters, it gets +1/+1 until end of turn.",0.0,TRK,0.0024498474791872765,0.013675084546411741,0.008062466012799509
+"Kirk, Commanding Officer",243,uncommon,{1}{R}{W},3.0,RW,RW,Legendary Creature — Human Officer,3,3,normal,,"Whenever you attack while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn.
+{2}, Sacrifice Kirk: Destroy target artifact or enchantment.",0.0,TRK,-0.0031381831462344205,-0.007921773760329221,-0.005529978453281821
+Live Long and Prosper,244,rare,{5}{W}{U},7.0,UW,UW,Sorcery,,,normal,Double,"This spell can't be countered.
+Double your life total. Draw cards equal to the number of cards in your hand. You have no maximum hand size until your next turn.",0.0,TRK,0.015270310112583542,-0.004488685990994447,0.005390812060794547
+"Locutus, the One Who Speaks",245,uncommon,{W}{B},2.0,BW,BW,Legendary Artifact Creature — Borg,1,1,normal,,"Artifact creatures you control get +1/+1.
+{W}{B}, Discard this card: It deals 2 damage to target creature. You gain 2 life.",0.0,TRK,-0.002929160051775597,0.020573974782613694,0.008822407365419048
+"Lore, Positronic Provocateur",246,uncommon,{1}{U/B}{U/B},3.0,BU,BU,Legendary Artifact Creature — Android Rogue,2,3,normal,Surveil,"When Lore enters, choose one —
+• Target creature gets +1/+0 until end of turn and can't be blocked this turn.
+• Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)",0.0,TRK,0.016982793333516523,-0.005769875775916892,0.005606458778799815
+"L'Rell, Fierce Visionary",247,uncommon,{1}{B}{R},3.0,BR,BR,Legendary Creature — Klingon Warrior,1,4,normal,Surveil,"At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step.
+{2}, Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)",0.0,TRK,-0.0033670607686562388,-0.01124190526858079,-0.007304483018618514
+Mirror Universe Intrusion,248,rare,{1}{U}{B},3.0,BU,BU,Sorcery,,,normal,Kicker,"Kicker {4}{U}{B} (You may pay an additional 4 as you cast this spell.)
+Create a token that's a copy of target creature an opponent controls, except it has menace. If this spell was kicked, instead for each creature target opponent controls, create a token that's a copy of that creature, except it has menace.",0.0,TRK,0.012289585304202565,0.04763796702450856,0.02996377616435556
+"Nog, Ambitious Cadet",249,rare,{B}{G},2.0,BG,BG,Legendary Creature — Ferengi Rogue,2,2,normal,Surveil;Menace,"Menace
+{1}: If Nog is a Rogue, he becomes a Ferengi Scout with base power and toughness 3/4 and gains ""Whenever Nog becomes tapped, surveil 2.""
+{3}: If Nog is a Scout, he becomes a Ferengi Officer and gains ""You may play lands from your graveyard"" and ""You may play an additional land on each of your turns.""",0.0,TRK,0.024807076111661188,0.007746712442785518,0.016276894277223352
+"Phlox, Unorthodox Doctor",250,uncommon,{2}{G}{W},4.0,GW,GW,Legendary Creature — Denobulan Doctor,3,4,normal,Trample,"Trample
+Whenever a creature you control with a counter on it deals combat damage to a player, draw a card.",0.0,TRK,0.001078040030669031,-0.031489206476038256,-0.015205583222684612
+"Sarek, Federation Ambassador",251,rare,{1}{G}{W}{U},4.0,GUW,GUW,Legendary Creature — Vulcan Advisor,0,5,normal,,"Federation — At the beginning of combat on your turn, draw a card for every five creature types among non-Borg creatures you control. If you draw three or more cards this way, put two +1/+1 counters on each creature you control.",0.0,TRK,0.012034665076720009,0.00691174279247417,0.00947320393459709
+Seven of Nine,252,uncommon,{2}{U}{B},4.0,BU,BU,Legendary Artifact Creature — Human Scientist,2,4,normal,Face a dilemma,"Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)",0.0,TRK,-0.016002266343730455,-0.06691690756636637,-0.04145958695504841
+"Spock, Always Your Friend",253,uncommon,{U}{R},2.0,RU,RU,Legendary Creature — Vulcan Human Scientist,2,2,normal,,"When Spock enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",0.0,TRK,0.02163794663021265,0.043819616319552994,0.032728781474882826
+The Traveler,254,uncommon,{G}{U},2.0,GU,GU,Legendary Creature — Scout,*,3,normal,Reach;Vigilance;Strange new worlds,"Reach, vigilance
+Strange new worlds — The Traveler's power is equal to the number of differently named lands you control.",0.0,TRK,-0.0013546759658363977,0.0005555361377140521,-0.0003995699140611728
+"Vash, Freelance Archaeologist",255,uncommon,{1}{B}{G},3.0,BG,BG,Legendary Creature — Human Rogue Scientist,2,4,normal,Surveil,"At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever a card leaves your graveyard, draw a card. This ability triggers only once each turn.",0.0,TRK,0.001912322770987553,0.00984297711486783,0.005877649942927691
+"Worf, Honor-Bound Warrior",256,uncommon,{R/W}{R/W},2.0,RW,RW,Legendary Creature — Klingon Warrior Officer,1,1,normal,Double,"Whenever you attack while creatures you control have total power 8 or greater, double Worf's power until end of turn.
+Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Worf. Activate only as a sorcery.",0.0,TRK,-0.013712103573935855,-0.03483792213388063,-0.02427501285390824
+Year of Hell,257,rare,{1}{U}{R},3.0,RU,RU,Enchantment — Saga,,,saga,,"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I, II, III — Each player draws a card. This Saga deals 2 damage to each player.",0.0,TRK,-0.00841265969123993,0.01272544639261528,0.0021563933506876755
+"Zero, Incorporeal Sensate",258,uncommon,{1}{W/B}{W/B},3.0,BW,BW,Legendary Artifact Creature — Medusan Scientist,2,2,normal,Lifelink,"Lifelink
+When Zero enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.",0.0,TRK,0.025442392736689478,0.03416454793227338,0.029803470334481427
+Class-F Shuttlecraft,259,common,{3},3.0,,,Artifact — Spacecraft,2,4,normal,Station,"{T}: Add one mana of any color.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying, vigilance",0.0,TRK,-0.018722533328689887,-0.04171735607489668,-0.030219944701793285
+Combadge,260,uncommon,{3},3.0,,,Artifact — Communicator Equipment,,,normal,Equip,"When you cast this spell, copy it. (The copy becomes a token.)
+Equipped creature has ""Whenever this creature attacks while you control another creature with a Communicator attached to it, this creature can't be blocked this turn.""
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",0.0,TRK,-0.03921055592426866,-0.07246856570934054,-0.055839560816804606
+Crystalline Entity,261,mythic,{8},8.0,,,Artifact Creature — Elemental,7,7,normal,Flying,"Flying
+When this creature enters, if you cast it, destroy all nonartifact creatures.",0.0,TRK,0.020148078101087798,0.03594192056226314,0.02804499933167547
+Cybernetic Specialist,262,common,{2},2.0,,,Artifact Creature — Human Scientist,2,1,normal,Surveil,"When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+{1}, {T}: Put target card from your graveyard on the bottom of your library.",0.0,TRK,-0.011036745051871188,-0.020694862176370423,-0.015865803614120808
+Deep Space 9,263,mythic,{9},9.0,,,Legendary Artifact — Spacecraft,,,normal,Station,"When Deep Space 9 enters and at the beginning of your upkeep, exile the top four cards of your library. Put all permanent cards exiled this way onto the battlefield.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+9+ | Creatures you control get +3/+3.",0.0,TRK,0.007149517753195486,0.04321215498025657,0.02518083636672603
+Engineered Explosives,264,rare,{X},0.0,,,Artifact,,,normal,Sunburst,"Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.)
+{2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.",0.0,TRK,0.0027077299830964687,-0.03570042664421621,-0.01649634833055987
+The Holodeck,265,rare,{7},7.0,,,Legendary Artifact,,,normal,,"Once during each of your turns, you may play a permanent card you own from outside the game or from your graveyard.",0.0,TRK,-0.02573092691412998,-0.047258867638743554,-0.03649489727643677
+Isolinear Processor,266,uncommon,{2},2.0,,,Artifact,,,normal,,"{T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source.
+{2}, {T}: Draw a card, then discard a card.",0.0,TRK,-0.012179228302398313,-0.04967892364957981,-0.030929075975989064
+Replicator,267,rare,{2},2.0,,,Artifact,,,normal,Food,"When this artifact enters, create a Food token. (It's an artifact with ""{2}, {T}, Sacrifice this token: You gain 3 life."")
+{2}, {T}: Create a tapped token that's a copy of target token you control.",0.0,TRK,-0.0042310572200422465,-0.013838684563539472,-0.00903487089179086
+Sickbay,268,uncommon,{5},5.0,,,Artifact,,,normal,,"Whenever a creature you control enters, you gain 1 life.
+At the beginning of combat on your turn, put X +1/+1 counters on target creature you control, where X is one plus the amount of life you gained this turn.",0.0,TRK,-0.018944677606586042,-0.006229753095658876,-0.01258721535112246
+"Tea, Earl Grey, Hot",269,common,{2},2.0,,,Artifact — Food,,,normal,,"When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Choose one —
+• This artifact deals 2 damage to target opponent.
+• You gain 3 life.",0.0,TRK,0.005428884134749236,-0.005347605749575685,4.063919258677582e-05
+Tricorder,270,common,{1},1.0,,,Artifact — Equipment,,,normal,Surveil;Equip,"Equipped creature gets +1/+1.
+Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",0.0,TRK,-0.028271478558570602,-0.018294279073570514,-0.023282878816070558
+Type-2 Phaser,271,uncommon,{2},2.0,,,Artifact — Equipment,,,normal,Equip,"When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Equipped creature gets +3/+0.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",0.0,TRK,-0.0035153292425553857,-0.03700121161190257,-0.020258270427228976
+"U.S.S. Cerritos, Following Up",272,uncommon,{5},5.0,,,Legendary Artifact — Spacecraft,4,4,normal,Station,"When U.S.S. Cerritos enters, create two 1/1 red Officer creature tokens.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.)
+6+ | Flying",0.0,TRK,-0.010703289553659897,-0.01102888587397994,-0.010866087713819918
+"U.S.S. Enterprise-D, Galaxy-Class",273,rare,{3},3.0,,,Legendary Artifact — Spacecraft,4,5,normal,Station,"Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn.
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.)
+7+ | Flying, vigilance",0.0,TRK,-0.00255362052296246,-0.029969369206902987,-0.016261494864932724
+Warp Core,274,common,{2},2.0,,,Artifact,,,normal,,"When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}, {T}: Put two charge counters on target Spacecraft. Activate only as a sorcery.",0.0,TRK,-0.0071284371270750446,0.005992688777157263,-0.0005678741749588906
+Andoria,275,common,,0.0,,RU,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Artificial Anomaly,276,uncommon,,0.0,,B,Land,,,normal,,"{T}: Add {C}.
+{3}{B}, {T}, Sacrifice this land: Each opponent loses 2 life and you gain 2 life. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,0.007382743161977083,-0.014539285184839199,-0.0035782710114310575
+Bajor,277,common,,0.0,,RW,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Blood Crypt,278,rare,,0.0,,BR,Land — Swamp Mountain,,,normal,,"({T}: Add {B} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.014821756651172618,-0.007986064322577415
+Breeding Pool,279,rare,,0.0,,GU,Land — Forest Island,,,normal,,"({T}: Add {G} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.007314194490830138,-0.004232283242406175
+Cardassia Prime,280,common,,0.0,,BW,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+"Earth, Sector 001",281,common,,0.0,,GU,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Federation Outpost,282,rare,,0.0,,W,Land,,,normal,Surveil,"This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• You gain 2 life.
+• Surveil 1.
+{T}: Add {W}.",0.0,TRK,0.017355002839643512,0.009652474328801742,0.013503738584222626
+Ferenginar,283,common,,0.0,,BG,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Gaseous Anomaly,284,uncommon,,0.0,,U,Land,,,normal,,"{T}: Add {C}.
+{5}{U}, {T}, Sacrifice this land: Draw two cards. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,-0.001954135429057657,-0.013418504219150331,-0.007686319824103994
+Godless Shrine,285,rare,,0.0,,BW,Land — Plains Swamp,,,normal,,"({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.01487555280895438,-0.008012962401468296
+Hallowed Fountain,286,rare,,0.0,,UW,Land — Plains Island,,,normal,,"({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.013765705714337724,-0.007458038854159969
+Ni'Var Science Academy,287,rare,,0.0,,U,Land,,,normal,Surveil,"This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Target creature gains flying until end of turn.
+• Surveil 1.
+{T}: Add {U}.",0.0,TRK,0.023649187852515897,-0.0035915477234991938,0.01002882006450835
+Orion,288,common,,0.0,,GR,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Overgrown Tomb,289,rare,,0.0,,BG,Land — Swamp Forest,,,normal,,"({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.008435627802078249,-0.004792999898030231
+Q Continuum,290,rare,,0.0,,G,Land,,,normal,Surveil,"This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Target creature gets +1/+1 and gains vigilance until end of turn.
+• Surveil 1.
+{T}: Add {G}.",0.0,TRK,0.018336652455506974,0.0032750965992628532,0.010805874527384914
+Qo'noS,291,common,,0.0,,BR,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Quark's Bar,292,rare,,0.0,,R,Land,,,normal,Surveil,"This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• This land deals 1 damage to each opponent.
+• Surveil 1.
+{T}: Add {R}.",0.0,TRK,0.014758465829430127,0.009922981696018485,0.012340723762724305
+Risa,293,common,,0.0,,GW,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Romulus,294,common,,0.0,,BU,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Sacred Foundry,295,rare,,0.0,,RW,Land — Mountain Plains,,,normal,,"({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.01824122075190356,-0.009695796372942886
+Spatial Anomaly,296,uncommon,,0.0,,R,Land,,,normal,,"{T}: Add {C}.
+{4}{R}, {T}, Sacrifice this land: It deals 2 damage to target creature. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,0.004521572219569023,0.002232620101257531,0.003377096160413277
+Starfleet Academy,297,mythic,,0.0,,,Legendary Land,,,normal,,"{T}: Add {C}.
+Federation — {5}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creature types among non-Borg creatures you control.",0.0,TRK,-0.015146496960567682,0.002138696722268486,-0.006503900119149598
+Steam Vents,298,rare,,0.0,,RU,Land — Island Mountain,,,normal,,"({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.013552620252982976,-0.007351496123482595
+Stomping Ground,299,rare,,0.0,,GR,Land — Mountain Forest,,,normal,,"({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.011943287906915838,-0.006546829950449026
+Subspace Anomaly,300,uncommon,,0.0,,W,Land,,,normal,,"{T}: Add {C}.
+{4}{W}, {T}, Sacrifice this land: Create two 1/1 red Officer creature tokens. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,-0.00039472666566934563,-0.01721791306965231,-0.008806319867660827
+Temple Garden,301,rare,,0.0,,GW,Land — Forest Plains,,,normal,,"({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.013676059609204583,-0.007413215801593398
+Temporal Anomaly,302,uncommon,,0.0,,G,Land,,,normal,Mill,"{T}: Add {C}.
+{3}{G}, {T}, Sacrifice this land: Mill four cards. You may put a permanent card from among them into your hand. Create a tapped Planet land token named New Planet with ""{T}: Add one mana of any color.""",0.0,TRK,0.0022774758701635785,-0.013152968183220773,-0.005437746156528598
+Unexplored Territory,303,common,,0.0,,,Land,,,normal,,"{T}: Add {C}.
+{1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",0.0,TRK,-0.006512354251739582,-0.005620851737107975,-0.0060666029944237785
+The Unicomplex,304,rare,,0.0,,B,Land,,,normal,Surveil,"This land enters tapped unless you control two or more other lands.
+When this land enters untapped, choose one —
+• Put target creature card from your graveyard on top of your library.
+• Surveil 1.
+{T}: Add {B}.",0.0,TRK,0.01654813388717037,0.010006639582282213,0.013277386734726292
+Vulcan,305,common,,0.0,,UW,Land — Planet,,,normal,,"This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.",0.0,TRK,0.005527491150310859,0.00019365945276542205,0.0028605753015381406
+Watery Grave,306,rare,,0.0,,BU,Land — Island Swamp,,,normal,,"({T}: Add {U} or {B}.)
+As this land enters, you may pay 2 life. If you don't, it enters tapped.",0.0,TRK,-0.0011503719939822124,-0.008495923983825945,-0.004823147988904078
+"Mikaeus, the Lunarch",SDS-1,mythic,{X}{W},1.0,W,W,Legendary Creature — Human Cleric,0,0,normal,,"Mikaeus enters with X +1/+1 counters on it.
+{T}: Put a +1/+1 counter on Mikaeus.
+{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.",1.0,SDS,0.03267681084135327,0.060177408075087084,0.04642710945822018
+Flare of Fortitude,SDS-2,mythic,{2}{W}{W},4.0,W,W,Instant,,,normal,,"You may sacrifice a nontoken white creature rather than pay this spell's mana cost.
+Until end of turn, your life total can't change, and permanents you control gain hexproof and indestructible.",1.0,SDS,0.029630417765159425,0.01814950063051806,0.02388995919783874
+"Kenrith, the Returned King",SDS-3,mythic,{4}{W},5.0,W,BGRUW,Legendary Creature — Human Noble,5,5,normal,,"{R}: All creatures gain trample and haste until end of turn.
+{1}{G}: Put a +1/+1 counter on target creature.
+{2}{W}: Target player gains 5 life.
+{3}{U}: Target player draws a card.
+{4}{B}: Put target creature card from a graveyard onto the battlefield under its owner's control.",1.0,SDS,0.04531361119424644,0.03770489890971481,0.04150925505198062
+"Sisay, Weatherlight Captain",SDS-4,mythic,{2}{W},3.0,W,BGRUW,Legendary Creature — Human Soldier,2,2,normal,,"Sisay gets +1/+1 for each color among other legendary permanents you control.
+{W}{U}{B}{R}{G}: Search your library for a legendary permanent card with mana value less than Sisay's power, put that card onto the battlefield, then shuffle.",1.0,SDS,0.003245437417571227,0.01146259084981509,0.007354014133693158
+"Thada Adel, Acquisitor",SDS-5,mythic,{1}{U}{U},3.0,U,U,Legendary Creature — Merfolk Rogue,2,2,normal,Landwalk;Islandwalk,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Whenever Thada Adel deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles. Until end of turn, you may play that card.",1.0,SDS,0.02624443642621012,0.030585087790757314,0.028414762108483718
+Empress Galina,SDS-6,mythic,{3}{U}{U},5.0,U,U,Legendary Creature — Merfolk Noble,1,3,normal,,"{U}{U}, {T}: Gain control of target legendary permanent. (This effect lasts indefinitely.)",1.0,SDS,0.0067763597048309115,0.033885870353923875,0.020331115029377393
+Arcum Dagsson,SDS-7,mythic,{3}{U},4.0,U,U,Legendary Creature — Human Artificer,2,2,normal,,"{T}: Target artifact creature's controller sacrifices it. That player may search their library for a noncreature artifact card, put it onto the battlefield, then shuffle.",1.0,SDS,0.0017760485849106532,0.0020611657610316997,0.0019186071729711766
+Bruvac the Grandiloquent,SDS-8,mythic,{2}{U},3.0,U,U,Legendary Creature — Human Advisor,1,4,normal,Mill,"If an opponent would mill one or more cards, they mill twice that many cards instead. (To mill a card, a player puts the top card of their library into their graveyard.)",1.0,SDS,0.004688903553968275,0.009006564394555897,0.006847733974262086
+Decree of Pain,SDS-9,mythic,{6}{B}{B},8.0,B,B,Sorcery,,,normal,Cycling,"Destroy all creatures. They can't be regenerated. Draw a card for each creature destroyed this way.
+Cycling {3}{B}{B} ({3}{B}{B}, Discard this card: Draw a card.)
+When you cycle this card, all creatures get -2/-2 until end of turn.",1.0,SDS,0.08516886453690915,0.05168288840137091,0.06842587646914003
+"Drivnod, Carnage Dominus",SDS-10,mythic,{3}{B}{B},5.0,B,B,Legendary Creature — Phyrexian Horror,8,3,normal,,"If a creature dying causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+{B/P}{B/P}, Exile three creature cards from your graveyard: Put an indestructible counter on Drivnod. ({B/P} can be paid with either {B} or 2 life.)",1.0,SDS,0.036668248953572076,0.0038007981923174634,0.02023452357294477
+"Sheoldred, the Apocalypse",SDS-11,mythic,{2}{B}{B},4.0,B,B,Legendary Creature — Phyrexian Praetor,4,5,normal,Deathtouch,"Deathtouch
+Whenever you draw a card, you gain 2 life.
+Whenever an opponent draws a card, they lose 2 life.",1.0,SDS,0.02946450857969517,0.007474277263443484,0.01846939292156933
+"Torbran, Thane of Red Fell",SDS-12,mythic,{1}{R}{R}{R},4.0,R,R,Legendary Creature — Dwarf Noble,2,4,normal,,"If a red source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus 2 instead.",1.0,SDS,0.004960669386787701,0.043774351158673445,0.024367510272730573
+"Loot, Exuberant Explorer",SDS-13,mythic,{2}{G},3.0,G,G,Legendary Creature — Beast Noble,1,4,normal,,"You may play an additional land on each of your turns.
+{4}{G}{G}, {T}: Look at the top six cards of your library. You may reveal a creature card with mana value less than or equal to the number of lands you control from among them and put it onto the battlefield. Put the rest on the bottom in a random order.",1.0,SDS,0.0180847205532391,0.05331238940920911,0.03569855498122411
+"Rishkar, Peema Renegade",SDS-14,mythic,{2}{G},3.0,G,G,Legendary Creature — Elf Druid,2,2,normal,,"When Rishkar enters, put a +1/+1 counter on each of up to two target creatures.
+Each creature you control with a counter on it has ""{T}: Add {G}.""",1.0,SDS,0.0312773265190816,0.05843164089720376,0.044854483708142684
+"Bristly Bill, Spine Sower",SDS-15,mythic,{1}{G},2.0,G,G,Legendary Creature — Plant Druid,2,2,normal,Double;Landfall,"Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.
+{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",1.0,SDS,0.027156884107263437,0.04959800635726373,0.038377445232263586
+Sen Triplets,SDS-16,mythic,{2}{W}{U}{B},5.0,BUW,BUW,Legendary Artifact Creature — Human Wizard,3,3,normal,,"At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with their hand revealed. You may play lands and cast spells from that player's hand this turn.",1.0,SDS,0.009206773435380998,0.030739317452137708,0.019973045443759354
+"Tatyova, Benthic Druid",SDS-17,mythic,{3}{G}{U},5.0,GU,GU,Legendary Creature — Merfolk Druid,3,3,normal,Landfall,"Landfall — Whenever a land you control enters, you gain 1 life and draw a card.",1.0,SDS,0.009469278416118106,0.047707816001245365,0.028588547208681737
+Hull Breach,SDS-18,mythic,{R}{G},2.0,GR,GR,Sorcery,,,normal,,"Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target artifact and target enchantment.",1.0,SDS,0.022910107288334796,-0.007165898080215621,0.007872104604059588
+"Isshin, Two Heavens as One",SDS-19,mythic,{R}{W}{B},3.0,BRW,BRW,Legendary Creature — Human Samurai,3,4,normal,,"If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",1.0,SDS,0.0013583449004593482,-0.006429331851961257,-0.002535493475750954
+Ertai Resurrected,SDS-20,mythic,{2}{U}{B},4.0,BU,BU,Legendary Creature — Phyrexian Human Wizard,3,2,normal,Flash,"Flash
+When Ertai Resurrected enters, choose up to one —
+• Counter target spell, activated ability, or triggered ability. Its controller draws a card.
+• Destroy another target creature or planeswalker. Its controller draws a card.",1.0,SDS,0.056235507694333546,0.03280457581912353,0.04452004175672854
+"Jhoira, Weatherlight Captain",SDS-21,mythic,{2}{U}{R},4.0,RU,RU,Legendary Creature — Human Artificer,3,3,normal,,"Whenever you cast a historic spell, draw a card. (Artifacts, legendaries, and Sagas are historic.)",1.0,SDS,0.020869606317941672,-0.00798546358846037,0.006442071364740651
+Captain Sisay,SDS-22,mythic,{2}{G}{W},4.0,GW,GW,Legendary Creature — Human Soldier,2,2,normal,,"{T}: Search your library for a legendary card, reveal that card, put it into your hand, then shuffle.",1.0,SDS,0.008855527332679277,0.022762449951778264,0.01580898864222877
+Riku of Many Paths,SDS-23,mythic,{G}{U}{R},3.0,GRU,GRU,Legendary Creature — Human Wizard,3,3,normal,,"Whenever you cast a modal spell, choose up to X, where X is the number of times you chose a mode for that spell —
+• Exile the top card of your library. Until the end of your next turn, you may play it.
+• Put a +1/+1 counter on Riku. It gains trample until end of turn.
+• Create a 1/1 blue Bird creature token with flying.",1.0,SDS,0.05123502650225835,0.07050704435124468,0.06087103542675151
+"Prosper, Tome-Bound",SDS-24,mythic,{2}{B}{R},4.0,BR,BR,Legendary Creature — Tiefling Warlock,1,4,normal,Treasure;Deathtouch,"Deathtouch
+Mystic Arcanum — At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card.
+Pact Boon — Whenever you play a card from exile, create a Treasure token.",1.0,SDS,0.03047531079492932,0.0363736775979586,0.03342449419644396
+"Stella Lee, Wild Card",SDS-25,mythic,{1}{U}{R},3.0,RU,RU,Legendary Creature — Human Rogue,2,4,normal,,"Whenever you cast your second spell each turn, exile the top card of your library. Until the end of your next turn, you may play that card.
+{T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if you've cast three or more spells this turn.",1.0,SDS,0.014443143833887227,0.022525282162499802,0.018484212998193514
+"Mogis, God of Slaughter",SDS-26,mythic,{2}{B}{R},4.0,BR,BR,Legendary Enchantment Creature — God,7,5,normal,Indestructible,"Indestructible
+As long as your devotion to black and red is less than seven, Mogis isn't a creature.
+At the beginning of each opponent's upkeep, Mogis deals 2 damage to that player unless they sacrifice a creature of their choice.",1.0,SDS,0.01115945990120223,0.009672614012184857,0.010416036956693544
+"Minamo, School at Water's Edge",SDS-27,mythic,,0.0,,U,Legendary Land,,,normal,,"{T}: Add {U}.
+{U}, {T}: Untap target legendary permanent.",1.0,SDS,-0.010729781165691878,-0.0008525496221001272,-0.005791165393896003
+Talon Gates of Madara,SDS-28,mythic,,0.0,,,Land — Gate,,,normal,,"When this land enters, up to one target creature phases out.
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.
+{4}: Put this card from your hand onto the battlefield.",1.0,SDS,0.017989105058602767,0.05156518483775347,0.034777144948178115
+Phyrexian Tower,SDS-29,mythic,,0.0,,B,Legendary Land,,,normal,,"{T}: Add {C}.
+{T}, Sacrifice a creature: Add {B}{B}.",1.0,SDS,-0.01072537777634114,-0.017629521168393242,-0.014177449472367192
+"Shizo, Death's Storehouse",SDS-30,mythic,,0.0,,B,Legendary Land,,,normal,,"{T}: Add {B}.
+{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",1.0,SDS,-0.008015505288247697,-0.01289385767515608,-0.010454681481701889
