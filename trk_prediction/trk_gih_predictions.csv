@@ -1,0 +1,312 @@
+collector_number,name,rarity,colors,mana_cost,type_line,predicted_gih_wr
+1,"70,000 Light-Years from Home",uncommon,W,{1}{W},Sorcery,0.5939
+2,Andromedan Automatons,common,W,{2}{W},Artifact Creature — Android,0.5471
+3,Antagonist Incorporator,rare,W,{1}{W},Artifact Creature — Borg,0.5888
+4,Assembly Specialist,uncommon,W,{1}{W},Artifact Creature — Borg,0.5697
+5,"Brad Boimler, Eager Ensign",uncommon,W,{1}{W},Legendary Creature — Human Officer,0.5621
+6,Captain Benjamin Sisko,rare,W,{1}{W},Legendary Creature — Human Officer,0.5738
+7,Captain Jean-Luc Picard,mythic,W,{2}{W},Legendary Creature — Human Officer,0.6357
+8,Command Decision,common,W,{1}{W},Sorcery,0.5785
+9,Command Subadjunct,uncommon,W,{W},Artifact Creature — Borg,0.5511
+10,Conquest Mission,uncommon,W,{2}{W},Enchantment,0.5082
+11,"Deanna Troi, Psychic Counsel",rare,W,{1}{W},Legendary Creature — Betazoid Human Advisor,0.6046
+12,DOT-7 Repair Squad,common,W,{3}{W},Artifact Creature — Robot,0.5732
+13,Dr. Beverly Crusher,mythic,W,{2}{W},Legendary Creature — Human Doctor,0.5655
+14,"Dr. McCoy, Surly Surgeon",uncommon,W,{2}{W}{W},Legendary Creature — Human Doctor,0.5474
+15,Emergency Medical Hologram,common,W,{W},Artifact Creature — Illusion Doctor,0.5417
+16,Excalbian Gamemaster,mythic,W,{5}{W},Creature — Excalbian,0.6416
+17,Federation Field Medic,common,W,{3}{W},Creature — Human Doctor,0.5707
+18,Federation Resupply,rare,W,{1}{W},Sorcery,0.5127
+19,Free Borg Revolutionaries,common,W,{3}{W}{W},Artifact Creature — Borg Rebel,0.5564
+20,Ghost of Illyria,uncommon,W,{3}{W},Creature — Elemental Spirit,0.5855
+21,Hologram Janeway,uncommon,W,{2}{W},Legendary Artifact Creature — Illusion Officer,0.5645
+22,Malfunctioning Holodeck,common,W,{2}{W},Artifact,0.5907
+23,The Measure of a Man,uncommon,W,{2}{W},Enchantment — Saga,0.5337
+24,"Miles O'Brien, Transporter Ops",rare,W,{2}{W},Legendary Creature — Human Artificer,0.6103
+25,The Needs of the Many,rare,W,{1}{W},Instant,0.4978
+26,Oberth-Class Starship,common,W,{1}{W},Artifact — Spacecraft,0.5501
+27,Peace in Our Time,rare,W,{3}{W},Enchantment,0.4568
+28,Pet Sehlat,common,W,{2}{W},Creature — Bear,0.5475
+29,"Picard, Leading by Example",uncommon,W,{1}{W},Legendary Creature — Human Officer,0.5666
+30,Primary Unimatrix Adjunct,rare,W,{3}{W},Artifact Creature — Borg,0.5607
+31,Pure Energy,common,W,{1}{W},Sorcery,0.5474
+32,"Rutherford, Upgraded Ensign",uncommon,W,{2}{W},Legendary Creature — Human Artificer,0.5699
+33,"Saavik, Stoic Student",uncommon,W,{4}{W},Legendary Creature — Vulcan Advisor,0.5926
+34,Set Phasers to . . .,common,W,{W},Instant,0.5742
+35,Shields Up!,common,W,{1}{W},Instant,0.5506
+36,Shuttle Ace,common,W,{4}{W},Creature — Kelpien Pilot,0.5556
+37,"Sulu, Space Swashbuckler",rare,W,{1}{W},Legendary Creature — Human Pilot,0.5789
+38,Tactical Officer,common,W,{1}{W},Creature — Human Officer,0.5442
+39,Test of Conviction,uncommon,W,{1}{W},Sorcery,0.5714
+40,There's Coffee in that Nebula,uncommon,W,{1}{W},Sorcery,0.5354
+41,Troubling Tribbles,rare,W,{2}{W},Creature — Tribble,0.5722
+42,"Una Chin-Riley, Number One",uncommon,W,{4}{W},Legendary Creature — Illyrian Officer,0.5607
+43,"U.S.S. Enterprise-A, Free Spirit",mythic,W,{3}{W}{W},Legendary Artifact — Spacecraft,0.6553
+44,"U.S.S. Excelsior, Cutting Edge",uncommon,W,{3}{W},Legendary Artifact — Spacecraft,0.589
+45,Vexing Drone,common,W,{1}{W},Artifact Creature — Borg,0.5583
+46,Anthropological Mission,uncommon,U,{2}{U},Enchantment,0.507
+47,The Caretaker,rare,U,{5}{U},Legendary Creature — Elemental,0.5819
+48,Cetacean Ops,common,U,{3}{U},Creature — Whale Officer,0.5493
+49,Cloak and Phaser,uncommon,U,{8}{U},Sorcery,0.5578
+50,Cloistered Telepath,common,U,{1}{U},Creature — Talosian Advisor,0.5553
+51,Consider the Prime Directive,common,U,{2}{U},Instant,0.5605
+52,"Data, New Life",uncommon,U,{1}{U},Legendary Artifact Creature — Android Scientist,0.5714
+53,Deep Space Scan,rare,U,{4}{U}{U},Sorcery,0.5529
+54,Dominion Saboteur,uncommon,U,{4}{U},Creature — Shapeshifter,0.5441
+55,Emergency Holographic Crew,common,U,{3}{U},Artifact Creature — Illusion Officer,0.5627
+56,Energize,uncommon,U,{1}{U},Sorcery,0.5462
+57,Ensign Pavel Chekov,uncommon,U,{3}{U},Legendary Creature — Human Pilot,0.5362
+58,Enterprise NX-01,uncommon,U,{3}{U},Legendary Artifact — Spacecraft,0.5795
+59,Federation Probe,common,U,{U},Artifact Creature — Construct,0.5421
+60,Guidance Failure,common,U,{3}{U},Instant,0.5737
+61,"Gwyndala, the Progeny",rare,U,{1}{U},Legendary Creature — Vau-N'Akat Advisor,0.5477
+62,Highly Illogical,uncommon,U,{1}{U},Instant,0.5605
+63,"H.M.S. Bounty, Unlikely Timeship",rare,U,{4}{U},Legendary Artifact — Spacecraft,0.5586
+64,"Hoshi Sato, Exolinguist",uncommon,U,{4}{U},Legendary Creature — Human Scientist,0.5573
+65,Humpback Whales,common,U,{4}{U}{U},Creature — Whale,0.5651
+66,Interstellar Effigy,common,U,{4}{U},Artifact Creature — Construct,0.5578
+67,"Jett Reno, Problem Solver",uncommon,U,{1}{U},Legendary Creature — Human Artificer,0.5327
+68,Kobayashi Maru Scenario,mythic,U,{1}{U}{U},Enchantment,0.518
+69,Lieutenant Commander Data,mythic,U,{2}{U},Legendary Artifact Creature — Android Scientist,0.6032
+70,Lt. Cmdr. Geordi La Forge,rare,U,{2}{U},Legendary Creature — Human Artificer,0.5494
+71,Make It So,common,U,{3}{U},Sorcery,0.5673
+72,Marooned,common,U,{U},Enchantment — Aura,0.5734
+73,Melkotian Adjudicator,common,U,{2}{U},Creature — Melkotian Advisor,0.5417
+74,"Mr. Spock, Science Officer",mythic,U,{2}{U}{U},Legendary Creature — Vulcan Human Scientist,0.6294
+75,"Nyota Uhura, Communications",rare,U,{2}{U},Legendary Creature — Human Officer,0.5831
+76,Open Communications,common,U,{U},Sorcery,0.5422
+77,Romulan Bird-of-Prey,rare,U,{1}{U},Artifact — Spacecraft,0.5786
+78,Rules of Acquisition,uncommon,U,{3}{U}{U},Sorcery,0.5069
+79,"Scotty, Miracle Worker",mythic,U,{1}{U}{U},Legendary Creature — Human Artificer,0.5874
+80,"Seven of Nine, Unassimilated",mythic,U,{1}{U},Legendary Artifact Creature — Human Officer,0.5996
+81,Starfleet Spanner Jockey,common,U,{1}{U},Creature — Human Artificer,0.5339
+82,Subcommander T'Pol,rare,U,{2}{U},Legendary Creature — Vulcan Scientist,0.5805
+83,Suurok-Class Science Vessel,common,U,{2}{U},Artifact — Spacecraft,0.5821
+84,Suus Mahna Practitioner,common,U,{2}{U},Creature — Vulcan Officer,0.5623
+85,Test of Priorities,uncommon,U,{1}{U},Instant,0.5575
+86,Those Old Scientists,uncommon,U,{2}{U},Enchantment — Saga,0.53
+87,"V'Ger, the Intruder",uncommon,U,{6}{U},Legendary Artifact Creature — Construct,0.575
+88,Vulcan Mind-Meld,uncommon,U,{U},Sorcery,0.523
+89,"Wesley Crusher, Starfleet Cadet",rare,U,{2}{U}{U},Legendary Creature — Human Officer,0.5871
+90,"Zefram Cochrane, Warp Pioneer",uncommon,U,{2}{U},Legendary Creature — Human Pilot,0.5538
+91,"Armus, Skin of Evil",rare,B,{5}{B}{B},Legendary Creature — Ooze Horror,0.5964
+92,Assault Drone,common,B,{3}{B},Artifact Creature — Borg,0.5212
+93,Automated Warfare System,common,B,{2}{B},Artifact Creature — Construct,0.552
+94,Bat'leth,uncommon,B,{2}{B},Artifact — Equipment,0.5854
+95,Battle-Scarred Survivalist,common,B,{1}{B},Creature — Klingon Scout,0.5458
+96,Blastoneuron,uncommon,B,{3}{B},Creature — Jellyfish Leech,0.5625
+97,Cha'DIch Investigator,common,B,{4}{B},Creature — Klingon Warrior,0.5728
+98,Collation Trimatrix,rare,B,{B},Artifact Creature — Borg,0.5388
+99,Collective Drone,uncommon,B,{1}{B},Artifact Creature — Borg,0.5418
+100,Commander Raffi Musiker,uncommon,B,{2}{B},Legendary Creature — Human Officer,0.5663
+101,D'Ghor Bloodletter,uncommon,B,{2}{B},Creature — Klingon Assassin,0.5769
+102,Death Is Irrelevant,mythic,B,{6}{B}{B},Enchantment,0.5403
+103,The Destruction of Praxis,rare,B,{3}{B}{B},Sorcery,0.5749
+104,De-evolve,uncommon,B,{1}{B},Enchantment — Aura,0.5659
+105,Eject the Warp Core,common,B,{1}{B},Instant,0.5773
+106,"Elim Garak, Simple Tailor",rare,B,{2}{B},Legendary Creature — Cardassian Rogue,0.5919
+107,Fugitive Listener,common,B,{2}{B},Creature — El-Aurian Scout,0.553
+108,"Gabriel Lorca, Mirror Menace",uncommon,B,{4}{B},Legendary Creature — Human Rogue Officer,0.5619
+109,"General Chang, Cold Warrior",rare,B,{B},Legendary Creature — Klingon Warrior Officer,0.5255
+110,"Georgiou, Terran Emperor",mythic,B,{4}{B}{B},Legendary Creature — Human Rogue Noble,0.6072
+111,A Good Day to Die,common,B,{B},Instant,0.5107
+112,Grand Nagus Zek,rare,B,{2}{B},Legendary Creature — Ferengi Noble,0.5671
+113,"Gul Dukat, Colonial Prefect",mythic,B,{4}{B}{B}{B},Legendary Creature — Cardassian Rogue,0.5802
+114,"He's Dead, Jim",common,B,{3}{B},Instant,0.5797
+115,Hive Mind Coprocessor,uncommon,B,{4}{B},Artifact Creature — Borg,0.5558
+116,Impossible Choice,uncommon,B,{2}{B},Instant,0.5519
+117,In the Pale Moonlight,uncommon,B,{3}{B}{B},Enchantment — Saga,0.5653
+118,"Kai Winn, Faithless Leader",rare,B,{1}{B},Legendary Creature — Bajoran Cleric,0.5557
+119,"Khan, Vengeful Heart",mythic,B,{2}{B}{B},Legendary Creature — Human Warrior,0.6182
+120,Obsidian Order Operative,common,B,{3}{B},Creature — Cardassian Officer Spy,0.5223
+121,Organic Avulsion Unit,uncommon,B,{2}{B},Artifact Creature — Borg,0.5297
+122,Overflow Submatrix,rare,B,{2}{B},Artifact Creature — Borg,0.5784
+123,Pattern Buffer Preservation,common,B,{1}{B},Sorcery,0.5451
+124,Relentless Drednok,common,B,{B},Artifact Creature — Robot,0.5437
+125,Resistance Is Futile,uncommon,B,{1}{B},Sorcery,0.5923
+126,Rogue Artificial Intelligence,common,B,{4}{B}{B},Artifact Creature — Construct,0.5671
+127,Salt Vampire,rare,B,{1}{B},Creature — Vampire Shapeshifter,0.5912
+128,"Sela, Tal Shiar Paradox",rare,B,{3}{B},Legendary Creature — Romulan Human Rogue,0.6033
+129,Storied Veteran,uncommon,B,{B},Creature — Klingon Advisor,0.5368
+130,Stray from History,common,B,{2}{B},Sorcery,0.5353
+131,Tal Shiar Operative,common,B,{1}{B},Creature — Romulan Officer Spy,0.5555
+132,Tell Me What You See,uncommon,B,{1}{B},Enchantment,0.5153
+133,Tenacious Drone,common,B,{1}{B},Artifact Creature — Borg,0.5471
+134,Test of Loyalty,uncommon,B,{B},Sorcery,0.5315
+135,"U.S.S. Reliant, From Hell's Heart",rare,B,{2}{B}{B},Legendary Artifact — Spacecraft,0.5551
+136,Vengeance Mission,uncommon,B,{2}{B},Enchantment,0.5028
+137,Academy Instructor,uncommon,R,{2}{R},Creature — Bolian Officer,0.5418
+138,"Beckett Mariner, Impetuous Ensign",uncommon,R,{1}{R},Legendary Creature — Human Officer,0.5532
+139,Boarding Action,common,R,{1}{R},Sorcery,0.5302
+140,Brazen Bluff,rare,R,{R}{R},Instant,0.4824
+141,Cantankerous Captain,common,R,{2}{R},Creature — Tellarite Officer,0.5403
+142,Captain James T. Kirk,mythic,R,{2}{R},Legendary Creature — Human Officer,0.5966
+143,Captain Michael Burnham,uncommon,R,{2}{R},Legendary Creature — Human Officer,0.5714
+144,Captain's Tutelage,common,R,{1}{R},Enchantment — Aura,0.4994
+145,D-7 Battle Cruiser,rare,R,{1}{R},Artifact — Spacecraft,0.5945
+146,Dahar Master,common,R,{3}{R},Creature — Klingon Warrior,0.5555
+147,Dominion Infiltration,rare,R,{X}{R}{R}{R},Sorcery,0.5037
+148,Encounter the Unknown,rare,R,{1}{R}{R},Instant,0.5668
+149,"Erica Ortegas, Plucky Pilot",uncommon,R,{3}{R},Legendary Creature — Human Pilot,0.5513
+150,Exploratory Mission,uncommon,R,{2}{R}{R},Enchantment,0.5128
+151,Genesis Effect,common,R,{4}{R},Instant,0.5683
+152,Horta,common,R,{4}{R}{R},Creature — Elemental,0.5555
+153,Infinite Diversity,mythic,R,{7}{R}{R},Sorcery,0.4759
+154,Khaaaaaaaaaaaannn!,uncommon,R,{X}{R},Instant,0.5882
+155,"Khan, Despot by Design",uncommon,R,{4}{R},Legendary Creature — Human Rogue,0.5893
+156,"La'An Noonien-Singh, Security",uncommon,R,{2}{R}{R},Legendary Creature — Human Soldier,0.5524
+157,"Lwaxana Troi, Charming Guest",rare,R,{1}{R},Legendary Creature — Betazoid Advisor,0.5383
+158,Munitions Enthusiast,uncommon,R,{1}{R},Creature — Klingon Warrior,0.5699
+159,The Naked Time,uncommon,R,{1}{R},Enchantment — Saga,0.5235
+160,Pah-Wraith,rare,R,{5}{R}{R},Creature — Wraith,0.5716
+161,Perils of the Past,common,R,{1}{R},Instant,0.5504
+162,Planetary Bombardment,common,R,{R},Sorcery,0.559
+163,Planetary Patrol,common,R,{1}{R},Creature — Scout,0.5324
+164,Plasma Cascade,common,R,{2}{R},Instant,0.5619
+165,"Q, Stacking the Deck",mythic,R,{2}{R}{R},Legendary Creature — Q,0.5907
+166,"Quark, Humble Proprietor",mythic,R,{2}{R},Legendary Creature — Ferengi Rogue,0.515
+167,Ravenous Cosmozoan,uncommon,R,{5}{R},Creature — Fish,0.5476
+168,Reckless Impulse,common,R,{1}{R},Sorcery,0.5134
+169,Red Alert!,uncommon,R,{2}{R},Instant,0.5329
+170,"Sarcophagus, Ship of the Dead",uncommon,R,{2}{R},Legendary Artifact — Spacecraft,0.5499
+171,Savvy Profiteer,common,R,{1}{R},Creature — Ferengi Rogue,0.5334
+172,Silicate Surveyor,common,R,{4}{R},Creature — Tholian Scout,0.5582
+173,Starfleet Security,common,R,{R},Creature — Human Officer,0.5205
+174,Tal Shiar Analyst,common,R,{2}{R},Creature — Romulan Scientist,0.5438
+175,Targ Wrangler,uncommon,R,{2}{R},Creature — Klingon Warrior,0.5391
+176,"Tasha Yar, Out of Time",rare,R,{1}{R},Legendary Creature — Human Officer,0.5602
+177,Test of Identity,uncommon,R,{1}{R},Instant,0.5377
+178,Transporter Malfunction,uncommon,R,{1}{R},Sorcery,0.5711
+179,"Will Riker, First in the Field",rare,R,{3}{R},Legendary Creature — Human Officer,0.5884
+180,"Worf, Intelligence Contractor",rare,R,{2}{R},Legendary Creature — Klingon Warrior Spy,0.5732
+181,The Wrath of Khan,rare,R,{2}{R},Enchantment — Saga,0.6158
+182,Adversary by Algorithm,uncommon,G,{2}{G},Sorcery,0.55
+183,Amok Time,uncommon,G,{2}{G},Enchantment — Saga,0.5752
+184,Astute Terraformer,common,G,{1}{G},Creature — Vulcan Scientist,0.5446
+185,Branching Timeline,rare,G,{6}{G}{G},Sorcery,0.5215
+186,Captain Jonathan Archer,rare,G,{2}{G},Legendary Creature — Human Officer,0.6053
+187,Captain Kathryn Janeway,mythic,G,{3}{G},Legendary Creature — Human Officer,0.6102
+188,"Captain Pike, Fullness of Time",rare,G,{1}{G}{G},Legendary Creature — Human Officer Scout,0.6012
+189,Cold-Blooded Crew,common,G,{4}{G}{G},Creature — Gorn Warrior,0.5619
+190,Common Goal,common,G,{1}{G},Sorcery,0.5725
+191,"Culber and Stamets, Star-Crossed",uncommon,G,{3}{G},Legendary Creature — Human Doctor Artificer,0.5625
+192,Dathon and Picard at El-Adrel,common,G,{2}{G},Instant,0.5373
+193,"David and Carol Marcus, Creators",uncommon,G,{2}{G},Legendary Creature — Human Scientist,0.5508
+194,Dominion Assault Force,common,G,{3}{G},Creature — Jem'Hadar Warrior,0.5622
+195,Dominion Supervisor,common,G,{2}{G},Creature — Vorta Doctor,0.5608
+196,Dr. Joseph M'Benga,mythic,G,{2}{G}{G},Legendary Creature — Human Doctor,0.5876
+197,"Dr. Leonard ""Bones"" McCoy",rare,G,{1}{G}{G},Legendary Creature — Human Doctor,0.5841
+198,Final Frontier,common,G,{2}{G},Sorcery,0.5274
+199,First Contact,common,G,{1}{G},Instant,0.5352
+200,Genesis Device,rare,G,{2}{G},Legendary Artifact,0.5215
+201,Holo-Engineer,rare,G,{2}{G}{G},Creature — Human Artificer,0.6363
+202,Hologram Stalker,uncommon,G,{4}{G}{G},Creature — Hirogen Warrior,0.5473
+203,"I'm a Doctor, Not a . . .",common,G,{G},Instant,0.55
+204,"Jadzia Dax, Living Legacy",mythic,G,{1}{G},Legendary Creature — Trill Scientist,0.582
+205,"Jake Sisko, War Correspondent",uncommon,G,{1}{G},Legendary Creature — Human Citizen,0.5479
+206,MACO Strike Team,rare,G,{G},Creature — Human Soldier,0.5455
+207,Moopsy,common,G,{G},Creature — Beast,0.5448
+208,Mugato,uncommon,G,{3}{G}{G},Creature — Ape Beast,0.6033
+209,"Neelix, Moral Support",uncommon,G,{1}{G},Legendary Creature — Talaxian Advisor,0.5463
+210,Photosynthetic Physician,common,G,{4}{G},Creature — Plant Doctor,0.5621
+211,"Rok-Tahk, Budding Scientist",mythic,G,{4}{G}{G},Legendary Creature — Brikar Scientist,0.5919
+212,"Saru, Unthreatened",uncommon,G,{2}{G},Legendary Creature — Kelpien Officer,0.5638
+213,Saurian Explorer,common,G,{3}{G},Creature — Dinosaur Scout,0.5563
+214,Species 8472,uncommon,G,{4}{G}{G},Creature — Insect Beast,0.5722
+215,Stable Wormhole,rare,G,{2}{G},Enchantment,0.5159
+216,Support Mission,uncommon,G,{2}{G},Enchantment,0.5218
+217,"Sylvia Tilly, Joy of Discovery",uncommon,G,{2}{G},Legendary Creature — Human Scientist Artificer,0.5606
+218,Syndicate Liquidators,uncommon,G,{4}{G},Creature — Orion Pirate,0.5759
+219,Temporal Conqueror,common,G,{2}{G},Creature — Na'kuhl Warrior,0.5567
+220,Test of Courage,uncommon,G,{G},Instant,0.523
+221,"U.S.S. Discovery, at Black Alert",rare,G,{3}{G}{G},Legendary Artifact — Spacecraft,0.6166
+222,"U.S.S. Voyager, Lone Wanderer",uncommon,G,{3}{G},Legendary Artifact — Spacecraft,0.5657
+223,Warp Speed,uncommon,G,{2}{G},Enchantment,0.5254
+224,Xenobotanist,common,G,{1}{G},Creature — Vulcan Scientist,0.5478
+225,Xindi Surveyors,common,G,{2}{G},Creature — Xindi Scientist,0.5503
+226,All Good Things...,rare,GU,{3}{G}{U},Enchantment — Saga,0.5586
+227,Borg Cube,mythic,BW,{5}{W}{B},Artifact — Spacecraft,0.5639
+228,The City on the Edge of Forever,rare,BW,{3}{W}{B},Enchantment — Saga,0.5346
+229,"Cleveland Booker, Empath",uncommon,GR,{2}{R/G}{R/G},Legendary Creature — Kwejian Rogue,0.5708
+230,Constable Odo,uncommon,UW,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,0.579
+231,"Dal R'El, Augment Orphan",uncommon,GR,{1}{R}{G},Legendary Creature — Human Mutant Rogue,0.5721
+232,"Daniels, Temporal Agent",uncommon,BG,{2}{B/G}{B/G},Legendary Creature — Human Advisor,0.5552
+233,"Dathon, His Heart Open",rare,GRU,{G}{U}{R},Legendary Creature — Tamarian Officer,0.5298
+234,"The Doctor, EMH",uncommon,GW,{3}{G/W}{G/W},Legendary Artifact Creature — Illusion Doctor,0.5718
+235,The Duras Sisters,uncommon,BR,{B/R}{B/R},Legendary Creature — Klingon Warrior,0.5848
+236,"D'Vana Tendi, Optimistic Ensign",uncommon,GU,{1}{G/U}{G/U},Legendary Creature — Orion Scientist,0.5501
+237,"Gowron, Eager for Battle",rare,BR,{2}{B}{R},Legendary Creature — Klingon Warrior,0.5837
+238,"Gray and Adira, Forever Joined",uncommon,RU,{2}{U/R}{U/R},Legendary Creature — Trill Human Officer,0.5382
+239,"Hemmer, Fixing What Is Broken",uncommon,UW,{W}{U},Legendary Creature — Aenar Artificer,0.5787
+240,Hit It!,rare,GR,{1}{R}{G},Enchantment,0.5315
+241,The Inner Light,rare,GW,{3}{G}{W},Enchantment — Saga,0.577
+242,"Kira Nerys, Firebrand",rare,RW,{1}{R}{W},Legendary Creature — Bajoran Soldier,0.6166
+243,"Kirk, Commanding Officer",uncommon,RW,{1}{R}{W},Legendary Creature — Human Officer,0.5815
+244,Live Long and Prosper,rare,UW,{5}{W}{U},Sorcery,0.5067
+245,"Locutus, the One Who Speaks",uncommon,BW,{W}{B},Legendary Artifact Creature — Borg,0.5798
+246,"Lore, Positronic Provocateur",uncommon,BU,{1}{U/B}{U/B},Legendary Artifact Creature — Android Rogue,0.5622
+247,"L'Rell, Fierce Visionary",uncommon,BR,{1}{B}{R},Legendary Creature — Klingon Warrior,0.5854
+248,Mirror Universe Intrusion,rare,BU,{1}{U}{B},Sorcery,0.5755
+249,"Nog, Ambitious Cadet",rare,BG,{B}{G},Legendary Creature — Ferengi Rogue,0.5927
+250,"Phlox, Unorthodox Doctor",uncommon,GW,{2}{G}{W},Legendary Creature — Denobulan Doctor,0.5797
+251,"Sarek, Federation Ambassador",rare,GUW,{1}{G}{W}{U},Legendary Creature — Vulcan Advisor,0.5404
+252,Seven of Nine,uncommon,BU,{2}{U}{B},Legendary Artifact Creature — Human Scientist,0.557
+253,"Spock, Always Your Friend",uncommon,RU,{U}{R},Legendary Creature — Vulcan Human Scientist,0.5882
+254,The Traveler,uncommon,GU,{G}{U},Legendary Creature — Scout,0.5945
+255,"Vash, Freelance Archaeologist",uncommon,BG,{1}{B}{G},Legendary Creature — Human Rogue Scientist,0.5751
+256,"Worf, Honor-Bound Warrior",uncommon,RW,{R/W}{R/W},Legendary Creature — Klingon Warrior Officer,0.5402
+257,Year of Hell,rare,RU,{1}{U}{R},Enchantment — Saga,0.5272
+258,"Zero, Incorporeal Sensate",uncommon,BW,{1}{W/B}{W/B},Legendary Artifact Creature — Medusan Scientist,0.5716
+259,Class-F Shuttlecraft,common,,{3},Artifact — Spacecraft,0.5401
+260,Combadge,uncommon,,{3},Artifact — Communicator Equipment,0.4806
+261,Crystalline Entity,mythic,,{8},Artifact Creature — Elemental,0.5761
+262,Cybernetic Specialist,common,,{2},Artifact Creature — Human Scientist,0.5322
+263,Deep Space 9,mythic,,{9},Legendary Artifact — Spacecraft,0.5279
+264,Engineered Explosives,rare,,{X},Artifact,0.4907
+265,The Holodeck,rare,,{7},Legendary Artifact,0.4727
+266,Isolinear Processor,uncommon,,{2},Artifact,0.5031
+267,Replicator,rare,,{2},Artifact,0.5445
+268,Sickbay,uncommon,,{5},Artifact,0.5226
+269,"Tea, Earl Grey, Hot",common,,{2},Artifact — Food,0.5583
+270,Tricorder,common,,{1},Artifact — Equipment,0.5307
+271,Type-2 Phaser,uncommon,,{2},Artifact — Equipment,0.542
+272,"U.S.S. Cerritos, Following Up",uncommon,,{5},Legendary Artifact — Spacecraft,0.5426
+273,"U.S.S. Enterprise-D, Galaxy-Class",rare,,{3},Legendary Artifact — Spacecraft,0.5851
+274,Warp Core,common,,{2},Artifact,0.5199
+275,Andoria,common,,,Land — Planet,0.5649
+276,Artificial Anomaly,uncommon,,,Land,0.5491
+277,Bajor,common,,,Land — Planet,0.5649
+278,Blood Crypt,rare,,,Land — Swamp Mountain,0.5552
+279,Breeding Pool,rare,,,Land — Forest Island,0.5552
+280,Cardassia Prime,common,,,Land — Planet,0.5649
+281,"Earth, Sector 001",common,,,Land — Planet,0.5649
+282,Federation Outpost,rare,,,Land,0.5628
+283,Ferenginar,common,,,Land — Planet,0.5649
+284,Gaseous Anomaly,uncommon,,,Land,0.5527
+285,Godless Shrine,rare,,,Land — Plains Swamp,0.5552
+286,Hallowed Fountain,rare,,,Land — Plains Island,0.5552
+287,Ni'Var Science Academy,rare,,,Land,0.5631
+288,Orion,common,,,Land — Planet,0.5649
+289,Overgrown Tomb,rare,,,Land — Swamp Forest,0.5552
+290,Q Continuum,rare,,,Land,0.5643
+291,Qo'noS,common,,,Land — Planet,0.5649
+292,Quark's Bar,rare,,,Land,0.5637
+293,Risa,common,,,Land — Planet,0.5649
+294,Romulus,common,,,Land — Planet,0.5649
+295,Sacred Foundry,rare,,,Land — Mountain Plains,0.5552
+296,Spatial Anomaly,uncommon,,,Land,0.5548
+297,Starfleet Academy,mythic,,,Legendary Land,0.53
+298,Steam Vents,rare,,,Land — Island Mountain,0.5552
+299,Stomping Ground,rare,,,Land — Mountain Forest,0.5552
+300,Subspace Anomaly,uncommon,,,Land,0.5546
+301,Temple Garden,rare,,,Land — Forest Plains,0.5552
+302,Temporal Anomaly,uncommon,,,Land,0.5469
+303,Unexplored Territory,common,,,Land,0.5533
+304,The Unicomplex,rare,,,Land,0.5619
+305,Vulcan,common,,,Land — Planet,0.5649
+306,Watery Grave,rare,,,Land — Island Swamp,0.5552
+307,Plains,common,,,Basic Land — Plains,0.556
+308,Island,common,,,Basic Land — Island,0.556
+309,Swamp,common,,,Basic Land — Swamp,0.556
+310,Mountain,common,,,Basic Land — Mountain,0.556
+311,Forest,common,,,Basic Land — Forest,0.556

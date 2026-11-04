@@ -1,0 +1,312 @@
+name,expert_pred,rationale
+"70,000 Light-Years from Home",0.59,2-mana unconditional exile (sorcery). Opp gets a land to hand but tempo+answer-anything; premium removal.
+Andromedan Automatons,0.545,3/1 artifact for 3; card advantage only with multiples. Borg synergy.
+Antagonist Incorporator,0.572,2/3 for 2 with a real engine in artifact-creature decks; fine body otherwise.
+Assembly Specialist,0.56,Two artifact bodies for 2 (1/1 + 1/1 Borg); fuels station/Borg/go-wide.
+"Brad Boimler, Eager Ensign",0.555,"2/2 lifelink for 2; counter-doubling needs tapping, mild synergy."
+Captain Benjamin Sisko,0.558,2/2 for 2 that makes a 1/1 per dilemma; good only in modal-heavy decks.
+Captain Jean-Luc Picard,0.625,3-mana anthem + a 1/1 per creature spell; strong engine but fragile 2/3 body.
+Command Decision,0.578,Flexible common: kills power 4+ or cantrips; like Surgical Precision/Stone by Sunlight.
+Command Subadjunct,0.548,1-mana 2/1 artifact; vigilance lord is minor.
+Conquest Mission,0.515,Do-nothing enchantment that needs many nontoken artifacts; slow.
+"Deanna Troi, Psychic Counsel",0.595,2-drop that gives every later creature +1/+1; strong with counter payoffs.
+DOT-7 Repair Squad,0.575,4-mana 3/3 flyer artifact with station-untap utility; solid common.
+Dr. Beverly Crusher,0.555,"Needs incidental lifegain (planets, EMH, Shuttle Ace); typically a slow 3-4/3-4. Weak mythic."
+"Dr. McCoy, Surly Surgeon",0.545,4-mana 2/2 with a counter and conditional protection; poor rate.
+Emergency Medical Hologram,0.54,"1-mana 0/1 + counter + 1 life; artifact count/counter synergy, low impact."
+Excalbian Gamemaster,0.628,6-mana 6/6 plus ~3-4 1/1s plus death-counters; near-bomb top end.
+Federation Field Medic,0.572,4-mana 4/3 vigilance or 3/2 + card; good common.
+Federation Resupply,0.505,Tutor for aura/equipment/spacecraft; card disadvantage in limited.
+Free Borg Revolutionaries,0.555,5-mana 4/5 artifact with mini-anthem ETB; basic landcycling smooths it.
+Ghost of Illyria,0.58,4-mana 3/3 flyer that rebuys an ETB; good uncommon.
+Hologram Janeway,0.56,3-mana 3/3 artifact legend with go-wide upside.
+Malfunctioning Holodeck,0.588,Banishing Light with ward 2 and artifact type; premium common removal.
+The Measure of a Man,0.535,"Temporary exile (returns at III) plus a Clue; tempo/rebuy tool, mediocre."
+"Miles O'Brien, Transporter Ops",0.595,3/3 for 3 rebuying an ETB and drawing; also draws off every beam-me-up turn.
+The Needs of the Many,0.495,Narrow fog/protection with a sacrifice cost.
+Oberth-Class Starship,0.548,2-mana artifact that replaces itself with a Plains; station 6 flyer later. Low impact.
+Peace in Our Time,0.465,Essentially unplayable in limited.
+Pet Sehlat,0.552,4/3 for 3 can't attack alone; fine in go-wide white.
+"Picard, Leading by Example",0.56,2-drop with repeatable sorcery-speed +2/+2; decent in aggro.
+Primary Unimatrix Adjunct,0.552,Artifact-creature double strike lord; 4-mana 2/3 outside Borg.
+Pure Energy,0.548,Two +1/+1 counters for 2 with rebuy; counters matter in W/G.
+"Rutherford, Upgraded Ensign",0.56,3-mana 2/2 that usually finds an artifact; spacecraft-counter synergy.
+"Saavik, Stoic Student",0.582,Flash body + X damage to attacker/blocker where X (creature types) is often 3-5.
+Set Phasers to . . .,0.577,1-mana stun or 3 damage to attacker; cheap flexible interaction like Focus Fire.
+Shields Up!,0.548,Protection trick plus counter; tricks average slightly below mean.
+Shuttle Ace,0.555,5-mana 4/4 pseudo-flyer that gains 2 when attacking; fine common.
+"Sulu, Space Swashbuckler",0.565,2/2 first strike for 2; card draw needs equipment/spacecraft deck.
+Tactical Officer,0.545,2/1 for 2 with battalion-ish upside.
+Test of Conviction,0.565,"Team counters or draw 2 (opp draws 1); flexible, good in go-wide."
+There's Coffee in that Nebula,0.535,Card-neutral dig; low impact.
+Troubling Tribbles,0.56,"Exponential 0/1 can't-block tokens; wins with any anthem/sac outlet/Holo-Engineer, otherwise slow."
+"Una Chin-Riley, Number One",0.56,5-mana 4/5 with first strike pump when wide.
+"U.S.S. Enterprise-A, Free Spirit",0.648,5 mana: three 1/1s + 5/5 flying lifelink ward 2 after station 6. Best card in set.
+"U.S.S. Excelsior, Cutting Edge",0.585,4-mana kill a tapped creature + eventual 4/4 flyer; strong uncommon.
+Vexing Drone,0.555,2/2 artifact for 2 with tap-on-ETB tempo; solid Borg filler.
+Anthropological Mission,0.515,Slow loot enchantment; needs many noncreature spells.
+The Caretaker,0.578,6-mana 5/6 vigilance ward 2 with dilemma card advantage; good top end.
+Cetacean Ops,0.552,4-mana 3/3 ward 1 that grows in spell decks.
+Cloak and Phaser,0.55,Usually 5 mana for two 2/2s + draw 2 discard 1; fine value.
+Cloistered Telepath,0.553,2-mana 2/1 flash looter; decent filler.
+Consider the Prime Directive,0.56,Soft counter or stun+draw; flexible dilemma spell.
+"Data, New Life",0.565,2-mana artifact that grows every draw step; decent 2-drop.
+Deep Space Scan,0.535,6-mana draw ~4; too slow for limited.
+Dominion Saboteur,0.55,5-mana clone; average.
+Emergency Holographic Crew,0.562,4-mana 3/4 artifact with surveil 2 or spacecraft regrowth; solid common.
+Energize,0.545,2-mana bounce with expensive rebuy.
+Ensign Pavel Chekov,0.53,1/5 for 4 that nets a land; low impact.
+Enterprise NX-01,0.575,4-mana tap+stun then a 4/3 flying vigilance body at 6 charge; good.
+Federation Probe,0.54,1-mana 1/1 flyer artifact with minor ETB.
+Guidance Failure,0.575,"Instant tuck removal, 3 mana vs attackers; comparable tuck spells overperform."
+"Gwyndala, the Progeny",0.53,2-mana 2/2 leaving an equipment; weak rare.
+Highly Illogical,0.555,"Cheap counter for 2-drops, hard counter when kicked; fine."
+"H.M.S. Bounty, Unlikely Timeship",0.54,5-mana 3/4 that needs 8 charge; whale tutor is minor.
+"Hoshi Sato, Exolinguist",0.55,5-mana 3/3 + card selection.
+Humpback Whales,0.565,5/6 vigilance ward 2 for 6 with landcycling; good common top end.
+Interstellar Effigy,0.555,5-mana Man-o'-War artifact.
+"Jett Reno, Problem Solver",0.535,1/2 for 2 that needs dilemmas and tapping.
+Kobayashi Maru Scenario,0.48,Three turns of value then you lose; nearly unplayable.
+Lieutenant Commander Data,0.59,3-mana artifact that grows on anyone's noncreature spells and converts counters to cards.
+Lt. Cmdr. Geordi La Forge,0.55,3/2 for 3; doubles station counters in spacecraft decks.
+Make It So,0.56,4-mana draw 2 + 1/1 (or untap); decent card advantage.
+Marooned,0.57,"1-mana Claustrophobia-lite (4 total to tap); cheap pseudo-removal, can't be bounced by beam."
+Melkotian Adjudicator,0.548,3-mana 2/1 flying vigilance that grows with dilemmas.
+"Mr. Spock, Science Officer",0.618,Every draw becomes two; enormous card advantage on a 2/4 body.
+"Nyota Uhura, Communications",0.572,2/4 for 3 that draws a couple of cards per game.
+Open Communications,0.542,Cantrip; beam-me-up rebuys ETBs later.
+Romulan Bird-of-Prey,0.565,2-mana hexproof artifact that becomes a 4/4 flyer in spell-heavy decks.
+Rules of Acquisition,0.51,"5-mana steal that gives 3 cards, or donate; niche."
+"Scotty, Miracle Worker",0.583,Flashback for all your instants/sorceries via bouncing ETB creatures; strong engine.
+"Seven of Nine, Unassimilated",0.588,2-mana 0/4 that loots/draws every turn; great card quality + blocker.
+Starfleet Spanner Jockey,0.54,2-mana 3/3 defender that attacks in spell decks.
+Subcommander T'Pol,0.57,3/1 flash with stun or ability-counter.
+Suurok-Class Science Vessel,0.58,"3-mana cantrip spacecraft, 3/2 flyer at 5 charge; EOE 3-mana ships were ~0.60."
+Suus Mahna Practitioner,0.56,3/2 with a repeatable tapper (~2 mana with 3 land names).
+Test of Priorities,0.555,Surveil 2 + draw or flicker; modest instant.
+Those Old Scientists,0.53,"Loot 2, regrowth, shuffle; low impact saga."
+"V'Ger, the Intruder",0.568,7-mana 5/7 flyer with card draw each attack; big top end.
+Vulcan Mind-Meld,0.52,Symmetric-ish exile/play; opponent gets your top card. Marginal.
+"Wesley Crusher, Starfleet Cadet",0.57,Flash 2/2 with two flexible modes.
+"Zefram Cochrane, Warp Pioneer",0.555,3-mana 2/3 with top-of-library artifact casting; spacecraft synergy.
+"Armus, Skin of Evil",0.585,"7-mana 6/6 menace + discard engine, or 3-mana -4/-4 removal; flexible."
+Assault Drone,0.53,"4-mana 2/4 artifact; weak body, minor lord."
+Automated Warfare System,0.555,3-mana 2/2 flyer that converts tokens/clues into cards.
+Bat'leth,0.578,-2/-2 on entry plus +2/+0 equipment; Crude Bent Blade-style overperformer.
+Battle-Scarred Survivalist,0.548,2-mana 1/1 menace that grows on deaths.
+Blastoneuron,0.555,4-mana 2/2 flyer with a hasty ETB copy and drain.
+Cha'DIch Investigator,0.57,5 mana for 4/4 + 2/1 haste; good common.
+Collation Trimatrix,0.525,1/1 for 1 engine needing three artifact creatures.
+Collective Drone,0.545,"*/2 artifact; 3/2+ in Borg decks, 1/2 elsewhere."
+Commander Raffi Musiker,0.56,3/2 for 3 plus Clue (or graveyard hate + 2 life).
+D'Ghor Bloodletter,0.575,2/2 with mini-sweeper (great vs 1/1 Officers) or edict; strong in this token format.
+Death Is Irrelevant,0.505,8-mana enchantment; too slow.
+The Destruction of Praxis,0.56,Scaling sweeper (-3/-3 to -5/-5); symmetrical but rares' decks are built around it.
+De-evolve,0.56,2-mana -4/-0 + can't block aura; pseudo-removal like Cryoshatter/Pacifism.
+Eject the Warp Core,0.577,Vayne's Treachery reprint; tokens make the kicker easy.
+"Elim Garak, Simple Tailor",0.588,3/3 menace for 3 with drain on dilemmas; strong body.
+Fugitive Listener,0.552,3/1 + discard; ETB-discard creatures run slightly below mean.
+"Gabriel Lorca, Mirror Menace",0.565,5-mana 5/4 menace with recursion; good body.
+"General Chang, Cold Warrior",0.515,Needs Klingons and fodder; weak rare.
+"Georgiou, Terran Emperor",0.59,6-mana 4/6 drawing a card each turn; life loss offset by ten 1/1s at 0.
+A Good Day to Die,0.515,Low-impact trick.
+Grand Nagus Zek,0.56,Slow-growing body that makes Treasures on deaths.
+"Gul Dukat, Colonial Prefect",0.572,7-mana 6/6 menace life-loss doubler; strong when cast.
+"He's Dead, Jim",0.578,4-mana instant Murder + surveil; Hour of Defeat/Sephiroth's Intervention.
+Hive Mind Coprocessor,0.555,5-mana 4/4 artifact with card-draw engine for artifact creatures.
+Impossible Choice,0.55,Instant kill but gives two 1/1s (Harsh Annotation underperformed); draw mode helps.
+In the Pale Moonlight,0.56,5-mana edict + clue + two 2/2s over three turns.
+"Kai Winn, Faithless Leader",0.545,3/1 for 2 with marginal name-a-card upside.
+"Khan, Vengeful Heart",0.605,4-mana 5/3 that cashes a token in for two cards.
+Obsidian Order Operative,0.532,4-mana 2/5 wall with dilemma drain.
+Organic Avulsion Unit,0.535,3-mana 2/3 artifact with menace-granting ability.
+Overflow Submatrix,0.572,3/3 for 3 recurring artifact creatures from the graveyard each turn.
+Pattern Buffer Preservation,0.545,2-mana card selection with cheap rebuy; filler.
+Relentless Drednok,0.545,1-drop lifelink artifact that cycles from the graveyard.
+Resistance Is Futile,0.59,2-mana sorcery kill (nonartifact) or reanimate small artifact creature; premium.
+Rogue Artificial Intelligence,0.565,6-mana 6/5 artifact with ETB value and landcycling.
+Salt Vampire,0.572,2/2 lifelink for 2 plus hand disruption (replaced card).
+"Sela, Tal Shiar Paradox",0.592,4-mana 3/3 making a 2/2 nearly every attack (exiles from any graveyard).
+Storied Veteran,0.535,Aggressive 2/1 can't-block with one recursion.
+Stray from History,0.54,3-mana double raise dead or hand exile; card advantage but slow.
+Tal Shiar Operative,0.555,2/2 for 2 with deathtouch-granting or surveil on attack.
+Tell Me What You See,0.52,Opponent chooses: usually a 2-mana cantrip.
+Tenacious Drone,0.548,2-mana 2/1 artifact leaving a 1/1; Borg filler.
+Test of Loyalty,0.535,1-mana cantrip graveyard exile or raise dead.
+"U.S.S. Reliant, From Hell's Heart",0.545,4-mana reanimate MV<=4 (needs a target); creature only at 10 charge.
+Vengeance Mission,0.51,Slow drain enchantment.
+Academy Instructor,0.545,0/3 for 3 that grows with Officer tokens; spells deck only.
+"Beckett Mariner, Impetuous Ensign",0.555,2/1 first strike with slow burn.
+Boarding Action,0.535,2-mana 2/1 haste token with rebuy; weak card.
+Brazen Bluff,0.48,Situational counter-ish rare; near unplayable.
+Cantankerous Captain,0.548,2/3 for 3 with small combat buff.
+Captain James T. Kirk,0.588,"3-mana value engine: token, loot or anthem each attack; all three when hellbent."
+Captain Michael Burnham,0.57,3/3 trample for 3 with landfall pings and growth.
+Captain's Tutelage,0.51,Flash +2/+0 aura; auras of this kind underperform badly.
+D-7 Battle Cruiser,0.588,"2 mana; after one 3-power station tap, a free 2/1 haste attacker every turn."
+Dahar Master,0.56,4/3 for 4 with optional 2 damage by sacrificing a token/clue.
+Dominion Infiltration,0.5,RRR X-copy effect; narrow.
+Encounter the Unknown,0.56,Instant: impulse 2 or 2-damage sweeper; flexible rare.
+"Erica Ortegas, Plucky Pilot",0.555,4-mana 3/3 haste enabling repeated landfall.
+Exploratory Mission,0.52,4-mana do-nothing until lands come; slow.
+Genesis Effect,0.565,5-mana instant 6 damage plus land swap into an any-color Planet; good removal.
+Horta,0.56,7/6 trample for 6 with landcycling; solid curve-topper.
+Infinite Diversity,0.455,9-mana copy spell; unplayable.
+Khaaaaaaaaaaaannn!,0.585,"Scalable instant removal (2X damage, exiles); Choco-Comet style."
+"Khan, Despot by Design",0.585,5-mana 5/4 trample that sweeps 1/1 tokens on entry; strong here.
+"La'An Noonien-Singh, Security",0.555,4-mana 4/3 with go-wide falter.
+"Lwaxana Troi, Charming Guest",0.53,2/2 for 2 trigger-doubler; niche.
+Munitions Enthusiast,0.565,3/2 trample for 2 with death ping; good aggressive 2-drop.
+The Naked Time,0.525,Ramp saga that sacrifices a land; low impact.
+Pah-Wraith,0.565,7-mana 4/4 first strike haste team pump; strong finisher in wide decks.
+Perils of the Past,0.555,"Trick or artifact destruction; artifact mode is maindeckable here (spacecraft, Borg)."
+Planetary Bombardment,0.56,1-mana 2 (often 4) damage sorcery.
+Planetary Patrol,0.54,2/2 landfall for 2; filler.
+Plasma Cascade,0.562,Tweeze/Lightning Strike with optional loot.
+"Q, Stacking the Deck",0.585,4/4 for 4 plus repeatable spell copies by pitching excess cards.
+"Quark, Humble Proprietor",0.48,Treasures you can't sacrifice; a 1/2 for 3.
+Ravenous Cosmozoan,0.55,"3/3 flying haste, usually 3-4 mana in spell decks."
+Reckless Impulse,0.525,Impulse draw sorceries underperform at common.
+Red Alert!,0.54,Team +2/+0 instant; situational.
+"Sarcophagus, Ship of the Dead",0.552,3-mana +1/+0 anthem artifact; rarely a creature.
+Savvy Profiteer,0.54,2/1 mana dork; filler.
+Silicate Surveyor,0.56,5-mana 4/4 reach with impulse card; Kulrath Zealot-like.
+Starfleet Security,0.53,1/1 haste 1-drop with conditional Clue.
+Tal Shiar Analyst,0.552,3/2 for 3 that pings each turn; untaps on spells.
+Targ Wrangler,0.548,5/3 menace for 3 with a real sacrifice drawback; tokens mitigate.
+"Tasha Yar, Out of Time",0.555,2/1 haste with impulse on death and graveyard recursion.
+Test of Identity,0.545,Klingon double strike or rummage 2; modest.
+Transporter Malfunction,0.568,2-mana 3 damage sorcery any target; rebuy is expensive.
+"Will Riker, First in the Field",0.585,4/3 for 4 giving +2 mana and two landfall triggers every turn.
+"Worf, Intelligence Contractor",0.56,3/2 for 3 with a small threaten.
+The Wrath of Khan,0.6,"3-mana: 4 damage + threaten, loot, then edict; excellent saga."
+Adversary by Algorithm,0.548,3-mana 3/3 artifact token sorcery with rebuy.
+Amok Time,0.568,3-mana fight + 3 life + regrowth; Pitiless Fists-like.
+Astute Terraformer,0.545,2/2 for 2 with a ~3-mana +2/+2 pump once per turn.
+Branching Timeline,0.51,8-mana sorcery; too expensive.
+Captain Jonathan Archer,0.59,3 mana for 3/3 + 1/1 plus repeatable +X/+X pump; strong rare.
+Captain Kathryn Janeway,0.6,4-mana 2/3 with extra land drop and explore on every creature.
+"Captain Pike, Fullness of Time",0.59,3-mana 3/3-5/5 that plays lands off the top; card advantage + body.
+Cold-Blooded Crew,0.56,6 mana for 6 power with evasion and landcycling.
+Common Goal,0.567,2-mana double bite sorcery; green's best common removal.
+"Culber and Stamets, Star-Crossed",0.56,4-mana 4/5 or 3/4 + two mana; flexible body.
+Dathon and Picard at El-Adrel,0.545,+3/+3 trample trick or artifact/enchantment edict; flexible but a trick.
+"David and Carol Marcus, Creators",0.55,3-mana 1/3 with a Planet token (ramp + fixing + landfall).
+Dominion Assault Force,0.562,4-mana 4/4 vigilance with minor ETB; good common body.
+Dominion Supervisor,0.558,Effectively 4/2 for 3 with trample for countered creatures.
+Dr. Joseph M'Benga,0.588,3/3 for 4 doubling counters and giving hexproof; strong in GW/W counters.
+"Dr. Leonard ""Bones"" McCoy",0.57,3/2 flash with regrowth or death insurance.
+Final Frontier,0.53,Rampant Growth with rebuy; ramp sorceries are weak in limited.
+First Contact,0.535,Card-neutral dig that fuels graveyard synergies.
+Genesis Device,0.51,Ramp artifact; weak rare.
+Holo-Engineer,0.615,"4 mana for two 3/3s and every later token (Officers, Clues, Treasures) becomes a 3/3."
+Hologram Stalker,0.545,6-mana 2/2 regrowth with 3/3 token potential.
+"I'm a Doctor, Not a . . .",0.552,1-mana counter + untap trick; cheap and sticky.
+"Jadzia Dax, Living Legacy",0.575,"2-mana scaling ramp engine, fragile 0/1; discard mode gives two counters."
+"Jake Sisko, War Correspondent",0.545,2/2 for 2 with landfall lifegain and occasional Clue.
+MACO Strike Team,0.53,2/1 for 1 that punishes targeting; low impact.
+Moopsy,0.545,1-mana deathtouch with reach option.
+Mugato,0.595,5-mana 6/6 reach vigilance deathtouch; premium uncommon body.
+"Neelix, Moral Support",0.545,"2-mana 1/1 + Food, grows on lifegain (planets)."
+Photosynthetic Physician,0.56,5-mana 5/5 reach with graveyard token later.
+"Rok-Tahk, Budding Scientist",0.575,6-mana 5/5 + indestructible 0/1; mana engine is minor at that point.
+"Saru, Unthreatened",0.555,3/2 flash protecting a creature.
+Saurian Explorer,0.555,4-mana 4/3 with landfall pump and late Planet-making.
+Species 8472,0.565,"6-mana 7/5 gaining ~4 life, unblockable by artifact creatures."
+Stable Wormhole,0.51,Ramp enchantment; weak.
+Support Mission,0.525,Slow counter enchantment.
+"Sylvia Tilly, Joy of Discovery",0.555,3-mana 2/2 surveil 2 with a counter engine.
+Syndicate Liquidators,0.57,5-mana 4/4 trample growing two counters per land.
+Temporal Conqueror,0.553,3-mana 2/3 that returns a land or makes a Treasure.
+Test of Courage,0.52,Naturalize-lite / graveyard hate; artifact targets exist but still narrow.
+"U.S.S. Discovery, at Black Alert",0.6,"5-mana free spell on entry and each attack, 5/5 flyer at 6 charge."
+"U.S.S. Voyager, Lone Wanderer",0.56,4-mana two lands (double landfall) then 3/3 flyer at 8 charge.
+Warp Speed,0.52,Land tutor + untapped lands; low impact.
+Xenobotanist,0.548,1/3 any-color dork; fixing for splashes.
+Xindi Surveyors,0.552,3/2 for 3 growing with landfall.
+All Good Things...,0.555,5-mana draw 6 exile 3 over three turns; slow card advantage.
+Borg Cube,0.545,Affinity-discounted O-ring-ish; not a creature until 12 charge.
+The City on the Edge of Forever,0.52,Weird phase-out saga; mostly a fog + draw 2.
+"Cleveland Booker, Empath",0.565,4-mana 2/2 making a 2/2 per land drop; good in landfall.
+Constable Odo,0.575,5-mana 4/3 with double stun or two Clues; hybrid so widely playable.
+"Dal R'El, Augment Orphan",0.565,3/3 for 3 with landfall mana and a card-draw sink.
+"Daniels, Temporal Agent",0.55,4-mana 3/1 raise dead; hybrid.
+"Dathon, His Heart Open",0.52,Three-color enchantment payoff; narrow.
+"The Doctor, EMH",0.565,5-mana 3/3 that spreads counters; hybrid.
+"D'Vana Tendi, Optimistic Ensign",0.548,"3-mana 2/4 hybrid untapper (ramps a land or spacecraft); defensive body, low impact."
+The Duras Sisters,0.58,2-mana 3/2 leaving a 2/1 haste; excellent hybrid 2-drop.
+"Gowron, Eager for Battle",0.58,4-mana 3/3 that grows on deaths and draws off Klingon sacrifice.
+"Gray and Adira, Forever Joined",0.545,Conditional token copy each combat; needs noncreature spells.
+"Hemmer, Fixing What Is Broken",0.57,2-mana 2/3 that loots whenever tapped (attacks or station).
+Hit It!,0.52,Team haste enchantment with a land; weak.
+The Inner Light,0.56,Reanimate + card draw + life; decent 5-mana saga.
+"Kira Nerys, Firebrand",0.6,3-mana 4/3 trample with haste-like entering-attacking for the team.
+"Kirk, Commanding Officer",0.575,3/3 for 3 with impulse when wide and artifact/enchantment removal mode.
+Live Long and Prosper,0.5,7-mana life doubler/draw; narrow.
+"Locutus, the One Who Speaks",0.572,2-mana artifact lord with a 2-damage discard mode.
+"Lore, Positronic Provocateur",0.555,3-mana 2/3 artifact with surveil 2 or unblockable.
+"L'Rell, Fierce Visionary",0.585,3-mana 1/4 making a free 2/1 haste attacker every turn; sac outlet.
+Mirror Universe Intrusion,0.56,3-mana clone with menace; kicked mass clone late.
+"Nog, Ambitious Cadet",0.585,2-mana 3/4 menace with surveil 2 on tap after {1}; great 2-drop.
+"Phlox, Unorthodox Doctor",0.575,4-mana 3/4 trample drawing off countered creatures.
+"Sarek, Federation Ambassador",0.53,0/5 three-color; draws a card most turns in diverse decks but no board impact.
+Seven of Nine,0.56,4-mana 2/4 artifact drawing on dilemmas (many modal ETBs).
+"Spock, Always Your Friend",0.575,2-mana 2/2 that finds a spell; strong in UR.
+The Traveler,0.59,2-mana 3/3-5/3 reach vigilance; premium 2-drop.
+"Vash, Freelance Archaeologist",0.572,3-mana 2/4 surveil + draw engine with many graveyard-exile outlets in set.
+"Worf, Honor-Bound Warrior",0.54,1/1 for 2 that needs tapping two permanents; slow.
+Year of Hell,0.515,Symmetric draw/damage saga.
+"Zero, Incorporeal Sensate",0.56,3-mana 2/2 lifelink artifact with taxed hand disruption.
+Class-F Shuttlecraft,0.545,3-mana any-color mana rock spacecraft; 2/4 flyer at 6 charge.
+Combadge,0.495,Two equipment that only grant unblockable together; very weak.
+Crystalline Entity,0.558,8-mana 7/7 flying with a nonartifact wrath; rarely cast but game-winning.
+Cybernetic Specialist,0.54,2-mana 2/1 artifact with surveil; filler.
+Deep Space 9,0.485,9-mana artifact; near unplayable.
+Engineered Explosives,0.485,Sunburst sweeper; near unplayable in limited.
+The Holodeck,0.47,7-mana do-little artifact.
+Isolinear Processor,0.51,Artifact-only mana rock with loot.
+Replicator,0.53,Food + token copier; slow.
+Sickbay,0.52,5-mana enchantment-like artifact; slow counters.
+"Tea, Earl Grey, Hot",0.555,2-mana cantrip Food with late 2 damage/3 life; artifact count.
+Tricorder,0.535,1-mana +1/+1 equipment with surveil; small.
+Type-2 Phaser,0.545,"2-mana stun on entry, +3/+0, equip 3."
+"U.S.S. Cerritos, Following Up",0.54,5 mana for two 1/1s and a slow-to-activate 4/4 flyer.
+"U.S.S. Enterprise-D, Galaxy-Class",0.578,3-mana artifact drawing a card per turn when stationed; 4/5 flying vigilance at 7.
+Warp Core,0.52,Land tutor + station helper; low impact.
+Andoria,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Bajor,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Cardassia Prime,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+"Earth, Sector 001",0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Ferenginar,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Orion,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Qo'noS,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Risa,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Romulus,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Vulcan,0.565,"Common Planet tapland: gain 1, dual colors, counts for strange new worlds/landfall; typically ~mean."
+Blood Crypt,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Breeding Pool,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Godless Shrine,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Hallowed Fountain,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Overgrown Tomb,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Sacred Foundry,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Steam Vents,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Stomping Ground,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Temple Garden,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Watery Grave,0.556,Shockland: historically ~-0.01 vs mean in limited.
+Federation Outpost,0.56,Mono-color rare land with small ETB bonus; near mean.
+Ni'Var Science Academy,0.56,Mono-color rare land with small ETB bonus; near mean.
+Q Continuum,0.56,Mono-color rare land with small ETB bonus; near mean.
+Quark's Bar,0.56,Mono-color rare land with small ETB bonus; near mean.
+The Unicomplex,0.56,Mono-color rare land with small ETB bonus; near mean.
+Starfleet Academy,0.52,Legendary colorless land; mana sink rarely matters.
+Unexplored Territory,0.553,"Evolving Wilds variant (1 mana); fixing, adds a land name."
+Artificial Anomaly,0.545,Colorless utility land with late drain; colorless lands cost consistency.
+Gaseous Anomaly,0.548,"Colorless land, late draw 2."
+Spatial Anomaly,0.55,"Colorless land, late 2 damage to a creature."
+Subspace Anomaly,0.548,"Colorless land, late two 1/1s."
+Temporal Anomaly,0.545,"Colorless land, late dig."
+Plains,0.556,Basic land; historically ~0.555-0.560.
+Island,0.556,Basic land; historically ~0.555-0.560.
+Swamp,0.556,Basic land; historically ~0.555-0.560.
+Mountain,0.556,Basic land; historically ~0.555-0.560.
+Forest,0.556,Basic land; historically ~0.555-0.560.

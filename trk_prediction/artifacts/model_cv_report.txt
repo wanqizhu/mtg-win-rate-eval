@@ -1,0 +1,77 @@
+Leave-one-set-out CV (target = GIH WR relative to set mean); baseline std: 0.0318
+lgb      wMAE=0.0206 wRMSE=0.0272 corr=0.516
+ridge    wMAE=0.0215 wRMSE=0.0284 corr=0.455
+text     wMAE=0.0294 wRMSE=0.0388 corr=0.331
+blend    wMAE=0.0208 wRMSE=0.0276 corr=0.506
+
+Per-rarity blend wMAE / corr:
+common 0.0157 0.438
+uncommon 0.0227 0.435
+rare 0.0314 0.435
+mythic 0.0316 0.386
+
+Per-set blend corr:
+ECL 0.443
+EOE 0.538
+FIN 0.459
+FRA 0.523
+HOB 0.439
+MSH 0.602
+OM1 0.09
+SOS 0.546
+TLA 0.513
+TMT 0.549
+
+Top LGB features: {'text_len': 1215, 'pt_per_cmc': 354, 'cmc': 350, 'n_lines': 282, 'tx_etb': 252, 'pt_sum': 239, 'toughness': 239, 'pt_minus_cmc': 237, 'power': 210, 'rar_common': 184, 'colored_pips': 180, 'rar_uncommon': 169, 'removal_any': 162, 'rar_rare': 157, 'type_Enchantment': 149, 'col_U': 146, 'col_R': 142, 'cmc_sq': 138, 'tx_token_creature': 129, 'ncolors': 121, 'rar_mythic': 118, 'col_W': 118, 'type_Artifact': 95, 'tx_gain_life': 94, 'type_Sorcery': 88}
+                                 name    rarity      mana_cost  m_blend
+210       Rok-Tahk, Budding Scientist    mythic      {4}{G}{G}    0.062
+15               Excalbian Gamemaster    mythic         {5}{W}    0.061
+42   U.S.S. Enterprise-A, Free Spirit    mythic      {3}{W}{W}    0.061
+6             Captain Jean-Luc Picard    mythic         {2}{W}    0.060
+73         Mr. Spock, Science Officer    mythic      {2}{U}{U}    0.054
+227   The City on the Edge of Forever      rare      {3}{W}{B}    0.050
+126                      Salt Vampire      rare         {1}{B}    0.048
+5              Captain Benjamin Sisko      rare         {1}{W}    0.044
+141             Captain James T. Kirk    mythic         {2}{R}    0.043
+79       Seven of Nine, Unassimilated    mythic         {1}{U}    0.042
+200                     Holo-Engineer      rare      {2}{G}{G}    0.042
+88    Wesley Crusher, Starfleet Cadet      rare      {2}{U}{U}    0.040
+240                   The Inner Light      rare      {3}{G}{W}    0.039
+109          Georgiou, Terran Emperor    mythic      {4}{B}{B}    0.037
+62   H.M.S. Bounty, Unlikely Timeship      rare         {4}{U}    0.037
+252         Spock, Always Your Friend  uncommon         {U}{R}    0.037
+2             Antagonist Incorporator      rare         {1}{W}    0.036
+179     Worf, Intelligence Contractor      rare         {2}{R}    0.035
+118              Khan, Vengeful Heart    mythic      {2}{B}{B}    0.035
+164              Q, Stacking the Deck    mythic      {2}{R}{R}    0.034
+67            Kobayashi Maru Scenario    mythic      {1}{U}{U}    0.034
+185           Captain Jonathan Archer      rare         {2}{G}    0.033
+247         Mirror Universe Intrusion      rare      {1}{U}{B}    0.032
+32              Saavik, Stoic Student  uncommon         {4}{W}    0.031
+260                Crystalline Entity    mythic            {8}    0.030
+102         The Destruction of Praxis      rare      {3}{B}{B}    0.029
+257         Zero, Incorporeal Sensate  uncommon  {1}{W/B}{W/B}    0.027
+60              Gwyndala, the Progeny      rare         {1}{U}    0.027
+23     Miles O'Brien, Transporter Ops      rare         {2}{W}    0.027
+196         Dr. Leonard "Bones" McCoy      rare      {1}{G}{G}    0.025
+                               name    rarity      mana_cost  m_blend
+259                        Combadge  uncommon            {3}   -0.069
+26                Peace in Our Time      rare         {3}{W}   -0.061
+45          Anthropological Mission  uncommon         {2}{U}   -0.056
+131            Tell Me What You See  uncommon         {1}{B}   -0.051
+119        Obsidian Order Operative    common         {3}{B}   -0.051
+9                  Conquest Mission  uncommon         {2}{W}   -0.050
+69        Lt. Cmdr. Geordi La Forge      rare         {2}{U}   -0.050
+53                Dominion Saboteur  uncommon         {4}{U}   -0.049
+149             Exploratory Mission  uncommon      {2}{R}{R}   -0.049
+107    Gabriel Lorca, Mirror Menace  uncommon         {4}{B}   -0.046
+251                   Seven of Nine  uncommon      {2}{U}{B}   -0.046
+215                 Support Mission  uncommon         {2}{G}   -0.045
+191   Dathon and Picard at El-Adrel    common         {2}{G}   -0.045
+167                Reckless Impulse    common         {1}{R}   -0.043
+72            Melkotian Adjudicator    common         {2}{U}   -0.043
+91                    Assault Drone    common         {3}{B}   -0.042
+237  Gray and Adira, Forever Joined  uncommon  {2}{U/R}{U/R}   -0.041
+120           Organic Avulsion Unit  uncommon         {2}{B}   -0.040
+174                   Targ Wrangler  uncommon         {2}{R}   -0.040
+135               Vengeance Mission  uncommon         {2}{B}   -0.040
