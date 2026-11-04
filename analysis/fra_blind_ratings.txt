@@ -1,0 +1,258 @@
+# Blind ratings of Reality Fracture cards (rel GIH WR, percentage points vs set mean), made from card text only.
+# Lines marked SEEN are cards whose win rate appeared in earlier queries; they are excluded from scoring.
+Consider|-1.5
+Splinter Twin|-3
+Mind Twist|-1
+Sublime Epiphany|2
+Austere Command|1
+Emrakul, the Exigent Doom|-2
+Academic Ascent|-2
+Blossom-Blessed Angel|1.5
+Campus Crier|0
+Enlightened Confidant|0.5
+Fateshaper Aspirant|-1.5
+Flickering Hound|-1
+Generous Revival|0
+Germinate Recruits|-3
+Graft Surgeon|-0.5
+Guiding Hydra|2
+Hexhaven Battalion|SEEN
+Kindred Judgment|-1
+Memory Trap|3
+Predictive Preparations|SEEN
+Prophesied End|1.5
+Refute Destiny|-1
+Repurposed Enforcer|2
+Return to the Light Realms|-3
+Shatterwing Pegasus|0.5
+Surgical Precision|SEEN
+Unflinching Hortimancer|-1
+Your Fate Ends Here|2
+Countersculpt|-0.5
+Cryotheory Adept|-0.5
+Diviner of Victory|0.5
+Divining Duelist|0
+Icy Reception|-1
+Infinite Coursework|1
+Jace's Machinations|0
+Mindseeker Oculus|SEEN
+Perfected Theory|-2
+Plan for All Outcomes|1.5
+Protege's Awakening|1
+Seasoned Cryomancer|2
+Semester Foreseer|1
+Sphinx of False Conclusions|4
+Sphinx's Approach|-0.5
+Surveillance Phantasm|-0.5
+The Theorist, Jace Beleren|6
+Theorist's Proxy|0.5
+Undulating Witness|SEEN
+Unsummon|-2
+Variable Chaser|1
+Apex Witchstalker|SEEN
+Bloodline Recollector|0
+Break Under Pressure|2
+Cast Away Doubt|-0.5
+Dark Matter Manipulator|-2.5
+Darklight Phoenix|3
+Extended Absence|SEEN
+Last Gasp|2
+Lich's Relic|4
+Multiply by Zero|2.5
+Overwrite the Multiverse|2
+Rampart Hunter|SEEN
+Rank Rat|-2
+Rewrite Regrets|0.5
+Rise of the Deathbringer|2
+Sanctum Lurker|0
+Screeching Soulbreaker|0
+Silence the Echo|SEEN
+Solve for Disappointment|-2.5
+Terminal Criticism|-0.5
+Theoretical Necromancer|-0.5
+Void Extrapolator|-1
+Vraska's Final Mercy|3
+Ajani's Anguish|2
+Artifist Acumen|-2.5
+Awaken the Inferno|SEEN
+Blazing Crescendo|SEEN
+Chandra's Emberling|-1.5
+Command the Stage|-1
+Craterclaw Colossus|0
+Curse-Marred Demon|5
+Draconic Visitor|4
+Eardrum Rattler|SEEN
+Face Yourself|-1
+Fulminous Forte|2.5
+Hallway Heckler|-1.5
+Heartstring Puller|0
+Master of Barbs|-1
+No Admittance|SEEN
+Pompous Battlemage|-2
+Pyre Rhymer|-0.5
+Skilled Battlecarver|-1
+Stingcaster Mage|0
+Tether Technician|0
+Violent Echoes|2
+Wrath of the Bloodmane|SEEN
+Arcane Amphisbaena|1.5
+Bestial Incursion|1.5
+Budding Insurgent|0
+Carnivorous Cultivator|1
+Compel Brutality|1.5
+Greenhouse Propagator|-1
+Heartwood Crafter|-2
+Hexhaven Invigorator|3
+Hungering Puppetbeast|1.5
+Hunter's Axe|-2
+Inspired Tethermage|-1
+Puppet Crafting|-2
+Restore with Empathy|-2
+Simulacrum Shaper|2
+Something Worth Saving|-1.5
+Sureshot Sower|0.5
+Tarmogoyf|0
+Tethermage's Advantage|-2
+Verdant Kraken|5
+Vinelasher Adept|SEEN
+Wrecking Gecko|0
+Aerid Konstrari|6
+Avatar of Burgeoning Echoes|3
+Blessed Ghoul|-2
+Bloombrute|2
+Charge the Sanctum|SEEN
+Clash of Elements|2
+Craftwork Crusher|2.5
+Denzilore Fatehold|5
+Desperate Futurescribe|3
+Emergency Phytomedic|-2
+Fatehold Charm|1
+Fatehold Chronologist|1.5
+Ferocity of the Hunt|-1.5
+Frostbite Pyromental|0
+Grim Repriser|-0.5
+Ingris Stingerquill|3
+Konstrari Charm|0.5
+Konstrari Improviser|-1
+Kwia Vigorbloom|7
+Mind Meanderer|3
+Null Summoner|0.5
+Paradox Shaper|-1.5
+Primal Witchstalker|0
+Proctor of Potential|1
+Prudent Fateseer|0.5
+Recursive Recruitment|0.5
+Solarium Sentry|1.5
+Solitary Cell|2
+Stingerquill Charm|2
+Stingerquill Voxmancer|-2
+Stinging Vitriol|-2
+Tam's Resistance|1
+Tenured Tethermage|-1
+Theorix Charm|1
+Theorix Metamage|0
+Twinned Vision|-1
+Twisted Fates|2
+Uldaros Theorix|6
+Vigorbloom Charm|1.5
+Vigorbloom Vanguard|-0.5
+Vindictive Triumph|3
+Warrior's Blades|1.5
+Whiplash Wordsmith|-1
+Woodwork Prodigy|0.5
+Afterthought Sentry|-2.5
+Archive Arbiter|0
+The Echoverse Fulcrum|-1
+Eye of Jace|-3
+Keeper of the Quiet Hour|1
+Living Library|-2.5
+Medic's Kitesail|-2
+Murmuring Volume|-2.5
+Hall of Echoes|-2
+Haunted Ridge|0.5
+Overgrown Farmland|0.5
+Rockfall Vale|0.5
+Roiling Canopy|-3
+Ajani Resolute|1
+Danitha, Sword of Hope|0
+Ghalta the Immovable|-3
+Gideon's Memorial|0.5
+Koth of the Homestead|0
+Liliana the Faultless|-2.5
+Lyra, Archangel of Dawn|3
+Rescue Girl, First Responder|-1
+Saheeli, Consul of Oversight|3
+Teyo, Lightshield Expert|-2
+Thalia, the Survivor|1
+Tomik, Orzhov Lawmage|0.5
+Way of the Healer|1.5
+Way of the Mentor|0.5
+Yoshimaru, Beloved Companion|-1.5
+Yuriko, Blade of the Mighty|-2
+Arni, Humble Scribe|0
+Chandra, Chill of Compliance|3
+Fblthp, Impossibly Lost|-1
+Geist of Saint Thalia|-1
+Hapatra, the Desert Frost|2
+Jace, Reality Sculptor|1
+Lyra, Tolarian Archangel|3
+Proft, Consulting Detective|-0.5
+Ruric Thar, Biomagus|1.5
+Samut, Tyrant of Naktamun|-3
+Tetsuko Umezawa, Fugitive|-2
+Traxos, Academy Guardian|-0.5
+Way of the Cryomancer|0
+Way of the Mind Sculptor|0
+Yargle, Goliath of Otaria|-3
+Yuriko, Hope from the Shadows|-1
+Danitha, Spear of Agony|-1
+Gallia, Tragic Host|-1
+Garruk, Veiled Butcher|5
+Gideon the Oathless|0.5
+Liliana the Repentant|1
+Loot, the Anomaly|-2
+Mabel, Bitter Recluse|-0.5
+Massacre Girl, Most Wanted|-1
+Proft, Sinister Mastermind|0.5
+Teyo, Diamondblade Mage|-1.5
+Tinybones, Pocket Nuisance|-1
+Way of the Deathbringer|0.5
+Way of the Necromancer|-1
+Winter, Tormented Loner|0
+Ajani Unrelenting|4
+Arni, Renowned Champion|-2
+Chandra, Torch of Defiance|5
+Gallia, the Merrymaker|-1.5
+Jiang Yanggu, Alone|0
+Kiora of Fire and Ashes|3
+Koth, the Geomancer|0
+Marwyn, the Clearcutter|-1.5
+Pia, Determined Rebuilder|0
+Samut, Hazoret's Champion|-1
+Tetsuko Umezawa, Pursuer|1
+Tomik, Izzet Sparkmage|-1.5
+Way of the Pyromancer|-1.5
+Way of the Warlord|1.5
+Winter, Team Player|-1
+Edgar, Moonlit Sovereign|1.5
+Fblthp, Knows the Way|-1
+Garruk, Curse Breaker|5
+Ghalta the Unstoppable|-1
+Jiang Yanggu, Never Alone|0.5
+Loot, the Nexus|-1.5
+Marwyn, the Preserver|-0.5
+Pia, Aether Ascetic|-2
+Ruric Thar, Magecrusher|0.5
+Titanbones, Towering Heart|0
+Way of the Paradox|-0.5
+Way of the Wildspeaker|2
+Yoshimaru, Scrappy Stray|1
+Edgar, Ancient Bloodlord|0
+Hapatra, the Desert Fang|2
+Karn, Gilded Guardian|1
+Kiora of Salt and Sand|0
+Mabel, Valley Hero|0.5
+Saheeli, Jewel of Avishkar|1.5
+Vraska, Soul of Stone|-1
+Vraska, the Cutting Glare|3
+Traxos, Scourge Eternal|-0.5
