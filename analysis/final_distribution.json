@@ -1,0 +1,39 @@
+{
+  "n": 311,
+  "mean": 0.5585,
+  "std": 0.0316,
+  "by_rarity": [
+    {
+      "rarity": "common",
+      "count": 96,
+      "mean": 0.551,
+      "std": 0.0222,
+      "min": 0.486,
+      "max": 0.6
+    },
+    {
+      "rarity": "mythic",
+      "count": 25,
+      "mean": 0.5882,
+      "std": 0.0465,
+      "min": 0.498,
+      "max": 0.65
+    },
+    {
+      "rarity": "rare",
+      "count": 80,
+      "mean": 0.566,
+      "std": 0.0357,
+      "min": 0.476,
+      "max": 0.658
+    },
+    {
+      "rarity": "uncommon",
+      "count": 110,
+      "mean": 0.5527,
+      "std": 0.0262,
+      "min": 0.492,
+      "max": 0.604
+    }
+  ]
+}

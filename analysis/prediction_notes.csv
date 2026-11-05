@@ -1,0 +1,312 @@
+name,collector_number,rarity,mana_cost,type_line,colors,gih_win_rate,note
+"70,000 Light-Years from Home",1,uncommon,{1}{W},Sorcery,W,0.5700,"exile + they get a land. Premium, but not a clean O-ring."
+Andromedan Automatons,2,common,{2}{W},Artifact Creature — Android,W,0.4980,3/1 that tutors extra copies you often don't have
+Antagonist Incorporator,3,rare,{1}{W},Artifact Creature — Borg,W,0.5580,"2/3 for 2, artifacts make Borg on damage. Build-around."
+Assembly Specialist,4,uncommon,{1}{W},Artifact Creature — Borg,W,0.5840,two bodies for 1W
+"Brad Boimler, Eager Ensign",5,uncommon,{1}{W},Legendary Creature — Human Officer,W,0.5540,"lifelink bear, extra counters only if you tap him in a counter deck"
+Captain Benjamin Sisko,6,rare,{1}{W},Legendary Creature — Human Officer,W,0.5640,token per dilemma. Bear plus a real payoff in the modal deck.
+Captain Jean-Luc Picard,7,mythic,{2}{W},Legendary Creature — Human Officer,W,0.6480,anthem and an Officer on every creature or ship. Format lord.
+Command Decision,8,common,{1}{W},Sorcery,W,0.5520,"kill a big creature or draw. Never dead, removal is conditional."
+Command Subadjunct,9,uncommon,{W},Artifact Creature — Borg,W,0.5820,"2/1 vigilance for W, and artifact creatures share vigilance"
+Conquest Mission,10,uncommon,{2}{W},Enchantment,W,0.5300,tokens when nontoken artifacts enter. Slow enchantment.
+"Deanna Troi, Psychic Counsel",11,rare,{1}{W},Legendary Creature — Betazoid Human Advisor,W,0.6340,every creature enters with a +1/+1 counter
+DOT-7 Repair Squad,12,common,{3}{W},Artifact Creature — Robot,W,0.5360,3/3 flyer for 4 with a once-a-turn untap
+Dr. Beverly Crusher,13,mythic,{2}{W},Legendary Creature — Human Doctor,W,0.5520,"lifegain payoff. Planets gain 1, but the theme is thin."
+"Dr. McCoy, Surly Surgeon",14,uncommon,{2}{W}{W},Legendary Creature — Human Doctor,W,0.5360,4 mana 2/2. The counter-shield is real only in a counter deck.
+Emergency Medical Hologram,15,common,{W},Artifact Creature — Illusion Doctor,W,0.5400,0/1 that puts a counter and gains 1
+Excalbian Gamemaster,16,mythic,{5}{W},Creature — Excalbian,W,0.6280,6/6 plus a token per unique land
+Federation Field Medic,17,common,{3}{W},Creature — Human Doctor,W,0.5340,"3/2 vigilance for 4, counter or a conditional draw"
+Federation Resupply,18,rare,{1}{W},Sorcery,W,0.5280,"tutor an aura, equipment, or ship. Narrow, beam cost is high."
+Free Borg Revolutionaries,19,common,{3}{W}{W},Artifact Creature — Borg Rebel,W,0.5360,"4/5 for 5, temporary anthem, landcycling"
+Ghost of Illyria,20,uncommon,{3}{W},Creature — Elemental Spirit,W,0.5540,3/3 flyer that blinks one of your permanents
+Hologram Janeway,21,uncommon,{2}{W},Legendary Artifact Creature — Illusion Officer,W,0.5560,3/3 for 3. The power-8 counter is a bonus.
+Malfunctioning Holodeck,22,common,{2}{W},Artifact,W,0.6000,"O-ring any nonland, with ward 2. Best common removal."
+The Measure of a Man,23,uncommon,{2}{W},Enchantment — Saga,W,0.5540,"temporary exile, a Clue, then they get it back"
+"Miles O'Brien, Transporter Ops",24,rare,{2}{W},Legendary Creature — Human Artificer,W,0.6100,bounce your own permanent and draw if you did
+The Needs of the Many,25,rare,{1}{W},Instant,W,0.5080,one-shot fog that costs a creature
+Oberth-Class Starship,26,common,{1}{W},Artifact — Spacecraft,W,0.5760,"enters, find a Plains. Station 6 is the extra."
+Peace in Our Time,27,rare,{3}{W},Enchantment,W,0.4760,they choose to draw or attack. Twelve counters is not a plan.
+Pet Sehlat,28,common,{2}{W},Creature — Bear,W,0.5460,4/3 for 3 that needs a friend to attack
+"Picard, Leading by Example",29,uncommon,{1}{W},Legendary Creature — Human Officer,W,0.5400,2/2 that taps to pump by his own power
+Primary Unimatrix Adjunct,30,rare,{3}{W},Artifact Creature — Borg,W,0.5220,double strike for artifacts on a 4-mana 2/3
+Pure Energy,31,common,{1}{W},Sorcery,W,0.5480,two counters. Beam cost asks for another creature.
+"Rutherford, Upgraded Ensign",32,uncommon,{2}{W},Legendary Creature — Human Artificer,W,0.5460,look at six for an artifact. Whiffs a lot.
+"Saavik, Stoic Student",33,uncommon,{4}{W},Legendary Creature — Vulcan Advisor,W,0.4960,5 mana 2/2 flash. X damage is usually 2 or 3.
+Set Phasers to . . .,34,common,{W},Instant,W,0.5500,"stun, or 3 to an attacker. Flexible trick, not a removal spell."
+Shields Up!,35,common,{1}{W},Instant,W,0.5520,blank a removal spell and leave a counter
+Shuttle Ace,36,common,{4}{W},Creature — Kelpien Pilot,W,0.5320,"4/4 for 5, flying only on your turn"
+"Sulu, Space Swashbuckler",37,rare,{1}{W},Legendary Creature — Human Pilot,W,0.5480,first strike bear. Draws only if a ship or equipment entered.
+Tactical Officer,38,common,{1}{W},Creature — Human Officer,W,0.5320,2/1. The counter needs a power-8 attack.
+Test of Conviction,39,uncommon,{1}{W},Sorcery,W,0.5940,"team counter, or they draw 1 and you draw 2"
+There's Coffee in that Nebula,40,uncommon,{1}{W},Sorcery,W,0.5720,look at five for a Plains or a cheap permanent
+Troubling Tribbles,41,rare,{2}{W},Creature — Tribble,W,0.4920,0/1s that can't block and can't attack for value without an anthem
+"Una Chin-Riley, Number One",42,uncommon,{4}{W},Legendary Creature — Illyrian Officer,W,0.5340,4/5 for 5 with a conditional first-strike pump
+"U.S.S. Enterprise-A, Free Spirit",43,mythic,{3}{W}{W},Legendary Artifact — Spacecraft,W,0.6260,"three Officers now, ward 2, 5/5 flying lifelink at station 6"
+"U.S.S. Excelsior, Cutting Edge",44,uncommon,{3}{W},Legendary Artifact — Spacecraft,W,0.5740,destroy a tapped creature on enter
+Vexing Drone,45,common,{1}{W},Artifact Creature — Borg,W,0.5740,2/2 for 2 that taps something
+Anthropological Mission,46,uncommon,{2}{U},Enchantment,U,0.5500,"loot on spells, then a free draw once it has three counters"
+The Caretaker,47,rare,{5}{U},Legendary Creature — Elemental,U,0.5580,5/6 ward for 6. The steal needs a dilemma that turn.
+Cetacean Ops,48,common,{3}{U},Creature — Whale Officer,U,0.5360,3/3 ward 1 for 4
+Cloak and Phaser,49,uncommon,{8}{U},Sorcery,U,0.5300,"two 2/2s and a loot, discounted by unique lands. Often stuck."
+Cloistered Telepath,50,common,{1}{U},Creature — Talosian Advisor,U,0.5700,flash 2/1 that loots
+Consider the Prime Directive,51,common,{2}{U},Instant,U,0.5800,"soft counter, or tap and draw. Never dead."
+"Data, New Life",52,uncommon,{1}{U},Legendary Artifact Creature — Android Scientist,U,0.5320,0/1 that grows when you draw. Dies before it matters.
+Deep Space Scan,53,rare,{4}{U}{U},Sorcery,U,0.6100,draw X at six mana. X is 4 or 5 in the deck that plays it.
+Dominion Saboteur,54,uncommon,{4}{U},Creature — Shapeshifter,U,0.5220,five-mana clone
+Emergency Holographic Crew,55,common,{3}{U},Artifact Creature — Illusion Officer,U,0.5480,"3/4 for 4, surveil 2 or get a ship back"
+Energize,56,uncommon,{1}{U},Sorcery,U,0.5700,two-mana bounce. The beam cost is too high to plan around.
+Ensign Pavel Chekov,57,uncommon,{3}{U},Legendary Creature — Human Pilot,U,0.5380,1/5 that sometimes steals a land from the top
+Enterprise NX-01,58,uncommon,{3}{U},Legendary Artifact — Spacecraft,U,0.5700,"stun on enter, flyer at station 6"
+Federation Probe,59,common,{U},Artifact Creature — Construct,U,0.5760,flying 1/1 that pumps or surveils
+Guidance Failure,60,common,{3}{U},Instant,U,0.5080,"four-mana tuck, one mana off if it is attacking"
+"Gwyndala, the Progeny",61,rare,{1}{U},Legendary Creature — Vau-N'Akat Advisor,U,0.5240,makes one equipment token. The copy ability is narrow.
+Highly Illogical,62,uncommon,{1}{U},Instant,U,0.5980,"counter mana value 2 or less, or kick into a hard counter"
+"H.M.S. Bounty, Unlikely Timeship",63,rare,{4}{U},Legendary Artifact — Spacecraft,U,0.4960,the Whale tutor misses. Station 8 and a conditional extra turn.
+"Hoshi Sato, Exolinguist",64,uncommon,{4}{U},Legendary Creature — Human Scientist,U,0.5060,5 mana 3/3 that looks at a few cards
+Humpback Whales,65,common,{4}{U}{U},Creature — Whale,U,0.5400,5/6 ward with landcycling. The body is the last resort.
+Interstellar Effigy,66,common,{4}{U},Artifact Creature — Construct,U,0.5360,4/3 for 5 that bounces
+"Jett Reno, Problem Solver",67,uncommon,{1}{U},Legendary Creature — Human Artificer,U,0.5740,1/2 that surveils when tapped and grows on dilemmas
+Kobayashi Maru Scenario,68,mythic,{1}{U}{U},Enchantment,U,0.5780,"three turns of bounce, draw 2, and tokens, then you lose"
+Lieutenant Commander Data,69,mythic,{2}{U},Legendary Artifact Creature — Android Scientist,U,0.6320,grows on every noncreature spell and spends counters to draw
+Lt. Cmdr. Geordi La Forge,70,rare,{2}{U},Legendary Creature — Human Artificer,U,0.5580,doubles charge counters. A 3/2 outside the ship deck.
+Make It So,71,common,{3}{U},Sorcery,U,0.5600,"draw two and a token, or draw two and untap. Four mana."
+Marooned,72,common,{U},Enchantment — Aura,U,0.4860,lock aura that does not even tap unless you pay 3
+Melkotian Adjudicator,73,common,{2}{U},Creature — Melkotian Advisor,U,0.5120,2/1 flyer for 3. The dilemma counter is small.
+"Mr. Spock, Science Officer",74,mythic,{2}{U}{U},Legendary Creature — Vulcan Human Scientist,U,0.6500,"every draw is two draws, on a 2/4. No enters ability, so removal blanks it."
+"Nyota Uhura, Communications",75,rare,{2}{U},Legendary Creature — Human Officer,U,0.5520,2/4 for 3. Guessing a mana value rarely draws more than once.
+Open Communications,76,common,{U},Sorcery,U,0.5740,one-mana cantrip. Beam {2}{U} is a real second copy with a token.
+Romulan Bird-of-Prey,77,rare,{1}{U},Artifact — Spacecraft,U,0.6180,"hexproof while parked, charges itself on noncreature spells"
+Rules of Acquisition,78,uncommon,{3}{U}{U},Sorcery,U,0.5020,both modes hand the other player a large profit
+"Scotty, Miracle Worker",79,mythic,{1}{U}{U},Legendary Creature — Human Artificer,U,0.6240,every instant and sorcery in the graveyard is flashback for a bounce
+"Seven of Nine, Unassimilated",80,mythic,{1}{U},Legendary Artifact Creature — Human Officer,U,0.6380,"0/4 for 2 that loots every turn, and draws clean once you have five lands"
+Starfleet Spanner Jockey,81,common,{1}{U},Creature — Human Artificer,U,0.5960,3/3 for 2 that attacks once you have cast a spell
+Subcommander T'Pol,82,rare,{2}{U},Legendary Creature — Vulcan Scientist,U,0.5620,flash 3/1. Stifle is narrow; the stun mode is the card.
+Suurok-Class Science Vessel,83,common,{2}{U},Artifact — Spacecraft,U,0.5800,"draw a card on enter, fly at station 5"
+Suus Mahna Practitioner,84,common,{2}{U},Creature — Vulcan Officer,U,0.5140,3/2 for 3 with an expensive tap ability
+Test of Priorities,85,uncommon,{1}{U},Instant,U,0.5860,"surveil 2 and draw, or blink your own creature"
+Those Old Scientists,86,uncommon,{2}{U},Enchantment — Saga,U,0.5500,"loot two, get a spell back, shuffle graves"
+"V'Ger, the Intruder",87,uncommon,{6}{U},Legendary Artifact Creature — Construct,U,0.5360,5/7 flyer for 7
+Vulcan Mind-Meld,88,uncommon,{U},Sorcery,U,0.5060,"they play one of yours, you play two of theirs. Often their card is better."
+"Wesley Crusher, Starfleet Cadet",89,rare,{2}{U}{U},Legendary Creature — Human Officer,U,0.5600,"flash 2/2 for 4, choose two small modes. Flexible, not a bomb."
+"Zefram Cochrane, Warp Pioneer",90,uncommon,{2}{U},Legendary Creature — Human Pilot,U,0.5760,"cast artifacts off the top, ships enter with two counters"
+"Armus, Skin of Evil",91,rare,{5}{B}{B},Legendary Creature — Ooze Horror,B,0.5720,"6/6 that makes them discard, and cycles for -4/-4"
+Assault Drone,92,common,{3}{B},Artifact Creature — Borg,B,0.4940,+1/+0 anthem on a 4-mana 2/4
+Automated Warfare System,93,common,{2}{B},Artifact Creature — Construct,B,0.5140,2/2 flyer that draws if you sacrifice something
+Bat'leth,94,uncommon,{2}{B},Artifact — Equipment,B,0.5640,"-2/-2 on enter, then a +2/+0 sword"
+Battle-Scarred Survivalist,95,common,{1}{B},Creature — Klingon Scout,B,0.5180,1/1 menace that grows once a turn when something dies
+Blastoneuron,96,uncommon,{3}{B},Creature — Jellyfish Leech,B,0.5340,temporary reanimation of a small creature
+Cha'DIch Investigator,97,common,{4}{B},Creature — Klingon Warrior,B,0.5380,4/4 and a hasty 2/1 for 5
+Collation Trimatrix,98,rare,{B},Artifact Creature — Borg,B,0.5380,draw if you can tap three artifacts
+Collective Drone,99,uncommon,{1}{B},Artifact Creature — Borg,B,0.5300,power equals artifact creatures. Often a 1/2.
+Commander Raffi Musiker,100,uncommon,{2}{B},Legendary Creature — Human Officer,B,0.5500,exile a grave card or Investigate
+D'Ghor Bloodletter,101,uncommon,{2}{B},Creature — Klingon Assassin,B,0.5520,"-1/-1 to everyone else, or each player sacrifices"
+Death Is Irrelevant,102,mythic,{6}{B}{B},Enchantment,B,0.5240,"eight mana, no reduction. Indestructible artifacts if you cast it."
+The Destruction of Praxis,103,rare,{3}{B}{B},Sorcery,B,0.5560,"-X/-X to every creature, including yours"
+De-evolve,104,uncommon,{1}{B},Enchantment — Aura,B,0.4920,-4/-0 aura. The threshold exile is slow.
+Eject the Warp Core,105,common,{1}{B},Instant,B,0.5760,"-2/-2, or -6/-6 if you sacrifice a body or an artifact"
+"Elim Garak, Simple Tailor",106,rare,{2}{B},Legendary Creature — Cardassian Rogue,B,0.6120,3/3 menace that drains 2 whenever you choose a mode
+Fugitive Listener,107,common,{2}{B},Creature — El-Aurian Scout,B,0.5480,3/1 that makes them discard
+"Gabriel Lorca, Mirror Menace",108,uncommon,{4}{B},Legendary Creature — Human Rogue Officer,B,0.5400,5/4 for 5 that buys itself back from the grave on a dilemma
+"General Chang, Cold Warrior",109,rare,{B},Legendary Creature — Klingon Warrior Officer,B,0.5360,sacrifice outlet that only pumps Klingons
+"Georgiou, Terran Emperor",110,mythic,{4}{B}{B},Legendary Creature — Human Rogue Noble,B,0.6120,"you don't lose for life. She draws, bleeds, then makes ten tokens."
+A Good Day to Die,111,common,{B},Instant,B,0.5620,+2/+0 that draws if the creature dies
+Grand Nagus Zek,112,rare,{2}{B},Legendary Creature — Ferengi Noble,B,0.5620,"a Treasure whenever a creature dies, and he grows off them"
+"Gul Dukat, Colonial Prefect",113,mythic,{4}{B}{B}{B},Legendary Creature — Cardassian Rogue,B,0.5440,7 mana 6/6. Doubles life they already lost.
+"He's Dead, Jim",114,common,{3}{B},Instant,B,0.5780,"destroy and surveil 1. Four mana, unconditional."
+Hive Mind Coprocessor,115,uncommon,{4}{B},Artifact Creature — Borg,B,0.5360,artifacts draw on damage. A 4/4 for 5 while you wait.
+Impossible Choice,116,uncommon,{2}{B},Instant,B,0.5520,"they get two tokens, or you draw two and everyone loses 2"
+In the Pale Moonlight,117,uncommon,{3}{B}{B},Enchantment — Saga,B,0.5740,"they sacrifice, you Investigate, maybe two 2/2s"
+"Kai Winn, Faithless Leader",118,rare,{1}{B},Legendary Creature — Bajoran Cleric,B,0.5620,3/1 for 2. Naming a card almost never matters.
+"Khan, Vengeful Heart",119,mythic,{2}{B}{B},Legendary Creature — Human Warrior,B,0.5920,5/3 that draws two if you sacrifice a token or artifact
+Obsidian Order Operative,120,common,{3}{B},Creature — Cardassian Officer Spy,B,0.5300,2/5 that drains 1 on a dilemma
+Organic Avulsion Unit,121,uncommon,{2}{B},Artifact Creature — Borg,B,0.5080,2/3 with a menace activation
+Overflow Submatrix,122,rare,{2}{B},Artifact Creature — Borg,B,0.6040,cast an artifact creature from the grave once a turn
+Pattern Buffer Preservation,123,common,{1}{B},Sorcery,B,0.5800,"look at two, keep one. Beam {1}{B} is cheap enough to use."
+Relentless Drednok,124,common,{B},Artifact Creature — Robot,B,0.5580,1/1 lifelink that draws from the grave
+Resistance Is Futile,125,uncommon,{1}{B},Sorcery,B,0.5720,"destroy a nonartifact, or return a small artifact creature"
+Rogue Artificial Intelligence,126,common,{4}{B}{B},Artifact Creature — Construct,B,0.5340,6/5 with landcycling
+Salt Vampire,127,rare,{1}{B},Creature — Vampire Shapeshifter,B,0.6120,2/2 lifelink that exiles a card from their hand
+"Sela, Tal Shiar Paradox",128,rare,{3}{B},Legendary Creature — Romulan Human Rogue,B,0.5620,"attacks exile a grave card, and leaving the grave makes a 2/2"
+Storied Veteran,129,uncommon,{B},Creature — Klingon Advisor,B,0.5540,2/1 you can cast from the grave once
+Stray from History,130,common,{2}{B},Sorcery,B,0.5620,"two creatures back, or exile a card from their hand"
+Tal Shiar Operative,131,common,{1}{B},Creature — Romulan Officer Spy,B,0.5480,2/2 that grants deathtouch or surveils on attack
+Tell Me What You See,132,uncommon,{1}{B},Enchantment,B,0.5520,they give you a card or lose 4. Comes back when you face a dilemma.
+Tenacious Drone,133,common,{1}{B},Artifact Creature — Borg,B,0.5660,2/1 that leaves a Borg
+Test of Loyalty,134,uncommon,{B},Sorcery,B,0.5840,"exile a grave card and draw, or return a creature"
+"U.S.S. Reliant, From Hell's Heart",135,rare,{2}{B}{B},Legendary Artifact — Spacecraft,B,0.6240,reanimate mana value 4 or less on enter. Station 10 is a bonus.
+Vengeance Mission,136,uncommon,{2}{B},Enchantment,B,0.5480,"they lose 1 whenever a creature dies, 2 after seven deaths"
+Academy Instructor,137,uncommon,{2}{R},Creature — Bolian Officer,R,0.5380,makes an Officer whenever you cast a spell. Starts as an 0/3.
+"Beckett Mariner, Impetuous Ensign",138,uncommon,{1}{R},Legendary Creature — Human Officer,R,0.5500,2/1 first strike that eventually deals 2
+Boarding Action,139,common,{1}{R},Sorcery,R,0.5720,hasty 2/1. Beam {2}{R} is usable with a token.
+Brazen Bluff,140,rare,{R}{R},Instant,R,0.5160,they choose whether to counter their spell or give you a free one
+Cantankerous Captain,141,common,{2}{R},Creature — Tellarite Officer,R,0.5320,2/3 that pumps one creature
+Captain James T. Kirk,142,mythic,{2}{R},Legendary Creature — Human Officer,R,0.6100,"loot, a token, or a pump, on enter and on every attack"
+Captain Michael Burnham,143,uncommon,{2}{R},Legendary Creature — Human Officer,R,0.6020,3/3 trample that pings on landfall and grows on the second land
+Captain's Tutelage,144,common,{1}{R},Enchantment — Aura,R,0.4980,+2/+0 aura
+D-7 Battle Cruiser,145,rare,{1}{R},Artifact — Spacecraft,R,0.6160,"station 3, then a hasty 2/1 every combat"
+Dahar Master,146,common,{3}{R},Creature — Klingon Warrior,R,0.5340,4/3 that deals 2 if you sacrifice something
+Dominion Infiltration,147,rare,{X}{R}{R}{R},Sorcery,R,0.5600,temporary copies of their creatures. Good when X is 2 or more.
+Encounter the Unknown,148,rare,{1}{R}{R},Instant,R,0.5720,"impulse two, or 2 damage to every creature and player"
+"Erica Ortegas, Plucky Pilot",149,uncommon,{3}{R},Legendary Creature — Human Pilot,R,0.5400,3/3 haste that bounces a land to replay one
+Exploratory Mission,150,uncommon,{2}{R}{R},Enchantment,R,0.5380,landfall impulse. Four mana before it does anything.
+Genesis Effect,151,common,{4}{R},Instant,R,0.5420,6 damage that costs you a land
+Horta,152,common,{4}{R}{R},Creature — Elemental,R,0.5320,7/6 trample with landcycling
+Infinite Diversity,153,mythic,{7}{R}{R},Sorcery,R,0.4980,"nine mana, no discount, needs a spell already in the grave"
+Khaaaaaaaaaaaannn!,154,uncommon,{X}{R},Instant,R,0.5820,{X}{R} deals 2X to a creature and exiles it
+"Khan, Despot by Design",155,uncommon,{4}{R},Legendary Creature — Human Rogue,R,0.5600,5/4 trample and a shock to their board
+"La'An Noonien-Singh, Security",156,uncommon,{2}{R}{R},Legendary Creature — Human Soldier,R,0.5340,4/3 that makes one creature unable to block
+"Lwaxana Troi, Charming Guest",157,rare,{1}{R},Legendary Creature — Betazoid Advisor,R,0.5660,2/2 that copies one creature's triggers while she stays tapped
+Munitions Enthusiast,158,uncommon,{1}{R},Creature — Klingon Warrior,R,0.5840,3/2 trample for 2 that deals 1 when it dies
+The Naked Time,159,uncommon,{1}{R},Enchantment — Saga,R,0.5440,"a Mountain, a temporary anthem, then you sacrifice a land"
+Pah-Wraith,160,rare,{5}{R}{R},Creature — Wraith,R,0.5380,7 mana 4/4 that pumps the team by your land count
+Perils of the Past,161,common,{1}{R},Instant,R,0.5420,+3/+2 or destroy an artifact
+Planetary Bombardment,162,common,{R},Sorcery,R,0.5760,"2 damage for one mana, 4 if something already died"
+Planetary Patrol,163,common,{1}{R},Creature — Scout,R,0.5320,2/2 that gets +1/+1 until end of turn on landfall
+Plasma Cascade,164,common,{2}{R},Instant,R,0.5660,3 damage and a rummage
+"Q, Stacking the Deck",165,mythic,{2}{R}{R},Legendary Creature — Q,R,0.5740,"4/4. The exiled card is cast by discarding, not for free."
+"Quark, Humble Proprietor",166,mythic,{2}{R},Legendary Creature — Ferengi Rogue,R,0.5080,"Treasures can't be sacrificed, so the tokens he makes don't make mana"
+Ravenous Cosmozoan,167,uncommon,{5}{R},Creature — Fish,R,0.5380,flying haste 3/3 that gets cheaper with spells in the grave
+Reckless Impulse,168,common,{1}{R},Sorcery,R,0.5940,"exile two, play them until next turn"
+Red Alert!,169,uncommon,{2}{R},Instant,R,0.5040,"+2/+0, cheaper only while you are being attacked"
+"Sarcophagus, Ship of the Dead",170,uncommon,{2}{R},Legendary Artifact — Spacecraft,R,0.5240,+1/+0 anthem. Station 10 is not a body you get for free.
+Savvy Profiteer,171,common,{1}{R},Creature — Ferengi Rogue,R,0.5540,"taps for red, and can make a Treasure"
+Silicate Surveyor,172,common,{4}{R},Creature — Tholian Scout,R,0.5360,4/4 reach that impulses one card
+Starfleet Security,173,common,{R},Creature — Human Officer,R,0.5680,hasty 1/1 that Investigates if it dies on your turn
+Tal Shiar Analyst,174,common,{2}{R},Creature — Romulan Scientist,R,0.5560,3/2 pinger that untaps when you cast a spell
+Targ Wrangler,175,uncommon,{2}{R},Creature — Klingon Warrior,R,0.5080,5/3 that sacrifices a permanent after it attacks
+"Tasha Yar, Out of Time",176,rare,{1}{R},Legendary Creature — Human Officer,R,0.5700,"hasty 2/1, impulses on death, and comes back from the grave once"
+Test of Identity,177,uncommon,{1}{R},Instant,R,0.5640,"double strike on a Klingon, or discard and draw two"
+Transporter Malfunction,178,uncommon,{1}{R},Sorcery,R,0.5800,3 damage to any target. The beam cost is six mana.
+"Will Riker, First in the Field",179,rare,{3}{R},Legendary Creature — Human Officer,R,0.5540,"two lands for one combat, then they leave"
+"Worf, Intelligence Contractor",180,rare,{2}{R},Legendary Creature — Klingon Warrior Spy,R,0.5580,threaten each opponent's small creature
+The Wrath of Khan,181,rare,{2}{R},Enchantment — Saga,R,0.6160,"4 damage and a one-turn steal, a loot, then they sacrifice"
+Adversary by Algorithm,182,uncommon,{2}{G},Sorcery,G,0.5580,a 3/3 artifact. Beam {3}{G} is expensive.
+Amok Time,183,uncommon,{2}{G},Enchantment — Saga,G,0.5500,"fight, gain 3, return a creature"
+Astute Terraformer,184,common,{1}{G},Creature — Vulcan Scientist,G,0.5300,2/2 with a pump that gets cheaper
+Branching Timeline,185,rare,{6}{G}{G},Sorcery,G,0.5560,put the top X permanents onto the battlefield. Eight mana.
+Captain Jonathan Archer,186,rare,{2}{G},Legendary Creature — Human Officer,G,0.6120,"3/3 and a 1/1, plus a pump that scales with creature types"
+Captain Kathryn Janeway,187,mythic,{3}{G},Legendary Creature — Human Officer,G,0.6440,"extra land, and every creature explores, including her"
+"Captain Pike, Fullness of Time",188,rare,{1}{G}{G},Legendary Creature — Human Officer Scout,G,0.6220,"power and toughness equal your lands, and you play lands off the top"
+Cold-Blooded Crew,189,common,{4}{G}{G},Creature — Gorn Warrior,G,0.5340,4/4 for 6 with landcycling and two counters for someone else
+Common Goal,190,common,{1}{G},Sorcery,G,0.5760,one or two creatures bite
+"Culber and Stamets, Star-Crossed",191,uncommon,{3}{G},Legendary Creature — Human Doctor Artificer,G,0.5460,3/4 that adds two mana or puts a counter
+Dathon and Picard at El-Adrel,192,common,{2}{G},Instant,G,0.5480,"+3/+3 trample, or they sacrifice an artifact or enchantment"
+"David and Carol Marcus, Creators",193,uncommon,{2}{G},Legendary Creature — Human Scientist,G,0.5640,1/3 that makes a New Planet
+Dominion Assault Force,194,common,{3}{G},Creature — Jem'Hadar Warrior,G,0.5520,"4/4 vigilance, exile a grave card or surveil"
+Dominion Supervisor,195,common,{2}{G},Creature — Vorta Doctor,G,0.5460,3/1 and a counter. Trample for creatures that already have counters.
+Dr. Joseph M'Benga,196,mythic,{2}{G}{G},Legendary Creature — Human Doctor,G,0.6120,"counters are doubled, and those creatures have hexproof"
+"Dr. Leonard ""Bones"" McCoy",197,rare,{1}{G}{G},Legendary Creature — Human Doctor,G,0.6140,"flash 3/2. Return a card, or persist another creature."
+Final Frontier,198,common,{2}{G},Sorcery,G,0.5820,land or Planet onto the battlefield. Beam {1}{G} recasts it.
+First Contact,199,common,{1}{G},Instant,G,0.5760,"mill four, keep a permanent"
+Genesis Device,200,rare,{2}{G},Legendary Artifact,G,0.5660,"ramp one, then turn lands into more lands"
+Holo-Engineer,201,rare,{2}{G}{G},Creature — Human Artificer,G,0.6180,"two 3/3s, and later tokens become 3/3 Illusions"
+Hologram Stalker,202,uncommon,{4}{G}{G},Creature — Hirogen Warrior,G,0.5280,6 mana 2/2 that returns a permanent
+"I'm a Doctor, Not a . . .",203,common,{G},Instant,G,0.5460,"a counter, untap, and +1/+1"
+"Jadzia Dax, Living Legacy",204,mythic,{1}{G},Legendary Creature — Trill Scientist,G,0.6020,grows and adds that much green every turn. Dies as an 0/1.
+"Jake Sisko, War Correspondent",205,uncommon,{1}{G},Legendary Creature — Human Citizen,G,0.5720,"landfall gains 1, and the second land Investigates"
+MACO Strike Team,206,rare,{G},Creature — Human Soldier,G,0.5400,an Officer when they target your creature
+Moopsy,207,common,{G},Creature — Beast,G,0.5720,1/1 deathtouch
+Mugato,208,uncommon,{3}{G}{G},Creature — Ape Beast,G,0.5680,"6/6 reach, vigilance, deathtouch for 5"
+"Neelix, Moral Support",209,uncommon,{1}{G},Legendary Creature — Talaxian Advisor,G,0.5460,a Food and a counter whenever you gain life
+Photosynthetic Physician,210,common,{4}{G},Creature — Plant Doctor,G,0.5360,5/5 reach that makes an Officer from the grave
+"Rok-Tahk, Budding Scientist",211,mythic,{4}{G}{G},Legendary Creature — Brikar Scientist,G,0.5840,"your creatures tap for two green. Six mana, plus an 0/1."
+"Saru, Unthreatened",212,uncommon,{2}{G},Legendary Creature — Kelpien Officer,G,0.5680,flash 3/2 that gives hexproof
+Saurian Explorer,213,common,{3}{G},Creature — Dinosaur Scout,G,0.5360,4/3 that gets +2/+2 until end of turn on landfall
+Species 8472,214,uncommon,{4}{G}{G},Creature — Insect Beast,G,0.5440,7/5 that gains some life
+Stable Wormhole,215,rare,{2}{G},Enchantment,G,0.5580,a tapped any-color land whenever you attack
+Support Mission,216,uncommon,{2}{G},Enchantment,G,0.5940,"every creature enters with a +1/+1 counter, later two"
+"Sylvia Tilly, Joy of Discovery",217,uncommon,{2}{G},Legendary Creature — Human Scientist Artificer,G,0.5700,"surveil 2, and a counter if you exile a grave card"
+Syndicate Liquidators,218,uncommon,{4}{G},Creature — Orion Pirate,G,0.5720,4/4 trample that puts two counters on landfall
+Temporal Conqueror,219,common,{2}{G},Creature — Na'kuhl Warrior,G,0.5560,"mill three, get a land back or a Treasure"
+Test of Courage,220,uncommon,{G},Instant,G,0.5420,"exile a grave card, or destroy a small artifact or enchantment"
+"U.S.S. Discovery, at Black Alert",221,rare,{3}{G}{G},Legendary Artifact — Spacecraft,G,0.6580,"discover 5 on enter, before anyone can remove it, and again on attack"
+"U.S.S. Voyager, Lone Wanderer",222,uncommon,{3}{G},Legendary Artifact — Spacecraft,G,0.6040,two lands onto the battlefield
+Warp Speed,223,uncommon,{2}{G},Enchantment,G,0.5960,"your lands enter untapped, and you find a land or Planet"
+Xenobotanist,224,common,{1}{G},Creature — Vulcan Scientist,G,0.5760,1/3 that taps for any color
+Xindi Surveyors,225,common,{2}{G},Creature — Xindi Scientist,G,0.5420,3/2 that grows on landfall
+All Good Things...,226,rare,{3}{G}{U},Enchantment — Saga,GU,0.5540,"draw two, exile one, three times"
+Borg Cube,227,mythic,{5}{W}{B},Artifact — Spacecraft,BW,0.6080,"affinity, and it exiles a creature on enter. Assimilate is the dream."
+The City on the Edge of Forever,228,rare,{3}{W}{B},Enchantment — Saga,BW,0.5640,"phases the board out for a few turns, including your own"
+"Cleveland Booker, Empath",229,uncommon,{2}{R/G}{R/G},Legendary Creature — Kwejian Rogue,GR,0.5340,2/2 for 4. Worms that can't block.
+Constable Odo,230,uncommon,{3}{W/U}{W/U},Legendary Creature — Shapeshifter Detective,UW,0.5380,"4/3 for 5, stun or two Clues"
+"Dal R'El, Augment Orphan",231,uncommon,{1}{R}{G},Legendary Creature — Human Mutant Rogue,GR,0.6000,"3/3. Landfall adds mana, and a land draws a card."
+"Daniels, Temporal Agent",232,uncommon,{2}{B/G}{B/G},Legendary Creature — Human Advisor,BG,0.5380,3/1 for 4 that returns a creature
+"Dathon, His Heart Open",233,rare,{G}{U}{R},Legendary Creature — Tamarian Officer,GRU,0.5500,draws when you cast an enchantment. A 3/3 the rest of the time.
+"The Doctor, EMH",234,uncommon,{3}{G/W}{G/W},Legendary Artifact Creature — Illusion Doctor,GW,0.5360,5 mana 3/3 that spreads counters
+The Duras Sisters,235,uncommon,{B/R}{B/R},Legendary Creature — Klingon Warrior,BR,0.6000,3/2 for 2 that leaves a hasty 2/1
+"D'Vana Tendi, Optimistic Ensign",236,uncommon,{1}{G/U}{G/U},Legendary Creature — Orion Scientist,GU,0.5700,2/4 that untaps something
+"Gowron, Eager for Battle",237,rare,{2}{B}{R},Legendary Creature — Klingon Warrior,BR,0.5660,"grows when creatures die, and sacrificing a Klingon draws"
+"Gray and Adira, Forever Joined",238,uncommon,{2}{U/R}{U/R},Legendary Creature — Trill Human Officer,RU,0.5500,temporary copy if you cast a noncreature spell
+"Hemmer, Fixing What Is Broken",239,uncommon,{W}{U},Legendary Creature — Aenar Artificer,UW,0.5980,2/3 that loots when it taps. Ships have hexproof on your turn.
+Hit It!,240,rare,{1}{R}{G},Enchantment,GR,0.5680,"haste, and mill five to find a land"
+The Inner Light,241,rare,{3}{G}{W},Enchantment — Saga,GW,0.6080,"reanimate a green or white creature, then draw off combat damage"
+"Kira Nerys, Firebrand",242,rare,{1}{R}{W},Legendary Creature — Bajoran Soldier,RW,0.6140,4/3 trample. Your creatures enter attacking.
+"Kirk, Commanding Officer",243,uncommon,{1}{R}{W},Legendary Creature — Human Officer,RW,0.5600,3/3 that impulses at power 8 and sacrifices to blow up a permanent
+Live Long and Prosper,244,rare,{5}{W}{U},Sorcery,UW,0.5420,double your life and draw your hand. Seven mana.
+"Locutus, the One Who Speaks",245,uncommon,{W}{B},Legendary Artifact Creature — Borg,BW,0.5480,"+1/+1 for artifact creatures on a 1/1, plus a shock from hand"
+"Lore, Positronic Provocateur",246,uncommon,{1}{U/B}{U/B},Legendary Artifact Creature — Android Rogue,BU,0.5560,unblockable or surveil 2
+"L'Rell, Fierce Visionary",247,uncommon,{1}{B}{R},Legendary Creature — Klingon Warrior,BR,0.5460,a temporary 2/1 every combat
+Mirror Universe Intrusion,248,rare,{1}{U}{B},Sorcery,BU,0.6200,a permanent copy of their creature for three mana
+"Nog, Ambitious Cadet",249,rare,{B}{G},Legendary Creature — Ferengi Rogue,BG,0.6120,levels from a 2/2 into a 3/4 looter into extra land drops
+"Phlox, Unorthodox Doctor",250,uncommon,{2}{G}{W},Legendary Creature — Denobulan Doctor,GW,0.5740,3/4 trample that draws when a countered creature hits
+"Sarek, Federation Ambassador",251,rare,{1}{G}{W}{U},Legendary Creature — Vulcan Advisor,GUW,0.5020,0/5 for three colors. Draws only at five creature types.
+Seven of Nine,252,uncommon,{2}{U}{B},Legendary Artifact Creature — Human Scientist,BU,0.5960,draws a card whenever you choose a mode
+"Spock, Always Your Friend",253,uncommon,{U}{R},Legendary Creature — Vulcan Human Scientist,RU,0.6020,"look at four, take a noncreature spell"
+The Traveler,254,uncommon,{G}{U},Legendary Creature — Scout,GU,0.5800,*/3 reach vigilance for two mana. Power is your land count.
+"Vash, Freelance Archaeologist",255,uncommon,{1}{B}{G},Legendary Creature — Human Rogue Scientist,BG,0.5960,"surveil every upkeep, draw when the graveyard moves"
+"Worf, Honor-Bound Warrior",256,uncommon,{R/W}{R/W},Legendary Creature — Klingon Warrior Officer,RW,0.5100,1/1 that doubles only after you have paid to grow him
+Year of Hell,257,rare,{1}{U}{R},Enchantment — Saga,RU,0.5380,"each player draws and takes 2, three times"
+"Zero, Incorporeal Sensate",258,uncommon,{1}{W/B}{W/B},Legendary Artifact Creature — Medusan Scientist,BW,0.5460,exile a card they can still cast for two more
+Class-F Shuttlecraft,259,common,{3},Artifact — Spacecraft,,0.5620,any-color rock that can become a 2/4 flyer
+Combadge,260,uncommon,{3},Artifact — Communicator Equipment,,0.5340,"two equipment, evasion only if both attack. Equip 2 each."
+Crystalline Entity,261,mythic,{8},Artifact Creature — Elemental,,0.5580,8 mana 7/7 flyer. Wrath of nonartifact creatures if you cast it.
+Cybernetic Specialist,262,common,{2},Artifact Creature — Human Scientist,,0.5500,2/1 that surveils
+Deep Space 9,263,mythic,{9},Legendary Artifact — Spacecraft,,0.5180,nine mana. Permanents off the top every upkeep if you ever cast it.
+Engineered Explosives,264,rare,{X},Artifact,,0.6060,X=0 destroys token creatures. Scales up to small permanents.
+The Holodeck,265,rare,{7},Legendary Artifact,,0.5460,"seven mana. Play one sideboard or grave permanent a turn, for its cost."
+Isolinear Processor,266,uncommon,{2},Artifact,,0.5260,"colorless mana for artifacts only, plus a loot"
+Replicator,267,rare,{2},Artifact,,0.5620,"a Food, and a copy of any token"
+Sickbay,268,uncommon,{5},Artifact,,0.5060,five mana. Counters equal to life gained this turn.
+"Tea, Earl Grey, Hot",269,common,{2},Artifact — Food,,0.5760,"draw a card. Later, 2 damage or 3 life."
+Tricorder,270,common,{1},Artifact — Equipment,,0.5560,"+1/+1 and surveil for one mana, equip 1. No enters ability."
+Type-2 Phaser,271,uncommon,{2},Artifact — Equipment,,0.5620,stun a creature on enter. Equip 3 is the backup.
+"U.S.S. Cerritos, Following Up",272,uncommon,{5},Legendary Artifact — Spacecraft,,0.5340,two 1/1s for 5. A 4/4 flyer at station 6.
+"U.S.S. Enterprise-D, Galaxy-Class",273,rare,{3},Legendary Artifact — Spacecraft,,0.6100,impulse the first time you put counters on it each turn
+Warp Core,274,common,{2},Artifact,,0.5580,"find a basic, and put two charge counters on a ship"
+Andoria,275,common,,Land — Planet,,0.5540,"Andoria, UR"
+Artificial Anomaly,276,uncommon,,Land,,0.5380,"colorless, drain 2 and a New Planet for 3B"
+Bajor,277,common,,Land — Planet,,0.5520,"Bajor, RW"
+Blood Crypt,278,rare,,Land — Swamp Mountain,,0.5340,"Blood Crypt. Weaker pair, two life."
+Breeding Pool,279,rare,,Land — Forest Island,,0.5600,Breeding Pool
+Cardassia Prime,280,common,,Land — Planet,,0.5580,"Cardassia Prime, WB"
+"Earth, Sector 001",281,common,,Land — Planet,,0.5600,"Earth, GU"
+Federation Outpost,282,rare,,Land,,0.5640,"white check land, gain 2 or surveil"
+Ferenginar,283,common,,Land — Planet,,0.5560,"Ferenginar, BG"
+Gaseous Anomaly,284,uncommon,,Land,,0.5340,draw two for 5U
+Godless Shrine,285,rare,,Land — Plains Swamp,,0.5480,Godless Shrine
+Hallowed Fountain,286,rare,,Land — Plains Island,,0.5580,Hallowed Fountain
+Ni'Var Science Academy,287,rare,,Land,,0.5620,blue check land
+Orion,288,common,,Land — Planet,,0.5540,"Orion, RG"
+Overgrown Tomb,289,rare,,Land — Swamp Forest,,0.5520,Overgrown Tomb
+Q Continuum,290,rare,,Land,,0.5640,green check land
+Qo'noS,291,common,,Land — Planet,,0.5480,"Qo'noS, BR"
+Quark's Bar,292,rare,,Land,,0.5540,red check land
+Risa,293,common,,Land — Planet,,0.5620,"Risa, GW"
+Romulus,294,common,,Land — Planet,,0.5560,"Romulus, UB"
+Sacred Foundry,295,rare,,Land — Mountain Plains,,0.5360,Sacred Foundry
+Spatial Anomaly,296,uncommon,,Land,,0.5300,2 damage for 4R
+Starfleet Academy,297,mythic,,Legendary Land,,0.5400,colorless land. Five mana for a Federation ritual.
+Steam Vents,298,rare,,Land — Island Mountain,,0.5400,Steam Vents
+Stomping Ground,299,rare,,Land — Mountain Forest,,0.5500,Stomping Ground
+Subspace Anomaly,300,uncommon,,Land,,0.5360,two Officers for 4W
+Temple Garden,301,rare,,Land — Forest Plains,,0.5540,Temple Garden
+Temporal Anomaly,302,uncommon,,Land,,0.5480,"mill four, keep a permanent, for 3G"
+Unexplored Territory,303,common,,Land,,0.5540,"taps for colorless. One mana and a tap finds a basic, tapped."
+The Unicomplex,304,rare,,Land,,0.5580,black check land. Can put a creature on top.
+Vulcan,305,common,,Land — Planet,,0.5640,"Vulcan, WU"
+Watery Grave,306,rare,,Land — Island Swamp,,0.5540,Watery Grave
+Plains,307,common,,Basic Land — Plains,,0.5660,Plains
+Island,308,common,,Basic Land — Island,,0.5620,Island
+Swamp,309,common,,Basic Land — Swamp,,0.5580,Swamp
+Mountain,310,common,,Basic Land — Mountain,,0.5540,Mountain
+Forest,311,common,,Basic Land — Forest,,0.5640,Forest

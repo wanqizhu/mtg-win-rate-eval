@@ -1,0 +1,1554 @@
+#  91 [R] 58.53%  {5}{B}{B} Armus, Skin of Evil  pi=-0.67 rem=0.68 ca=0.00
+    Legendary Creature — Ooze Horror
+    Menace | At the beginning of your end step, target opponent discards two cards. | {2}{B}, Discard this card: Target creature gets -4/-4 until end of turn.
+    neighbors: MSH Massacre Girl 63.6% (n=231); MSH Dark Deed 59.5% (n=18895); MSH Ronin, Shadow Stalker 55.8% (n=5036); FRA Last Gasp 57.6% (n=37389); HOB Gnashing of Teeth 56.3% (n=19973)
+
+#  92 [C] 52.89%  {3}{B} Assault Drone  pi=-0.50 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Artifact creatures you control get +1/+0.
+    neighbors: TMT Chrome Dome 60.7% (n=5030); EOE Emissary Escort 57.4% (n=10884); FIN G'raha Tia 54.2% (n=21324); EOE Monoist Circuit-Feeder 59.5% (n=31571); EOE Mm'menon, the Right Hand 50.8% (n=7228)
+
+#  93 [C] 52.72%  {2}{B} Automated Warfare System  pi=1.29 rem=0.00 ca=1.60
+    Artifact Creature — Construct
+    Flying | Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card.
+    neighbors: EOE Swarm Culler 52.6% (n=29437); TLA Beetle-Headed Merchants 52.4% (n=18420); TLA Buzzard-Wasp Colony 51.6% (n=8362); EOE Comet Crawler 54.6% (n=19779); FIN Ahriman 55.4% (n=51789)
+
+#  94 [U] 56.68%  {2}{B} Bat'leth  pi=0.99 rem=0.52 ca=0.00
+    Artifact — Equipment
+    When this Equipment enters, target creature an opponent controls gets -2/-2 until end of turn. | Equipped creature gets +2/+0. | Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+    neighbors: HOB Crude Bent Blade 60.4% (n=60413); TLA Meteor Sword 52.5% (n=8474); ECL Barbed Bloodletter 53.7% (n=9891); HOB Well-Worn Spatula 53.4% (n=9994); TLA Kyoshi Battle Fan 56.4% (n=53263)
+
+#  95 [C] 54.48%  {1}{B} Battle-Scarred Survivalist  pi=0.20 rem=0.00 ca=0.00
+    Creature — Klingon Scout
+    Menace (This creature can't be blocked except by two or more creatures.) | Whenever another creature dies, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+    neighbors: FIN Judge Magister Gabranth 56.8% (n=16174); TLA Hog-Monkey 52.5% (n=6625); HOB Gollum, Silent Slinker 59.2% (n=52853); FRA Gallia, Tragic Host 55.9% (n=14862); MSH Arnim Zola, Bio-Fanatic 51.1% (n=8658)
+
+#  96 [U] 58.96%  {3}{B} Blastoneuron  pi=1.02 rem=1.31 ca=0.00
+    Creature — Jellyfish Leech
+    Flying | When this creature enters, exile target creature card with mana value 3 or less from your graveyard. Create a token that's a copy of it. That token gains haste. Sacrifice it at the beginning of the next end step. | Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain 1 life.
+    neighbors: FIN Al Bhed Salvagers 56.2% (n=27029); EOE Susurian Voidborn 55.1% (n=19545); TMT Dream Beavers 64.5% (n=13394); MSH HYDRA Infiltration 56.8% (n=13102); TLA Northern Air Temple 52.4% (n=3096)
+
+#  97 [C] 55.84%  {4}{B} Cha'DIch Investigator  pi=0.43 rem=0.00 ca=0.00
+    Creature — Klingon Warrior
+    When this creature enters, create a 2/1 red Klingon Warrior creature token with haste.
+    neighbors: TLA Treetop Freedom Fighters 55.4% (n=28805); TLA Kyoshi Warriors 57.3% (n=57956); TLA Invasion Reinforcements 57.8% (n=24706); TLA Corrupt Court Official 56.2% (n=49267); FIN Dwarven Castle Guard 54.7% (n=39927)
+
+#  98 [R] 56.20%  {B} Collation Trimatrix  pi=1.44 rem=0.00 ca=1.60
+    Artifact Creature — Borg
+    Tap three untapped artifact creatures you control: You draw a card and lose 1 life.
+    neighbors: EOE Emissary Escort 57.4% (n=10884); FIN G'raha Tia 54.2% (n=21324); FRA Tenured Tethermage 58.9% (n=5571); EOE Monoist Circuit-Feeder 59.5% (n=31571); EOE Mm'menon, the Right Hand 50.8% (n=7228)
+
+#  99 [U] 53.95%  {1}{B} Collective Drone  pi=0.00 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Collective Drone's power is equal to the number of artifact creatures you control.
+    neighbors: FIN Snow Villiers 52.5% (n=11475); HOB Mirkwood Pathmaker 59.6% (n=19147); FRA Tarmogoyf 58.0% (n=2312); TLA Suki, Kyoshi Warrior 55.9% (n=17868); FIN Adeline, Resplendent Cathar 61.8% (n=1629)
+
+# 100 [U] 58.23%  {2}{B} Commander Raffi Musiker  pi=2.90 rem=0.00 ca=2.50
+    Legendary Creature — Human Officer
+    When Commander Musiker enters, choose one — | • Exile up to one target card from a graveyard. You gain 2 life. | • Investigate. You lose 2 life. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+    neighbors: TLA Azula, On the Hunt 54.9% (n=19340); TLA Fire Nation Raider 51.3% (n=8724); MSH Agent 13, Sharon Carter 59.4% (n=24984); TLA Forecasting Fortune Teller 57.9% (n=83116); TLA Tolls of War 58.1% (n=14695)
+
+# 101 [U] 56.06%  {2}{B} D'Ghor Bloodletter  pi=0.62 rem=0.26 ca=0.00
+    Creature — Klingon Assassin
+    When this creature enters, choose one — | • All other creatures get -1/-1 until end of turn. | • Each player sacrifices a creature of their choice.
+    neighbors: FIN Gaius van Baelsar 55.5% (n=23469); MSH Klaw, Sonic Subjugator 57.0% (n=17325); EOE Blade of the Swarm 53.6% (n=4037); FIN Hecteyes 56.6% (n=75779); HOB Stony-Voiced Goblins 55.8% (n=40456)
+
+# 102 [M] 57.69%  {6}{B}{B} Death Is Irrelevant  pi=-0.21 rem=0.00 ca=1.60
+    Enchantment
+    Artifact creatures you control have indestructible. | At the beginning of your end step, assimilate target creature card from a graveyard. (Put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.)
+    neighbors: FIN Evil Reawakened 57.5% (n=29790); ECL Dose of Dawnglow 51.3% (n=7629); MSH Grim Reaper, Lethal Legionnaire 52.5% (n=5542); EOE Xu-Ifit, Osteoharmonist 55.2% (n=8696); SOS Zombify 47.0% (n=2268)
+
+# 103 [R] 61.63%  {3}{B}{B} The Destruction of Praxis  pi=2.17 rem=1.65 ca=0.00
+    Sorcery
+    Strange new worlds — All creatures get -X/-X until end of turn, where X is the number of differently named lands you control. If X is 6 or more, create two 2/1 red Klingon Warrior creature tokens with haste.
+    neighbors: FIN Cloud of Darkness 60.4% (n=35476); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE All-Fates Scroll 54.9% (n=17530); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765)
+
+# 104 [U] 53.39%  {1}{B} De-evolve  pi=-0.70 rem=0.00 ca=0.00
+    Enchantment — Aura
+    Enchant creature | Enchanted creature gets -4/-0, can't block, and is a Salamander. (It loses all other creature types.) | Threshold — At the beginning of each upkeep, if there are seven or more cards in your graveyard, exile enchanted creature.
+    neighbors: FIN Dark Confidant 60.1% (n=5639); MSH Super Intelligence 53.4% (n=6029); FRA Infinite Coursework 56.6% (n=36166); TLA Path to Redemption 57.8% (n=60483); HOB Enchanted River's Grasp 55.6% (n=41489)
+
+# 105 [C] 56.62%  {1}{B} Eject the Warp Core  pi=1.82 rem=2.14 ca=0.00
+    Instant
+    Kicker—Sacrifice an artifact or creature. (You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.) | Target creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -6/-6 until end of turn instead.
+    neighbors: FIN Vayne's Treachery 57.9% (n=91757); TMT Stomped by the Foot 57.8% (n=25449); MSH Dark Deed 59.5% (n=18895); HOB Gnashing of Teeth 56.3% (n=19973); FRA Last Gasp 57.6% (n=37389)
+
+# 106 [R] 56.74%  {2}{B} Elim Garak, Simple Tailor  pi=0.70 rem=0.00 ca=0.00
+    Legendary Creature — Cardassian Rogue
+    Menace | Whenever you face a dilemma, each opponent loses 2 life and you gain 2 life. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: ECL Perfect Intimidation 48.2% (n=1937); HOB Gollum, Riddle Master 64.1% (n=4529); FIN Al Bhed Salvagers 56.2% (n=27029); SOS Steal the Show 54.7% (n=6516); TLA Azula Always Lies 55.4% (n=25956)
+
+# 107 [C] 55.50%  {2}{B} Fugitive Listener  pi=0.05 rem=0.00 ca=0.00
+    Creature — El-Aurian Scout
+    When this creature enters, each opponent discards a card.
+    neighbors: FIN Hecteyes 56.6% (n=75779); HOB Stony-Voiced Goblins 55.8% (n=40456); FRA Rank Rat 55.5% (n=25118); TLA Corrupt Court Official 56.2% (n=49267); EOE Virus Beetle 57.0% (n=68500)
+
+# 108 [U] 53.32%  {4}{B} Gabriel Lorca, Mirror Menace  pi=1.17 rem=0.00 ca=0.80
+    Legendary Creature — Human Rogue Officer
+    Menace | Whenever you face a dilemma, you may pay {B}. If you do, return this card from your graveyard to your hand. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: MSH Decoy Ploy 51.6% (n=9657); EOE Scour for Scrap 54.8% (n=12036); ECL Perfect Intimidation 48.2% (n=1937); TLA Azula Always Lies 55.4% (n=25956); SOS Steal the Show 54.7% (n=6516)
+
+# 109 [R] 57.70%  {B} General Chang, Cold Warrior  pi=0.25 rem=0.00 ca=0.00
+    Legendary Creature — Klingon Warrior Officer
+    {1}, Sacrifice a creature: Put a +1/+1 counter on each Klingon you control.
+    neighbors: EOE Lightless Evangel 53.9% (n=17614); HOB Tom, Bert, and William 58.0% (n=6704); FIN Yawgmoth, Thran Physician 62.9% (n=2217); TLA Pirate Peddlers 52.1% (n=20574); FIN Quina, Qu Gourmet 52.8% (n=15162)
+
+# 110 [M] 63.82%  {4}{B}{B} Georgiou, Terran Emperor  pi=3.54 rem=0.00 ca=1.60
+    Legendary Creature — Human Rogue Noble
+    You don't lose the game for having 0 or less life. | At the beginning of your end step, you lose 3 life and draw a card. Then if your life total is 0 or less, create ten 1/1 red Officer creature tokens.
+    neighbors: FIN The Crystal's Chosen 57.2% (n=22955); MSH Robot Domination 48.8% (n=5629); MSH Doctor Doom 65.7% (n=4703); FRA Kiora of Fire and Ashes 61.8% (n=20515); FIN Summon: Knights of Round 59.7% (n=6093)
+
+# 111 [C] 54.67%  {B} A Good Day to Die  pi=1.84 rem=0.00 ca=1.60
+    Instant
+    Target creature gets +2/+0 until end of turn. When that creature dies this turn, you draw a card.
+    neighbors: FIN You're Not Alone 56.5% (n=35729); TLA Yip Yip! 57.1% (n=39303); EOE Depressurize 57.0% (n=64021); HOB Front Porch Sentries 55.7% (n=29032); FIN Galuf's Final Act 46.0% (n=2735)
+
+# 112 [R] 55.92%  {2}{B} Grand Nagus Zek  pi=-0.82 rem=0.00 ca=0.00
+    Legendary Creature — Ferengi Noble
+    Grand Nagus Zek gets +1/+1 for each Treasure you control. | Whenever another creature dies, create a Treasure token. This ability triggers only once each turn. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+    neighbors: FIN Undercity Dire Rat 56.2% (n=65466); MSH Stark Industries Executive 51.5% (n=13631); FIN Captain Lannery Storm 57.6% (n=10654); FIN Magic Pot 49.2% (n=4610); HOB Long-Bodied Grey Dog 54.1% (n=9844)
+
+# 113 [M] 58.66%  {4}{B}{B}{B} Gul Dukat, Colonial Prefect  pi=-1.25 rem=0.00 ca=0.00
+    Legendary Creature — Cardassian Rogue
+    Menace | At the beginning of each end step, each opponent loses life equal to the life that player lost this turn. You gain life equal to the life lost this way. (Damage causes loss of life.)
+    neighbors: FIN Al Bhed Salvagers 56.2% (n=27029); HOB Gollum, Riddle Master 64.1% (n=4529); MSH Whiplash, Vengeful Engineer 57.4% (n=7649); ECL Shimmercreep 54.7% (n=14223); MSH The Kingpin of Crime 58.1% (n=5687)
+
+# 114 [C] 55.88%  {3}{B} He's Dead, Jim  pi=1.83 rem=1.68 ca=0.45
+    Instant
+    Destroy target creature. Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: MSH Hour of Defeat 56.9% (n=37110); FRA Your Fate Ends Here 57.6% (n=16901); SOS Unsubtle Mockery 58.0% (n=75081); FIN Lunatic Pandora 50.2% (n=9305); EOE Starfighter Pilot 54.3% (n=35838)
+
+# 115 [U] 53.51%  {4}{B} Hive Mind Coprocessor  pi=0.94 rem=0.00 ca=1.60
+    Artifact Creature — Borg
+    Artifact creatures you control have "Whenever this creature deals combat damage to a player, you may pay 1 life. If you do, draw a card."
+    neighbors: FIN G'raha Tia 54.2% (n=21324); EOE Emissary Escort 57.4% (n=10884); EOE Monoist Circuit-Feeder 59.5% (n=31571); EOE Mm'menon, the Right Hand 50.8% (n=7228); FRA Tenured Tethermage 58.9% (n=5571)
+
+# 116 [U] 55.22%  {2}{B} Impossible Choice  pi=4.88 rem=1.94 ca=3.20
+    Instant
+    Choose one — | • Surgical Separation — Destroy target creature. Its controller creates two 1/1 red Officer creature tokens. | • Remain Fused — You draw two cards and each player loses 2 life.
+    neighbors: TLA Heartless Act 60.1% (n=25795); TLA Airbender's Reversal 54.7% (n=17522); FIN Qutrub Forayer 52.2% (n=9422); FRA Prophesied End 56.4% (n=13625); FRA Terminal Criticism 52.6% (n=907)
+
+# 117 [U] 58.23%  {3}{B}{B} In the Pale Moonlight  pi=3.02 rem=0.00 ca=2.50
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — Each opponent sacrifices a nontoken creature of their choice. | II — Investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.") | III — You may sacrifice an artifact or creature. If you do, create two 2/2 black Romulan creature tokens.
+    neighbors: TLA Tolls of War 58.1% (n=14695); TLA June, Bounty Hunter 55.0% (n=21162); FIN Summon: Fat Chocobo 58.1% (n=71663); MSH Robot Domination 48.8% (n=5629); TLA Azula, On the Hunt 54.9% (n=19340)
+
+# 118 [R] 55.60%  {1}{B} Kai Winn, Faithless Leader  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Bajoran Cleric
+    As Kai Winn enters, choose a nonland card name. | Whenever an opponent casts a spell with the chosen name or activates an ability of a source with the chosen name, that player loses 3 life.
+    neighbors: FRA Extrapolate the Impossible 51.8% (n=307); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); MSH Ares, God of War 57.0% (n=4432); FIN Fang, Fearless l'Cie 51.8% (n=17621); FRA Karn, Argent Defender 46.6% (n=466)
+
+# 119 [M] 59.89%  {2}{B}{B} Khan, Vengeful Heart  pi=3.43 rem=0.00 ca=3.20
+    Legendary Creature — Human Warrior
+    When Khan enters, you may sacrifice another creature or artifact. If you do, draw two cards. | You may cast this card from exile.
+    neighbors: TLA Buzzard-Wasp Colony 51.6% (n=8362); EOE Swarm Culler 52.6% (n=29437); MSH K'un-Lun Warrior 52.8% (n=10524); TLA Beetle-Headed Merchants 52.4% (n=18420); FIN Yawgmoth, Thran Physician 62.9% (n=2217)
+
+# 120 [C] 53.65%  {3}{B} Obsidian Order Operative  pi=0.10 rem=0.00 ca=0.00
+    Creature — Cardassian Officer Spy
+    Whenever you face a dilemma, each opponent loses 1 life and you gain 1 life. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: ECL Perfect Intimidation 48.2% (n=1937); FIN Al Bhed Salvagers 56.2% (n=27029); HOB Gollum, Riddle Master 64.1% (n=4529); TLA Azula Always Lies 55.4% (n=25956); SOS Steal the Show 54.7% (n=6516)
+
+# 121 [U] 52.57%  {2}{B} Organic Avulsion Unit  pi=0.45 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    {2}: Artifact creatures you control gain menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)
+    neighbors: MSH Arnim Zola, Bio-Fanatic 51.1% (n=8658); FIN Judge Magister Gabranth 56.8% (n=16174); HOB Great Ugly-Looking Goblin 57.6% (n=21083); FIN Item Shopkeep 54.1% (n=19510); HOB Nighthowl Pursuer 59.6% (n=23491)
+
+# 122 [R] 55.43%  {2}{B} Overflow Submatrix  pi=0.00 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Once during each of your turns, you may cast an artifact creature spell from your graveyard. If you cast a spell this way, that artifact creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)
+    neighbors: TLA Wolfbat 54.2% (n=10236); FRA Karn, Argent Defender 46.6% (n=466); EOE Requiem Monolith 55.8% (n=10710); ECL Dawnhand Dissident 59.2% (n=11061); FRA Null Summoner 63.2% (n=9579)
+
+# 123 [C] 56.17%  {1}{B} Pattern Buffer Preservation  pi=0.70 rem=0.00 ca=0.00
+    Sorcery
+    Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard. | Beam me up {1}{B} (You may cast this card from your graveyard for {1}{B} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FIN Resentful Revelation 58.4% (n=77766); FIN The Final Days 57.0% (n=24245); FIN Sorceress's Schemes 58.6% (n=25731); FRA Predictive Preparations 49.6% (n=4894); SOS Duel Tactics 55.8% (n=10226)
+
+# 124 [C] 55.60%  {B} Relentless Drednok  pi=1.62 rem=0.00 ca=1.60
+    Artifact Creature — Robot
+    Lifelink | {2}{B}, Exile this card from your graveyard: You draw a card and lose 1 life.
+    neighbors: FIN Stiltzkin, Moogle Merchant 53.3% (n=6087); FIN Fang, Fearless l'Cie 51.8% (n=17621); MSH Yellowjacket, Heartless Marauder 55.8% (n=12924); MSH Kingpin's Enforcers 54.3% (n=15592); FIN Adelbert Steiner 58.9% (n=29099)
+
+# 125 [U] 55.19%  {1}{B} Resistance Is Futile  pi=1.83 rem=1.74 ca=0.00
+    Sorcery
+    Choose one — | • Destroy target nonartifact creature. | • Return target artifact creature card with mana value 3 or less from your graveyard to the battlefield.
+    neighbors: TLA Heartless Act 60.1% (n=25795); FIN Qutrub Forayer 52.2% (n=9422); FIN Fatal Push 59.4% (n=14955); FIN Phoenix Down 52.6% (n=9997); TLA Airbender's Reversal 54.7% (n=17522)
+
+# 126 [C] 56.35%  {4}{B}{B} Rogue Artificial Intelligence  pi=1.96 rem=0.00 ca=0.90
+    Artifact Creature — Construct
+    When this creature enters, choose one — | • You gain 3 life. | • Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.) | Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+    neighbors: FIN Malboro 56.3% (n=67640); FRA Undulating Witness 56.5% (n=38771); ECL Stratosoarer 55.1% (n=34510); MSH Kree Sentinel 54.2% (n=22417); MSH Savage Land Dinosaur 56.2% (n=28560)
+
+# 127 [R] 59.91%  {1}{B} Salt Vampire  pi=0.73 rem=0.00 ca=0.00
+    Creature — Vampire Shapeshifter
+    Lifelink | When this creature enters, look at target opponent's hand. You may choose a nonland card from it. If you do, that player exiles that card, then draws a card.
+    neighbors: FIN Stiltzkin, Moogle Merchant 53.3% (n=6087); FRA Null Summoner 63.2% (n=9579); TLA Corrupt Court Official 56.2% (n=49267); MSH Yellowjacket, Heartless Marauder 55.8% (n=12924); FRA Extrapolate the Impossible 51.8% (n=307)
+
+# 128 [R] 55.29%  {3}{B} Sela, Tal Shiar Paradox  pi=-0.50 rem=0.00 ca=0.00
+    Legendary Creature — Romulan Human Rogue
+    Whenever Sela attacks, exile up to one target card from a graveyard. | Whenever one or more cards leave your graveyard, create a tapped 2/2 black Romulan creature token.
+    neighbors: FIN Rufus Shinra 57.5% (n=15684); FIN Fang, Fearless l'Cie 51.8% (n=17621); TLA Boiling Rock Rioter 56.6% (n=9915); FIN Quina, Qu Gourmet 52.8% (n=15162); MSH Ares, God of War 57.0% (n=4432)
+
+# 129 [U] 55.95%  {B} Storied Veteran  pi=0.95 rem=0.00 ca=0.00
+    Creature — Klingon Advisor
+    This creature can't block. | You may cast this card from your graveyard. If you do, it enters with a finality counter on it.
+    neighbors: FIN The Final Days 57.0% (n=24245); FIN Resentful Revelation 58.4% (n=77766); TLA Wolfbat 54.2% (n=10236); EOE Timeline Culler 56.3% (n=18514); FIN Sorceress's Schemes 58.6% (n=25731)
+
+# 130 [C] 53.89%  {2}{B} Stray from History  pi=1.07 rem=0.00 ca=0.80
+    Sorcery
+    Choose one — | • Rewrite the Past — Return one or two target creature and/or Spacecraft cards from your graveyard to your hand. | • Repair the Timeline — Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+    neighbors: MSH Call Damage Control 52.1% (n=5762); ECL Unbury 55.7% (n=21283); FIN Fight On! 54.9% (n=51592); FRA Theoretical Necromancer 55.7% (n=25096); HOB Gathering of Darkness 55.1% (n=16769)
+
+# 131 [C] 54.84%  {1}{B} Tal Shiar Operative  pi=1.10 rem=0.00 ca=0.45
+    Creature — Romulan Officer Spy
+    Whenever this creature attacks, choose one — | • Target creature you control gains deathtouch until end of turn. | • Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: EOE Starfighter Pilot 54.3% (n=35838); HOB Great Fierce Bee 53.5% (n=9960); HOB Ravening Warg 57.7% (n=46145); ECL Heirloom Auntie 49.1% (n=15488); FIN Gran Pulse Ochu 56.1% (n=49747)
+
+# 132 [U] 53.16%  {1}{B} Tell Me What You See  pi=2.75 rem=0.00 ca=2.05
+    Enchantment
+    When this enchantment enters, target opponent may have you draw a card. If they don't, they lose 4 life and you surveil 1. | Whenever you face a dilemma, you may return this enchantment to its owner's hand. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: ECL Perfect Intimidation 48.2% (n=1937); TLA Azula Always Lies 55.4% (n=25956); SOS Steal the Show 54.7% (n=6516); MSH Decoy Ploy 51.6% (n=9657); SOS Return the Favor 53.0% (n=6234)
+
+# 133 [C] 55.49%  {1}{B} Tenacious Drone  pi=0.47 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    When this creature dies, create a 1/1 colorless Borg artifact creature token.
+    neighbors: FIN Dwarven Castle Guard 54.7% (n=39927); TLA Pretending Poxbearers 56.0% (n=55704); EOE Gravpack Monoist 57.1% (n=59027); TLA Kyoshi Warriors 57.3% (n=57956); TMT Mechanized Ninja Cavalry 59.3% (n=29943)
+
+# 134 [U] 54.37%  {B} Test of Loyalty  pi=2.51 rem=0.00 ca=2.40
+    Sorcery
+    Choose one — | • Plain, Simple Garak — Exile target card from a graveyard. Draw a card. | • Of the Obsidian Order — Return target creature card from your graveyard to your hand.
+    neighbors: ECL Unbury 55.7% (n=21283); MSH Call Damage Control 52.1% (n=5762); FRA Theoretical Necromancer 55.7% (n=25096); MSH Project Deathlok Soldier 53.2% (n=8647); TLA Merchant of Many Hats 55.1% (n=32885)
+
+# 135 [R] 58.01%  {2}{B}{B} U.S.S. Reliant, From Hell's Heart  pi=0.35 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    Whenever U.S.S. Reliant enters or deals combat damage to a player, return target creature card with mana value 4 or less from your graveyard to the battlefield with a finality counter on it. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.) | 10+ | Flying
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Rescue Skiff 53.0% (n=11552); EOE Specimen Freighter 56.5% (n=25638); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Pinnacle Kill-Ship 57.0% (n=57550)
+
+# 136 [U] 49.38%  {2}{B} Vengeance Mission  pi=0.00 rem=0.00 ca=0.00
+    Enchantment
+    Whenever a creature dies, put a quest counter on this enchantment. Target opponent loses 1 life. That player loses 2 life instead if there are seven or more quest counters on this enchantment.
+    neighbors: FIN Fang, Fearless l'Cie 51.8% (n=17621); FRA Extrapolate the Impossible 51.8% (n=307); FRA Break Under Pressure 60.4% (n=21777); ECL Mornsong Aria 47.3% (n=264); FIN Quina, Qu Gourmet 52.8% (n=15162)
+
+# 276 [U] 56.15%   Artificial Anomaly  pi=0.35 rem=0.00 ca=0.00
+    Land
+    {T}: Add {C}. | {3}{B}, {T}, Sacrifice this land: Each opponent loses 2 life and you gain 2 life. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: FIN Al Bhed Salvagers 56.2% (n=27029); TLA Northern Air Temple 52.4% (n=3096); MSH Whiplash, Vengeful Engineer 57.4% (n=7649); MSH HYDRA Infiltration 56.8% (n=13102); HOB Gollum, Riddle Master 64.1% (n=4529)
+
+# 304 [R] 57.31%   The Unicomplex  pi=0.96 rem=0.00 ca=0.45
+    Land
+    This land enters tapped unless you control two or more other lands. | When this land enters untapped, choose one — | • Put target creature card from your graveyard on top of your library. | • Surveil 1. | {T}: Add {B}.
+    neighbors: TLA Abandoned Air Temple 61.6% (n=14069); TLA Realm of Koh 57.6% (n=10656); FRA Shipwreck Marsh 58.4% (n=6354); FRA Theorist's Sanctum 59.0% (n=8728); FRA Theorix Annex 56.9% (n=23444)
+
+# 309 [C] 55.61%   Swamp  pi=0.15 rem=0.00 ca=0.00
+    Basic Land — Swamp
+    ({T}: Add {B}.)
+    neighbors: MSH Swamp 55.2% (n=139622); FIN Swamp 55.8% (n=377067); HOB Swamp 57.0% (n=173691); TLA Swamp 55.7% (n=203223); FRA Swamp 56.0% (n=145075)
+
+# 232 [U] 57.38%  {2}{B/G}{B/G} Daniels, Temporal Agent  pi=0.27 rem=0.00 ca=0.80
+    Legendary Creature — Human Advisor
+    When Daniels enters, return target creature card from your graveyard to your hand. | {2}, Put this card from your graveyard on the bottom of your library: You gain 2 life.
+    neighbors: FRA Restore with Empathy 55.6% (n=10160); FRA Theoretical Necromancer 55.7% (n=25096); TLA Professor Zei, Anthropologist 56.1% (n=21700); TLA Merchant of Many Hats 55.1% (n=32885); FIN Vanille, Cheerful l'Cie 58.8% (n=37061)
+
+# 249 [R] 57.43%  {B}{G} Nog, Ambitious Cadet  pi=1.16 rem=0.00 ca=0.90
+    Legendary Creature — Ferengi Rogue
+    Menace | {1}: If Nog is a Rogue, he becomes a Ferengi Scout with base power and toughness 3/4 and gains "Whenever Nog becomes tapped, surveil 2." | {3}: If Nog is a Scout, he becomes a Ferengi Officer and gains "You may play lands from your graveyard" and "You may play an additional land on each of your turns."
+    neighbors: ECL Dawnhand Dissident 59.2% (n=11061); TLA Zhao, the Moon Slayer 53.6% (n=4916); MSH Construct a Cosmic Cube 49.6% (n=3420); MSH Winter Soldier, Icy Assassin 59.0% (n=4735); FRA Proft, Sinister Mastermind 55.9% (n=12440)
+
+# 255 [U] 55.73%  {1}{B}{G} Vash, Freelance Archaeologist  pi=1.85 rem=0.00 ca=2.05
+    Legendary Creature — Human Rogue Scientist
+    At the beginning of your upkeep, surveil 1. (Look at the top card of your library. You may put it into your graveyard.) | Whenever a card leaves your graveyard, draw a card. This ability triggers only once each turn.
+    neighbors: FIN Dark Confidant 60.1% (n=5639); MSH Mister Hyde, Monster Within 56.1% (n=11351); FRA Paradox Shaper 55.6% (n=15446); FRA Eye of Jace 49.9% (n=3768); TLA Tiger-Seal 55.5% (n=2033)
+
+# 283 [C] 56.68%   Ferenginar  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {B} or {G}.
+    neighbors: MSH Subterranean Cavern 56.7% (n=16361); MSH A.I.M. Labs 56.2% (n=17474); MSH Los Diablos Missile Base 56.1% (n=13973); MSH Pym Technologies 56.8% (n=17440); MSH Hell's Kitchen 55.0% (n=14218)
+
+# 289 [R] 54.75%   Overgrown Tomb  pi=1.95 rem=0.00 ca=0.00
+    Land — Swamp Forest
+    ({T}: Add {B} or {G}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Watery Grave 55.2% (n=8369); EOE Godless Shrine 54.8% (n=5654); ECL Overgrown Tomb 55.0% (n=6336); EOE Stomping Ground 56.1% (n=7238); EOE Breeding Pool 56.8% (n=8916)
+
+# 235 [U] 56.20%  {B/R}{B/R} The Duras Sisters  pi=0.63 rem=0.00 ca=0.00
+    Legendary Creature — Klingon Warrior
+    When The Duras Sisters die, create a 2/1 red Klingon Warrior creature token with haste.
+    neighbors: TMT Raph & Leo, Sibling Rivals 55.4% (n=2337); TLA Pretending Poxbearers 56.0% (n=55704); TLA Treetop Freedom Fighters 55.4% (n=28805); FIN Rufus Shinra 57.5% (n=15684); EOE Station Monitor 59.0% (n=22245)
+
+# 237 [R] 56.67%  {2}{B}{R} Gowron, Eager for Battle  pi=1.29 rem=0.00 ca=1.60
+    Legendary Creature — Klingon Warrior
+    Whenever another creature dies, put a +1/+1 counter on Gowron. | Sacrifice another creature: Gowron gains trample until end of turn. If you sacrificed a Klingon this way, you draw a card and lose 1 life.
+    neighbors: HOB Tom, Bert, and William 58.0% (n=6704); EOE Lightless Evangel 53.9% (n=17614); TLA Beetle-Headed Merchants 52.4% (n=18420); MSH Ares, God of War 57.0% (n=4432); EOE Swarm Culler 52.6% (n=29437)
+
+# 247 [U] 55.88%  {1}{B}{R} L'Rell, Fierce Visionary  pi=0.54 rem=0.00 ca=0.45
+    Legendary Creature — Klingon Warrior
+    At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step. | {2}, Sacrifice another creature or artifact: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: EOE Umbral Collar Zealot 57.7% (n=28277); EOE Sami, Ship's Engineer 52.0% (n=7660); TLA Joo Dee, One of Many 55.7% (n=20809); TLA Fire Nation Engineer 56.5% (n=16525); TMT Lord Dregg, Insect Invader 57.9% (n=9500)
+
+# 278 [R] 54.45%   Blood Crypt  pi=1.95 rem=0.00 ca=0.00
+    Land — Swamp Mountain
+    ({T}: Add {B} or {R}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Watery Grave 55.2% (n=8369); EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167); ECL Blood Crypt 52.9% (n=5000); EOE Stomping Ground 56.1% (n=7238)
+
+# 291 [C] 56.49%   Qo'noS  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {B} or {R}.
+    neighbors: MSH Hell's Kitchen 55.0% (n=14218); MSH Subterranean Cavern 56.7% (n=16361); MSH Los Diablos Missile Base 56.1% (n=13973); MSH A.I.M. Labs 56.2% (n=17474); MSH Fisk Tower 56.4% (n=16729)
+
+# 246 [U] 57.85%  {1}{U/B}{U/B} Lore, Positronic Provocateur  pi=1.81 rem=0.00 ca=0.90
+    Legendary Artifact Creature — Android Rogue
+    When Lore enters, choose one — | • Target creature gets +1/+0 until end of turn and can't be blocked this turn. | • Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+    neighbors: FRA Yuriko, Hope from the Shadows 54.8% (n=8004); MSH A.I.M. Synthoids 53.0% (n=17036); ECL Unwelcome Sprite 56.7% (n=22459); ECL Twilight Diviner 56.5% (n=7501); TMT April O'Neil, Kunoichi Trainee 58.6% (n=24475)
+
+# 248 [R] 55.99%  {1}{U}{B} Mirror Universe Intrusion  pi=0.35 rem=0.00 ca=0.00
+    Sorcery
+    Kicker {4}{U}{B} (You may pay an additional 4 as you cast this spell.) | Create a token that's a copy of target creature an opponent controls, except it has menace. If this spell was kicked, instead for each creature target opponent controls, create a token that's a copy of that creature, except it has menace.
+    neighbors: MSH Construct a Cosmic Cube 49.6% (n=3420); FRA Extrapolate the Impossible 51.8% (n=307); MSH Taskmaster, Mercenary Mimic 55.1% (n=4772); MSH Scientist Supreme of A.I.M. 51.9% (n=2080); MSH Multiversal Incursion 51.0% (n=2329)
+
+# 252 [U] 53.41%  {2}{U}{B} Seven of Nine  pi=1.29 rem=0.00 ca=1.60
+    Legendary Artifact Creature — Human Scientist
+    Whenever you face a dilemma, draw a card. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: ECL Perfect Intimidation 48.2% (n=1937); TLA Azula Always Lies 55.4% (n=25956); SOS Steal the Show 54.7% (n=6516); TMT Brilliance Unleashed 62.7% (n=17495); SOS Return the Favor 53.0% (n=6234)
+
+# 294 [C] 57.13%   Romulus  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {U} or {B}.
+    neighbors: MSH A.I.M. Labs 56.2% (n=17474); MSH Subterranean Cavern 56.7% (n=16361); MSH Hell's Kitchen 55.0% (n=14218); MSH Fisk Tower 56.4% (n=16729); MSH Stark Industries 56.3% (n=16748)
+
+# 306 [R] 54.79%   Watery Grave  pi=1.95 rem=0.00 ca=0.00
+    Land — Island Swamp
+    ({T}: Add {U} or {B}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Watery Grave 55.2% (n=8369); EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167); ECL Blood Crypt 52.9% (n=5000); ECL Overgrown Tomb 55.0% (n=6336)
+
+# 227 [M] 59.45%  {5}{W}{B} Borg Cube  pi=0.69 rem=0.00 ca=1.60
+    Artifact — Spacecraft
+    Affinity for artifact creatures | Whenever this Spacecraft enters or attacks, assimilate a creature card exiled with it. If you can't, exile up to one target creature. (To assimilate a card, put it onto the battlefield under your control with a +1/+1 counter. It's a Borg artifact creature and loses all other creature types.) | Station | 12+ | Artifact creatures you control have flying.
+    neighbors: EOE Warmaker Gunship 62.0% (n=11738); EOE Rescue Skiff 53.0% (n=11552); EOE Specimen Freighter 56.5% (n=25638); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Infinite Guideline Station 46.9% (n=371)
+
+# 228 [R] 59.53%  {3}{W}{B} The City on the Edge of Forever  pi=3.13 rem=0.00 ca=3.20
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — All artifacts and creatures phase out. Create a 0/1 white Human creature token with "Permanents can't phase in." (Treat phased-out permanents and anything attached to them as though they don't exist.) | II — You draw two cards and each player loses 2 life. | III — Sacrifice a creature token. If you do, you gain 5 life.
+    neighbors: HOB Down, Down to Goblin-town 59.3% (n=27443); MSH Origin of the Avengers 58.3% (n=8168); FIN Sephiroth, Fabled SOLDIER 62.4% (n=7031); FIN Jecht, Reluctant Guardian 56.8% (n=12788); FIN Summon: G.F. Ifrit 51.4% (n=30194)
+
+# 245 [U] 57.66%  {W}{B} Locutus, the One Who Speaks  pi=0.56 rem=0.78 ca=0.00
+    Legendary Artifact Creature — Borg
+    Artifact creatures you control get +1/+1. | {W}{B}, Discard this card: It deals 2 damage to target creature. You gain 2 life.
+    neighbors: TLA Water Tribe Captain 56.5% (n=48770); HOB Dwarven Provisioner 55.6% (n=34547); MSH Black Panther, Vanguard 56.1% (n=13194); FRA Shatterwing Pegasus 54.4% (n=14372); ECL Timid Shieldbearer 55.4% (n=40325)
+
+# 258 [U] 58.75%  {1}{W/B}{W/B} Zero, Incorporeal Sensate  pi=0.23 rem=0.00 ca=0.00
+    Legendary Artifact Creature — Medusan Scientist
+    Lifelink | When Zero enters, look at target opponent's hand. You may exile a nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+    neighbors: TLA Aang, the Last Airbender 61.5% (n=29486); FIN Adelbert Steiner 58.9% (n=29099); FIN Noctis, Prince of Lucis 48.7% (n=2469); TMT Raph & Leo, Sibling Rivals 55.4% (n=2337); MSH Night Nurse, Healer of Heroes 57.8% (n=23669)
+
+# 280 [C] 56.93%   Cardassia Prime  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {W} or {B}.
+    neighbors: MSH Fisk Tower 56.4% (n=16729); MSH Subterranean Cavern 56.7% (n=16361); MSH Birnin Zana Plaza 56.9% (n=18558); MSH Hell's Kitchen 55.0% (n=14218); MSH Asgardian Citadel 56.6% (n=16462)
+
+# 285 [R] 54.81%   Godless Shrine  pi=1.95 rem=0.00 ca=0.00
+    Land — Plains Swamp
+    ({T}: Add {W} or {B}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167); EOE Watery Grave 55.2% (n=8369); ECL Blood Crypt 52.9% (n=5000); ECL Overgrown Tomb 55.0% (n=6336)
+
+# 259 [C] 53.56%  {3} Class-F Shuttlecraft  pi=0.35 rem=0.00 ca=0.00
+    Artifact — Spacecraft
+    {T}: Add one mana of any color. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.) | 6+ | Flying, vigilance
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Synthesizer Labship 59.9% (n=12995); EOE Pinnacle Kill-Ship 57.0% (n=57550); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Wurmwall Sweeper 54.0% (n=32932)
+
+# 260 [U] 52.91%  {3} Combadge  pi=0.35 rem=0.00 ca=0.00
+    Artifact — Communicator Equipment
+    When you cast this spell, copy it. (The copy becomes a token.) | Equipped creature has "Whenever this creature attacks while you control another creature with a Communicator attached to it, this creature can't be blocked this turn." | Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+    neighbors: EOE Atomic Microsizer 50.2% (n=2402); FRA Medic's Kitesail 54.9% (n=10585); MSH S.H.I.E.L.D. Spy Kit 58.5% (n=43217); MSH Vibranium Energy Daggers 51.0% (n=4302); TLA Meteor Sword 52.5% (n=8474)
+
+# 261 [M] 60.26%  {8} Crystalline Entity  pi=1.29 rem=1.04 ca=0.00
+    Artifact Creature — Elemental
+    Flying | When this creature enters, if you cast it, destroy all nonartifact creatures.
+    neighbors: FRA Kindred Judgment 62.9% (n=7241); EOE Singularity Rupture 59.4% (n=10729); FRA Archive Arbiter 56.2% (n=11894); SOS Biblioplex Tomekeeper 45.6% (n=1094); TLA Koh, the Face Stealer 64.2% (n=7951)
+
+# 262 [C] 55.63%  {2} Cybernetic Specialist  pi=0.71 rem=0.00 ca=0.45
+    Artifact Creature — Human Scientist
+    When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.) | {1}, {T}: Put target card from your graveyard on the bottom of your library.
+    neighbors: FIN Lunatic Pandora 50.2% (n=9305); EOE Starfighter Pilot 54.3% (n=35838); MSH A.I.M. Synthoids 53.0% (n=17036); TLA Glider Kids 56.8% (n=57669); SOS Unsubtle Mockery 58.0% (n=75081)
+
+# 263 [M] 56.27%  {9} Deep Space 9  pi=-1.65 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    When Deep Space 9 enters and at the beginning of your upkeep, exile the top four cards of your library. Put all permanent cards exiled this way onto the battlefield. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.) | 9+ | Creatures you control get +3/+3.
+    neighbors: EOE Rescue Skiff 53.0% (n=11552); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Specimen Freighter 56.5% (n=25638); EOE Pinnacle Kill-Ship 57.0% (n=57550); EOE Atmospheric Greenhouse 51.1% (n=12613)
+
+# 264 [R] 56.31%  {X} Engineered Explosives  pi=1.42 rem=1.67 ca=0.00
+    Artifact
+    Sunburst (This artifact enters with a charge counter on it for each color of mana spent to cast it.) | {2}, Sacrifice this artifact: Destroy each nonland permanent with mana value equal to the number of charge counters on this artifact.
+    neighbors: ECL Door of Destinies 53.6% (n=403); TLA Day of Black Sun 60.4% (n=12511); FRA Guiding Hydra 58.4% (n=6746); ECL Rimefire Torque 41.7% (n=386); FIN Excalibur II 46.6% (n=1252)
+
+# 265 [R] 51.13%  {7} The Holodeck  pi=-1.10 rem=0.00 ca=0.00
+    Legendary Artifact
+    Once during each of your turns, you may play a permanent card you own from outside the game or from your graveyard.
+    neighbors: FRA Karn, Argent Defender 46.6% (n=466); FIN Ring of the Lucii 53.8% (n=10191); EOE Virulent Silencer 49.3% (n=3903); MSH The Ten Rings 50.9% (n=450); EOE Requiem Monolith 55.8% (n=10710)
+
+# 266 [U] 53.95%  {2} Isolinear Processor  pi=2.16 rem=0.00 ca=2.40
+    Artifact
+    {T}: Add {C}. Spend this mana only to cast an artifact spell or activate an ability of an artifact source. | {2}, {T}: Draw a card, then discard a card.
+    neighbors: EOE Mechan Navigator 55.9% (n=26137); MSH Baron Strucker, HYDRA Overlord 56.3% (n=13388); FRA Arni, Humble Scribe 55.5% (n=14295); MSH Red Room Recruit 55.6% (n=32257); ECL Puca's Eye 54.6% (n=6463)
+
+# 267 [R] 54.73%  {2} Replicator  pi=0.66 rem=0.00 ca=0.00
+    Artifact
+    When this artifact enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") | {2}, {T}: Create a tapped token that's a copy of target token you control.
+    neighbors: MSH Heroic Feast 53.1% (n=2803); TMT Featherbrained Filcher 58.4% (n=8736); HOB Supper for Spiders 42.1% (n=299); TMT Tainted Treats 61.0% (n=12735); TMT Courier of Comestibles 62.8% (n=15933)
+
+# 268 [U] 53.46%  {5} Sickbay  pi=0.00 rem=0.00 ca=0.00
+    Artifact
+    Whenever a creature you control enters, you gain 1 life. | At the beginning of combat on your turn, put X +1/+1 counters on target creature you control, where X is one plus the amount of life you gained this turn.
+    neighbors: FRA Massacre Girl, Most Wanted 50.4% (n=7316); FRA Break Under Pressure 60.4% (n=21777); EOE Virulent Silencer 49.3% (n=3903); EOE Chrome Companion 53.2% (n=20305); FIN Ring of the Lucii 53.8% (n=10191)
+
+# 269 [C] 55.79%  {2} Tea, Earl Grey, Hot  pi=3.00 rem=0.78 ca=1.60
+    Artifact — Food
+    When this artifact enters, draw a card. | {2}, {T}, Sacrifice this artifact: Choose one — | • This artifact deals 2 damage to target opponent. | • You gain 3 life.
+    neighbors: FIN Instant Ramen 53.5% (n=13167); EOE Nutrient Block 55.4% (n=42241); TMT Omni-Cheese Pizza 58.7% (n=23733); ECL Puca's Eye 54.6% (n=6463); FIN Elixir 45.9% (n=1446)
+
+# 270 [C] 53.10%  {1} Tricorder  pi=0.41 rem=0.00 ca=0.45
+    Artifact — Equipment
+    Equipped creature gets +1/+1. | Whenever equipped creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.) | Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+    neighbors: MSH S.H.I.E.L.D. Spy Kit 58.5% (n=43217); MSH Vibranium Energy Daggers 51.0% (n=4302); FRA Medic's Kitesail 54.9% (n=10585); HOB Crude Bent Blade 60.4% (n=60413); TLA Kyoshi Battle Fan 56.4% (n=53263)
+
+# 271 [U] 54.11%  {2} Type-2 Phaser  pi=1.75 rem=1.41 ca=0.00
+    Artifact — Equipment
+    When this Equipment enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) | Equipped creature gets +3/+0. | Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+    neighbors: FRA Hapatra, the Desert Frost 53.6% (n=8850); TLA Rowdy Snowballers 51.9% (n=19926); TMT Utrom Scientists 54.4% (n=12914); SOS Deluge Virtuoso 52.6% (n=21719); FRA Cryotheory Adept 54.1% (n=13992)
+
+# 272 [U] 55.43%  {5} U.S.S. Cerritos, Following Up  pi=1.53 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    When U.S.S. Cerritos enters, create two 1/1 red Officer creature tokens. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.) | 6+ | Flying
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Wedgelight Rammer 54.8% (n=12819); EOE Pinnacle Kill-Ship 57.0% (n=57550); EOE Rescue Skiff 53.0% (n=11552); EOE Specimen Freighter 56.5% (n=25638)
+
+# 273 [R] 56.18%  {3} U.S.S. Enterprise-D, Galaxy-Class  pi=1.61 rem=0.00 ca=1.40
+    Legendary Artifact — Spacecraft
+    Whenever one or more charge counters are put on U.S.S. Enterprise-D for the first time each turn, exile the top card of your library. You may play that card this turn. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 7+.) | 7+ | Flying, vigilance
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Synthesizer Labship 59.9% (n=12995); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Rescue Skiff 53.0% (n=11552); EOE Specimen Freighter 56.5% (n=25638)
+
+# 274 [C] 56.02%  {2} Warp Core  pi=1.05 rem=0.00 ca=0.00
+    Artifact
+    When this artifact enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. | {1}, {T}: Put two charge counters on target Spacecraft. Activate only as a sorcery.
+    neighbors: FIN World Map 52.3% (n=30928); SOS Environmental Scientist 61.0% (n=29677); TLA Aang's Journey 55.9% (n=42571); HOB Old Thrush 54.6% (n=11898); ECL Changeling Wayfinder 54.1% (n=50376)
+
+# 297 [M] 54.72%   Starfleet Academy  pi=-0.30 rem=0.00 ca=0.00
+    Legendary Land
+    {T}: Add {C}. | Federation — {5}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creature types among non-Borg creatures you control.
+    neighbors: MSH Baxter Building 57.6% (n=20927); EOE Cascading Cataracts 46.7% (n=381); FRA Hexhaven Dueling Arena 49.1% (n=1853); FRA Hall of Echoes 53.2% (n=2875); SOS Skycoach Waypoint 51.7% (n=3111)
+
+# 303 [C] 55.85%   Unexplored Territory  pi=1.70 rem=0.00 ca=0.00
+    Land
+    {T}: Add {C}. | {1}, {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+    neighbors: SOS Terramorphic Expanse 56.6% (n=80057); ECL Evolving Wilds 55.0% (n=69107); TLA Fabled Passage 53.9% (n=408); HOB Elven Passage 55.0% (n=5572); TMT Escape Tunnel 57.8% (n=25764)
+
+# 182 [U] 57.52%  {2}{G} Adversary by Algorithm  pi=1.15 rem=0.00 ca=0.00
+    Sorcery
+    Create a 3/3 colorless Illusion artifact creature token. | Beam me up {3}{G} (You may cast this card from your graveyard for {3}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FIN Gysahl Greens 54.8% (n=44220); FRA Bestial Incursion 56.8% (n=31570); FIN Retrieve the Esper 56.1% (n=76522); FRA Recursive Recruitment 61.5% (n=24612); FIN Call the Mountain Chocobo 57.7% (n=68110)
+
+# 183 [U] 55.70%  {2}{G} Amok Time  pi=1.51 rem=0.92 ca=0.80
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — Target creature you control fights up to one target creature an opponent controls. | II — You gain 3 life. | III — Return target creature card from your graveyard to your hand.
+    neighbors: FIN Clive, Ifrit's Dominant 55.8% (n=5253); TLA The Last Agni Kai 49.9% (n=3957); FIN Summon: Primal Garuda 56.9% (n=20413); HOB Burn, Burn, Tree and Fern 60.1% (n=25422); MSH Origin of the Avengers 58.3% (n=8168)
+
+# 184 [C] 55.56%  {1}{G} Astute Terraformer  pi=0.00 rem=0.00 ca=0.00
+    Creature — Vulcan Scientist
+    Strange new worlds — {6}: This creature gets +2/+2 until end of turn. This ability costs {X} less to activate, where X is the number of differently named lands you control. Activate only once each turn.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); MSH Powerful Broker 52.4% (n=6507)
+
+# 185 [R] 55.01%  {6}{G}{G} Branching Timeline  pi=0.60 rem=0.00 ca=0.00
+    Sorcery
+    Strange new worlds — Reveal the top X cards of your library, where X is the number of differently named lands you control. Put all permanent cards revealed this way onto the battlefield tapped and the rest on the bottom of your library in a random order.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); HOB Through the Forest Gate 48.2% (n=334)
+
+# 186 [R] 59.14%  {2}{G} Captain Jonathan Archer  pi=0.55 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    When Captain Archer enters, create Porthos, a legendary 1/1 green Dog creature token. | Federation — {G}, {T}: Target creature you control gets +X/+X until end of turn, where X is the number of creature types among non-Borg creatures you control. Activate only as a sorcery.
+    neighbors: MSH Powerful Broker 52.4% (n=6507); TMT Michelangelo, Weirdness to 11 61.1% (n=4075); MSH Doc Samson, Super Psychiatrist 53.4% (n=7125); MSH The Astonishing Ant-Man 57.0% (n=5191); FIN Quina, Qu Gourmet 52.8% (n=15162)
+
+# 187 [M] 58.20%  {3}{G} Captain Kathryn Janeway  pi=-0.75 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    You may play an additional land on each of your turns. | Whenever Captain Janeway or another creature you control enters, that creature explores. (Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)
+    neighbors: FIN Traveling Chocobo 59.6% (n=5702); FIN Quina, Qu Gourmet 52.8% (n=15162); EOE Ouroboroid 67.3% (n=6239); FIN Cloud, Midgar Mercenary 59.1% (n=4996); MSH Doc Samson, Super Psychiatrist 53.4% (n=7125)
+
+# 188 [R] 56.26%  {1}{G}{G} Captain Pike, Fullness of Time  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer Scout
+    Strange new worlds — Captain Pike's power and toughness are each equal to the number of differently named lands you control. | You may look at the top card of your library any time. | You may play lands from the top of your library.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE All-Fates Scroll 54.9% (n=17530); EOE Survey Mechan 56.2% (n=20765); HOB Mirkwood Pathmaker 59.6% (n=19147)
+
+# 189 [C] 56.28%  {4}{G}{G} Cold-Blooded Crew  pi=0.90 rem=0.00 ca=0.00
+    Creature — Gorn Warrior
+    When this creature enters, put two +1/+1 counters on target creature. | This creature can't be blocked by creatures with power 2 or less. | Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+    neighbors: FRA Vinelasher Adept 56.3% (n=30377); MSH Roxxon Brutes 54.5% (n=27566); MSH Savage Land Dinosaur 56.2% (n=28560); TMT Rocksteady, Crash Courser 54.5% (n=12004); ECL Stratosoarer 55.1% (n=34510)
+
+# 190 [C] 55.68%  {1}{G} Common Goal  pi=1.08 rem=1.27 ca=0.00
+    Sorcery
+    One or two target creatures you control each deal damage equal to their power to target creature an opponent controls.
+    neighbors: FIN Chocobo Kick 57.9% (n=72011); FRA Flourishing Grapple 45.6% (n=443); HOB Quarrel 57.0% (n=34443); TLA Rocky Rebuke 56.9% (n=45508); TMT Tenderize 57.7% (n=23549)
+
+# 191 [U] 54.89%  {3}{G} Culber and Stamets, Star-Crossed  pi=0.10 rem=0.00 ca=0.00
+    Legendary Creature — Human Doctor Artificer
+    When Culber and Stamets enter, choose one — | • Put a +1/+1 counter on target creature. | • Add two mana of any one color.
+    neighbors: FIN Quina, Qu Gourmet 52.8% (n=15162); MSH Doc Samson, Super Psychiatrist 53.4% (n=7125); FRA Loot, the Nexus 53.4% (n=10201); EOE Blade of the Swarm 53.6% (n=4037); FRA Yoshimaru, Beloved Companion 50.3% (n=6762)
+
+# 192 [C] 54.24%  {2}{G} Dathon and Picard at El-Adrel  pi=0.70 rem=0.00 ca=0.00
+    Instant
+    Choose one — | • Temba, His Arms Wide — Target creature gets +3/+3 and gains trample until end of turn. | • Shaka, When the Walls Fell — Each opponent sacrifices a nontoken artifact or enchantment of their choice.
+    neighbors: FIN Blitzball Shot 54.4% (n=17957); FIN Tifa's Limit Break 53.5% (n=10111); SOS Efflorescence 50.3% (n=2702); TLA Yip Yip! 57.1% (n=39303); MSH Giant Growth 56.1% (n=8780)
+
+# 193 [U] 54.64%  {2}{G} David and Carol Marcus, Creators  pi=-0.50 rem=0.00 ca=0.00
+    Legendary Creature — Human Scientist
+    When David and Carol Marcus enter, create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: FIN Torgal, A Fine Hound 58.7% (n=35473); TLA Great Divide Guide 62.8% (n=11894); TLA Hermitic Herbalist 57.4% (n=17850); EOE Gene Pollinator 57.9% (n=70370); FRA Loot, the Nexus 53.4% (n=10201)
+
+# 194 [C] 56.59%  {3}{G} Dominion Assault Force  pi=1.31 rem=0.00 ca=0.45
+    Creature — Jem'Hadar Warrior
+    Vigilance | When this creature enters, choose one — | • Exile target card from a graveyard. | • Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: EOE Thawbringer 56.5% (n=47936); EOE Starfighter Pilot 54.3% (n=35838); TLA Glider Kids 56.8% (n=57669); ECL Lys Alana Informant 57.6% (n=54750); EOE Shattered Wings 52.1% (n=13561)
+
+# 195 [C] 55.70%  {2}{G} Dominion Supervisor  pi=0.90 rem=0.00 ca=0.00
+    Creature — Vorta Doctor
+    When this creature enters, put a +1/+1 counter on target creature. | Creatures you control with counters on them have trample.
+    neighbors: HOB Guardian of the Halls 53.0% (n=16103); TLA Earth King's Lieutenant 60.5% (n=8904); MSH Knight of Wundagore 53.0% (n=18370); MSH Training Regimen 52.9% (n=6400); TLA Jeong Jeong's Deserters 56.5% (n=56367)
+
+# 196 [M] 56.03%  {2}{G}{G} Dr. Joseph M'Benga  pi=-0.10 rem=0.00 ca=0.00
+    Legendary Creature — Human Doctor
+    Other creatures you control with counters on them have hexproof. | If you would put one or more counters on a creature you control, put twice that many of each of those kinds of counters on that creature instead.
+    neighbors: FIN The Earth Crystal 47.7% (n=4519); FIN Sazh Katzroy 64.4% (n=14587); SOS Growth Curve 49.4% (n=2360); EOE Loading Zone 40.7% (n=1230); HOB Bard, King of Dale 52.8% (n=2506)
+
+# 197 [R] 59.40%  {1}{G}{G} Dr. Leonard "Bones" McCoy  pi=2.57 rem=0.00 ca=0.80
+    Legendary Creature — Human Doctor
+    Flash | When Dr. McCoy enters, choose one — | • Return target non-Doctor permanent card from your graveyard to your hand. | • Choose up to one other target creature. When it dies this turn, return that card to the battlefield under its owner's control with a +1/+1 counter on it at the beginning of the next end step.
+    neighbors: ECL Morcant's Loyalist 61.5% (n=24704); MSH White Widow, Free Agent 56.3% (n=16593); TLA Toph, Hardheaded Teacher 58.9% (n=11323); MSH Call Damage Control 52.1% (n=5762); FIN Vanille, Cheerful l'Cie 58.8% (n=37061)
+
+# 198 [C] 55.81%  {2}{G} Final Frontier  pi=1.80 rem=0.00 ca=0.00
+    Sorcery
+    Search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle. | Beam me up {1}{G} (You may cast this card from your graveyard for {1}{G} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FIN Reach the Horizon 53.7% (n=16460); FIN Prishe's Wanderings 54.7% (n=49104); TLA Cycle of Renewal 51.1% (n=23685); TLA Shared Roots 55.0% (n=17355); HOB Troop of Ponies 54.2% (n=9610)
+
+# 199 [C] 56.07%  {1}{G} First Contact  pi=0.63 rem=0.00 ca=0.70
+    Instant
+    Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life. (To mill four cards, put the top four cards of your library into your graveyard.)
+    neighbors: FRA Something Worth Saving 57.3% (n=20552); FIN Town Greeter 59.1% (n=81709); ECL Midnight Tilling 56.8% (n=33880); MSH Rick Jones, Destined Sidekick 54.3% (n=2085); MSH Rapid Rescue 58.0% (n=12030)
+
+# 200 [R] 55.18%  {2}{G} Genesis Device  pi=1.65 rem=0.00 ca=0.00
+    Legendary Artifact
+    When Genesis Device enters, search your library for a basic land card or Planet card, put it onto the battlefield tapped, then shuffle. | {3}{G}{G}, {T}, Sacrifice Genesis Device: Sacrifice any number of lands you control, then search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle. Activate only as a sorcery.
+    neighbors: TLA Kyoshi Island Plaza 49.2% (n=3528); FIN Reach the Horizon 53.7% (n=16460); FIN Prishe's Wanderings 54.7% (n=49104); TLA Cycle of Renewal 51.1% (n=23685); EOE Dauntless Scrapbot 57.1% (n=37180)
+
+# 201 [R] 60.48%  {2}{G}{G} Holo-Engineer  pi=0.50 rem=0.00 ca=0.00
+    Creature — Human Artificer
+    When this creature enters, create a 3/3 colorless Illusion artifact creature token. | If one or more tokens would be created under your control, that many 3/3 colorless Illusion artifact creature tokens are created instead.
+    neighbors: FRA Verdant Kraken 58.9% (n=6618); FIN Quina, Qu Gourmet 52.8% (n=15162); HOB Ordinary Bear 54.8% (n=14617); HOB The Notary Hobbits 54.0% (n=1174); TLA Kyoshi Warriors 57.3% (n=57956)
+
+# 202 [U] 57.34%  {4}{G}{G} Hologram Stalker  pi=-0.83 rem=0.00 ca=0.80
+    Creature — Hirogen Warrior
+    When this creature enters, return target permanent card from your graveyard to your hand. | Whenever a card leaves your graveyard, create a 3/3 colorless Illusion artifact creature token. This ability triggers only once each turn.
+    neighbors: FIN Vanille, Cheerful l'Cie 58.8% (n=37061); ECL Dundoolin Weaver 56.3% (n=24332); EOE Pull Through the Weft 49.9% (n=3895); MSH Call Damage Control 52.1% (n=5762); FRA Theoretical Necromancer 55.7% (n=25096)
+
+# 203 [C] 54.55%  {G} I'm a Doctor, Not a . . .  pi=0.00 rem=0.00 ca=0.00
+    Instant
+    Put a +1/+1 counter on target creature you control. Untap it. Until end of turn, it gets +1/+1 and becomes a Doctor. (It loses all other creature types.)
+    neighbors: FIN Blitzball Shot 54.4% (n=17957); FRA Tethermage's Advantage 51.6% (n=2469); TLA Yip Yip! 57.1% (n=39303); TLA Pillar Launch 56.5% (n=12509); MSH Giant Growth 56.1% (n=8780)
+
+# 204 [M] 58.50%  {1}{G} Jadzia Dax, Living Legacy  pi=-0.75 rem=0.00 ca=0.00
+    Legendary Creature — Trill Scientist
+    At the beginning of your first main phase, put a +1/+1 counter on Jadzia Dax, then add an amount of {G} equal to the number of counters on her. | Transfer Symbiont — {2}{G}, Discard this card: Put two +1/+1 counters on target creature.
+    neighbors: EOE Ouroboroid 67.3% (n=6239); FIN Quina, Qu Gourmet 52.8% (n=15162); MSH The Astonishing Ant-Man 57.0% (n=5191); FIN Traveling Chocobo 59.6% (n=5702); HOB Nasty Little Rabbit 59.7% (n=17848)
+
+# 205 [U] 57.61%  {1}{G} Jake Sisko, War Correspondent  pi=2.25 rem=0.00 ca=2.50
+    Legendary Creature — Human Citizen
+    Landfall — Whenever a land you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+    neighbors: EOE Tannuk, Memorial Ensign 56.6% (n=18981); TLA South Pole Voyager 61.1% (n=12682); MSH Agent 13, Sharon Carter 59.4% (n=24984); TLA Fire Nation Raider 51.3% (n=8724); TLA Azula, On the Hunt 54.9% (n=19340)
+
+# 206 [R] 57.48%  {G} MACO Strike Team  pi=0.25 rem=0.00 ca=0.00
+    Creature — Human Soldier
+    Whenever a creature you control becomes the target of a spell or ability an opponent controls, create a tapped 1/1 red Officer creature token.
+    neighbors: MSH Loki, God of Mischief 59.3% (n=9031); TLA Katara, the Fearless 52.4% (n=5276); EOE Hemosymbic Mite 54.6% (n=8304); FRA Living Library 54.7% (n=3768); FRA Extrapolate the Impossible 51.8% (n=307)
+
+# 207 [C] 55.01%  {G} Moopsy  pi=0.35 rem=0.00 ca=0.00
+    Creature — Beast
+    Deathtouch | {2}: This creature gains reach until end of turn.
+    neighbors: FIN Gran Pulse Ochu 56.1% (n=49747); EOE Blooming Stinger 56.1% (n=51993); SOS Noxious Newt 55.7% (n=42297); EOE Hullcarver 56.2% (n=43783); TMT Squirrelanoids 58.1% (n=22199)
+
+# 208 [U] 54.78%  {3}{G}{G} Mugato  pi=0.85 rem=0.00 ca=0.00
+    Creature — Ape Beast
+    Reach, vigilance, deathtouch
+    neighbors: FRA Ruric Thar, Magecrusher 55.6% (n=12090); TLA Walltop Sentries 55.6% (n=37993); EOE Blooming Stinger 56.1% (n=51993); FIN Iron Giant 45.6% (n=4457); SOS Noxious Newt 55.7% (n=42297)
+
+# 209 [U] 57.52%  {1}{G} Neelix, Moral Support  pi=0.66 rem=0.00 ca=0.00
+    Legendary Creature — Talaxian Advisor
+    When Neelix enters, create a Food token. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.") | Whenever you gain life, put a +1/+1 counter on Neelix.
+    neighbors: MSH Heroic Feast 53.1% (n=2803); TMT Courier of Comestibles 62.8% (n=15933); TMT Lita, Little Orphan Amphibian 59.8% (n=10873); TMT Featherbrained Filcher 58.4% (n=8736); TLA Momo, Playful Pet 58.5% (n=23825)
+
+# 210 [C] 54.70%  {4}{G} Photosynthetic Physician  pi=0.32 rem=0.00 ca=0.00
+    Creature — Plant Doctor
+    Reach | {G}, Exile this card from your graveyard: Create a 1/1 red Officer creature token. Activate only as a sorcery.
+    neighbors: MSH Guerrilla Gorilla 56.8% (n=25561); ECL Stoic Grove-Guide 53.7% (n=31386); MSH Powerful Broker 52.4% (n=6507); HOB Ordinary Bear 54.8% (n=14617); ECL Goldmeadow Nomad 53.4% (n=18455)
+
+# 211 [M] 59.16%  {4}{G}{G} Rok-Tahk, Budding Scientist  pi=-0.50 rem=0.00 ca=0.00
+    Legendary Creature — Brikar Scientist
+    Creatures you control have "{T}: Add {G}{G}." | When Rok-Tahk enters, create Murf, a legendary 0/1 green Ooze Slug creature token with indestructible.
+    neighbors: FIN Traveling Chocobo 59.6% (n=5702); HOB The Notary Hobbits 54.0% (n=1174); FIN Quina, Qu Gourmet 52.8% (n=15162); HOB Ordinary Bear 54.8% (n=14617); MSH Doc Samson, Super Psychiatrist 53.4% (n=7125)
+
+# 212 [U] 57.72%  {2}{G} Saru, Unthreatened  pi=1.00 rem=0.00 ca=0.00
+    Legendary Creature — Kelpien Officer
+    Flash | When Saru enters, another target creature you control gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+    neighbors: FRA Teyo, Lightshield Expert 56.6% (n=12607); MSH Patriot, Shield Wielder 57.8% (n=22139); ECL Blossoming Defense 56.5% (n=19953); TLA Octopus Form 57.8% (n=62029); SOS Chase Inspiration 54.9% (n=13120)
+
+# 213 [C] 55.17%  {3}{G} Saurian Explorer  pi=-0.25 rem=0.00 ca=0.00
+    Creature — Dinosaur Scout
+    Landfall — Whenever a land you control enters, this creature gets +2/+2 until end of turn. | {6}: Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color." Activate only as a sorcery.
+    neighbors: EOE Icecave Crasher 56.4% (n=47540); TLA Great Divide Guide 62.8% (n=11894); EOE Icetill Explorer 51.9% (n=5906); MSH Undercover Skrull 59.8% (n=42457); FIN Torgal, A Fine Hound 58.7% (n=35473)
+
+# 214 [U] 57.96%  {4}{G}{G} Species 8472  pi=0.35 rem=0.00 ca=0.00
+    Creature — Insect Beast
+    Strange new worlds — When this creature enters, you gain life equal to the number of differently named lands you control. | This creature can't be blocked by artifact creatures. | This creature can't be the target of abilities from artifact sources your opponents control.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); TLA Flopsie, Bumi's Buddy 56.1% (n=16255)
+
+# 215 [R] 52.57%  {2}{G} Stable Wormhole  pi=0.00 rem=0.00 ca=0.00
+    Enchantment
+    Whenever you attack, create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: TLA Great Divide Guide 62.8% (n=11894); FIN Torgal, A Fine Hound 58.7% (n=35473); EOE Gene Pollinator 57.9% (n=70370); TLA Bender's Waterskin 54.0% (n=15166); TLA Hermitic Herbalist 57.4% (n=17850)
+
+# 216 [U] 50.75%  {2}{G} Support Mission  pi=0.00 rem=0.00 ca=0.00
+    Enchantment
+    Whenever a creature you control enters, put a quest counter on this enchantment. Put a +1/+1 counter on that creature. If this enchantment has five or more quest counters on it, instead put two +1/+1 counters on that creature.
+    neighbors: FIN Quina, Qu Gourmet 52.8% (n=15162); EOE Terrasymbiosis 48.1% (n=3000); MSH Training Regimen 52.9% (n=6400); MSH Political Triumph 59.5% (n=20694); TLA Southern Air Temple 51.4% (n=5978)
+
+# 217 [U] 57.28%  {2}{G} Sylvia Tilly, Joy of Discovery  pi=1.36 rem=0.00 ca=0.90
+    Legendary Creature — Human Scientist Artificer
+    When Sylvia Tilly enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.) | At the beginning of combat on your turn, you may pay {1} and exile a card from your graveyard. When you do, put a +1/+1 counter on target creature.
+    neighbors: MSH A.I.M. Synthoids 53.0% (n=17036); SOS Textbook Tabulator 52.7% (n=16808); ECL Unwelcome Sprite 56.7% (n=22459); ECL Twilight Diviner 56.5% (n=7501); FIN Quina, Qu Gourmet 52.8% (n=15162)
+
+# 218 [U] 54.46%  {4}{G} Syndicate Liquidators  pi=-0.15 rem=0.00 ca=0.00
+    Creature — Orion Pirate
+    Trample | Landfall — Whenever a land you control enters, put two +1/+1 counters on target creature you control.
+    neighbors: FIN Tifa Lockhart 50.2% (n=3741); FIN Sazh's Chocobo 60.3% (n=30779); EOE Icecave Crasher 56.4% (n=47540); MSH Ka-Zar of the Savage Land 61.6% (n=21763); EOE Icetill Explorer 51.9% (n=5906)
+
+# 219 [C] 56.62%  {2}{G} Temporal Conqueror  pi=1.67 rem=0.00 ca=1.32
+    Creature — Na'kuhl Warrior
+    When this creature enters, mill three cards. Then return a land card from your graveyard to your hand. If you can't, create a Treasure token. (To mill three cards, put the top three cards from your library into your graveyard.)
+    neighbors: TLA Ostrich-Horse 57.5% (n=41816); FIN Vanille, Cheerful l'Cie 58.8% (n=37061); FIN Town Greeter 59.1% (n=81709); FIN Shinra Reinforcements 57.5% (n=53623); MSH Rick Jones, Destined Sidekick 54.3% (n=2085)
+
+# 220 [U] 56.59%  {G} Test of Courage  pi=1.44 rem=1.29 ca=0.00
+    Instant
+    Choose one — | • Alter the Past — Exile target card from a graveyard. You gain 2 life. | • Obliterate the Transwarp Network — Destroy target artifact or enchantment with mana value 3 or less.
+    neighbors: SOS Witherbloom Charm 54.2% (n=12754); FRA Break Under Pressure 60.4% (n=21777); FIN Phoenix Down 52.6% (n=9997); EOE Annul 51.5% (n=6746); FIN Nature's Claim 53.3% (n=1601)
+
+# 221 [R] 58.49%  {3}{G}{G} U.S.S. Discovery, at Black Alert  pi=7.19 rem=0.00 ca=7.60
+    Legendary Artifact — Spacecraft
+    Whenever U.S.S. Discovery enters or attacks, discover 5. (Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.) | Station | 6+ | Flying
+    neighbors: EOE Sledge-Class Seedship 56.7% (n=7918); EOE Specimen Freighter 56.5% (n=25638); EOE Susurian Dirgecraft 54.7% (n=15660); ECL Maralen, Fae Ascendant 60.9% (n=9377); EOE Atmospheric Greenhouse 51.1% (n=12613)
+
+# 222 [U] 56.99%  {3}{G} U.S.S. Voyager, Lone Wanderer  pi=1.50 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    When U.S.S. Voyager enters, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield tapped and the rest on the bottom of your library in a random order. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.) | 8+ | Flying, vigilance
+    neighbors: EOE Larval Scoutlander 59.7% (n=31511); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Rescue Skiff 53.0% (n=11552); EOE Specimen Freighter 56.5% (n=25638); EOE Sledge-Class Seedship 56.7% (n=7918)
+
+# 223 [U] 55.20%  {2}{G} Warp Speed  pi=3.93 rem=0.00 ca=3.20
+    Enchantment
+    Lands you control enter untapped. | When this enchantment enters, search your library for a basic land card or Planet card, reveal it, put it into your hand, then shuffle. | Strange new worlds — {7}{U}{U}, Sacrifice this enchantment: Draw two cards. This ability costs {X} less to activate, where X is the number of differently named lands you control.
+    neighbors: EOE All-Fates Scroll 54.9% (n=17530); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); ECL Prismatic Undercurrents 49.1% (n=4459)
+
+# 224 [C] 55.61%  {1}{G} Xenobotanist  pi=0.00 rem=0.00 ca=0.00
+    Creature — Vulcan Scientist
+    {T}: Add one mana of any color.
+    neighbors: ECL Great Forest Druid 54.6% (n=37398); EOE Gene Pollinator 57.9% (n=70370); TLA Great Divide Guide 62.8% (n=11894); TLA Hermitic Herbalist 57.4% (n=17850); FIN Chromatic Lantern 48.5% (n=513)
+
+# 225 [C] 55.74%  {2}{G} Xindi Surveyors  pi=-0.25 rem=0.00 ca=0.00
+    Creature — Xindi Scientist
+    Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature.
+    neighbors: FIN Sazh's Chocobo 60.3% (n=30779); MSH Claim the Kingdom 51.3% (n=5603); FIN Ride the Shoopuf 55.6% (n=16576); FRA Koth of the Homestead 55.5% (n=10315); EOE Icetill Explorer 51.9% (n=5906)
+
+# 290 [R] 58.07%   Q Continuum  pi=0.96 rem=0.00 ca=0.45
+    Land
+    This land enters tapped unless you control two or more other lands. | When this land enters untapped, choose one — | • Target creature gets +1/+1 and gains vigilance until end of turn. | • Surveil 1. | {T}: Add {G}.
+    neighbors: FRA Roiling Canopy 50.5% (n=901); TLA Abandoned Air Temple 61.6% (n=14069); TLA Fire Nation Palace 53.8% (n=5502); FRA Overgrown Farmland 53.8% (n=3344); EOE Lightstall Inquisitor 58.0% (n=8082)
+
+# 302 [U] 56.14%   Temporal Anomaly  pi=0.67 rem=0.00 ca=0.35
+    Land
+    {T}: Add {C}. | {3}{G}, {T}, Sacrifice this land: Mill four cards. You may put a permanent card from among them into your hand. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: FIN Torgal, A Fine Hound 58.7% (n=35473); TLA Great Divide Guide 62.8% (n=11894); TLA Hermitic Herbalist 57.4% (n=17850); EOE Gene Pollinator 57.9% (n=70370); MSH Rapid Rescue 58.0% (n=12030)
+
+# 311 [C] 56.15%   Forest  pi=0.15 rem=0.00 ca=0.00
+    Basic Land — Forest
+    ({T}: Add {G}.)
+    neighbors: MSH Forest 56.5% (n=147695); FIN Forest 55.8% (n=286864); FRA Forest 55.7% (n=138120); HOB Forest 55.7% (n=98029); EOE Forest 56.2% (n=257764)
+
+# 229 [U] 54.87%  {2}{R/G}{R/G} Cleveland Booker, Empath  pi=-0.62 rem=0.00 ca=0.00
+    Legendary Creature — Kwejian Rogue
+    Landfall — Whenever a land you control enters, create a 2/2 red and green Worm creature token with "This token can't block." | {8}: Creatures you control get +2/+0 until end of turn.
+    neighbors: MSH Mole Man, Moloid Master 54.6% (n=3897); FRA Prudent Fateseer 56.8% (n=16960); HOB Thranduil, Sindarin Liege 58.3% (n=19439); FIN Chocobo Racetrack 51.8% (n=13419); TLA Suki, Courageous Rescuer 62.5% (n=12895)
+
+# 231 [U] 55.80%  {1}{R}{G} Dal R'El, Augment Orphan  pi=1.44 rem=0.00 ca=1.60
+    Legendary Creature — Human Mutant Rogue
+    Landfall — Whenever a land you control enters, add {R} or {G}. | {3}, Sacrifice a land: Draw a card.
+    neighbors: EOE Icetill Explorer 51.9% (n=5906); FIN Sazh's Chocobo 60.3% (n=30779); FIN Tifa Lockhart 50.2% (n=3741); FIN Rydia, Summoner of Mist 54.7% (n=10711); EOE Eumidian Terrabotanist 57.2% (n=27570)
+
+# 240 [R] 53.77%  {1}{R}{G} Hit It!  pi=1.15 rem=0.00 ca=0.00
+    Enchantment
+    Creatures you control have haste. | When this enchantment enters, reveal the top five cards of your library. Put a land card from among them onto the battlefield tapped and the rest into your graveyard.
+    neighbors: HOB Part in Friendship 51.2% (n=3308); TLA Elemental Teachings 44.3% (n=273); SOS Zimone's Experiment 52.5% (n=8197); MSH Alien Invasion 50.2% (n=3746); SOS Planar Engineering 56.3% (n=5539)
+
+# 288 [C] 56.86%   Orion  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {R} or {G}.
+    neighbors: MSH Los Diablos Missile Base 56.1% (n=13973); MSH Subterranean Cavern 56.7% (n=16361); MSH Hell's Kitchen 55.0% (n=14218); MSH Stark Industries 56.3% (n=16748); MSH Pym Technologies 56.8% (n=17440)
+
+# 299 [R] 54.68%   Stomping Ground  pi=1.95 rem=0.00 ca=0.00
+    Land — Mountain Forest
+    ({T}: Add {R} or {G}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Stomping Ground 56.1% (n=7238); EOE Breeding Pool 56.8% (n=8916); EOE Sacred Foundry 52.3% (n=4167); EOE Watery Grave 55.2% (n=8369); EOE Godless Shrine 54.8% (n=5654)
+
+# 233 [R] 56.07%  {G}{U}{R} Dathon, His Heart Open  pi=1.98 rem=0.64 ca=1.60
+    Legendary Creature — Tamarian Officer
+    Whenever you cast an enchantment spell, draw a card. If it's a Saga spell, Dathon deals 2 damage to each opponent. | {2}: Choose a counter on target enchantment you control. Put another counter of that kind on it. Activate only as a sorcery.
+    neighbors: MSH The Astonishing Ant-Man 57.0% (n=5191); MSH Powerful Broker 52.4% (n=6507); FIN Vivi Ornitier 59.7% (n=5811); TLA Katara, the Fearless 52.4% (n=5276); FRA Sanctum Lurker 62.2% (n=8136)
+
+# 226 [R] 56.14%  {3}{G}{U} All Good Things...  pi=2.88 rem=0.00 ca=3.20
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.) | I, II, III — Draw two cards, then exile a card from your hand. | IV — If all cards exiled with this Saga share a card type, you gain 10 life.
+    neighbors: FIN Summon: G.F. Ifrit 51.4% (n=30194); MSH Origin of the Avengers 58.3% (n=8168); FIN Jecht, Reluctant Guardian 56.8% (n=12788); FIN Summon: Esper Ramuh 53.1% (n=17307); FIN Summon: Primal Garuda 56.9% (n=20413)
+
+# 236 [U] 55.93%  {1}{G/U}{G/U} D'Vana Tendi, Optimistic Ensign  pi=0.41 rem=0.00 ca=0.45
+    Legendary Creature — Orion Scientist
+    {T}: Untap another target permanent. | {3}: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: FIN Lunatic Pandora 50.2% (n=9305); EOE Starfighter Pilot 54.3% (n=35838); FIN Il Mheg Pixie 58.2% (n=46390); MSH Falcon, Winged Wonder 60.6% (n=25551); EOE Umbral Collar Zealot 57.7% (n=28277)
+
+# 254 [U] 55.32%  {G}{U} The Traveler  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Scout
+    Reach, vigilance | Strange new worlds — The Traveler's power is equal to the number of differently named lands you control.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE All-Fates Scroll 54.9% (n=17530); EOE Survey Mechan 56.2% (n=20765); FIN Snow Villiers 52.5% (n=11475)
+
+# 279 [R] 55.02%   Breeding Pool  pi=1.95 rem=0.00 ca=0.00
+    Land — Forest Island
+    ({T}: Add {G} or {U}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Breeding Pool 56.8% (n=8916); EOE Watery Grave 55.2% (n=8369); EOE Stomping Ground 56.1% (n=7238); EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167)
+
+# 281 [C] 57.45%   Earth, Sector 001  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {G} or {U}.
+    neighbors: MSH Pym Technologies 56.8% (n=17440); MSH Subterranean Cavern 56.7% (n=16361); MSH A.I.M. Labs 56.2% (n=17474); MSH Los Diablos Missile Base 56.1% (n=13973); MSH Stark Industries 56.3% (n=16748)
+
+# 251 [R] 57.64%  {1}{G}{W}{U} Sarek, Federation Ambassador  pi=0.69 rem=0.00 ca=1.60
+    Legendary Creature — Vulcan Advisor
+    Federation — At the beginning of combat on your turn, draw a card for every five creature types among non-Borg creatures you control. If you draw three or more cards this way, put two +1/+1 counters on each creature you control.
+    neighbors: MSH The Astonishing Ant-Man 57.0% (n=5191); FIN Jenova, Ancient Calamity 60.4% (n=14766); TLA Katara, the Fearless 52.4% (n=5276); EOE Haliya, Ascendant Cadet 55.4% (n=14461); FIN Quina, Qu Gourmet 52.8% (n=15162)
+
+# 234 [U] 55.65%  {3}{G/W}{G/W} The Doctor, EMH  pi=0.05 rem=0.00 ca=0.00
+    Legendary Artifact Creature — Illusion Doctor
+    When The Doctor enters, put a +1/+1 counter on target creature. Then put a +1/+1 counter on each creature you control with a counter on it.
+    neighbors: TLA Long Feng, Grand Secretariat 52.6% (n=11811); TLA Earth Kingdom Soldier 56.0% (n=25459); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); TLA Jeong Jeong's Deserters 56.5% (n=56367); TMT EPF Point Squad 53.2% (n=9590)
+
+# 241 [R] 57.44%  {3}{G}{W} The Inner Light  pi=0.18 rem=0.00 ca=0.00
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — Return target green or white creature card from your graveyard to the battlefield. | II — Choose target creature. Whenever it deals combat damage to a player this turn, you draw that many cards. | III — You gain life equal to the greatest power among creatures you control. Create a Treasure token.
+    neighbors: MSH Origin of the Avengers 58.3% (n=8168); FIN Summon: Primal Garuda 56.9% (n=20413); FIN Summon: Esper Ramuh 53.1% (n=17307); HOB Roads Go Ever, Ever On 56.7% (n=5944); TLA The Legend of Kyoshi 60.2% (n=6290)
+
+# 250 [U] 54.93%  {2}{G}{W} Phlox, Unorthodox Doctor  pi=1.54 rem=0.00 ca=1.60
+    Legendary Creature — Denobulan Doctor
+    Trample | Whenever a creature you control with a counter on it deals combat damage to a player, draw a card.
+    neighbors: MSH The Thing, Ben Grimm 52.9% (n=7298); EOE Haliya, Ascendant Cadet 55.4% (n=14461); EOE Meltstrider Eulogist 54.2% (n=13469); TMT Venus, Torn Between Worlds 53.5% (n=5599); TMT Leatherhead, Swamp Stalker 61.4% (n=4123)
+
+# 293 [C] 56.84%   Risa  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {G} or {W}.
+    neighbors: MSH Birnin Zana Plaza 56.9% (n=18558); MSH Subterranean Cavern 56.7% (n=16361); MSH Fisk Tower 56.4% (n=16729); MSH Avengers Hangar 57.8% (n=25337); MSH Los Diablos Missile Base 56.1% (n=13973)
+
+# 301 [R] 54.83%   Temple Garden  pi=1.95 rem=0.00 ca=0.00
+    Land — Forest Plains
+    ({T}: Add {G} or {W}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167); EOE Stomping Ground 56.1% (n=7238); EOE Breeding Pool 56.8% (n=8916); ECL Temple Garden 52.6% (n=5482)
+
+# 137 [U] 54.27%  {2}{R} Academy Instructor  pi=-0.43 rem=0.00 ca=0.00
+    Creature — Bolian Officer
+    This creature gets +1/+0 for each Officer token you control. | Whenever you cast a noncreature spell, create a 1/1 red Officer creature token.
+    neighbors: TLA Crescent Island Temple 53.7% (n=3912); FRA Tomik, Izzet Sparkmage 52.9% (n=8258); TLA Ty Lee, Artful Acrobat 54.4% (n=14763); FRA Saheeli, Jewel of Avishkar 57.8% (n=15212); HOB Bothersome Noisemaker 61.0% (n=27882)
+
+# 138 [U] 53.67%  {1}{R} Beckett Mariner, Impetuous Ensign  pi=0.76 rem=0.78 ca=0.00
+    Legendary Creature — Human Officer
+    First strike | Reckless Behavior — Whenever Beckett Mariner becomes tapped, put a promotion counter on her. Then if there are three or more promotion counters on her, remove those counters and she deals 2 damage to each opponent.
+    neighbors: FRA Danitha, Sword of Hope 52.6% (n=4827); FRA Tinybones, Pocket Nuisance 56.0% (n=11276); FRA Skilled Battlecarver 53.6% (n=18260); EOE Molecular Modifier 55.5% (n=16143); FRA Danitha, Spear of Agony 51.1% (n=7442)
+
+# 139 [C] 55.97%  {1}{R} Boarding Action  pi=1.08 rem=0.00 ca=0.00
+    Sorcery
+    Create a 2/1 red Klingon Warrior creature token with haste. | Beam me up {2}{R} (You may cast this card from your graveyard for {2}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FIN Call the Mountain Chocobo 57.7% (n=68110); HOB Tidings of War 56.3% (n=31344); FIN Retrieve the Esper 56.1% (n=76522); FIN Sorceress's Schemes 58.6% (n=25731); FIN Gysahl Greens 54.8% (n=44220)
+
+# 140 [R] 53.32%  {R}{R} Brazen Bluff  pi=0.99 rem=0.00 ca=1.10
+    Instant
+    Choose target noncreature spell an opponent controls. That player may exile it. If they don't, you may cast a noncreature spell from your hand without paying its mana cost.
+    neighbors: ECL Goliath Daydreamer 55.4% (n=9755); TLA Redirect Lightning 51.6% (n=4360); FRA Tomik, Izzet Sparkmage 52.9% (n=8258); FIN Mizzix's Mastery 51.7% (n=667); SOS Zaffai and the Tempests 52.5% (n=4970)
+
+# 141 [C] 54.10%  {2}{R} Cantankerous Captain  pi=0.45 rem=0.00 ca=0.00
+    Creature — Tellarite Officer
+    At the beginning of combat on your turn, target creature you control gets +1/+0 until end of turn. Then that creature gains menace until end of turn if creatures you control have total power 8 or greater. (It can't be blocked except by two or more creatures.)
+    neighbors: TLA How to Start a Riot 53.4% (n=17645); FIN Item Shopkeep 54.1% (n=19510); ECL Flame-Chain Mauler 53.9% (n=32019); TLA Hog-Monkey 52.5% (n=6625); SOS Garrison Excavator 57.5% (n=25307)
+
+# 142 [M] 60.32%  {2}{R} Captain James T. Kirk  pi=2.33 rem=0.00 ca=2.40
+    Legendary Creature — Human Officer
+    Whenever Captain Kirk enters or attacks, choose one. If you have no cards in hand, choose one or more instead. | • Discard a card, then draw a card. | • Create a 1/1 red Officer creature token. | • Creatures you control get +1/+0 until end of turn.
+    neighbors: SOS Steal the Show 54.7% (n=6516); HOB Pinecone Strike 59.4% (n=55706); ECL Perfect Intimidation 48.2% (n=1937); TLA Azula Always Lies 55.4% (n=25956); TMT Brilliance Unleashed 62.7% (n=17495)
+
+# 143 [U] 54.91%  {2}{R} Captain Michael Burnham  pi=0.62 rem=0.32 ca=0.00
+    Legendary Creature — Human Officer
+    Trample | Landfall — Whenever a land you control enters, Captain Burnham deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, put a +1/+1 counter on Captain Burnham.
+    neighbors: EOE Tannuk, Memorial Ensign 56.6% (n=18981); TLA South Pole Voyager 61.1% (n=12682); FRA Koth, the Geomancer 52.2% (n=8345); FIN Sabotender 52.8% (n=18037); FIN Tifa Lockhart 50.2% (n=3741)
+
+# 144 [C] 53.42%  {1}{R} Captain's Tutelage  pi=0.20 rem=0.00 ca=0.00
+    Enchantment — Aura
+    Flash | Enchant creature | When this Aura enters, enchanted creature gains first strike until end of turn. | Enchanted creature gets +2/+0.
+    neighbors: MSH Super Speed 49.0% (n=1571); FIN Stuck in Summoner's Sanctum 55.9% (n=79992); MSH Super-Soldier Serum 55.0% (n=3452); EOE Cryoshatter 56.6% (n=66624); MSH Frozen in Ice 58.0% (n=48838)
+
+# 145 [R] 57.74%  {1}{R} D-7 Battle Cruiser  pi=0.73 rem=0.00 ca=0.00
+    Artifact — Spacecraft
+    Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.) | 3+ | At the beginning of combat on your turn, create a 2/1 red Klingon Warrior creature token with haste. Sacrifice it at the beginning of the next end step. | 8+ | Flying
+    neighbors: EOE Galvanizing Sawship 49.9% (n=10812); EOE Synthesizer Labship 59.9% (n=12995); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Wurmwall Sweeper 54.0% (n=32932)
+
+# 146 [C] 55.40%  {3}{R} Dahar Master  pi=0.77 rem=0.55 ca=0.00
+    Creature — Klingon Warrior
+    When this creature enters, you may sacrifice another nonland permanent. When you do, this creature deals 2 damage to any target.
+    neighbors: MSH Bullseye, Death Dealer 54.7% (n=10671); FRA Tether Technician 53.0% (n=7605); EOE Nebula Dragon 56.9% (n=30811); MSH Lightning Strike 55.5% (n=28626); TLA Lightning Strike 57.5% (n=57329)
+
+# 147 [R] 56.12%  {X}{R}{R}{R} Dominion Infiltration  pi=0.00 rem=0.00 ca=0.00
+    Sorcery
+    Choose X target creatures your opponents control. For each of them, create a token that's a copy of that creature, except it has changeling. Those tokens gain haste. Exile those tokens at the beginning of the next end step. (They're every creature type.)
+    neighbors: EOE Devastating Onslaught 57.1% (n=4004); MSH Photon Blast Barrage 56.2% (n=12208); FRA Face Yourself 54.6% (n=4087); FIN The Fire Crystal 41.3% (n=1019); EOE Terminal Velocity 46.8% (n=1020)
+
+# 148 [R] 58.16%  {1}{R}{R} Encounter the Unknown  pi=3.42 rem=2.13 ca=1.40
+    Instant
+    Choose one — | • Come in Peace — Exile the top two cards of your library. Until the end of your next turn, you may play those cards. | • Shoot to Kill — Encounter the Unknown deals 2 damage to each creature and each player.
+    neighbors: FIN Fire Magic 57.9% (n=25147); FRA Fulminous Forte 57.8% (n=17812); TLA Iroh's Demonstration 59.3% (n=27205); FIN Opera Love Song 53.5% (n=8354); TLA Volcanic Torrent 64.3% (n=373)
+
+# 149 [U] 53.79%  {3}{R} Erica Ortegas, Plucky Pilot  pi=0.10 rem=0.00 ca=0.00
+    Legendary Creature — Human Pilot
+    Haste | Whenever Erica Ortegas becomes tapped, you may put a land card from your hand onto the battlefield. If you do, return a land you control to its owner's hand at the beginning of the next end step.
+    neighbors: EOE Terminal Velocity 46.8% (n=1020); FIN Zell Dincht 55.7% (n=6056); EOE Tannuk, Steadfast Second 54.8% (n=3541); FIN Sandworm 51.8% (n=10554); EOE Sami, Ship's Engineer 52.0% (n=7660)
+
+# 150 [U] 51.81%  {2}{R}{R} Exploratory Mission  pi=1.26 rem=0.00 ca=1.40
+    Enchantment
+    Landfall — Whenever a land you control enters, put a quest counter on this enchantment. Then exile cards from the top of your library until you exile a nonland card. You may play that card this turn. If this enchantment has five or more quest counters on it, add {R}{R}.
+    neighbors: EOE Territorial Bruntar 56.1% (n=19800); SOS Archaic's Agony 56.6% (n=18582); MSH Blazing Crescendo 52.9% (n=7417); FIN Light Up the Stage 55.3% (n=5919); HOB Gundabad Opportunist 56.3% (n=37178)
+
+# 151 [C] 55.58%  {4}{R} Genesis Effect  pi=2.00 rem=2.35 ca=0.00
+    Instant
+    Genesis Effect deals 6 damage to target creature. Destroy target land you control. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: TLA Barrels of Blasting Jelly 55.2% (n=42596); FIN Light of Judgment 54.4% (n=46954); TLA Bender's Waterskin 54.0% (n=15166); SOS Heated Argument 56.2% (n=53531); EOE Invasive Maneuvers 56.2% (n=21586)
+
+# 152 [C] 54.66%  {4}{R}{R} Horta  pi=1.10 rem=0.00 ca=0.00
+    Creature — Elemental
+    Trample | Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+    neighbors: MSH Savage Land Dinosaur 56.2% (n=28560); MSH Kree Sentinel 54.2% (n=22417); FIN Hill Gigas 51.3% (n=24663); FRA Undulating Witness 56.5% (n=38771); ECL Stratosoarer 55.1% (n=34510)
+
+# 153 [M] 56.54%  {7}{R}{R} Infinite Diversity  pi=0.99 rem=0.00 ca=1.10
+    Sorcery
+    Federation — Exile target instant or sorcery card from your graveyard. Copy that card X times, where X is the number of creature types among non-Borg creatures you control. You may cast the copies without paying their mana costs. Exile Infinite Diversity.
+    neighbors: FIN Mizzix's Mastery 51.7% (n=667); SOS Echocasting Symposium 58.4% (n=6626); SOS Restoration Seminar 58.4% (n=5989); SOS Decorum Dissertation 56.5% (n=4702); SOS Germination Practicum 59.1% (n=5857)
+
+# 154 [U] 54.96%  {X}{R} Khaaaaaaaaaaaannn!  pi=0.00 rem=0.00 ca=0.00
+    Instant
+    Khaaaaaaaaaaaannn! deals twice X damage to target creature. If that creature would die this turn, exile it instead.
+    neighbors: TLA Combustion Technique 59.0% (n=27613); FRA Essence Burn 49.6% (n=498); MSH Photon Blast Barrage 56.2% (n=12208); EOE Cut Propulsion 56.5% (n=23509); EOE Invasive Maneuvers 56.2% (n=21586)
+
+# 155 [U] 56.42%  {4}{R} Khan, Despot by Design  pi=0.86 rem=0.25 ca=0.00
+    Legendary Creature — Human Rogue
+    Trample | When Khan enters, he deals 1 damage to each opponent and each creature your opponents control.
+    neighbors: FRA Tinybones, Pocket Nuisance 56.0% (n=11276); FRA Sanctum Lurker 62.2% (n=8136); ECL Sting-Slinger 51.9% (n=12035); TLA Bumi, Unleashed 64.2% (n=6991); MSH Iron Fist, Living Weapon 51.0% (n=3745)
+
+# 156 [U] 53.11%  {2}{R}{R} La'An Noonien-Singh, Security  pi=-0.25 rem=0.00 ca=0.00
+    Legendary Creature — Human Soldier
+    Whenever you attack while creatures you control have total power 8 or greater, target creature can't block this turn.
+    neighbors: TLA Combustion Man 53.5% (n=10204); MSH Iron Fist, Living Weapon 51.0% (n=3745); TLA Tiger-Dillo 56.0% (n=5816); TMT Raphael, Ninja Destroyer 51.1% (n=910); FRA Draconic Visitor 54.8% (n=4740)
+
+# 157 [R] 54.09%  {1}{R} Lwaxana Troi, Charming Guest  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Betazoid Advisor
+    You may choose not to untap Lwaxana Troi during your untap step. | {2}, {T}: Choose another target creature you control. For as long as Lwaxana Troi remains tapped, if a triggered ability of that creature triggers, that ability triggers an additional time.
+    neighbors: HOB Bombur, Gentle Dreamer 55.0% (n=13699); FRA Karn, Argent Defender 46.6% (n=466); MSH Iron Fist, Living Weapon 51.0% (n=3745); MSH Ares, God of War 57.0% (n=4432); FIN Freya Crescent 55.7% (n=13129)
+
+# 158 [U] 57.50%  {1}{R} Munitions Enthusiast  pi=1.33 rem=0.39 ca=0.00
+    Creature — Klingon Warrior
+    Trample | When this creature dies, it deals 1 damage to any target.
+    neighbors: MSH Lightning Strike 55.5% (n=28626); TLA Lightning Strike 57.5% (n=57329); ECL Boulder Dash 56.1% (n=22821); EOE Nebula Dragon 56.9% (n=30811); EOE Weapons Manufacturing 49.0% (n=3029)
+
+# 159 [U] 54.08%  {1}{R} The Naked Time  pi=0.60 rem=0.00 ca=0.00
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — Search your library for a basic Mountain card, put it onto the battlefield tapped, then shuffle. | II — Whenever a creature you control enters this turn, put a +1/+1 counter on it and it gains haste until end of turn. | III — Sacrifice a land.
+    neighbors: MSH Origin of the Avengers 58.3% (n=8168); FIN Summon: Esper Ramuh 53.1% (n=17307); FIN Summon: Fenrir 61.4% (n=38269); FIN Summon: G.F. Ifrit 51.4% (n=30194); HOB Burn, Burn, Tree and Fern 60.1% (n=25422)
+
+# 160 [R] 55.14%  {5}{R}{R} Pah-Wraith  pi=-2.25 rem=0.00 ca=0.00
+    Creature — Wraith
+    First strike, haste | Strange new worlds — Whenever this creature attacks, creatures you control get +X/+0 until end of turn, where X is the number of differently named lands you control.
+    neighbors: EOE Fungal Colossus 55.7% (n=28103); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); ECL Gallant Fowlknight 55.1% (n=24052)
+
+# 161 [C] 54.03%  {1}{R} Perils of the Past  pi=1.29 rem=1.11 ca=0.00
+    Instant
+    Choose one — | • Use the Relic — Target creature gets +3/+2 until end of turn. | • Destroy the Relic — Destroy target artifact.
+    neighbors: EOE Depressurize 57.0% (n=64021); TLA Bumi Bash 52.8% (n=24202); SOS Abrade 58.5% (n=34666); FIN Tifa's Limit Break 53.5% (n=10111); ECL Keep Out 53.2% (n=27529)
+
+# 162 [C] 56.24%  {R} Planetary Bombardment  pi=1.87 rem=2.20 ca=0.00
+    Sorcery
+    Planetary Bombardment deals 2 damage to target creature. Planetary Bombardment deals 4 damage to that creature instead if a creature died this turn.
+    neighbors: EOE Invasive Maneuvers 56.2% (n=21586); EOE Bombard 54.7% (n=43331); TMT Bot Bashing Time 54.0% (n=12481); SOS Impractical Joke 59.1% (n=36701); TLA Firebending Lesson 58.7% (n=67705)
+
+# 163 [C] 54.29%  {1}{R} Planetary Patrol  pi=0.00 rem=0.00 ca=0.00
+    Creature — Scout
+    Landfall — Whenever a land you control enters, this creature gets +1/+1 until end of turn.
+    neighbors: EOE Remnant Elemental 52.6% (n=7405); EOE Icecave Crasher 56.4% (n=47540); HOB Mirkwood Meditator 49.4% (n=1736); FIN Tifa Lockhart 50.2% (n=3741); FIN Ambrosia Whiteheart 56.9% (n=28717)
+
+# 164 [C] 56.23%  {2}{R} Plasma Cascade  pi=2.35 rem=1.07 ca=1.60
+    Instant
+    Plasma Cascade deals 3 damage to any target. You may discard a card. If you do, draw a card.
+    neighbors: ECL Tweeze 55.0% (n=51612); MSH Lightning Strike 55.5% (n=28626); TLA Lightning Strike 57.5% (n=57329); TLA Lightning Bolt 57.5% (n=325); FIN Lightning Bolt 60.4% (n=14202)
+
+# 165 [M] 59.65%  {2}{R}{R} Q, Stacking the Deck  pi=0.55 rem=0.00 ca=0.00
+    Legendary Creature — Q
+    When Q enters, shuffle your library, then exile cards from the top of your library until you exile a nonland card. That nonland card gains "Exile a card from your hand: Create a copy of this card. You may cast the copy. Activate only during your turn and only if this card is exiled."
+    neighbors: TMT Raphael, Ninja Destroyer 51.1% (n=910); TLA Ran and Shaw 58.6% (n=12542); TLA Koh, the Face Stealer 64.2% (n=7951); MSH Hex Magic 45.5% (n=875); TLA Sozin's Comet 47.3% (n=313)
+
+# 166 [M] 56.68%  {2}{R} Quark, Humble Proprietor  pi=-0.57 rem=0.00 ca=0.00
+    Legendary Creature — Ferengi Rogue
+    You can't sacrifice Treasure tokens. | At the beginning of each upkeep, create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+    neighbors: MSH Stark Industries Executive 51.5% (n=13631); HOB Smaug the Magnificent 63.5% (n=4125); HOB Dori, Bearer of Friends 57.8% (n=44509); ECL Scuzzback Scrounger 55.9% (n=9159); FIN Undercity Dire Rat 56.2% (n=65466)
+
+# 167 [U] 53.20%  {5}{R} Ravenous Cosmozoan  pi=-1.15 rem=0.00 ca=0.00
+    Creature — Fish
+    This spell costs {1} less to cast for each noncreature, nonland card in your graveyard. | Flying, haste
+    neighbors: EOE Gigastorm Titan 57.4% (n=32161); EOE Uthros Psionicist 57.6% (n=31753); ECL Sunderflock 64.5% (n=11366); HOB Dreaded Bat-Cloud 56.2% (n=17043); TLA Serpent of the Pass 54.2% (n=16693)
+
+# 168 [C] 53.91%  {1}{R} Reckless Impulse  pi=1.26 rem=0.00 ca=1.40
+    Sorcery
+    Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+    neighbors: FIN Light Up the Stage 55.3% (n=5919); MSH Blazing Crescendo 52.9% (n=7417); FRA Blazing Crescendo 52.0% (n=4817); ECL Burning Curiosity 52.2% (n=20006); SOS Archaic's Agony 56.6% (n=18582)
+
+# 169 [U] 52.98%  {2}{R} Red Alert!  pi=0.00 rem=0.00 ca=0.00
+    Instant
+    This spell costs {2} less to cast if a creature is attacking you. | Creatures you control get +2/+0 until end of turn.
+    neighbors: FIN Serah Farron 50.7% (n=3157); EOE Zealous Display 51.4% (n=5425); EOE Uthros Psionicist 57.6% (n=31753); FRA Wrath of the Bloodmane 56.7% (n=32440); FIN Fate of the Sun-Cryst 54.5% (n=47042)
+
+# 170 [U] 52.56%  {2}{R} Sarcophagus, Ship of the Dead  pi=0.35 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    Other creatures you control get +1/+0. | Whenever a creature dies, if Sarcophagus isn't a creature, put a charge counter on it. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 10+.) | 10+ | Flying
+    neighbors: EOE Rescue Skiff 53.0% (n=11552); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Specimen Freighter 56.5% (n=25638); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Atmospheric Greenhouse 51.1% (n=12613)
+
+# 171 [C] 54.41%  {1}{R} Savvy Profiteer  pi=-0.07 rem=0.00 ca=0.00
+    Creature — Ferengi Rogue
+    {T}: Add {R}. | {3}, {T}: Create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+    neighbors: MSH Stark Industries Executive 51.5% (n=13631); HOB Dori, Bearer of Friends 57.8% (n=44509); FIN Undercity Dire Rat 56.2% (n=65466); ECL Reckless Ransacking 50.2% (n=5457); ECL Flamekin Gildweaver 56.6% (n=47087)
+
+# 172 [C] 55.19%  {4}{R} Silicate Surveyor  pi=1.31 rem=0.00 ca=1.40
+    Creature — Tholian Scout
+    Reach | When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+    neighbors: HOB Gundabad Opportunist 56.3% (n=37178); MSH Blazing Crescendo 52.9% (n=7417); FRA Blazing Crescendo 52.0% (n=4817); TLA Zuko, Exiled Prince 53.2% (n=13906); MSH Crimson Operative 54.4% (n=20073)
+
+# 173 [C] 55.46%  {R} Starfleet Security  pi=2.65 rem=0.00 ca=2.50
+    Creature — Human Officer
+    Haste | When this creature dies during your turn, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+    neighbors: TLA Fire Nation Raider 51.3% (n=8724); TLA Cunning Maneuver 55.0% (n=17366); TLA Forecasting Fortune Teller 57.9% (n=83116); TLA Knowledge Seeker 58.6% (n=36142); MSH Agent 13, Sharon Carter 59.4% (n=24984)
+
+# 174 [C] 53.58%  {2}{R} Tal Shiar Analyst  pi=0.02 rem=0.32 ca=0.00
+    Creature — Romulan Scientist
+    {T}: This creature deals 1 damage to each opponent. | Whenever you cast a noncreature spell, untap this creature.
+    neighbors: FIN Mysidian Elder 52.7% (n=34043); FIN Vivi Ornitier 59.7% (n=5811); FIN Queen Brahne 53.0% (n=18687); FIN Cornered by Black Mages 58.1% (n=75719); FIN Kuja, Genome Sorcerer 63.3% (n=14559)
+
+# 175 [U] 53.74%  {2}{R} Targ Wrangler  pi=1.20 rem=0.00 ca=0.00
+    Creature — Klingon Warrior
+    Menace (This creature can't be blocked except by two or more creatures.) | At the beginning of your end step, if this creature attacked this turn, sacrifice a nonland permanent.
+    neighbors: EOE Insatiable Skittermaw 52.2% (n=15566); FIN Item Shopkeep 54.1% (n=19510); SOS Garrison Excavator 57.5% (n=25307); MSH Arnim Zola, Bio-Fanatic 51.1% (n=8658); TLA How to Start a Riot 53.4% (n=17645)
+
+# 176 [R] 56.45%  {1}{R} Tasha Yar, Out of Time  pi=1.41 rem=0.00 ca=1.40
+    Legendary Creature — Human Officer
+    Haste | When Tasha Yar dies, exile the top card of your library. Until the end of your next turn, you may play that card. | {2}{R}, Exile this card from your graveyard: Create a token that's a copy of this card. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+    neighbors: FIN Haste Magic 50.6% (n=6862); EOE Possibility Technician 61.2% (n=12737); ECL Sizzling Changeling 54.4% (n=22871); HOB Gundabad Opportunist 56.3% (n=37178); MSH Blazing Crescendo 52.9% (n=7417)
+
+# 177 [U] 54.22%  {1}{R} Test of Identity  pi=3.58 rem=0.00 ca=3.20
+    Instant
+    Choose one — | • I Am Klingon — Target Klingon gets +1/+1 and gains double strike until end of turn. | • I Am Starfleet — Discard a card. If you do, draw two cards.
+    neighbors: EOE Dual-Sun Technique 51.9% (n=6446); FIN Giott, King of the Dwarves 57.2% (n=14302); HOB Dáin Ironfoot 61.4% (n=8599); SOS Expressive Firedancer 55.8% (n=40495); MSH Team Tactics 49.8% (n=3392)
+
+# 178 [U] 57.66%  {1}{R} Transporter Malfunction  pi=1.69 rem=1.17 ca=0.00
+    Sorcery
+    Transporter Malfunction deals 3 damage to any target. | Beam me up {3}{R}{R}{R} (You may cast this card from your graveyard for {3}{R}{R}{R} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: SOS Tome Blast 57.9% (n=75740); SOS Duel Tactics 55.8% (n=10226); FIN Sorceress's Schemes 58.6% (n=25731); EOE Plasma Bolt 55.8% (n=46345); ECL Boulder Dash 56.1% (n=22821)
+
+# 179 [R] 55.48%  {3}{R} Will Riker, First in the Field  pi=0.35 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    At the beginning of combat on your turn, reveal cards from the top of your library until you reveal two land cards. Put those land cards onto the battlefield and the rest on the bottom of your library in a random order. Sacrifice those lands at the beginning of your next end step.
+    neighbors: FIN Zell Dincht 55.7% (n=6056); FIN Gilgamesh, Master-at-Arms 57.9% (n=7840); SOS Zimone's Experiment 52.5% (n=8197); EOE Anticausal Vestige 59.9% (n=13337); EOE Frontline War-Rager 50.0% (n=8055)
+
+# 180 [R] 58.54%  {2}{R} Worf, Intelligence Contractor  pi=0.30 rem=0.00 ca=0.00
+    Legendary Creature — Klingon Warrior Spy
+    When Worf enters, for each opponent, gain control of up to one target creature that player controls with mana value 3 or less until end of turn. Untap those creatures. Until end of turn, they become Warriors in addition to their other types and gain haste.
+    neighbors: MSH Evil's Thrall 53.2% (n=1469); EOE Mutinous Massacre 60.4% (n=9296); FIN Unexpected Request 53.4% (n=4890); ECL Goatnap 49.1% (n=1075); FIN Stolen Uniform 42.6% (n=216)
+
+# 181 [R] 57.62%  {2}{R} The Wrath of Khan  pi=2.52 rem=1.27 ca=1.60
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — This Saga deals 4 damage to target creature an opponent controls. At the beginning of the next combat this turn, gain control of that creature until end of turn. Untap it. It gains haste until end of turn. | II — You may exile a card from your hand. If you do, draw a card. | III — Each opponent sacrifices a nontoken permanent of their choice.
+    neighbors: MSH Evil's Thrall 53.2% (n=1469); FIN Unexpected Request 53.4% (n=4890); EOE Mutinous Massacre 60.4% (n=9296); ECL Goatnap 49.1% (n=1075); FIN Stolen Uniform 42.6% (n=216)
+
+# 292 [R] 57.78%   Quark's Bar  pi=1.51 rem=0.66 ca=0.45
+    Land
+    This land enters tapped unless you control two or more other lands. | When this land enters untapped, choose one — | • This land deals 1 damage to each opponent. | • Surveil 1. | {T}: Add {R}.
+    neighbors: FRA Haunted Ridge 55.6% (n=3989); FRA Rockfall Vale 54.8% (n=4293); TLA Realm of Koh 57.6% (n=10656); TLA Abandoned Air Temple 61.6% (n=14069); TLA Fire Nation Palace 53.8% (n=5502)
+
+# 296 [U] 55.55%   Spatial Anomaly  pi=1.47 rem=1.31 ca=0.00
+    Land
+    {T}: Add {C}. | {4}{R}, {T}, Sacrifice this land: It deals 2 damage to target creature. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: TLA Barrels of Blasting Jelly 55.2% (n=42596); ECL Springleaf Drum 50.5% (n=4752); FIN Torgal, A Fine Hound 58.7% (n=35473); TLA Bender's Waterskin 54.0% (n=15166); TLA Great Divide Guide 62.8% (n=11894)
+
+# 310 [C] 55.60%   Mountain  pi=0.15 rem=0.00 ca=0.00
+    Basic Land — Mountain
+    ({T}: Add {R}.)
+    neighbors: EOE Mountain 55.3% (n=220357); MSH Mountain 54.7% (n=130685); TLA Mountain 55.8% (n=225621); SOS Mountain 56.0% (n=323556); FIN Mountain 56.1% (n=314551)
+
+# 238 [U] 54.24%  {2}{U/R}{U/R} Gray and Adira, Forever Joined  pi=-0.75 rem=0.00 ca=0.00
+    Legendary Creature — Trill Human Officer
+    At the beginning of combat on your turn, if you've cast a noncreature spell this turn, create a token that's a copy of target creature you control, except it isn't legendary. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
+    neighbors: FIN Inalla, Archmage Ritualist 52.4% (n=210); FIN Firion, Wild Rose Warrior 57.0% (n=7793); FIN The Fire Crystal 41.3% (n=1019); SOS Abstract Paintmage 50.4% (n=11117); EOE Sami, Ship's Engineer 52.0% (n=7660)
+
+# 253 [U] 59.76%  {U}{R} Spock, Always Your Friend  pi=0.55 rem=0.00 ca=0.00
+    Legendary Creature — Vulcan Human Scientist
+    When Spock enters, look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+    neighbors: TMT Casey Jones, Jury-Rig Justiciar 62.6% (n=13482); EOE Pulsar Squadron Ace 55.6% (n=20735); FIN Ashe, Princess of Dalmasca 55.1% (n=19623); SOS Geometer's Arthropod 54.6% (n=4568); FIN Commune with Beavers 54.3% (n=17017)
+
+# 257 [R] 55.35%  {1}{U}{R} Year of Hell  pi=0.54 rem=0.64 ca=0.00
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I, II, III — Each player draws a card. This Saga deals 2 damage to each player.
+    neighbors: FIN Summon: G.F. Ifrit 51.4% (n=30194); FIN Summon: Esper Ramuh 53.1% (n=17307); HOB Burn, Burn, Tree and Fern 60.1% (n=25422); MSH Origin of the Avengers 58.3% (n=8168); FIN Summon: Primal Garuda 56.9% (n=20413)
+
+# 275 [C] 56.83%   Andoria  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {U} or {R}.
+    neighbors: MSH Stark Industries 56.3% (n=16748); MSH Hell's Kitchen 55.0% (n=14218); MSH A.I.M. Labs 56.2% (n=17474); MSH Los Diablos Missile Base 56.1% (n=13973); TMT TCRI Building 60.6% (n=22436)
+
+# 298 [R] 54.70%   Steam Vents  pi=1.95 rem=0.00 ca=0.00
+    Land — Island Mountain
+    ({T}: Add {U} or {R}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Watery Grave 55.2% (n=8369); EOE Sacred Foundry 52.3% (n=4167); EOE Stomping Ground 56.1% (n=7238); EOE Breeding Pool 56.8% (n=8916); ECL Steam Vents 53.8% (n=6658)
+
+# 242 [R] 56.72%  {1}{R}{W} Kira Nerys, Firebrand  pi=0.60 rem=0.00 ca=0.00
+    Legendary Creature — Bajoran Soldier
+    Trample | If a creature you control would enter while you control an attacking creature, instead it enters tapped and attacking. | Whenever another creature you control enters, it gets +1/+1 until end of turn.
+    neighbors: TMT Mutant Town Musicians 54.2% (n=3925); FRA Arni, Renowned Champion 46.6% (n=2035); MSH Ares, God of War 57.0% (n=4432); ECL Thoughtweft Lieutenant 59.0% (n=17493); FRA Roiling Canopy 50.5% (n=901)
+
+# 243 [U] 56.20%  {1}{R}{W} Kirk, Commanding Officer  pi=1.95 rem=0.81 ca=1.40
+    Legendary Creature — Human Officer
+    Whenever you attack while creatures you control have total power 8 or greater, exile the top card of your library. You may play that card this turn. | {2}, Sacrifice Kirk: Destroy target artifact or enchantment.
+    neighbors: TLA Zuko, Exiled Prince 53.2% (n=13906); HOB Gundabad Opportunist 56.3% (n=37178); HOB The Great Goblin 56.5% (n=6348); MSH Blazing Crescendo 52.9% (n=7417); MSH Daredevil, Man Without Fear 58.2% (n=7487)
+
+# 256 [U] 54.78%  {R/W}{R/W} Worf, Honor-Bound Warrior  pi=-0.50 rem=0.00 ca=0.00
+    Legendary Creature — Klingon Warrior Officer
+    Whenever you attack while creatures you control have total power 8 or greater, double Worf's power until end of turn. | Tap two untapped artifacts and/or creatures you control: Put a +1/+1 counter on Worf. Activate only as a sorcery.
+    neighbors: TMT Raph & Leo, Sibling Rivals 55.4% (n=2337); HOB Bifur, Melodic Rider 55.0% (n=12309); TLA Long Feng, Grand Secretariat 52.6% (n=11811); TLA Uncle Iroh 53.1% (n=11702); FRA Tomik, Orzhov Lawmage 54.8% (n=11502)
+
+# 277 [C] 56.51%   Bajor  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {R} or {W}.
+    neighbors: MSH Asgardian Citadel 56.6% (n=16462); TMT Dimension X 58.1% (n=11844); MSH Fisk Tower 56.4% (n=16729); MSH Hell's Kitchen 55.0% (n=14218); MSH Los Diablos Missile Base 56.1% (n=13973)
+
+# 295 [R] 54.38%   Sacred Foundry  pi=1.95 rem=0.00 ca=0.00
+    Land — Mountain Plains
+    ({T}: Add {R} or {W}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Sacred Foundry 52.3% (n=4167); EOE Godless Shrine 54.8% (n=5654); EOE Stomping Ground 56.1% (n=7238); EOE Watery Grave 55.2% (n=8369); EOE Breeding Pool 56.8% (n=8916)
+
+#  46 [U] 50.95%  {2}{U} Anthropological Mission  pi=1.44 rem=0.00 ca=1.60
+    Enchantment
+    Whenever you cast a noncreature spell, put a quest counter on this enchantment. Draw a card. Then discard a card unless this enchantment has three or more quest counters on it.
+    neighbors: FRA Geist of Saint Thalia 57.6% (n=16887); FRA Proft, Consulting Detective 58.2% (n=21717); HOB Uncover the Moon-Letters 48.3% (n=300); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FIN Shantotto, Tactician Magician 59.6% (n=37033)
+
+#  47 [R] 57.21%  {5}{U} The Caretaker  pi=1.49 rem=0.00 ca=1.10
+    Legendary Creature — Elemental
+    Vigilance, ward {2} | At the beginning of each end step, if you faced a dilemma this turn, target opponent exiles cards from the top of their library until they exile a nonland card. You may cast that card without paying its mana cost. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: TMT Krang & Shredder 57.9% (n=4616); ECL Dream Harvest 50.9% (n=4272); FRA Clash of Elements 58.9% (n=14369); MSH Black Widow, Super Spy 58.1% (n=3590); EOE Lost in Space 56.7% (n=44999)
+
+#  48 [C] 53.38%  {3}{U} Cetacean Ops  pi=-0.10 rem=0.00 ca=0.00
+    Creature — Whale Officer
+    Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.) | Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+    neighbors: FRA Unflinching Hortimancer 54.6% (n=16841); TLA The Unagi of Kyoshi Island 60.6% (n=15404); HOB Gandalf, Wandering Wizard 51.1% (n=6098); SOS Mica, Reader of Ruins 53.6% (n=7784); FRA Ruric Thar, Biomagus 56.3% (n=15274)
+
+#  49 [U] 56.49%  {8}{U} Cloak and Phaser  pi=4.37 rem=0.00 ca=4.00
+    Sorcery
+    Strange new worlds — This spell costs {X} less to cast, where X is the number of differently named lands you control. | Create two 2/2 black Romulan creature tokens. Draw two cards, then discard a card.
+    neighbors: EOE Fungal Colossus 55.7% (n=28103); EOE All-Fates Scroll 54.9% (n=17530); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Survey Mechan 56.2% (n=20765); FIN Travel the Overworld 56.6% (n=27338)
+
+#  50 [C] 56.73%  {1}{U} Cloistered Telepath  pi=2.76 rem=0.00 ca=2.40
+    Creature — Talosian Advisor
+    Flash | When this creature enters, draw a card, then discard a card.
+    neighbors: MSH Red Room Recruit 55.6% (n=32257); FRA Arni, Humble Scribe 55.5% (n=14295); ECL Silvergill Peddler 55.4% (n=31835); HOB Long Lake Nuisance 57.7% (n=49140); FRA Divining Duelist 55.7% (n=11905)
+
+#  51 [C] 56.18%  {2}{U} Consider the Prime Directive  pi=3.77 rem=2.33 ca=1.60
+    Instant
+    Choose one — | • Interfere — Counter target spell unless its controller pays {3}. | • Observe — Tap up to one target creature and put a stun counter on it. Draw a card. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+    neighbors: FRA Hapatra, the Desert Frost 53.6% (n=8850); TLA Rowdy Snowballers 51.9% (n=19926); FRA Cryotheory Adept 54.1% (n=13992); TMT Utrom Scientists 54.4% (n=12914); SOS Rapier Wit 54.3% (n=16865)
+
+#  52 [U] 55.09%  {1}{U} Data, New Life  pi=0.69 rem=0.00 ca=1.60
+    Legendary Artifact Creature — Android Scientist
+    Whenever you draw a card, put a +1/+1 counter on Data.
+    neighbors: FRA Proft, Consulting Detective 58.2% (n=21717); HOB Ravenhill Flock 52.0% (n=8684); MSH Kid Loki 54.2% (n=10027); EOE Sunstar Lightsmith 56.6% (n=24233); EOE Illvoi Operative 54.2% (n=30721)
+
+#  53 [R] 55.35%  {4}{U}{U} Deep Space Scan  pi=3.77 rem=0.00 ca=4.80
+    Sorcery
+    Strange new worlds — Draw X cards, where X is the number of differently named lands you control. You have no maximum hand size until your next turn.
+    neighbors: EOE All-Fates Scroll 54.9% (n=17530); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Survey Mechan 56.2% (n=20765); EOE Fungal Colossus 55.7% (n=28103); FRA Cruel Calculations 47.4% (n=405)
+
+#  54 [U] 52.35%  {4}{U} Dominion Saboteur  pi=-1.00 rem=0.00 ca=0.00
+    Creature — Shapeshifter
+    You may have this creature enter as a copy of any artifact or creature on the battlefield, except it isn't legendary. If you do, it enters with additional counters on it equal to the same number and kinds of counters the copied permanent has on it.
+    neighbors: FRA Samut, Tyrant of Naktamun 46.4% (n=1227); MSH Taskmaster, Mercenary Mimic 55.1% (n=4772); FRA Yargle, Goliath of Otaria 45.5% (n=705); FRA Proft, Consulting Detective 58.2% (n=21717); MSH Shuri, Wakandan Inventor 56.2% (n=10622)
+
+#  55 [C] 54.51%  {3}{U} Emergency Holographic Crew  pi=2.18 rem=0.00 ca=1.70
+    Artifact Creature — Illusion Officer
+    When this creature enters, choose one — | • Return target Spacecraft card from your graveyard to your hand. | • Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+    neighbors: MSH A.I.M. Synthoids 53.0% (n=17036); FRA Yuriko, Hope from the Shadows 54.8% (n=8004); ECL Unwelcome Sprite 56.7% (n=22459); SOS Textbook Tabulator 52.7% (n=16808); ECL Twilight Diviner 56.5% (n=7501)
+
+#  56 [U] 57.24%  {1}{U} Energize  pi=1.60 rem=1.06 ca=0.00
+    Sorcery
+    Return target creature an opponent controls to its owner's hand. | Beam me up {3}{U} (You may cast this card from your graveyard for {3}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FRA Unsummon 58.0% (n=39461); TLA Boomerang Basics 56.8% (n=27940); FIN Eject 59.4% (n=52050); SOS Cyclonic Rift 59.0% (n=1521); EOE Desculpting Blast 57.6% (n=31799)
+
+#  57 [U] 55.69%  {3}{U} Ensign Pavel Chekov  pi=0.05 rem=0.00 ca=0.00
+    Legendary Creature — Human Pilot
+    Strange new worlds — When Ensign Chekov enters, each opponent exiles the top X cards of their library, where X is the number of differently named lands you control. For each opponent, choose a land card that player owns exiled this way. You may play the chosen cards for as long as they remain exiled.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Survey Mechan 56.2% (n=20765); EOE Fungal Colossus 55.7% (n=28103); EOE All-Fates Scroll 54.9% (n=17530); FRA Samut, Tyrant of Naktamun 46.4% (n=1227)
+
+#  58 [U] 56.95%  {3}{U} Enterprise NX-01  pi=1.75 rem=1.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    When Enterprise NX-01 enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.) | 6+ | Flying, vigilance
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Specimen Freighter 56.5% (n=25638); EOE Synthesizer Labship 59.9% (n=12995); EOE Rescue Skiff 53.0% (n=11552); EOE Pinnacle Kill-Ship 57.0% (n=57550)
+
+#  59 [C] 56.95%  {U} Federation Probe  pi=1.66 rem=0.00 ca=0.45
+    Artifact Creature — Construct
+    Flying | When this creature enters, choose one — | • Target creature gets +1/+1 until end of turn. | • Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+    neighbors: TLA Glider Kids 56.8% (n=57669); FIN Lunatic Pandora 50.2% (n=9305); FRA Consider 56.8% (n=623); SOS Owlin Historian 55.9% (n=38841); EOE Starfighter Pilot 54.3% (n=35838)
+
+#  60 [C] 56.20%  {3}{U} Guidance Failure  pi=0.00 rem=0.00 ca=0.00
+    Instant
+    This spell costs {1} less to cast if it targets an attacking creature. | Target creature or Spacecraft's owner puts it on their choice of the top or bottom of their library.
+    neighbors: HOB Uneasy Partings 56.2% (n=38308); SOS Run Behind 57.3% (n=56393); ECL Swat Away 55.0% (n=18830); FRA Clash of Elements 58.9% (n=14369); EOE Lost in Space 56.7% (n=44999)
+
+#  61 [R] 58.98%  {1}{U} Gwyndala, the Progeny  pi=0.05 rem=0.00 ca=0.00
+    Legendary Creature — Vau-N'Akat Advisor
+    When Gwyndala enters, create a colorless Equipment artifact token named Neuroflux Heirloom with "Equipped creature gets +1/+1" and equip {2}. Attach it to Gwyndala. | {2}: Each Equipment token you control becomes a copy of target Equipment you control until end of turn.
+    neighbors: MSH U.S.Agent, John Walker 57.4% (n=19992); MSH Taskmaster, Mercenary Mimic 55.1% (n=4772); FIN Firion, Wild Rose Warrior 57.0% (n=7793); MSH Shuri, Wakandan Inventor 56.2% (n=10622); FRA Samut, Tyrant of Naktamun 46.4% (n=1227)
+
+#  62 [U] 54.93%  {1}{U} Highly Illogical  pi=1.32 rem=1.56 ca=0.00
+    Instant
+    Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.) | Counter target spell with mana value 2 or less. If this spell was kicked, instead counter target spell.
+    neighbors: ECL Spell Snare 48.3% (n=2737); EOE Unravel 55.4% (n=13805); MSH Counterspell 55.6% (n=313); FIN Counterspell 59.1% (n=15284); ECL Wild Unraveling 53.8% (n=15161)
+
+#  63 [R] 59.39%  {4}{U} H.M.S. Bounty, Unlikely Timeship  pi=3.14 rem=0.00 ca=1.60
+    Legendary Artifact — Spacecraft
+    When H.M.S. Bounty enters, you may search your library for a Whale card, reveal it, put it into your hand, then shuffle. | Station | 8+ | Flying | Whenever H.M.S. Bounty deals combat damage to a player, draw a card. If you control a Whale and haven't begun an extra turn this game, take an extra turn after this one.
+    neighbors: EOE Nexus of Fate 52.9% (n=924); MSH Kang the Conqueror 61.9% (n=4710); TLA The Legend of Kuruk 66.7% (n=9494); FIN Ultimecia, Time Sorceress 55.5% (n=23898); EOE Specimen Freighter 56.5% (n=25638)
+
+#  64 [U] 57.23%  {4}{U} Hoshi Sato, Exolinguist  pi=-0.45 rem=0.00 ca=0.00
+    Legendary Creature — Human Scientist
+    Federation — When Hoshi Sato enters, look at the top X cards of your library, where X is the number of creature types among non-Borg creatures you control. Put one of them into your hand and the rest on the bottom of your library in a random order.
+    neighbors: FIN Ashe, Princess of Dalmasca 55.1% (n=19623); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FRA Yargle, Goliath of Otaria 45.5% (n=705); HOB Riddles in the Dark 51.3% (n=2419); EOE Pulsar Squadron Ace 55.6% (n=20735)
+
+#  65 [C] 54.86%  {4}{U}{U} Humpback Whales  pi=0.65 rem=0.00 ca=0.00
+    Creature — Whale
+    Vigilance, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.) | Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+    neighbors: HOB Lake-town Mariners 51.9% (n=5194); HOB Gandalf, Wandering Wizard 51.1% (n=6098); EOE Mouth of the Storm 58.6% (n=36448); FRA Wrecking Gecko 55.3% (n=15064); TMT Punk Frogs 51.4% (n=2177)
+
+#  66 [C] 56.25%  {4}{U} Interstellar Effigy  pi=0.37 rem=0.67 ca=0.00
+    Artifact Creature — Construct
+    When this creature enters, return target creature an opponent controls to its owner's hand.
+    neighbors: FRA Unsummon 58.0% (n=39461); FIN Eject 59.4% (n=52050); FIN Venser, Shaper Savant 58.5% (n=2135); TLA Boomerang Basics 56.8% (n=27940); SOS Cyclonic Rift 59.0% (n=1521)
+
+#  67 [U] 55.25%  {1}{U} Jett Reno, Problem Solver  pi=1.95 rem=0.00 ca=2.05
+    Legendary Creature — Human Artificer
+    Whenever Jett Reno becomes tapped, surveil 1. If her power is 4 or greater, instead draw a card. | Whenever you face a dilemma, put a +1/+1 counter on Jett Reno. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: TLA Azula Always Lies 55.4% (n=25956); ECL Perfect Intimidation 48.2% (n=1937); SOS Steal the Show 54.7% (n=6516); TMT Brilliance Unleashed 62.7% (n=17495); SOS Return the Favor 53.0% (n=6234)
+
+#  68 [M] 58.41%  {1}{U}{U} Kobayashi Maru Scenario  pi=3.86 rem=0.00 ca=3.20
+    Enchantment
+    At the beginning of your upkeep, choose one that hasn't been chosen — | • Hail — Return up to one target creature an opponent controls with mana value 3 or less to its owner's hand. | • Sensors — Draw two cards. | • Transport — Create two 1/1 red Officer creature tokens. | • Abandon Ship — You lose the game.
+    neighbors: FIN Dark Confidant 60.1% (n=5639); ECL Bitterblossom 57.7% (n=496); MSH Mister Hyde, Monster Within 56.1% (n=11351); ECL Bitterbloom Bearer 58.1% (n=4944); HOB Chief Warg's Company 62.4% (n=8000)
+
+#  69 [M] 57.58%  {2}{U} Lieutenant Commander Data  pi=0.94 rem=0.00 ca=1.60
+    Legendary Artifact Creature — Android Scientist
+    Whenever a player casts a noncreature spell, put a +1/+1 counter on Lieutenant Commander Data. | {1}, Remove three counters from among creatures you control: Draw a card.
+    neighbors: FRA Proft, Consulting Detective 58.2% (n=21717); FRA Geist of Saint Thalia 57.6% (n=16887); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FRA Yargle, Goliath of Otaria 45.5% (n=705); MSH Ironheart, Clever Champion 53.4% (n=3881)
+
+#  70 [R] 54.07%  {2}{U} Lt. Cmdr. Geordi La Forge  pi=-0.25 rem=0.00 ca=0.00
+    Legendary Creature — Human Artificer
+    If you would put one or more charge counters on an artifact you control, put twice that many charge counters on that artifact instead.
+    neighbors: FIN The Earth Crystal 47.7% (n=4519); FIN Sazh Katzroy 64.4% (n=14587); SOS Growth Curve 49.4% (n=2360); HOB Bard, King of Dale 52.8% (n=2506); EOE Loading Zone 40.7% (n=1230)
+
+#  71 [C] 54.87%  {3}{U} Make It So  pi=3.55 rem=0.00 ca=3.20
+    Sorcery
+    Choose one — | • Untap target permanent you control. Target player draws two cards. | • Create a 1/1 red Officer creature token and draw two cards.
+    neighbors: FRA Cruel Calculations 47.4% (n=405); FRA Sphinx's Approach 56.3% (n=13436); SOS Rapturous Moment 53.6% (n=13170); TMT Shredder's Revenge 55.8% (n=7302); FRA Cast Away Doubt 53.6% (n=9150)
+
+#  72 [C] 54.84%  {U} Marooned  pi=-0.15 rem=0.00 ca=0.00
+    Enchantment — Aura
+    Enchant artifact or creature | When this Aura enters, you may pay {3}. If you do, tap enchanted permanent. | Enchanted permanent doesn't untap during its controller's untap step and can't be beamed up.
+    neighbors: FRA Infinite Coursework 56.6% (n=36166); HOB Enchanted River's Grasp 55.6% (n=41489); MSH Frozen in Ice 58.0% (n=48838); EOE Tractor Beam 58.8% (n=35537); EOE Cryoshatter 56.6% (n=66624)
+
+#  73 [C] 53.39%  {2}{U} Melkotian Adjudicator  pi=-0.05 rem=0.00 ca=0.00
+    Creature — Melkotian Advisor
+    Flying, vigilance | Whenever you face a dilemma, put a +1/+1 counter on this creature. (You face a dilemma as you choose one or more modes for a spell or ability.)
+    neighbors: TLA Azula Always Lies 55.4% (n=25956); ECL Perfect Intimidation 48.2% (n=1937); SOS Steal the Show 54.7% (n=6516); TMT Brilliance Unleashed 62.7% (n=17495); SOS Return the Favor 53.0% (n=6234)
+
+#  74 [M] 58.70%  {2}{U}{U} Mr. Spock, Science Officer  pi=5.08 rem=0.00 ca=6.20
+    Legendary Creature — Vulcan Human Scientist
+    If you would draw a card, draw two cards instead.
+    neighbors: FRA Sphinx's Approach 56.3% (n=13436); FRA Cruel Calculations 47.4% (n=405); MSH Thirst for Knowledge 52.4% (n=4443); FRA Proft, Consulting Detective 58.2% (n=21717); ECL Thirst for Identity 53.6% (n=9942)
+
+#  75 [R] 56.90%  {2}{U} Nyota Uhura, Communications  pi=1.44 rem=0.00 ca=1.60
+    Legendary Creature — Human Officer
+    Hailing Frequencies — As Nyota Uhura enters, choose a number between 0 and 10. | Open a Channel — Whenever an opponent casts a spell with mana value equal to the chosen number, you draw a card.
+    neighbors: FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FRA Proft, Consulting Detective 58.2% (n=21717); FRA Yargle, Goliath of Otaria 45.5% (n=705); FIN Matoya, Archon Elder 52.6% (n=5086); FRA Karn, Argent Defender 46.6% (n=466)
+
+#  76 [C] 55.93%  {U} Open Communications  pi=2.14 rem=0.00 ca=1.60
+    Sorcery
+    Draw a card. | Beam me up {2}{U} (You may cast this card from your graveyard for {2}{U} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FIN Resentful Revelation 58.4% (n=77766); FIN Sorceress's Schemes 58.6% (n=25731); SOS Duel Tactics 55.8% (n=10226); FIN Laughing Mad 54.1% (n=24768); HOB Plunder the Trollshaws 58.5% (n=50977)
+
+#  77 [R] 56.01%  {1}{U} Romulan Bird-of-Prey  pi=0.35 rem=0.00 ca=0.00
+    Artifact — Spacecraft
+    Cloaking Device — As long as this Spacecraft isn't a creature, it has hexproof. | Whenever you cast a noncreature spell, if this Spacecraft isn't a creature, put two charge counters on it. | Station | 8+ | Flying
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Specimen Freighter 56.5% (n=25638); EOE Rescue Skiff 53.0% (n=11552); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Synthesizer Labship 59.9% (n=12995)
+
+#  78 [U] 55.79%  {3}{U}{U} Rules of Acquisition  pi=4.67 rem=0.00 ca=4.80
+    Sorcery
+    Choose one — | • Follow the 3rd Rule — Gain control of target nonland permanent an opponent controls. That opponent draws three cards. | • Follow the 98th Rule — Target opponent gains control of target nonland permanent you control. If they do, you draw three cards.
+    neighbors: FIN Stolen Uniform 42.6% (n=216); MSH Evil's Thrall 53.2% (n=1469); FIN Unexpected Request 53.4% (n=4890); TLA Agent of Treachery 64.5% (n=543); EOE Mutinous Massacre 60.4% (n=9296)
+
+#  79 [M] 59.03%  {1}{U}{U} Scotty, Miracle Worker  pi=0.45 rem=0.00 ca=0.00
+    Legendary Creature — Human Artificer
+    During your main phase, each card in your graveyard has beam me up. The beam me up cost is equal to that spell's mana cost. Scotty can't be beamed up to cast a spell this way. (Only instant and sorcery spells can be cast this way. You may cast a card from your graveyard for its beam me up cost if you also return another creature you control to its owner's hand. Then exile that spell.)
+    neighbors: HOB Bilbo, Thief in the Night 58.6% (n=3914); FIN Resentful Revelation 58.4% (n=77766); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FIN Sorceress's Schemes 58.6% (n=25731); SOS Flashback 54.7% (n=8547)
+
+#  80 [M] 58.64%  {1}{U} Seven of Nine, Unassimilated  pi=1.44 rem=0.00 ca=1.60
+    Legendary Artifact Creature — Human Officer
+    At the beginning of your first main phase, draw a card. Then discard a card unless you control five or more differently named lands. | {6}{U}: Seven of Nine's base power and toughness become 7/9. Activate only if you control seven or more differently named lands.
+    neighbors: EOE All-Fates Scroll 54.9% (n=17530); SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Survey Mechan 56.2% (n=20765); EOE Fungal Colossus 55.7% (n=28103); FRA Samut, Tyrant of Naktamun 46.4% (n=1227)
+
+#  81 [C] 54.19%  {1}{U} Starfleet Spanner Jockey  pi=0.50 rem=0.00 ca=0.00
+    Creature — Human Artificer
+    Defender | As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender.
+    neighbors: EOE Mechan Shieldmate 53.2% (n=23803); FRA Surveillance Phantasm 58.0% (n=42066); EOE Monoist Sentry 53.6% (n=11390); MSH Hydraulic Helper 55.0% (n=15667); TLA Platypus-Bear 53.5% (n=22277)
+
+#  82 [R] 58.76%  {2}{U} Subcommander T'Pol  pi=2.86 rem=2.54 ca=0.00
+    Legendary Creature — Vulcan Scientist
+    Flash | When Subcommander T'Pol enters, choose one — | • Counter target activated or triggered ability. | • Tap up to one target artifact or creature. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+    neighbors: FRA Hapatra, the Desert Frost 53.6% (n=8850); TLA Rowdy Snowballers 51.9% (n=19926); TMT Utrom Scientists 54.4% (n=12914); FRA Cryotheory Adept 54.1% (n=13992); FIN Omega, Heartless Evolution 58.4% (n=28131)
+
+#  83 [C] 55.52%  {2}{U} Suurok-Class Science Vessel  pi=2.34 rem=0.00 ca=1.60
+    Artifact — Spacecraft
+    When this Spacecraft enters, draw a card. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 5+.) | 5+ | Flying
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Wurmwall Sweeper 54.0% (n=32932); EOE Galvanizing Sawship 49.9% (n=10812); EOE Pinnacle Kill-Ship 57.0% (n=57550); EOE Specimen Freighter 56.5% (n=25638)
+
+#  84 [C] 54.57%  {2}{U} Suus Mahna Practitioner  pi=0.34 rem=0.69 ca=0.00
+    Creature — Vulcan Officer
+    Strange new worlds — {4}{U}, {T}: Tap target creature. This ability costs {X} less to activate, where X is the number of differently named lands you control.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); MSH Raft Security Officer 57.9% (n=52803)
+
+#  85 [U] 53.64%  {1}{U} Test of Priorities  pi=4.75 rem=2.53 ca=2.50
+    Instant
+    Choose one — | • Power to Engines — Surveil 2, then draw a card. | • Power to Life Support — Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+    neighbors: FRA Vindictive Triumph 55.4% (n=3035); FIN Y'shtola Rhul 56.7% (n=5517); HOB Elrond, Moon-Reader 51.5% (n=1817); TLA Airbender Ascension 53.6% (n=8103); TMT Koya, Death from Above 59.3% (n=13182)
+
+#  86 [U] 56.60%  {2}{U} Those Old Scientists  pi=4.32 rem=0.00 ca=4.80
+    Enchantment — Saga
+    (As this Saga enters and after your draw | step, add a lore counter. Sacrifice after III.) | I — Draw two cards, then discard two cards. | II — Return up to one target artifact, instant, or sorcery card from your graveyard to your hand. | III — Choose up to two target cards in graveyards. The owners of those cards shuffle them into their libraries.
+    neighbors: MSH Rewrite History 49.1% (n=2689); HOB The Mountain-king's Return 61.1% (n=29924); TMT Does Machines 61.3% (n=5146); FIN Summon: G.F. Ifrit 51.4% (n=30194); FIN Summon: Esper Ramuh 53.1% (n=17307)
+
+#  87 [U] 53.66%  {6}{U} V'Ger, the Intruder  pi=0.54 rem=0.00 ca=1.60
+    Legendary Artifact Creature — Construct
+    Flying | Whenever V'Ger enters or attacks, choose one — | • Look at target opponent's hand, then draw a card. | • Creatures your opponents control get -1/-0 until your next turn.
+    neighbors: TLA Appa, Loyal Sky Bison 53.2% (n=9894); FRA Yargle, Goliath of Otaria 45.5% (n=705); MSH Attuma, Atlantean Warlord 54.9% (n=9240); FIN Ultima, Origin of Oblivion 53.6% (n=8060); FRA Proft, Consulting Detective 58.2% (n=21717)
+
+#  88 [U] 54.42%  {U} Vulcan Mind-Meld  pi=0.00 rem=0.00 ca=0.00
+    Sorcery
+    Target opponent looks at the top card of your library, then exiles it face down. You look at the top two cards of their library, then exile them face down. For each card exiled this way, the player who exiled it may play it for as long as it remains exiled. Mana of any type can be spent to cast spells this way.
+    neighbors: FRA Samut, Tyrant of Naktamun 46.4% (n=1227); MSH Hex Magic 45.5% (n=875); FRA Null Summoner 63.2% (n=9579); TLA Avatar's Wrath 54.6% (n=6720); FRA Extrapolate the Impossible 51.8% (n=307)
+
+#  89 [R] 63.35%  {2}{U}{U} Wesley Crusher, Starfleet Cadet  pi=1.91 rem=1.60 ca=0.00
+    Legendary Creature — Human Officer
+    Flash | When Wesley Crusher enters, choose two — | • Counter target noncreature spell unless its controller pays {2}. | • Return target creature with mana value 2 or less to its owner's hand. | • Target creature can't be blocked this turn. | • Target player draws two cards, then discards two cards.
+    neighbors: FIN Cryptic Command 64.1% (n=2259); ECL Run Away Together 52.1% (n=13470); FIN Venser, Shaper Savant 58.5% (n=2135); ECL Grub's Command 62.5% (n=8632); FRA Unsummon 58.0% (n=39461)
+
+#  90 [U] 55.04%  {2}{U} Zefram Cochrane, Warp Pioneer  pi=-0.25 rem=0.00 ca=0.00
+    Legendary Creature — Human Pilot
+    You may look at the top card of your library any time. | Once during each of your turns, you may cast an artifact spell from the top of your library. | Spacecraft you control enter with two additional charge counters on them.
+    neighbors: FRA Proft, Consulting Detective 58.2% (n=21717); FRA Yargle, Goliath of Otaria 45.5% (n=705); FRA Samut, Tyrant of Naktamun 46.4% (n=1227); FIN Traveling Chocobo 59.6% (n=5702); EOE Drill Too Deep 49.4% (n=2484)
+
+# 284 [U] 55.15%   Gaseous Anomaly  pi=3.23 rem=0.00 ca=3.20
+    Land
+    {T}: Add {C}. | {5}{U}, {T}, Sacrifice this land: Draw two cards. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: FIN Blitzball 51.2% (n=35443); FIN Torgal, A Fine Hound 58.7% (n=35473); FRA Murmuring Volume 57.2% (n=26203); TLA Bender's Waterskin 54.0% (n=15166); TLA Hermitic Herbalist 57.4% (n=17850)
+
+# 287 [R] 58.36%   Ni'Var Science Academy  pi=1.31 rem=0.00 ca=0.45
+    Land
+    This land enters tapped unless you control two or more other lands. | When this land enters untapped, choose one — | • Target creature gains flying until end of turn. | • Surveil 1. | {T}: Add {U}.
+    neighbors: FRA Shipwreck Marsh 58.4% (n=6354); FRA Theorist's Sanctum 59.0% (n=8728); FRA Deserted Beach 56.6% (n=4404); TLA Abandoned Air Temple 61.6% (n=14069); TLA Realm of Koh 57.6% (n=10656)
+
+# 308 [C] 56.00%   Island  pi=0.15 rem=0.00 ca=0.00
+    Basic Land — Island
+    ({T}: Add {U}.)
+    neighbors: FRA Island 56.2% (n=163459); MSH Swamp 55.2% (n=139622); FIN Swamp 55.8% (n=377067); HOB Island 55.2% (n=112333); FIN Mountain 56.1% (n=314551)
+
+# 230 [U] 57.27%  {3}{W/U}{W/U} Constable Odo  pi=3.16 rem=0.89 ca=2.50
+    Legendary Creature — Shapeshifter Detective
+    When Constable Odo enters, choose one — | • Tap target creature an opponent controls. Put two stun counters on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) | • Investigate twice. (To investigate, create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+    neighbors: FRA Hapatra, the Desert Frost 53.6% (n=8850); TLA Rowdy Snowballers 51.9% (n=19926); FIN Omega, Heartless Evolution 58.4% (n=28131); SOS Fractal Mascot 54.6% (n=24984); TMT Utrom Scientists 54.4% (n=12914)
+
+# 239 [U] 56.67%  {W}{U} Hemmer, Fixing What Is Broken  pi=2.81 rem=0.00 ca=2.40
+    Legendary Creature — Aenar Artificer
+    During your turn, Spacecraft you control have hexproof. (They can't be the targets of spells or abilities your opponents control.) | Whenever Hemmer becomes tapped, draw a card, then discard a card.
+    neighbors: MSH Trickster's Stratagem 60.7% (n=62741); HOB Celebrate the Mountain-king 62.2% (n=30687); MSH Patriot, Shield Wielder 57.8% (n=22139); HOB The Queen of Dale 59.5% (n=3858); FRA Teyo, Lightshield Expert 56.6% (n=12607)
+
+# 244 [R] 53.51%  {5}{W}{U} Live Long and Prosper  pi=-1.10 rem=0.00 ca=0.00
+    Sorcery
+    This spell can't be countered. | Double your life total. Draw cards equal to the number of cards in your hand. You have no maximum hand size until your next turn.
+    neighbors: EOE Space-Time Anomaly 53.5% (n=3139); EOE Beyond the Quiet 59.2% (n=9304); FIN Ultima 55.6% (n=7286); TLA Avatar's Wrath 54.6% (n=6720); TLA Destined Confrontation 46.3% (n=1962)
+
+# 286 [R] 54.81%   Hallowed Fountain  pi=1.95 rem=0.00 ca=0.00
+    Land — Plains Island
+    ({T}: Add {W} or {U}.) | As this land enters, you may pay 2 life. If you don't, it enters tapped.
+    neighbors: EOE Godless Shrine 54.8% (n=5654); EOE Sacred Foundry 52.3% (n=4167); EOE Watery Grave 55.2% (n=8369); ECL Hallowed Fountain 53.3% (n=6409); EOE Breeding Pool 56.8% (n=8916)
+
+# 305 [C] 56.88%   Vulcan  pi=1.45 rem=0.00 ca=0.00
+    Land — Planet
+    This land enters tapped. | When this land enters, you gain 1 life. | {T}: Add {W} or {U}.
+    neighbors: MSH Avengers Hangar 57.8% (n=25337); MSH Fisk Tower 56.4% (n=16729); MSH A.I.M. Labs 56.2% (n=17474); MSH Asgardian Citadel 56.6% (n=16462); MSH Stark Industries 56.3% (n=16748)
+
+#   1 [U] 56.27%  {1}{W} 70,000 Light-Years from Home  pi=1.92 rem=2.26 ca=0.00
+    Sorcery
+    Exile target creature or Spacecraft. Its controller may search their library for a basic land card, reveal it, put it into their hand, then shuffle.
+    neighbors: EOE Gravkill 56.4% (n=61832); FRA Refute Destiny 53.6% (n=1137); SOS Suspend Aggression 58.3% (n=12788); ECL Crib Swap 50.4% (n=4940); SOS Wander Off 56.1% (n=46808)
+
+#   2 [C] 56.87%  {2}{W} Andromedan Automatons  pi=0.05 rem=0.00 ca=0.00
+    Artifact Creature — Android
+    When this creature enters, you may search your library for any number of cards named Andromedan Automatons, reveal them, put them into your hand, then shuffle.
+    neighbors: MSH Wakandan Drone Flock 57.8% (n=33636); SOS Biblioplex Tomekeeper 45.6% (n=1094); FIN Delivery Moogle 60.1% (n=34413); HOB Wood Elves 54.0% (n=17064); FIN Coeurl 54.3% (n=26081)
+
+#   3 [R] 58.92%  {1}{W} Antagonist Incorporator  pi=0.57 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Artifact creatures you control have "Whenever this creature deals combat damage to a player, you may pay {1}. If you do, create a 1/1 colorless Borg artifact creature token."
+    neighbors: EOE Emissary Escort 57.4% (n=10884); FRA Tenured Tethermage 58.9% (n=5571); EOE Mm'menon, the Right Hand 50.8% (n=7228); FRA Pia, Determined Rebuilder 57.7% (n=14896); FIN G'raha Tia 54.2% (n=21324)
+
+#   4 [U] 59.61%  {1}{W} Assembly Specialist  pi=0.37 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    When this creature enters, create a 1/1 colorless Borg artifact creature token.
+    neighbors: TMT Mechanized Ninja Cavalry 59.3% (n=29943); TLA Kyoshi Warriors 57.3% (n=57956); TLA Invasion Reinforcements 57.8% (n=24706); EOE Honored Knight-Captain 56.6% (n=20989); MSH S.H.I.E.L.D. Deployment Drone 60.0% (n=61121)
+
+#   5 [U] 56.19%  {1}{W} Brad Boimler, Eager Ensign  pi=0.17 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    Lifelink | Whenever Brad Boimler becomes tapped, until end of turn, if one or more counters would be put on a permanent you control, that many plus one of each of those kinds of counters are put on that permanent instead.
+    neighbors: FIN Adelbert Steiner 58.9% (n=29099); FIN Stiltzkin, Moogle Merchant 53.3% (n=6087); MSH Night Nurse, Healer of Heroes 57.8% (n=23669); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); FIN Garnet, Princess of Alexandria 56.1% (n=12120)
+
+#   6 [R] 60.10%  {1}{W} Captain Benjamin Sisko  pi=1.94 rem=0.00 ca=1.80
+    Legendary Creature — Human Officer
+    At the beginning of your end step, create a 1/1 red Officer creature token for each dilemma you've faced this turn. | {2}{W}{U}{B}{R}{G}, {T}: Exile the top five cards of your library. You may cast any number of spells with mana value less than or equal to the number of Officers you control from among those cards without paying their mana costs.
+    neighbors: ECL Bre of Clan Stoutarm 56.3% (n=7728); FIN Gix, Yawgmoth Praetor 58.5% (n=1789); MSH Dauthi Voidwalker 60.2% (n=304); MSH Baron Helmut Zemo 53.5% (n=2293); ECL Maralen, Fae Ascendant 60.9% (n=9377)
+
+#   7 [M] 60.69%  {2}{W} Captain Jean-Luc Picard  pi=0.47 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    Other creatures you control get +1/+1. | Whenever you cast a creature or Spacecraft spell, create a 1/1 red Officer creature token. | Tap seven untapped Officers you control: Search your library for a Spacecraft card, put it onto the battlefield with seven charge counters on it, then shuffle.
+    neighbors: MSH Black Panther, Vanguard 56.1% (n=13194); HOB Fíli the Pathfinder 66.3% (n=9687); TLA Water Tribe Captain 56.5% (n=48770); HOB The Arkenstone 60.3% (n=5032); FRA Shatterwing Pegasus 54.4% (n=14372)
+
+#   8 [C] 57.42%  {1}{W} Command Decision  pi=3.27 rem=1.74 ca=1.60
+    Sorcery
+    Choose one — | • Destroy target creature with power 4 or greater. | • Draw a card.
+    neighbors: FRA Surgical Precision 58.0% (n=30761); SOS Stand Up for Yourself 57.7% (n=26950); TLA Heartless Act 60.1% (n=25795); FRA Prophesied End 56.4% (n=13625); SOS Repel Calamity 59.5% (n=32626)
+
+#   9 [U] 56.63%  {W} Command Subadjunct  pi=0.25 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Artifact creatures you control have vigilance.
+    neighbors: EOE Emissary Escort 57.4% (n=10884); FIN G'raha Tia 54.2% (n=21324); FRA Tenured Tethermage 58.9% (n=5571); EOE Mm'menon, the Right Hand 50.8% (n=7228); EOE Monoist Circuit-Feeder 59.5% (n=31571)
+
+#  10 [U] 54.18%  {2}{W} Conquest Mission  pi=0.32 rem=0.00 ca=0.00
+    Enchantment
+    Whenever a nontoken artifact you control enters, put a quest counter on this enchantment. Create a 1/1 colorless Borg artifact creature token. If this enchantment has six or more quest counters on it, create two of those tokens instead.
+    neighbors: MSH Political Triumph 59.5% (n=20694); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); EOE Station Monitor 59.0% (n=22245); TLA Southern Air Temple 51.4% (n=5978); TLA Firebender Ascension 52.9% (n=7015)
+
+#  11 [R] 57.92%  {1}{W} Deanna Troi, Psychic Counsel  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Betazoid Human Advisor
+    Other creatures you control enter with an additional +1/+1 counter on them.
+    neighbors: MSH Agent Maria Hill 60.1% (n=21572); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); MSH Agent Phil Coulson 64.3% (n=10106); FRA Karn, Argent Defender 46.6% (n=466); FRA Tomik, Orzhov Lawmage 54.8% (n=11502)
+
+#  12 [C] 54.28%  {3}{W} DOT-7 Repair Squad  pi=0.36 rem=0.60 ca=0.00
+    Artifact Creature — Robot
+    Flying | {1}{W}: Untap target creature. Activate only as a sorcery and only once each turn.
+    neighbors: TMT High-Flying Ace 55.4% (n=11442); MSH Raft Security Officer 57.9% (n=52803); FRA Rescue Girl, First Responder 53.2% (n=11586); MSH Powerful Broker 52.4% (n=6507); HOB Vow to Erebor 52.3% (n=6672)
+
+#  13 [M] 56.79%  {2}{W} Dr. Beverly Crusher  pi=-0.50 rem=0.00 ca=0.00
+    Legendary Creature — Human Doctor
+    If you gaining life causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. | Whenever you gain life, put a +1/+1 counter on Dr. Crusher.
+    neighbors: HOB Belladonna Took 52.5% (n=4046); FRA Lyra, Archangel of Dawn 60.1% (n=5320); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); FRA Massacre Girl, Most Wanted 50.4% (n=7316); MSH Agent Maria Hill 60.1% (n=21572)
+
+#  14 [U] 56.19%  {2}{W}{W} Dr. McCoy, Surly Surgeon  pi=0.05 rem=0.00 ca=0.00
+    Legendary Creature — Human Doctor
+    When Dr. McCoy enters, put a +1/+1 counter on another target creature you control. | If another creature you control with a +1/+1 counter on it would be destroyed, instead remove all +1/+1 counters from it and all damage already dealt to it is healed.
+    neighbors: FRA Yoshimaru, Beloved Companion 50.3% (n=6762); EOE Luxknight Breacher 51.9% (n=11468); FRA Tomik, Orzhov Lawmage 54.8% (n=11502); FRA Mabel, Valley Hero 51.0% (n=5343); MSH Agent Maria Hill 60.1% (n=21572)
+
+#  15 [C] 56.49%  {W} Emergency Medical Hologram  pi=0.80 rem=0.00 ca=0.00
+    Artifact Creature — Illusion Doctor
+    When this creature enters, put a +1/+1 counter on target creature. You gain 1 life.
+    neighbors: TLA Jeong Jeong's Deserters 56.5% (n=56367); MSH Hero in Training 60.6% (n=63381); FRA Lyra, Archangel of Dawn 60.1% (n=5320); EOE Dockworker Drone 54.8% (n=43687); EOE Chrome Companion 53.2% (n=20305)
+
+#  16 [M] 61.89%  {5}{W} Excalbian Gamemaster  pi=0.50 rem=0.00 ca=0.00
+    Creature — Excalbian
+    Strange new worlds — When this creature enters, create X 1/1 red Officer creature tokens, where X is the number of differently named lands you control. | Whenever this creature or another creature you control dies, put a +1/+1 counter on target creature you control.
+    neighbors: SOS Emil, Vastlands Roamer 53.7% (n=15692); EOE Fungal Colossus 55.7% (n=28103); EOE Survey Mechan 56.2% (n=20765); EOE All-Fates Scroll 54.9% (n=17530); TMT Sally Pride, Lioness Leader 69.9% (n=5402)
+
+#  17 [C] 55.26%  {3}{W} Federation Field Medic  pi=2.09 rem=0.00 ca=1.60
+    Creature — Human Doctor
+    Vigilance | When this creature enters, choose one — | • Put a +1/+1 counter on target creature. It gains vigilance until end of turn. | • Draw a card if you control a permanent with a counter on it.
+    neighbors: MSH Wakandan Royal Guard 56.2% (n=18603); TMT Action News Crew 54.8% (n=16064); EOE Blade of the Swarm 53.6% (n=4037); TLA Earth Kingdom Soldier 56.0% (n=25459); EOE Luxknight Breacher 51.9% (n=11468)
+
+#  18 [R] 57.32%  {1}{W} Federation Resupply  pi=0.70 rem=0.00 ca=0.00
+    Sorcery
+    Search your library for an Aura, Equipment, or Spacecraft card, reveal it, put it into your hand, then shuffle. | Beam me up {3}{W} (You may cast this card from your graveyard for {3}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FRA Predictive Preparations 49.6% (n=4894); FRA Generous Revival 57.3% (n=10907); HOB Moment of Glory 51.9% (n=7419); TLA Avatar's Wrath 54.6% (n=6720); FIN Auron's Inspiration 52.8% (n=6553)
+
+#  19 [C] 57.56%  {3}{W}{W} Free Borg Revolutionaries  pi=1.20 rem=0.00 ca=0.00
+    Artifact Creature — Borg Rebel
+    When this creature enters, creatures you control get +1/+1 until end of turn. | Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+    neighbors: FRA Shatterwing Pegasus 54.4% (n=14372); TLA Water Tribe Captain 56.5% (n=48770); HOB Dwarven Provisioner 55.6% (n=34547); HOB The Arkenstone 60.3% (n=5032); ECL Timid Shieldbearer 55.4% (n=40325)
+
+#  20 [U] 56.63%  {3}{W} Ghost of Illyria  pi=0.40 rem=0.00 ca=0.00
+    Creature — Elemental Spirit
+    Flying | When this creature enters, exile up to one other target nonland permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+    neighbors: TMT Koya, Death from Above 59.3% (n=13182); SOS Ennis, Debate Moderator 51.5% (n=10679); TLA Airbender Ascension 53.6% (n=8103); MSH The Mind Stone 55.6% (n=3438); MSH Wiccan, Rising Magician 56.2% (n=13919)
+
+#  21 [U] 56.58%  {2}{W} Hologram Janeway  pi=0.00 rem=0.00 ca=0.00
+    Legendary Artifact Creature — Illusion Officer
+    Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on target creature.
+    neighbors: MSH Agent Maria Hill 60.1% (n=21572); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); EOE Haliya, Ascendant Cadet 55.4% (n=14461); HOB Wilderland Scrounger 52.3% (n=8813); FRA Tomik, Orzhov Lawmage 54.8% (n=11502)
+
+#  22 [C] 57.11%  {2}{W} Malfunctioning Holodeck  pi=3.80 rem=3.35 ca=0.00
+    Artifact
+    Ward {2} (Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.) | When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.
+    neighbors: FIN White Auracite 59.6% (n=76890); MSH Web Up 59.8% (n=54996); EOE Banishing Light 58.2% (n=57627); FRA Memory Trap 56.9% (n=32048); FRA Solitary Cell 50.6% (n=1865)
+
+#  23 [U] 57.45%  {2}{W} The Measure of a Man  pi=2.25 rem=0.00 ca=2.50
+    Enchantment — Saga
+    (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) | I — Exile up to one target nontoken artifact or creature. | II — Investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.") | III — Return the exiled card to the battlefield under its owner's control. You gain 2 life.
+    neighbors: MSH Agent 13, Sharon Carter 59.4% (n=24984); TLA Air Nomad Legacy 55.4% (n=10792); MSH Panther Pounce 54.4% (n=11498); MSH Origin of the Avengers 58.3% (n=8168); TLA Tolls of War 58.1% (n=14695)
+
+#  24 [R] 59.23%  {2}{W} Miles O'Brien, Transporter Ops  pi=1.99 rem=0.00 ca=1.60
+    Legendary Creature — Human Artificer
+    When Miles O'Brien enters, return up to one other target creature or artifact you control to its owner's hand. | At the beginning of each end step, if a permanent was returned to your hand from the battlefield this turn, draw a card.
+    neighbors: FRA Flickering Hound 47.7% (n=1661); FIN Zell Dincht 55.7% (n=6056); MSH The Mighty Thor, Jane Foster 60.6% (n=9973); FRA Jiang Yanggu, Never Alone 56.3% (n=14410); EOE Exosuit Savior 53.1% (n=25314)
+
+#  25 [R] 55.05%  {1}{W} The Needs of the Many  pi=0.00 rem=0.00 ca=0.00
+    Instant
+    As an additional cost to cast this spell, sacrifice a creature. | Creatures you control gain hexproof and indestructible until end of turn. You gain hexproof until end of turn. Prevent all damage that would be dealt to you this turn. Exile The Needs of the Many.
+    neighbors: TLA Razor Rings 56.4% (n=45647); TLA Fancy Footwork 54.2% (n=12075); FIN Ultima 55.6% (n=7286); TMT Turtles Forever 51.4% (n=516); FRA Break Under Pressure 60.4% (n=21777)
+
+#  26 [C] 57.10%  {1}{W} Oberth-Class Starship  pi=0.90 rem=0.00 ca=0.00
+    Artifact — Spacecraft
+    When this Spacecraft enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.) | 6+ | Flying
+    neighbors: EOE Susurian Dirgecraft 54.7% (n=15660); EOE Rescue Skiff 53.0% (n=11552); EOE Sledge-Class Seedship 56.7% (n=7918); EOE Wurmwall Sweeper 54.0% (n=32932); EOE Pinnacle Kill-Ship 57.0% (n=57550)
+
+#  27 [R] 53.92%  {3}{W} Peace in Our Time  pi=1.44 rem=0.00 ca=1.60
+    Enchantment
+    At the beginning of combat on each player's turn, that player may draw a card. If they do, they can't attack this turn and you put a peace counter on this enchantment. | At the beginning of your upkeep, if this enchantment has twelve or more peace counters on it, you win the game.
+    neighbors: FRA Fblthp, Impossibly Lost 58.3% (n=20799); FIN Laboratory Maniac 49.1% (n=1038); FIN Zenos yae Galvus 59.4% (n=13959); MSH Mister Hyde, Monster Within 56.1% (n=11351); FIN Dark Confidant 60.1% (n=5639)
+
+#  28 [C] 55.05%  {2}{W} Pet Sehlat  pi=0.25 rem=0.00 ca=0.00
+    Creature — Bear
+    This creature can't attack alone.
+    neighbors: FIN Coeurl 54.3% (n=26081); HOB Ordinary Bear 54.8% (n=14617); EOE Beyond the Quiet 59.2% (n=9304); FRA Yargle, Glutton of Urborg 47.7% (n=306); EOE Luxknight Breacher 51.9% (n=11468)
+
+#  29 [U] 56.68%  {1}{W} Picard, Leading by Example  pi=0.00 rem=0.00 ca=0.00
+    Legendary Creature — Human Officer
+    {1}, {T}: Another target creature gets +X/+X until end of turn, where X is Picard's power. Activate only as a sorcery.
+    neighbors: TMT High-Flying Ace 55.4% (n=11442); EOE Zookeeper Mechan 56.4% (n=56981); FRA Rescue Girl, First Responder 53.2% (n=11586); MSH Powerful Broker 52.4% (n=6507); HOB Desolation Prowler 61.2% (n=30018)
+
+#  30 [R] 56.52%  {3}{W} Primary Unimatrix Adjunct  pi=-0.40 rem=0.00 ca=0.00
+    Artifact Creature — Borg
+    Artifact creatures you control have double strike.
+    neighbors: EOE Emissary Escort 57.4% (n=10884); EOE Mm'menon, the Right Hand 50.8% (n=7228); FIN G'raha Tia 54.2% (n=21324); FRA Tenured Tethermage 58.9% (n=5571); FRA Yuriko, Blade of the Mighty 54.6% (n=5776)
+
+#  31 [C] 56.43%  {1}{W} Pure Energy  pi=0.70 rem=0.00 ca=0.00
+    Sorcery
+    Distribute two +1/+1 counters among one or two target creatures. | Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FRA Predictive Preparations 49.6% (n=4894); HOB Moment of Glory 51.9% (n=7419); FRA Generous Revival 57.3% (n=10907); FIN Auron's Inspiration 52.8% (n=6553); FIN Resentful Revelation 58.4% (n=77766)
+
+#  32 [U] 58.59%  {2}{W} Rutherford, Upgraded Ensign  pi=0.55 rem=0.00 ca=0.00
+    Legendary Creature — Human Artificer
+    When Rutherford enters, look at the top six cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. | Whenever you cast a Spacecraft spell, put a +1/+1 counter on target creature.
+    neighbors: EOE Pulsar Squadron Ace 55.6% (n=20735); FIN Ashe, Princess of Dalmasca 55.1% (n=19623); TMT Casey Jones, Jury-Rig Justiciar 62.6% (n=13482); TLA Guru Pathik 58.1% (n=24012); MSH Colleen Wing, Street Samurai 55.7% (n=10796)
+
+#  33 [U] 57.82%  {4}{W} Saavik, Stoic Student  pi=-0.14 rem=0.61 ca=0.00
+    Legendary Creature — Vulcan Advisor
+    Flash | Federation — When Saavik enters, she deals X damage to target attacking or blocking creature an opponent controls, where X is the number of creature types among non-Borg creatures you control.
+    neighbors: MSH Night Nurse, Healer of Heroes 57.8% (n=23669); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); MSH Iron Fist, Living Weapon 51.0% (n=3745); EOE Focus Fire 57.3% (n=51434); FIN Slash of Light 57.0% (n=60163)
+
+#  34 [C] 55.38%  {W} Set Phasers to . . .  pi=3.20 rem=3.35 ca=0.00
+    Instant
+    Choose one — | • Stun — Tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.) | • Kill — This spell deals 3 damage to target attacking creature.
+    neighbors: SOS Rapier Wit 54.3% (n=16865); TLA Rowdy Snowballers 51.9% (n=19926); TMT Utrom Scientists 54.4% (n=12914); FRA Hapatra, the Desert Frost 53.6% (n=8850); ECL Loch Mare 62.1% (n=7227)
+
+#  35 [C] 56.13%  {1}{W} Shields Up!  pi=0.40 rem=0.00 ca=0.00
+    Instant
+    Target artifact or creature you control gains hexproof and indestructible until end of turn. If it's a creature, put a +1/+1 counter on it. (It can't be the target of spells or abilities your opponents control. Damage and effects that say "destroy" don't destroy it.)
+    neighbors: FRA Teyo, Lightshield Expert 56.6% (n=12607); MSH Patriot, Shield Wielder 57.8% (n=22139); TLA Octopus Form 57.8% (n=62029); SOS Chase Inspiration 54.9% (n=13120); FIN Magic Damper 56.5% (n=29270)
+
+#  36 [C] 54.03%  {4}{W} Shuttle Ace  pi=-0.15 rem=0.00 ca=0.00
+    Creature — Kelpien Pilot
+    During your turn, this creature has flying. | Whenever this creature becomes tapped, you gain 2 life.
+    neighbors: ECL Wanderbrine Preacher 56.2% (n=42549); MSH Hero in Training 60.6% (n=63381); EOE Chrome Companion 53.2% (n=20305); TLA Compassionate Healer 57.7% (n=59848); FRA Lyra, Archangel of Dawn 60.1% (n=5320)
+
+#  37 [R] 57.07%  {1}{W} Sulu, Space Swashbuckler  pi=1.79 rem=0.00 ca=1.60
+    Legendary Creature — Human Pilot
+    First strike | Whenever Sulu becomes tapped, if an Equipment or Spacecraft entered the battlefield under your control this turn, draw a card.
+    neighbors: FRA Danitha, Sword of Hope 52.6% (n=4827); HOB Lake-town Toymaker 54.0% (n=9427); HOB Dwalin, Weaponmaster 59.3% (n=8259); HOB Nori, Teller of Tales 54.4% (n=29199); TLA Mai, Scornful Striker 54.3% (n=6105)
+
+#  38 [C] 55.99%  {1}{W} Tactical Officer  pi=-0.25 rem=0.00 ca=0.00
+    Creature — Human Officer
+    Whenever you attack while creatures you control have total power 8 or greater, put a +1/+1 counter on this creature. Untap it.
+    neighbors: EOE Luxknight Breacher 51.9% (n=11468); MSH Agent Maria Hill 60.1% (n=21572); TLA Avatar Enthusiasts 55.4% (n=39656); FRA Yoshimaru, Beloved Companion 50.3% (n=6762); EOE Sunstar Lightsmith 56.6% (n=24233)
+
+#  39 [U] 55.33%  {1}{W} Test of Conviction  pi=3.23 rem=0.00 ca=3.20
+    Sorcery
+    Choose one — | • Battle Stations — Put a +1/+1 counter on each creature you control. | • Begin Negotiations — Target opponent draws a card. You draw two cards.
+    neighbors: EOE Honor 56.4% (n=17922); MSH Political Triumph 59.5% (n=20694); MSH Agent Maria Hill 60.1% (n=21572); FRA Twisted Fates 57.8% (n=12185); EOE Sunstar Lightsmith 56.6% (n=24233)
+
+#  40 [U] 58.17%  {1}{W} There's Coffee in that Nebula  pi=0.70 rem=0.00 ca=0.00
+    Sorcery
+    Look at the top five cards of your library. You may reveal a Plains card or nonland permanent card with mana value 3 or less from among them and put it into your hand. Put the rest on the bottom in a random order. | Beam me up {2}{W} (You may cast this card from your graveyard for {2}{W} if you also return a creature you control to its owner's hand. Then exile this spell.)
+    neighbors: FRA Generous Revival 57.3% (n=10907); FIN Resentful Revelation 58.4% (n=77766); FRA Predictive Preparations 49.6% (n=4894); HOB Moment of Glory 51.9% (n=7419); FIN Auron's Inspiration 52.8% (n=6553)
+
+#  41 [R] 56.15%  {2}{W} Troubling Tribbles  pi=-1.25 rem=0.00 ca=0.00
+    Creature — Tribble
+    This creature can't block. | At the beginning of your upkeep, create a token that's a copy of this creature.
+    neighbors: FIN Dark Confidant 60.1% (n=5639); FRA Flesh Duplicate 57.3% (n=436); FRA Woodwork Prodigy 53.7% (n=12073); FRA Stingerquill Voxmancer 54.7% (n=9375); MSH Mister Hyde, Monster Within 56.1% (n=11351)
+
+#  42 [U] 54.92%  {4}{W} Una Chin-Riley, Number One  pi=0.10 rem=0.00 ca=0.00
+    Legendary Creature — Illyrian Officer
+    Whenever you attack while creatures you control have total power 8 or greater, target attacking creature gets +2/+0 and gains first strike until end of turn.
+    neighbors: HOB Lake-town Toymaker 54.0% (n=9427); HOB Nori, Teller of Tales 54.4% (n=29199); FRA Danitha, Sword of Hope 52.6% (n=4827); EOE Molecular Modifier 55.5% (n=16143); TLA Master Piandao 56.0% (n=17526)
+
+#  43 [M] 60.14%  {3}{W}{W} U.S.S. Enterprise-A, Free Spirit  pi=2.42 rem=0.00 ca=0.00
+    Legendary Artifact — Spacecraft
+    Ward {2} | When U.S.S. Enterprise-A enters, create three 1/1 red Officer creature tokens. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 6+.) | 6+ | Flying, lifelink
+    neighbors: EOE Wedgelight Rammer 54.8% (n=12819); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Rescue Skiff 53.0% (n=11552); EOE Pinnacle Kill-Ship 57.0% (n=57550); EOE Sledge-Class Seedship 56.7% (n=7918)
+
+#  44 [U] 55.99%  {3}{W} U.S.S. Excelsior, Cutting Edge  pi=1.95 rem=1.23 ca=0.00
+    Legendary Artifact — Spacecraft
+    When U.S.S. Excelsior enters, destroy target tapped creature an opponent controls. | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.) | 8+ | Flying
+    neighbors: EOE Rescue Skiff 53.0% (n=11552); EOE Susurian Dirgecraft 54.7% (n=15660); EOE Specimen Freighter 56.5% (n=25638); EOE Atmospheric Greenhouse 51.1% (n=12613); EOE Pinnacle Kill-Ship 57.0% (n=57550)
+
+#  45 [C] 57.06%  {1}{W} Vexing Drone  pi=1.27 rem=0.85 ca=0.00
+    Artifact Creature — Borg
+    When this creature enters, tap target creature an opponent controls.
+    neighbors: ECL Wanderbrine Trapper 60.0% (n=25852); MSH Spider-Woman, Secret Agent 59.7% (n=24779); MSH Raft Security Officer 57.9% (n=52803); HOB Vow to Erebor 52.3% (n=6672); FIN Tidus, Blitzball Star 51.8% (n=13303)
+
+# 282 [R] 56.88%   Federation Outpost  pi=0.96 rem=0.00 ca=0.45
+    Land
+    This land enters tapped unless you control two or more other lands. | When this land enters untapped, choose one — | • You gain 2 life. | • Surveil 1. | {T}: Add {W}.
+    neighbors: TLA Abandoned Air Temple 61.6% (n=14069); FRA Overgrown Farmland 53.8% (n=3344); FRA Deserted Beach 56.6% (n=4404); FRA Roiling Canopy 50.5% (n=901); FRA Vigorbloom Annex 54.2% (n=12604)
+
+# 300 [U] 56.15%   Subspace Anomaly  pi=0.98 rem=0.00 ca=0.00
+    Land
+    {T}: Add {C}. | {4}{W}, {T}, Sacrifice this land: Create two 1/1 red Officer creature tokens. Create a tapped Planet land token named New Planet with "{T}: Add one mana of any color."
+    neighbors: TLA Jasmine Dragon Tea Shop 57.2% (n=9716); ECL Springleaf Drum 50.5% (n=4752); FIN Torgal, A Fine Hound 58.7% (n=35473); TLA Great Divide Guide 62.8% (n=11894); TLA Bender's Waterskin 54.0% (n=15166)
+
+# 307 [C] 56.64%   Plains  pi=0.15 rem=0.00 ca=0.00
+    Basic Land — Plains
+    ({T}: Add {W}.)
+    neighbors: MSH Plains 57.4% (n=225461); EOE Plains 55.5% (n=214917); FRA Plains 55.3% (n=122325); FIN Plains 56.2% (n=296142); TLA Plains 56.8% (n=286198)
