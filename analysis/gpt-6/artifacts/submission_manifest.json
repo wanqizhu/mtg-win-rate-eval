@@ -1,0 +1,21 @@
+{
+  "model": "GPT-6 Astra",
+  "branch": "astra",
+  "target_set": "TRK",
+  "target_format": "PremierDraft",
+  "rate_units": "fraction: 0.5821 means 58.21%",
+  "prediction_rows": 311,
+  "unique_names": 311,
+  "all_printing_variants_collapsed": true,
+  "source_TRK_printings": 576,
+  "source_TRK_distinct_names": 311,
+  "source_SDS_distinct_names": 30,
+  "basic_lands_included": 5,
+  "qualitative_reviews": 311,
+  "manual_review_adjustments": 35,
+  "blend_human_weight": 0.35,
+  "minimum_prediction": 0.4563142875405035,
+  "maximum_prediction": 0.645770933805065,
+  "mean_prediction": 0.5604897386607938,
+  "submission_sha256": "3a9a3d663a4e9e7cd264597f19e6317f6cbc1db4d2c4a1de129f0599539bd0f6"
+}

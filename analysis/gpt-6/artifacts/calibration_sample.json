@@ -1,0 +1,482 @@
+[
+  {
+    "set": "FIN",
+    "name": "Cloud, Midgar Mercenary"
+  },
+  {
+    "set": "FIN",
+    "name": "Paladin's Arms"
+  },
+  {
+    "set": "FIN",
+    "name": "Slash of Light"
+  },
+  {
+    "set": "FIN",
+    "name": "Eject"
+  },
+  {
+    "set": "FIN",
+    "name": "Summon: Leviathan"
+  },
+  {
+    "set": "FIN",
+    "name": "Ninja's Blades"
+  },
+  {
+    "set": "FIN",
+    "name": "Resentful Revelation"
+  },
+  {
+    "set": "FIN",
+    "name": "Coral Sword"
+  },
+  {
+    "set": "FIN",
+    "name": "Raubahn, Bull of Ala Mhigo"
+  },
+  {
+    "set": "FIN",
+    "name": "Balamb T-Rexaur"
+  },
+  {
+    "set": "FIN",
+    "name": "Diamond Weapon"
+  },
+  {
+    "set": "FIN",
+    "name": "Black Waltz No. 3"
+  },
+  {
+    "set": "FIN",
+    "name": "Choco, Seeker of Paradise"
+  },
+  {
+    "set": "FIN",
+    "name": "Yuna, Hope of Spira"
+  },
+  {
+    "set": "FIN",
+    "name": "Adventurer's Airship"
+  },
+  {
+    "set": "TLA",
+    "name": "Aang's Journey"
+  },
+  {
+    "set": "TLA",
+    "name": "Appa, Loyal Sky Bison"
+  },
+  {
+    "set": "TLA",
+    "name": "Honest Work"
+  },
+  {
+    "set": "TLA",
+    "name": "Yue, the Moon Spirit"
+  },
+  {
+    "set": "TLA",
+    "name": "Azula Always Lies"
+  },
+  {
+    "set": "TLA",
+    "name": "Corrupt Court Official"
+  },
+  {
+    "set": "TLA",
+    "name": "Hog-Monkey"
+  },
+  {
+    "set": "TLA",
+    "name": "Koh, the Face Stealer"
+  },
+  {
+    "set": "TLA",
+    "name": "Mai, Scornful Striker"
+  },
+  {
+    "set": "TLA",
+    "name": "Rough Rhino Cavalry"
+  },
+  {
+    "set": "TLA",
+    "name": "Zhao, the Moon Slayer"
+  },
+  {
+    "set": "TLA",
+    "name": "Seismic Sense"
+  },
+  {
+    "set": "TLA",
+    "name": "Beifong's Bounty Hunters"
+  },
+  {
+    "set": "TLA",
+    "name": "Bumi, Unleashed"
+  },
+  {
+    "set": "TLA",
+    "name": "Guru Pathik"
+  },
+  {
+    "set": "ECL",
+    "name": "Appeal to Eirdu"
+  },
+  {
+    "set": "ECL",
+    "name": "Burdened Stoneback"
+  },
+  {
+    "set": "ECL",
+    "name": "Glen Elendra's Answer"
+  },
+  {
+    "set": "ECL",
+    "name": "Loch Mare"
+  },
+  {
+    "set": "ECL",
+    "name": "Thirst for Identity"
+  },
+  {
+    "set": "ECL",
+    "name": "Barbed Bloodletter"
+  },
+  {
+    "set": "ECL",
+    "name": "Gloom Ripper"
+  },
+  {
+    "set": "ECL",
+    "name": "Shimmercreep"
+  },
+  {
+    "set": "ECL",
+    "name": "Twilight Diviner"
+  },
+  {
+    "set": "ECL",
+    "name": "Great Forest Druid"
+  },
+  {
+    "set": "ECL",
+    "name": "Brigid's Command"
+  },
+  {
+    "set": "ECL",
+    "name": "Chaos Spewer"
+  },
+  {
+    "set": "ECL",
+    "name": "Eclipsed Kithkin"
+  },
+  {
+    "set": "ECL",
+    "name": "Stoic Grove-Guide"
+  },
+  {
+    "set": "ECL",
+    "name": "Trystan's Command"
+  },
+  {
+    "set": "TMT",
+    "name": "Leonardo, Leader in Blue"
+  },
+  {
+    "set": "TMT",
+    "name": "Lita, Little Orphan Amphibian"
+  },
+  {
+    "set": "TMT",
+    "name": "Turtles Forever"
+  },
+  {
+    "set": "TMT",
+    "name": "Buzz Bots"
+  },
+  {
+    "set": "TMT",
+    "name": "Mind Transfer Protocol"
+  },
+  {
+    "set": "TMT",
+    "name": "Return to the Sewers"
+  },
+  {
+    "set": "TMT",
+    "name": "Death in the Family"
+  },
+  {
+    "set": "TMT",
+    "name": "Null Group Biological Assets"
+  },
+  {
+    "set": "TMT",
+    "name": "Old Hob, Alleycat Blues"
+  },
+  {
+    "set": "TMT",
+    "name": "Michelangelo, Improviser"
+  },
+  {
+    "set": "TMT",
+    "name": "Mechanized Ninja Cavalry"
+  },
+  {
+    "set": "TMT",
+    "name": "Mikey & Don, Party Planners"
+  },
+  {
+    "set": "TMT",
+    "name": "Chrome Dome"
+  },
+  {
+    "set": "TMT",
+    "name": "Krang, Utrom Warlord"
+  },
+  {
+    "set": "TMT",
+    "name": "Turtle Van"
+  },
+  {
+    "set": "SOS",
+    "name": "Ajani's Response"
+  },
+  {
+    "set": "SOS",
+    "name": "Fractal Anomaly"
+  },
+  {
+    "set": "SOS",
+    "name": "Run Behind"
+  },
+  {
+    "set": "SOS",
+    "name": "Wisdom of Ages"
+  },
+  {
+    "set": "SOS",
+    "name": "Melancholic Poet"
+  },
+  {
+    "set": "SOS",
+    "name": "Wander Off"
+  },
+  {
+    "set": "SOS",
+    "name": "Withering Curse"
+  },
+  {
+    "set": "SOS",
+    "name": "Noxious Newt"
+  },
+  {
+    "set": "SOS",
+    "name": "Pestbrood Sloth"
+  },
+  {
+    "set": "SOS",
+    "name": "Topiary Lecturer"
+  },
+  {
+    "set": "SOS",
+    "name": "Berta, Wise Extrapolator"
+  },
+  {
+    "set": "SOS",
+    "name": "Lorehold, the Historian"
+  },
+  {
+    "set": "SOS",
+    "name": "Paradox Surveyor"
+  },
+  {
+    "set": "SOS",
+    "name": "Resonating Lute"
+  },
+  {
+    "set": "SOS",
+    "name": "Traumatic Critique"
+  },
+  {
+    "set": "MSH",
+    "name": "Crowd of True Believers"
+  },
+  {
+    "set": "MSH",
+    "name": "A.I.M. Scientists"
+  },
+  {
+    "set": "MSH",
+    "name": "Falcon, Winged Wonder"
+  },
+  {
+    "set": "MSH",
+    "name": "I Am Iron Man"
+  },
+  {
+    "set": "MSH",
+    "name": "Multiversal Incursion"
+  },
+  {
+    "set": "MSH",
+    "name": "Thirst for Knowledge"
+  },
+  {
+    "set": "MSH",
+    "name": "Agents of HYDRA"
+  },
+  {
+    "set": "MSH",
+    "name": "Avengers Disassembled"
+  },
+  {
+    "set": "MSH",
+    "name": "Death to Our Enemies"
+  },
+  {
+    "set": "MSH",
+    "name": "Mjölnir, Hammer of Thor"
+  },
+  {
+    "set": "MSH",
+    "name": "Super Speed"
+  },
+  {
+    "set": "MSH",
+    "name": "Mole Man, Moloid Master"
+  },
+  {
+    "set": "MSH",
+    "name": "Beast, Erudite Aerialist"
+  },
+  {
+    "set": "MSH",
+    "name": "The Serpent Society"
+  },
+  {
+    "set": "MSH",
+    "name": "Taskmaster, Mercenary Mimic"
+  },
+  {
+    "set": "HOB",
+    "name": "Troop of Ponies"
+  },
+  {
+    "set": "HOB",
+    "name": "Belladonna Took"
+  },
+  {
+    "set": "HOB",
+    "name": "Iron Hills Blacksmith"
+  },
+  {
+    "set": "HOB",
+    "name": "Bilbo, Thief in the Night"
+  },
+  {
+    "set": "HOB",
+    "name": "Elrond, Moon-Reader"
+  },
+  {
+    "set": "HOB",
+    "name": "Lakeshore Apothecary"
+  },
+  {
+    "set": "HOB",
+    "name": "Long Lake Nuisance"
+  },
+  {
+    "set": "HOB",
+    "name": "Riddles in the Dark"
+  },
+  {
+    "set": "HOB",
+    "name": "Bothersome Noisemaker"
+  },
+  {
+    "set": "HOB",
+    "name": "Dori, Bearer of Friends"
+  },
+  {
+    "set": "HOB",
+    "name": "Ordinary Bear"
+  },
+  {
+    "set": "HOB",
+    "name": "Wilderland Scrounger"
+  },
+  {
+    "set": "HOB",
+    "name": "Wood Elves"
+  },
+  {
+    "set": "HOB",
+    "name": "Chief Warg's Company"
+  },
+  {
+    "set": "HOB",
+    "name": "The Great Goblin"
+  },
+  {
+    "set": "FRA",
+    "name": "Flickering Hound"
+  },
+  {
+    "set": "FRA",
+    "name": "Countersculpt"
+  },
+  {
+    "set": "FRA",
+    "name": "Icy Reception"
+  },
+  {
+    "set": "FRA",
+    "name": "Sphinx of False Conclusions"
+  },
+  {
+    "set": "FRA",
+    "name": "Sphinx's Approach"
+  },
+  {
+    "set": "FRA",
+    "name": "Theorist's Proxy"
+  },
+  {
+    "set": "FRA",
+    "name": "Awaken the Inferno"
+  },
+  {
+    "set": "FRA",
+    "name": "No Admittance"
+  },
+  {
+    "set": "FRA",
+    "name": "Inspired Tethermage"
+  },
+  {
+    "set": "FRA",
+    "name": "Avatar of Burgeoning Echoes"
+  },
+  {
+    "set": "FRA",
+    "name": "Gideon's Memorial"
+  },
+  {
+    "set": "FRA",
+    "name": "Tomik, Orzhov Lawmage"
+  },
+  {
+    "set": "FRA",
+    "name": "Way of the Necromancer"
+  },
+  {
+    "set": "FRA",
+    "name": "Gallia, the Merrymaker"
+  },
+  {
+    "set": "FRA",
+    "name": "Garruk, Curse Breaker"
+  }
+]

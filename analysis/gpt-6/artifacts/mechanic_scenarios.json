@@ -1,0 +1,781 @@
+{
+  "seed": 20261105,
+  "iterations": 100000,
+  "searches": [
+    {
+      "card": "Rutherford",
+      "library": 35,
+      "hits_remaining": 6,
+      "look": 6,
+      "hit_probability": 0.7073486286010006
+    },
+    {
+      "card": "Rutherford",
+      "library": 35,
+      "hits_remaining": 8,
+      "look": 6,
+      "hit_probability": 0.8176335050149093
+    },
+    {
+      "card": "Rutherford",
+      "library": 35,
+      "hits_remaining": 10,
+      "look": 6,
+      "hit_probability": 0.8908918406072106
+    },
+    {
+      "card": "Rutherford",
+      "library": 35,
+      "hits_remaining": 12,
+      "look": 6,
+      "hit_probability": 0.9378083491461101
+    },
+    {
+      "card": "Rutherford",
+      "library": 35,
+      "hits_remaining": 14,
+      "look": 6,
+      "hit_probability": 0.9665689149560117
+    },
+    {
+      "card": "Spock",
+      "library": 35,
+      "hits_remaining": 6,
+      "look": 4,
+      "hit_probability": 0.5463903743315509
+    },
+    {
+      "card": "Spock",
+      "library": 35,
+      "hits_remaining": 8,
+      "look": 4,
+      "hit_probability": 0.6648204736440031
+    },
+    {
+      "card": "Spock",
+      "library": 35,
+      "hits_remaining": 10,
+      "look": 4,
+      "hit_probability": 0.7584033613445379
+    },
+    {
+      "card": "Spock",
+      "library": 35,
+      "hits_remaining": 12,
+      "look": 4,
+      "hit_probability": 0.8308823529411765
+    },
+    {
+      "card": "Spock",
+      "library": 35,
+      "hits_remaining": 14,
+      "look": 4,
+      "hit_probability": 0.8856951871657754
+    },
+    {
+      "card": "Hoshi",
+      "library": 35,
+      "hits_remaining": 6,
+      "look": 5,
+      "hit_probability": 0.6341857857512506
+    },
+    {
+      "card": "Hoshi",
+      "library": 35,
+      "hits_remaining": 8,
+      "look": 5,
+      "hit_probability": 0.7513184159294217
+    },
+    {
+      "card": "Hoshi",
+      "library": 35,
+      "hits_remaining": 10,
+      "look": 5,
+      "hit_probability": 0.8363377609108159
+    },
+    {
+      "card": "Hoshi",
+      "library": 35,
+      "hits_remaining": 12,
+      "look": 5,
+      "hit_probability": 0.8963472485768501
+    },
+    {
+      "card": "Hoshi",
+      "library": 35,
+      "hits_remaining": 14,
+      "look": 5,
+      "hit_probability": 0.9373167155425219
+    }
+  ],
+  "land_names": [
+    {
+      "basic_counts": [
+        9,
+        8
+      ],
+      "unique_nonbasics": 0,
+      "land_drops": 3,
+      "expected_distinct": 1.79155,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        9,
+        8
+      ],
+      "unique_nonbasics": 0,
+      "land_drops": 4,
+      "expected_distinct": 1.91738,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        9,
+        8
+      ],
+      "unique_nonbasics": 0,
+      "land_drops": 5,
+      "expected_distinct": 1.9705,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        9,
+        8
+      ],
+      "unique_nonbasics": 0,
+      "land_drops": 6,
+      "expected_distinct": 1.99104,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        9,
+        8
+      ],
+      "unique_nonbasics": 0,
+      "land_drops": 7,
+      "expected_distinct": 1.99782,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        7,
+        6
+      ],
+      "unique_nonbasics": 4,
+      "land_drops": 3,
+      "expected_distinct": 2.28619,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        7,
+        6
+      ],
+      "unique_nonbasics": 4,
+      "land_drops": 4,
+      "expected_distinct": 2.71301,
+      "p_at_least_4": 0.12683,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        7,
+        6
+      ],
+      "unique_nonbasics": 4,
+      "land_drops": 5,
+      "expected_distinct": 3.05776,
+      "p_at_least_4": 0.27568,
+      "p_at_least_5": 0.02874,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        7,
+        6
+      ],
+      "unique_nonbasics": 4,
+      "land_drops": 6,
+      "expected_distinct": 3.35642,
+      "p_at_least_4": 0.42023,
+      "p_at_least_5": 0.08085,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        7,
+        6
+      ],
+      "unique_nonbasics": 4,
+      "land_drops": 7,
+      "expected_distinct": 3.62344,
+      "p_at_least_4": 0.55049,
+      "p_at_least_5": 0.15106,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        6,
+        5
+      ],
+      "unique_nonbasics": 6,
+      "land_drops": 3,
+      "expected_distinct": 2.49534,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        6,
+        5
+      ],
+      "unique_nonbasics": 6,
+      "land_drops": 4,
+      "expected_distinct": 3.06486,
+      "p_at_least_4": 0.28694,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        6,
+        5
+      ],
+      "unique_nonbasics": 6,
+      "land_drops": 5,
+      "expected_distinct": 3.55827,
+      "p_at_least_4": 0.53105,
+      "p_at_least_5": 0.12161,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        6,
+        5
+      ],
+      "unique_nonbasics": 6,
+      "land_drops": 6,
+      "expected_distinct": 4.00331,
+      "p_at_least_4": 0.71565,
+      "p_at_least_5": 0.28801,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        6,
+        5
+      ],
+      "unique_nonbasics": 6,
+      "land_drops": 7,
+      "expected_distinct": 4.41188,
+      "p_at_least_4": 0.83457,
+      "p_at_least_5": 0.46478,
+      "p_at_least_7": 0.00959
+    },
+    {
+      "basic_counts": [
+        5,
+        4
+      ],
+      "unique_nonbasics": 8,
+      "land_drops": 3,
+      "expected_distinct": 2.66583,
+      "p_at_least_4": 0.0,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        5,
+        4
+      ],
+      "unique_nonbasics": 8,
+      "land_drops": 4,
+      "expected_distinct": 3.3702,
+      "p_at_least_4": 0.47281,
+      "p_at_least_5": 0.0,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        5,
+        4
+      ],
+      "unique_nonbasics": 8,
+      "land_drops": 5,
+      "expected_distinct": 4.0122,
+      "p_at_least_4": 0.75276,
+      "p_at_least_5": 0.28754,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        5,
+        4
+      ],
+      "unique_nonbasics": 8,
+      "land_drops": 6,
+      "expected_distinct": 4.60469,
+      "p_at_least_4": 0.89842,
+      "p_at_least_5": 0.56081,
+      "p_at_least_7": 0.0
+    },
+    {
+      "basic_counts": [
+        5,
+        4
+      ],
+      "unique_nonbasics": 8,
+      "land_drops": 7,
+      "expected_distinct": 5.16141,
+      "p_at_least_4": 0.96293,
+      "p_at_least_5": 0.76372,
+      "p_at_least_7": 0.06992
+    }
+  ],
+  "federation": [
+    {
+      "colors": "WU",
+      "creatures_on_board": 1,
+      "mean_types": 1.59915,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WU",
+      "creatures_on_board": 2,
+      "mean_types": 3.0187,
+      "p_at_least_5": 0.0213,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WU",
+      "creatures_on_board": 3,
+      "mean_types": 4.2775,
+      "p_at_least_5": 0.4476,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WU",
+      "creatures_on_board": 4,
+      "mean_types": 5.4106,
+      "p_at_least_5": 0.772,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WB",
+      "creatures_on_board": 1,
+      "mean_types": 1.4624,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WB",
+      "creatures_on_board": 2,
+      "mean_types": 2.81295,
+      "p_at_least_5": 0.0729,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WB",
+      "creatures_on_board": 3,
+      "mean_types": 4.0408,
+      "p_at_least_5": 0.39335,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WB",
+      "creatures_on_board": 4,
+      "mean_types": 5.1545,
+      "p_at_least_5": 0.66655,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WR",
+      "creatures_on_board": 1,
+      "mean_types": 1.64105,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WR",
+      "creatures_on_board": 2,
+      "mean_types": 3.09035,
+      "p_at_least_5": 0.02235,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WR",
+      "creatures_on_board": 3,
+      "mean_types": 4.3608,
+      "p_at_least_5": 0.4739,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WR",
+      "creatures_on_board": 4,
+      "mean_types": 5.5263,
+      "p_at_least_5": 0.7851,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WG",
+      "creatures_on_board": 1,
+      "mean_types": 1.73045,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WG",
+      "creatures_on_board": 2,
+      "mean_types": 3.28735,
+      "p_at_least_5": 0.0387,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WG",
+      "creatures_on_board": 3,
+      "mean_types": 4.7177,
+      "p_at_least_5": 0.6025,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "WG",
+      "creatures_on_board": 4,
+      "mean_types": 6.00885,
+      "p_at_least_5": 0.87445,
+      "p_at_least_10": 0.0003
+    },
+    {
+      "colors": "UB",
+      "creatures_on_board": 1,
+      "mean_types": 1.64315,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UB",
+      "creatures_on_board": 2,
+      "mean_types": 3.1154,
+      "p_at_least_5": 0.0799,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UB",
+      "creatures_on_board": 3,
+      "mean_types": 4.4378,
+      "p_at_least_5": 0.5169,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UB",
+      "creatures_on_board": 4,
+      "mean_types": 5.66325,
+      "p_at_least_5": 0.7975,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UR",
+      "creatures_on_board": 1,
+      "mean_types": 1.82055,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UR",
+      "creatures_on_board": 2,
+      "mean_types": 3.4219,
+      "p_at_least_5": 0.03425,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UR",
+      "creatures_on_board": 3,
+      "mean_types": 4.82945,
+      "p_at_least_5": 0.66595,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UR",
+      "creatures_on_board": 4,
+      "mean_types": 6.11535,
+      "p_at_least_5": 0.92455,
+      "p_at_least_10": 0.0001
+    },
+    {
+      "colors": "UG",
+      "creatures_on_board": 1,
+      "mean_types": 1.8654,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UG",
+      "creatures_on_board": 2,
+      "mean_types": 3.5552,
+      "p_at_least_5": 0.0419,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UG",
+      "creatures_on_board": 3,
+      "mean_types": 5.09795,
+      "p_at_least_5": 0.7772,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "UG",
+      "creatures_on_board": 4,
+      "mean_types": 6.50975,
+      "p_at_least_5": 0.9581,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BR",
+      "creatures_on_board": 1,
+      "mean_types": 1.70055,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BR",
+      "creatures_on_board": 2,
+      "mean_types": 3.2114,
+      "p_at_least_5": 0.09925,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BR",
+      "creatures_on_board": 3,
+      "mean_types": 4.5244,
+      "p_at_least_5": 0.53055,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BR",
+      "creatures_on_board": 4,
+      "mean_types": 5.69295,
+      "p_at_least_5": 0.80905,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BG",
+      "creatures_on_board": 1,
+      "mean_types": 1.78775,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BG",
+      "creatures_on_board": 2,
+      "mean_types": 3.42555,
+      "p_at_least_5": 0.1395,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BG",
+      "creatures_on_board": 3,
+      "mean_types": 4.9096,
+      "p_at_least_5": 0.64355,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "BG",
+      "creatures_on_board": 4,
+      "mean_types": 6.31845,
+      "p_at_least_5": 0.887,
+      "p_at_least_10": 0.0052
+    },
+    {
+      "colors": "RG",
+      "creatures_on_board": 1,
+      "mean_types": 1.95025,
+      "p_at_least_5": 0.0,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "RG",
+      "creatures_on_board": 2,
+      "mean_types": 3.69485,
+      "p_at_least_5": 0.07835,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "RG",
+      "creatures_on_board": 3,
+      "mean_types": 5.2484,
+      "p_at_least_5": 0.80995,
+      "p_at_least_10": 0.0
+    },
+    {
+      "colors": "RG",
+      "creatures_on_board": 4,
+      "mean_types": 6.6549,
+      "p_at_least_5": 0.96975,
+      "p_at_least_10": 0.00055
+    }
+  ],
+  "dilemmas": [
+    {
+      "colors": "WU",
+      "common_modal": 8,
+      "uncommon_modal": 6,
+      "common_artifact_creatures": 9,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "WB",
+      "common_modal": 7,
+      "uncommon_modal": 8,
+      "common_artifact_creatures": 11,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "WR",
+      "common_modal": 5,
+      "uncommon_modal": 3,
+      "common_artifact_creatures": 6,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "WG",
+      "common_modal": 6,
+      "uncommon_modal": 4,
+      "common_artifact_creatures": 6,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "UB",
+      "common_modal": 8,
+      "uncommon_modal": 10,
+      "common_artifact_creatures": 9,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "UR",
+      "common_modal": 6,
+      "uncommon_modal": 6,
+      "common_artifact_creatures": 4,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "UG",
+      "common_modal": 7,
+      "uncommon_modal": 7,
+      "common_artifact_creatures": 4,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "BR",
+      "common_modal": 5,
+      "uncommon_modal": 7,
+      "common_artifact_creatures": 6,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "BG",
+      "common_modal": 6,
+      "uncommon_modal": 8,
+      "common_artifact_creatures": 6,
+      "common_beam_spells": 2
+    },
+    {
+      "colors": "RG",
+      "common_modal": 4,
+      "uncommon_modal": 3,
+      "common_artifact_creatures": 1,
+      "common_beam_spells": 2
+    }
+  ],
+  "modal_density": [
+    {
+      "modal_cards_in_40": 3,
+      "cards_seen": 10,
+      "p_at_least_one": 0.5890688259109311,
+      "p_at_least_two": 0.14878542510121462
+    },
+    {
+      "modal_cards_in_40": 3,
+      "cards_seen": 13,
+      "p_at_least_one": 0.7039473684210527,
+      "p_at_least_two": 0.2421052631578947
+    },
+    {
+      "modal_cards_in_40": 3,
+      "cards_seen": 16,
+      "p_at_least_one": 0.7951417004048583,
+      "p_at_least_two": 0.3481781376518218
+    },
+    {
+      "modal_cards_in_40": 5,
+      "cards_seen": 10,
+      "p_at_least_one": 0.7834281650071123,
+      "p_at_least_two": 0.36694386694386694
+    },
+    {
+      "modal_cards_in_40": 5,
+      "cards_seen": 13,
+      "p_at_least_one": 0.8773115220483642,
+      "p_at_least_two": 0.530583214793741
+    },
+    {
+      "modal_cards_in_40": 5,
+      "cards_seen": 16,
+      "p_at_least_one": 0.9354050406681986,
+      "p_at_least_two": 0.6770252033409929
+    },
+    {
+      "modal_cards_in_40": 7,
+      "cards_seen": 10,
+      "p_at_least_one": 0.8908041168103088,
+      "p_at_least_two": 0.5723161241737094
+    },
+    {
+      "modal_cards_in_40": 7,
+      "cards_seen": 13,
+      "p_at_least_one": 0.9523680026776002,
+      "p_at_least_two": 0.7459626809472011
+    },
+    {
+      "modal_cards_in_40": 7,
+      "cards_seen": 16,
+      "p_at_least_one": 0.9814357343769109,
+      "p_at_least_two": 0.8659247482776895
+    },
+    {
+      "modal_cards_in_40": 9,
+      "cards_seen": 10,
+      "p_at_least_one": 0.947676972638273,
+      "p_at_least_two": 0.7336282243402987
+    },
+    {
+      "modal_cards_in_40": 9,
+      "cards_seen": 13,
+      "p_at_least_one": 0.9828596979332274,
+      "p_at_least_two": 0.8773115220483642
+    },
+    {
+      "modal_cards_in_40": 9,
+      "cards_seen": 16,
+      "p_at_least_one": 0.9952182952182952,
+      "p_at_least_two": 0.9521829521829522
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "coverage": "passed",
+  "finite_probabilities": "passed",
+  "duplicate_names": "none",
+  "independent_FRA_games": 297964,
+  "independent_FRA_wins": 165143,
+  "independently_verified_card_counts": {
+    "Forest": [
+      138120,
+      76900
+    ],
+    "Memory Trap": [
+      32048,
+      18226
+    ],
+    "Emrakul, the Exigent Doom": [
+      1663,
+      877
+    ],
+    "Gardenize": [
+      195,
+      67
+    ]
+  },
+  "target_outcomes_used": false
+}
