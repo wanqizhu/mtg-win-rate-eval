@@ -1,6 +1,6 @@
 {
-  "model": "GPT-6",
-  "branch": "gpt-6",
+  "model": "GPT-6 Astra",
+  "branch": "astra",
   "target_set": "TRK",
   "target_format": "PremierDraft",
   "rate_units": "fraction: 0.5821 means 58.21%",

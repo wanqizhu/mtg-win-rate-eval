@@ -1,6 +1,6 @@
-# Star Trek Premier Draft GiH forecast — GPT-6
+# Star Trek Premier Draft GiH forecast — GPT-6 Astra
 
-The submission is the single two-column table [`predictions.csv`](../../predictions.csv): **311 distinct TRK card names**, one probability per name. `0.5821` means **58.21%**. Rates are forecasts of 17Lands game-in-hand results, not pick orders, cast win rates, or causal estimates of adding a card to a deck. The branch is `gpt-6`.
+The submission is the single two-column table [`predictions.csv`](../../predictions.csv): **311 distinct TRK card names**, one probability per name. `0.5821` means **58.21%**. Rates are forecasts of 17Lands game-in-hand results, not pick orders, cast win rates, or causal estimates of adding a card to a deck. The branch is `astra`.
 
 ## Scope and source boundary
 
