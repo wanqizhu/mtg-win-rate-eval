@@ -1,0 +1,346 @@
+# Manual expected GIH WR relative to set card-mean (fraction, e.g. 0.02 = +2pp). name|rel|note
+# WHITE
+70,000 Light-Years from Home|0.032|2-mana unconditional exile; land drawback minor in limited
+Andromedan Automatons|-0.010|3/1 artifact for 3; fetches extra copies (card advantage only with multiples)
+Antagonist Incorporator|0.010|2/3 for 2; Borg token engine in artifact decks
+Assembly Specialist|-0.006|two 1/1 artifact bodies for 2; station/Borg fodder
+Brad Boimler, Eager Ensign|-0.012|2/2 lifelink for 2, counter text rarely matters
+Captain Benjamin Sisko|-0.015|2/2 for 2; dilemma tokens occasional; 5-color ability irrelevant
+Captain Jean-Luc Picard|0.070|3-mana anthem + Officer per creature/spacecraft cast; bomb
+Command Decision|0.028|2-mana kill power 4+ or cantrip; Spectacular Tactics analog
+Command Subadjunct|-0.028|1-mana 2/1, vigilance anthem weak
+Conquest Mission|-0.035|slow quest enchantment; Mission/"Way of" class is bad
+Deanna Troi, Psychic Counsel|0.022|2/2 for 2, every later creature/token +1/+1 counter
+DOT-7 Repair Squad|0.006|3/3 flier for 4 artifact
+Dr. Beverly Crusher|-0.015|needs lifegain; 2/2 for 3
+Dr. McCoy, Surly Surgeon|-0.025|4-mana 2/2 weak legendary uncommon
+Emergency Medical Hologram|-0.028|1-mana 0/1 + counter
+Excalbian Gamemaster|0.045|6/6 + X Officers + counters on deaths
+Federation Field Medic|-0.008|3/2 vigilance + counter/draw for 4
+Federation Resupply|-0.035|tutor for aura/equipment/spacecraft; low impact
+Free Borg Revolutionaries|-0.002|4/5 + team pump or landcycling
+Ghost of Illyria|0.008|3/3 flier for 4, flicker upside
+Hologram Janeway|-0.012|3/3 for 3, conditional counters
+Malfunctioning Holodeck|0.030|3-mana O-ring any nonland permanent, ward 2
+The Measure of a Man|0.004|temporary exile + clue; tempo
+Miles O'Brien, Transporter Ops|0.025|3/3 for 3 + rebuy ETB + draw a card same turn
+The Needs of the Many|-0.045|sac a creature for a fog/protection
+Oberth-Class Starship|-0.016|land fetch + slow 2/2 flier; Wurmwall Sweeper analog
+Peace in Our Time|-0.060|does nothing on a losing board; alt-win too slow
+Pet Sehlat|-0.012|4/3 for 3 can't attack alone
+Picard, Leading by Example|-0.018|2/2 for 2 with slow pump
+Primary Unimatrix Adjunct|0.004|double strike for artifact creatures; good in Borg
+Pure Energy|-0.030|two counters sorcery + beam
+Rutherford, Upgraded Ensign|0.004|2/2 for 3 + artifact card
+Saavik, Stoic Student|0.014|flash 5-mana removal on a body (X ~3-5)
+Set Phasers to . . .|0.004|1-mana stun or 3 to attacker, flexible
+Shields Up!|-0.025|protection trick
+Shuttle Ace|-0.004|5-mana 4/4 flier on your turn + life
+Sulu, Space Swashbuckler|0.004|2/2 first strike for 2
+Tactical Officer|-0.016|2/1 for 2
+Test of Conviction|-0.010|team counters or draw 2 (opp draws 1)
+There's Coffee in that Nebula|-0.022|card selection + beam
+Troubling Tribbles|-0.020|0/1 can't block, exponential tokens with no power; fodder
+Una Chin-Riley, Number One|-0.018|5-mana 4/5 legendary uncommon
+U.S.S. Enterprise-A, Free Spirit|0.052|3 Officers + 5/5 flying lifelink ward ship
+U.S.S. Excelsior, Cutting Edge|0.020|kill a tapped creature + later 4/4 flier
+Vexing Drone|-0.004|2/2 artifact + tap
+# BLUE
+Anthropological Mission|-0.040|quest enchantment, slow
+The Caretaker|0.004|6-mana 5/6 vigilance ward 2 + occasional free spell
+Cetacean Ops|-0.016|4-mana 3/3 ward 1, grows slowly
+Cloak and Phaser|-0.015|two 2/2 + loot for ~6
+Cloistered Telepath|-0.008|2/1 flash loot
+Consider the Prime Directive|0.005|soft counter or stun + draw
+Data, New Life|-0.032|0/1 for 2, slow; weak legendary uncommon
+Deep Space Scan|0.004|6-mana draw 3-4
+Dominion Saboteur|-0.010|5-mana clone
+Emergency Holographic Crew|-0.008|3/4 for 4 + surveil/regrowth
+Energize|-0.010|bounce + beam rebuy
+Ensign Pavel Chekov|-0.025|1/5 for 4, steal a land
+Enterprise NX-01|0.008|4-mana stun + 4/3 flying vigilance ship
+Federation Probe|-0.020|1/1 flier for 1
+Guidance Failure|-0.002|3-mana instant tuck vs attacker (owner may put on top)
+Gwyndala, the Progeny|-0.002|2/2 for 2 + equipment
+Highly Illogical|-0.020|counterspell
+H.M.S. Bounty, Unlikely Timeship|0.005|tutor whale + slow ship
+Hoshi Sato, Exolinguist|-0.010|3/3 for 5 + card selection
+Humpback Whales|-0.003|5/6 ward or landcycling
+Interstellar Effigy|-0.005|4/3 + bounce for 5
+Jett Reno, Problem Solver|-0.025|1/2 for 2 weak legendary
+Kobayashi Maru Scenario|-0.030|3 strong upkeeps then you lose unless removed; dead when behind
+Lieutenant Commander Data|0.005|grows with noncreature spells, card draw
+Lt. Cmdr. Geordi La Forge|-0.012|3/2 for 3; doubling charge counters niche
+Make It So|-0.006|draw 2 + 1/1 for 4
+Marooned|0.008|cheap freeze aura, cheap on tapped attackers
+Melkotian Adjudicator|-0.010|2/1 flying vigilance for 3
+Mr. Spock, Science Officer|0.060|draw doubling engine on a 2/4
+Nyota Uhura, Communications|0.006|2/4 for 3 + draws
+Open Communications|-0.025|1-mana cantrip + beam
+Romulan Bird-of-Prey|0.008|cheap hexproof ship, 4/4 flier with spells
+Rules of Acquisition|-0.012|steal best permanent, opp draws 3
+Scotty, Miracle Worker|-0.015|graveyard spells with creature bounce cost
+Seven of Nine, Unassimilated|0.000|0/4 for 2 + loot every turn
+Starfleet Spanner Jockey|-0.010|3/3 defender for 2
+Subcommander T'Pol|0.006|flash 3/1 + stun
+Suurok-Class Science Vessel|0.004|cantrip ship, 3/2 flier at 5
+Suus Mahna Practitioner|-0.006|3/2 tapper, cheap with lands
+Test of Priorities|-0.022|cantrip/flicker
+Those Old Scientists|-0.015|loot saga
+V'Ger, the Intruder|-0.002|7-mana 5/7 flier with value
+Vulcan Mind-Meld|-0.022|card swap
+Wesley Crusher, Starfleet Cadet|0.015|flash 2/2 with two modes
+Zefram Cochrane, Warp Pioneer|-0.015|2/3 for 3, artifact top-deck niche
+# BLACK
+Armus, Skin of Evil|0.025|7-drop 6/6 menace discard or 3-mana -4/-4
+Assault Drone|-0.016|2/4 artifact anthem for 4
+Automated Warfare System|-0.004|2/2 flier for 3 + sac draw
+Bat'leth|0.014|-2/-2 ETB + equipment
+Battle-Scarred Survivalist|-0.016|1/1 menace grows
+Blastoneuron|-0.004|2/2 flier for 4 + temp reanimation + drain
+Cha'DIch Investigator|0.003|4/4 + 2/1 haste for 5
+Collation Trimatrix|-0.022|1/1 for 1, needs 3 artifact creatures
+Collective Drone|-0.016|*/2 for 2 in artifact deck
+Commander Raffi Musiker|0.000|3/2 for 3 + clue
+D'Ghor Bloodletter|0.010|edict or -1/-1 sweep on a 2/2
+Death Is Irrelevant|-0.010|8-mana engine
+The Destruction of Praxis|0.028|scalable sweeper
+De-evolve|-0.002|-4/-0 can't block aura
+Eject the Warp Core|0.004|2-mana -2/-2 or -6/-6 with sac
+Elim Garak, Simple Tailor|0.008|3/3 menace for 3 + drain on modes
+Fugitive Listener|-0.010|3/1 + discard
+Gabriel Lorca, Mirror Menace|-0.015|5/4 menace for 5 recursive
+General Chang, Cold Warrior|-0.022|1/2 sac outlet for Klingons
+Georgiou, Terran Emperor|0.025|4/6 draw each turn, can't lose to life
+A Good Day to Die|-0.025|cantrip-ish trick
+Grand Nagus Zek|-0.006|1/1 grows with treasures
+Gul Dukat, Colonial Prefect|0.010|7-mana 6/6 menace drain
+He's Dead, Jim|0.014|4-mana instant destroy + surveil
+Hive Mind Coprocessor|-0.008|4/4 for 5, artifacts draw
+Impossible Choice|0.010|instant kill (they get 2 1/1s) or draw 2
+In the Pale Moonlight|0.020|edict + clue + two 2/2s
+Kai Winn, Faithless Leader|-0.006|3/1 for 2
+Khan, Vengeful Heart|0.020|5/3 for 4 + draw 2 option
+Obsidian Order Operative|-0.020|2/5 for 4 drain on modes
+Organic Avulsion Unit|-0.018|2/3 for 3
+Overflow Submatrix|0.008|3/3 for 3 recast artifact creatures
+Pattern Buffer Preservation|-0.022|card selection + beam
+Relentless Drednok|-0.016|1/1 lifelink + later card
+Resistance Is Futile|0.020|2-mana kill nonartifact or reanimate artifact
+Rogue Artificial Intelligence|0.000|6/5 for 6 or landcycling
+Salt Vampire|0.005|2/2 lifelink + hand disruption
+Sela, Tal Shiar Paradox|0.014|3/3 for 4 token engine on attack
+Storied Veteran|-0.028|2/1 can't block
+Stray from History|-0.010|regrowth two or discard
+Tal Shiar Operative|-0.012|2/2 for 2
+Tell Me What You See|-0.035|punisher enchantment
+Tenacious Drone|-0.010|2/1 leaves 1/1
+Test of Loyalty|-0.025|raise dead/cantrip
+U.S.S. Reliant, From Hell's Heart|0.014|4-mana reanimate ETB + ship
+Vengeance Mission|-0.045|quest drain enchantment
+# RED
+Academy Instructor|-0.028|0/3 token maker
+Beckett Mariner, Impetuous Ensign|-0.020|2/1 first strike
+Boarding Action|-0.030|2/1 haste token + beam
+Brazen Bluff|-0.050|situational
+Cantankerous Captain|-0.022|2/3 for 3 pumper
+Captain James T. Kirk|0.018|modal ETB/attack value
+Captain Michael Burnham|-0.008|3/3 trample landfall ping
+Captain's Tutelage|-0.035|aura
+D-7 Battle Cruiser|0.012|2-mana ship; free 2/1 haste attacker each turn at 3+
+Dahar Master|-0.006|4/3 + sac for 2 damage
+Dominion Infiltration|-0.022|temporary copies
+Encounter the Unknown|0.008|impulse 2 or mini-sweeper vs tokens
+Erica Ortegas, Plucky Pilot|-0.030|4-mana 3/3 haste weak legendary
+Exploratory Mission|-0.035|quest enchantment
+Genesis Effect|0.000|5-mana instant 6 damage + planet
+Horta|-0.006|7/6 trample or landcycling
+Infinite Diversity|-0.060|9 mana
+Khaaaaaaaaaaaannn!|0.024|X instant burn that exiles
+Khan, Despot by Design|0.014|5/4 trample + 1 to each opp creature
+La'An Noonien-Singh, Security|-0.025|4/3 for 4
+Lwaxana Troi, Charming Guest|-0.035|do-nothing 2/2
+Munitions Enthusiast|0.000|3/2 trample for 2 + ping
+The Naked Time|-0.035|weak saga
+Pah-Wraith|-0.012|7-mana 4/4 first strike haste pump
+Perils of the Past|-0.025|trick/artifact removal
+Planetary Bombardment|-0.006|1-mana 2 dmg or 4
+Planetary Patrol|-0.025|2/2 landfall
+Plasma Cascade|0.002|3 damage any target instant + rummage
+Q, Stacking the Deck|0.020|4/4 for 4 + repeatable copies of a card
+Quark, Humble Proprietor|-0.040|1/2 for 3; treasures unusable for mana
+Ravenous Cosmozoan|-0.015|3/3 flying haste, cost reduction
+Reckless Impulse|-0.025|impulse draw
+Red Alert!|-0.030|team pump
+Sarcophagus, Ship of the Dead|0.000|3-mana +1/+0 anthem ship
+Savvy Profiteer|-0.020|2/1 mana dork
+Silicate Surveyor|-0.006|4/4 reach + impulse
+Starfleet Security|-0.025|1/1 haste
+Tal Shiar Analyst|-0.020|3/2 pinger
+Targ Wrangler|-0.018|5/3 menace with sac drawback
+Tasha Yar, Out of Time|-0.006|2/1 haste with value
+Test of Identity|-0.022|Klingon double strike or rummage
+Transporter Malfunction|0.010|2-mana 3 damage any target
+Will Riker, First in the Field|-0.006|4/3 temporary lands each turn
+Worf, Intelligence Contractor|-0.006|3/2 threaten small creature
+The Wrath of Khan|0.032|4 damage + threaten, rummage, edict
+# GREEN
+Adversary by Algorithm|-0.004|3/3 token, beam rebuy
+Amok Time|0.014|fight + life + regrowth
+Astute Terraformer|-0.012|2/2 pump
+Branching Timeline|-0.035|8 mana
+Captain Jonathan Archer|0.020|3/3 + 1/1 + pump
+Captain Kathryn Janeway|0.028|explore engine + extra land
+Captain Pike, Fullness of Time|0.015|growing body + lands from top
+Cold-Blooded Crew|0.000|4/4 + counters evasive or landcycling
+Common Goal|0.010|2-mana double bite
+Culber and Stamets, Star-Crossed|-0.012|3/4 for 4
+Dathon and Picard at El-Adrel|-0.020|pump/artifact edict
+David and Carol Marcus, Creators|-0.025|1/3 ramp legendary
+Dominion Assault Force|-0.002|4/4 vigilance for 4
+Dominion Supervisor|-0.010|3/1 + counter
+Dr. Joseph M'Benga|0.000|counter doubling, hexproof
+Dr. Leonard "Bones" McCoy|0.010|flash 3/2 + regrowth
+Final Frontier|-0.025|ramp + beam
+First Contact|-0.015|dig for permanent
+Genesis Device|-0.030|ramp artifact
+Holo-Engineer|0.028|two 3/3s for 4; tokens become 3/3
+Hologram Stalker|-0.006|regrowth + 3/3s
+I'm a Doctor, Not a . . .|-0.025|trick
+Jadzia Dax, Living Legacy|0.018|growing ramp
+Jake Sisko, War Correspondent|-0.012|2/2 landfall life/clue
+MACO Strike Team|-0.015|2/1 for 1
+Moopsy|0.000|1-mana deathtouch
+Mugato|0.015|6/6 reach vigilance deathtouch for 5
+Neelix, Moral Support|-0.020|1/1 + food
+Photosynthetic Physician|-0.006|5/5 reach + token
+Rok-Tahk, Budding Scientist|0.005|6-mana 5/5 + mana
+Saru, Unthreatened|-0.008|flash 3/2 protect
+Saurian Explorer|-0.008|4/3 landfall
+Species 8472|0.000|7/5 + life
+Stable Wormhole|-0.040|lands on attack
+Support Mission|-0.035|quest counters
+Sylvia Tilly, Joy of Discovery|-0.010|2/2 surveil + counters
+Syndicate Liquidators|0.000|4/4 trample + landfall counters
+Temporal Conqueror|-0.005|2/3 + land back
+Test of Courage|-0.025|artifact/ench kill or gy hate
+U.S.S. Discovery, at Black Alert|0.030|discover 5 ETB + ship
+U.S.S. Voyager, Lone Wanderer|0.008|ramp 2 lands + ship
+Warp Speed|-0.025|land enchantment
+Xenobotanist|-0.005|1/3 mana dork any color
+Xindi Surveyors|-0.008|3/2 landfall grows
+# GOLD
+All Good Things...|0.014|card selection/advantage saga
+Borg Cube|0.030|exile ETB + flying for artifacts
+The City on the Edge of Forever|0.025|temporary/permanent symmetric wipe + draw 2
+Cleveland Booker, Empath|0.000|landfall 2/2 tokens
+Constable Odo|0.020|hybrid 4/3 + double stun or 2 clues
+Dal R'El, Augment Orphan|-0.010|3/3 for 3 ramp
+Daniels, Temporal Agent|-0.010|3/1 raise dead
+Dathon, His Heart Open|-0.045|3-color enchantment payoff
+The Doctor, EMH|-0.012|5-mana 3/3 counters
+The Duras Sisters|0.004|3/2 for 2 leaves 2/1 haste
+D'Vana Tendi, Optimistic Ensign|-0.025|untapper
+Gowron, Eager for Battle|-0.008|3/3 grows sac outlet
+Gray and Adira, Forever Joined|-0.035|copy with spell condition
+Hemmer, Fixing What Is Broken|0.004|2/3 for 2 looter
+Hit It!|-0.040|haste enchantment
+The Inner Light|0.018|reanimate + draw + life
+Kira Nerys, Firebrand|0.008|4/3 trample for 3
+Kirk, Commanding Officer|-0.008|3/3 for 3 conditional card
+Live Long and Prosper|-0.025|7-mana draw
+Locutus, the One Who Speaks|0.012|artifact anthem or 2 dmg + life
+Lore, Positronic Provocateur|-0.010|2/3 + mode
+L'Rell, Fierce Visionary|0.004|1/4 + 2/1 haste each combat
+Mirror Universe Intrusion|0.020|copy best opp creature; late mass copy
+Nog, Ambitious Cadet|0.014|2-drop that becomes 3/4
+Phlox, Unorthodox Doctor|-0.005|3/4 trample draw
+Sarek, Federation Ambassador|-0.040|3-color 0/5
+Seven of Nine|-0.020|2/4 draw on modes
+Spock, Always Your Friend|0.006|2/2 + spell
+The Traveler|-0.008|*/3 reach vigilance
+Vash, Freelance Archaeologist|0.000|2/4 surveil draw engine
+Worf, Honor-Bound Warrior|-0.032|1/1 for 2
+Year of Hell|-0.035|symmetric
+Zero, Incorporeal Sensate|0.002|2/2 lifelink + disruption
+# COLORLESS
+Class-F Shuttlecraft|-0.018|mana rock ship
+Combadge|-0.055|unblockable equipment
+Crystalline Entity|0.030|8-mana wrath + 7/7 flier
+Cybernetic Specialist|-0.016|2/1 surveil
+Deep Space 9|-0.020|9 mana
+Engineered Explosives|-0.045|limited-weak
+The Holodeck|-0.040|7-mana graveyard recursion
+Isolinear Processor|-0.040|mana rock looter
+Replicator|-0.028|food + token copy
+Sickbay|-0.030|5-mana counters
+Tea, Earl Grey, Hot|-0.010|cantrip food
+Tricorder|-0.030|equipment
+Type-2 Phaser|-0.010|stun + equipment
+U.S.S. Cerritos, Following Up|-0.010|2 Officers + ship for 5
+U.S.S. Enterprise-D, Galaxy-Class|0.025|3-mana ship, card each turn you station it
+Warp Core|-0.025|land fetch artifact
+# LANDS
+Andoria|-0.007|UR planet
+Artificial Anomaly|-0.005|colorless utility land
+Bajor|-0.004|RW planet
+Blood Crypt|-0.018|shock BR
+Breeding Pool|-0.012|shock GU
+Cardassia Prime|0.008|WB planet
+Earth, Sector 001|-0.002|GU planet
+Federation Outpost|0.010|W fastland-style utility
+Ferenginar|0.000|BG planet
+Gaseous Anomaly|-0.002|colorless utility land
+Godless Shrine|-0.006|shock WB
+Hallowed Fountain|-0.010|shock WU
+Ni'Var Science Academy|0.007|U utility
+Orion|-0.006|RG planet
+Overgrown Tomb|-0.014|shock BG
+Q Continuum|0.005|G utility
+Qo'noS|-0.004|BR planet
+Quark's Bar|0.003|R utility
+Risa|0.000|GW planet
+Romulus|0.004|UB planet
+Sacred Foundry|-0.020|shock RW
+Spatial Anomaly|0.005|colorless land with 2 damage
+Starfleet Academy|-0.020|colorless legendary land
+Steam Vents|-0.020|shock UR
+Stomping Ground|-0.020|shock RG
+Subspace Anomaly|-0.003|colorless utility land
+Temple Garden|-0.014|shock GW
+Temporal Anomaly|-0.008|colorless utility land
+Unexplored Territory|-0.010|colorless fetch land
+The Unicomplex|0.010|B utility
+Vulcan|0.004|WU planet
+Watery Grave|-0.010|shock UB
+# SDS BONUS SHEET
+Mikaeus, the Lunarch|0.040|X-cost growing team pumper
+Flare of Fortitude|-0.040|protection
+Kenrith, the Returned King|0.040|5/5 with activations (FIN +4.2)
+Sisay, Weatherlight Captain|0.000|grows with legendaries (many in TRK)
+Thada Adel, Acquisitor|-0.010|2/2 islandwalk
+Empress Galina|0.030|steals legendary permanents; TRK full of legends
+Arcum Dagsson|-0.020|niche
+Bruvac the Grandiloquent|-0.040|mill doubler
+Decree of Pain|0.040|wrath + draw or cycling sweep
+Drivnod, Carnage Dominus|0.000|8/3 for 5
+Sheoldred, the Apocalypse|0.060|4/5 deathtouch drain
+Torbran, Thane of Red Fell|0.020|damage amplifier
+Loot, Exuberant Explorer|0.010|1/4 ramp + creature cheat
+Rishkar, Peema Renegade|0.030|counters + mana
+Bristly Bill, Spine Sower|0.030|landfall counters
+Sen Triplets|-0.010|3-color
+Tatyova, Benthic Druid|0.020|landfall draw
+Hull Breach|-0.040|artifact/enchantment removal
+Isshin, Two Heavens as One|-0.020|3-color
+Ertai Resurrected|0.040|flash removal on a body
+Jhoira, Weatherlight Captain|0.020|draw on historic (many legends/artifacts)
+Captain Sisay|0.010|tutor legends
+Riku of Many Paths|0.000|3-color modal payoff
+Prosper, Tome-Bound|0.030|deathtouch + card each turn
+Stella Lee, Wild Card|-0.010|spell payoff
+Mogis, God of Slaughter|0.020|indestructible 2 per turn
+Minamo, School at Water's Edge|-0.020|legend untapper
+Talon Gates of Madara|0.000|utility land
+Phyrexian Tower|-0.020|sac land
+Shizo, Death's Storehouse|-0.010|fear land
