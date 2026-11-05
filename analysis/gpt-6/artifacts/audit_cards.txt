@@ -1,0 +1,303 @@
+0 | FIN | Weapons Vendor | {3}{W} | common | Creature — Human Artificer | 2/2
+When this creature enters, draw a card.
+At the beginning of combat on your turn, if you control an Equipment, you may pay {1}. When you do, attach target Equipment you control to target creature you control.
+
+1 | FIN | You're Not Alone | {W} | common | Instant | /
+Target creature gets +2/+2 until end of turn. If you control three or more creatures, it gets +4/+4 until end of turn instead.
+
+2 | FIN | Magic Damper | {U} | common | Instant | /
+Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it.
+
+3 | FIN | Scorpion Sentinel | {1}{U} | common | Artifact Creature — Robot Scorpion | 1/4
+As long as you control seven or more lands, this creature gets +3/+0.
+
+4 | FIN | Adelbert Steiner | {1}{W} | uncommon | Legendary Creature — Human Knight | 2/1
+Lifelink
+Adelbert Steiner gets +1/+1 for each Equipment you control.
+
+5 | FIN | Quina, Qu Gourmet | {2}{G} | uncommon | Legendary Creature — Qu | 2/3
+If one or more tokens would be created under your control, those tokens plus a 1/1 green Frog creature token are created instead.
+{2}, Sacrifice a Frog: Put a +1/+1 counter on Quina.
+
+6 | FIN | Ultima, Origin of Oblivion | {5} | rare | Legendary Creature — God | 4/4
+Flying
+Whenever Ultima attacks, put a blight counter on target land. For as long as that land has a blight counter on it, it loses all land types and abilities and has "{T}: Add {C}."
+Whenever you tap a land for {C}, add an additional {C}.
+
+7 | FIN | Jenova, Ancient Calamity | {2}{B}{G} | rare | Legendary Creature — Alien | 1/5
+At the beginning of combat on your turn, put a number of +1/+1 counters equal to Jenova's power on up to one other target creature. That creature becomes a Mutant in addition to its other types.
+Whenever a Mutant you control dies during your turn, you draw cards equal to its power.
+
+8 | FIN | Gogo, Master of Mimicry | {2}{U} | mythic | Legendary Creature — Wizard | 2/4
+{X}{X}, {T}: Copy target activated or triggered ability you control X times. You may choose new targets for the copies. This ability can't be copied and X can't be 0. (Mana abilities can't be targeted.)
+
+9 | TLA | Kyoshi Warriors | {3}{W} | common | Creature — Human Warrior Ally | 3/3
+When this creature enters, create a 1/1 white Ally creature token.
+
+10 | TLA | Giant Koi | {4}{U}{U} | common | Creature — Fish | 5/7
+Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
+
+11 | TLA | Rocky Rebuke | {1}{G} | common | Instant | /
+Target creature you control deals damage equal to its power to target creature an opponent controls.
+
+12 | TLA | Kyoshi Battle Fan | {2} | common | Artifact — Equipment | /
+When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.
+Equipped creature gets +1/+0.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+13 | TLA | Combustion Technique | {1}{R} | uncommon | Instant — Lesson | /
+Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.
+
+14 | TLA | Foggy Swamp Spirit Keeper | {1}{U}{B} | uncommon | Creature — Human Druid Ally | 2/4
+Lifelink
+Whenever you draw your second card each turn, create a 1/1 colorless Spirit creature token with "This token can't block or be blocked by non-Spirit creatures."
+
+15 | TLA | Long Feng, Grand Secretariat | {1}{B/G}{B/G} | uncommon | Legendary Creature — Human Advisor | 2/3
+Whenever another creature you control or a land you control is put into a graveyard from the battlefield, put a +1/+1 counter on target creature you control.
+
+16 | TLA | The Unagi of Kyoshi Island | {3}{U}{U} | rare | Legendary Creature — Serpent | 5/5
+Flash
+Ward—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)
+Whenever an opponent draws their second card each turn, you draw two cards.
+
+17 | TLA | Earthen Ally | {G} | rare | Creature — Human Soldier Ally | 0/2
+This creature gets +1/+0 for each color among Allies you control.
+{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)
+
+18 | TLA | Fated Firepower | {X}{R}{R}{R} | mythic | Enchantment | /
+Flash
+This enchantment enters with X fire counters on it.
+If a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.
+
+19 | ECL | Riverguard's Reflexes | {1}{W} | common | Instant | /
+Target creature gets +2/+2 and gains first strike until end of turn. Untap it.
+
+20 | ECL | Kulrath Mystic | {2}{U} | common | Creature — Elemental Wizard | 2/4
+Whenever you cast a spell with mana value 4 or greater, this creature gets +2/+0 and gains vigilance until end of turn.
+
+21 | ECL | Mistmeadow Council | {4}{G} | common | Creature — Kithkin Advisor | 4/3
+This spell costs {1} less to cast if you control a Kithkin.
+When this creature enters, draw a card.
+
+22 | ECL | Stalactite Dagger | {2} | common | Artifact — Equipment | /
+When this Equipment enters, create a 1/1 colorless Shapeshifter creature token with changeling. (It's every creature type.)
+Equipped creature gets +1/+1 and is all creature types.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+
+23 | ECL | Bark of Doran | {1}{W} | uncommon | Artifact — Equipment | /
+Equipped creature gets +0/+1.
+As long as equipped creature's toughness is greater than its power, it assigns combat damage equal to its toughness rather than its power.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+
+24 | ECL | Retched Wretch | {2}{B} | uncommon | Creature — Goblin | 4/2
+When this creature dies, if it had a -1/-1 counter on it, return it to the battlefield under its owner's control and it loses all abilities.
+
+25 | ECL | Thoughtweft Lieutenant | {G}{W} | uncommon | Creature — Kithkin Soldier | 2/2
+Whenever this creature or another Kithkin you control enters, target creature you control gets +1/+1 and gains trample until end of turn.
+
+26 | ECL | Collective Inferno | {3}{R}{R} | rare | Enchantment | /
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)
+As this enchantment enters, choose a creature type.
+Double all damage that sources you control of the chosen type would deal.
+
+27 | ECL | Spinerock Tyrant | {3}{R}{R} | mythic | Creature — Dragon | 6/6
+Flying
+Wither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast an instant or sorcery spell with a single target, you may copy it. If you do, those spells gain wither. You may choose new targets for the copy.
+
+28 | TMT | Stockman, Mad Fly-entist | {4}{U} | common | Legendary Creature — Insect Mutant Scientist | 3/4
+Flying
+When Stockman enters, draw a card, then discard a card.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)
+
+29 | TMT | Raphael, Tough Turtle | {1}{R} | common | Legendary Creature — Mutant Ninja Turtle | 1/3
+Alliance — Whenever another creature you control enters, Raphael deals 1 damage to target opponent.
+
+30 | TMT | Cowabunga! | {G} | common | Sorcery | /
+Look at the top four cards of your library. You may reveal a Mutant, Ninja, Turtle, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+31 | TMT | Rocksteady, Crash Courser | {4}{G}{G} | common | Legendary Creature — Rhino Mutant | 7/7
+Rocksteady can't be blocked by more than one creature.
+Boars you control can't be blocked by more than one creature.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)
+
+32 | TMT | Ooze Spill | {1}{U}{U} | uncommon | Instant | /
+Counter target spell. Create a Mutagen token. (It's an artifact with "{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.")
+
+33 | TMT | General Traag, Heart of Stone | {3}{R}{R} | uncommon | Legendary Artifact Creature — Elemental Soldier | 4/3
+Trample
+When General Traag enters, you may sacrifice another artifact. When you do, General Traag deals 4 damage to target creature.
+
+34 | TMT | Michelangelo, Mutant BFF | {2}{G}{G} | uncommon | Legendary Creature — Mutant Ninja Turtle | 4/4
+Each creature you control with a counter on it can't be blocked by more than one creature.
+Whenever Michelangelo enters or attacks, create a Mutagen token. (It's an artifact with "{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.")
+
+35 | TMT | Krang, Master Mind | {6}{U}{U} | rare | Legendary Artifact Creature — Utrom Warrior | 1/4
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Krang enters, if you have fewer than four cards in hand, draw cards equal to the difference.
+Krang gets +1/+0 for each other artifact you control.
+
+36 | TMT | Tokka & Rahzar, Terrible Twos | {B/R}{B/R} | rare | Legendary Creature — Turtle Wolf Mutant | 3/2
+This spell can't be countered.
+Menace
+Whenever a player casts a spell, if the amount of mana spent to cast it was less than its mana value, Tokka & Rahzar deal 3 damage to that player.
+
+37 | TMT | Donatello, Mutant Mechanic | {3}{U} | mythic | Legendary Creature — Mutant Ninja Turtle | 3/5
+{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.
+Whenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.
+
+38 | SOS | Owlin Historian | {2}{W} | common | Creature — Bird Cleric | 2/3
+Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Whenever one or more cards leave your graveyard, this creature gets +1/+1 until end of turn.
+
+39 | SOS | Muse's Encouragement | {4}{U} | common | Instant | /
+Create a 3/3 blue and red Elemental creature token with flying.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
+
+40 | SOS | Embrace the Paradox | {3}{G}{U} | common | Instant | /
+Draw three cards. You may put a land card from your hand onto the battlefield tapped.
+
+41 | SOS | Potioner's Trove | {3} | common | Artifact | /
+{T}: Add one mana of any color.
+{T}: You gain 2 life. Activate only if you've cast an instant or sorcery spell this turn.
+
+42 | SOS | Sundering Archaic | {6} | uncommon | Creature — Avatar | 3/3
+Converge — When this creature enters, exile target nonland permanent an opponent controls with mana value less than or equal to the number of colors of mana spent to cast this creature.
+{2}: Put target card from a graveyard on the bottom of its owner's library.
+
+43 | SOS | Impractical Joke | {R} | uncommon | Sorcery | /
+Damage can't be prevented this turn. Impractical Joke deals 3 damage to up to one target creature or planeswalker.
+
+44 | SOS | Stress Dream | {3}{U}{R} | uncommon | Instant | /
+Stress Dream deals 5 damage to up to one target creature. Look at the top two cards of your library. Put one of those cards into your hand and the other on the bottom of your library.
+
+45 | SOS | Pensive Professor | {1}{U}{U} | rare | Creature — Human Wizard | 0/2
+Increment (Whenever you cast a spell, if the amount of mana you spent is greater than this creature's power or toughness, put a +1/+1 counter on this creature.)
+Whenever one or more +1/+1 counters are put on this creature, draw a card.
+
+46 | SOS | Wildgrowth Archaic | {2/G}{2/G} | rare | Creature — Avatar | 0/0
+Reach, trample
+Converge — This creature enters with a +1/+1 counter on it for each color of mana spent to cast it.
+Whenever you cast a creature spell, that creature enters with X additional +1/+1 counters on it, where X is the number of colors of mana spent to cast it.
+
+47 | SOS | Restoration Seminar | {5}{W}{W} | mythic | Sorcery — Lesson | /
+Return target nonland permanent card from your graveyard to the battlefield.
+Paradigm (Then exile this spell. After you first resolve a spell with this name, you may cast a copy of it from exile without paying its mana cost at the beginning of each of your first main phases.)
+
+48 | MSH | Murdock's Crusade | {1}{W} | common | Sorcery | /
+Teamwork 4 (As an additional cost to cast this spell, you may tap any number of creatures you control with total power 4 or more.)
+Choose one. If this spell was cast using teamwork, choose both instead.
+• Street Justice — Exile target creature with toughness 4 or greater.
+• Legal Justice — Exile target enchantment with mana value 4 or greater.
+
+49 | MSH | Depower | {2}{U} | common | Instant | /
+This spell costs {2} less to cast if it targets an attacking creature.
+Target creature gets -4/-0 until end of turn.
+Draw a card.
+
+50 | MSH | Go Nuts! | {G} | common | Sorcery | /
+Teamwork 3 (As an additional cost to cast this spell, you may tap any number of creatures you control with total power 3 or more.)
+Choose one. If this spell was cast using teamwork, choose both instead.
+• Put a +1/+1 counter on target creature.
+• Target creature you control fights target creature an opponent controls.
+
+51 | MSH | Vibranium Energy Daggers | {1} | common | Artifact — Equipment | /
+Indestructible (Effects that say "destroy" don't destroy this Equipment.)
+Equipped creature gets +2/+2.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
+
+52 | MSH | Agent 13, Sharon Carter | {2}{W} | uncommon | Legendary Creature — Human Spy Hero | 3/2
+Whenever a creature you control attacks alone, investigate. (Create a Clue token. It's an artifact with "{2}, Sacrifice this token: Draw a card.")
+
+53 | MSH | Evil's Thrall | {2}{R} | uncommon | Sorcery | /
+Gain control of target creature until end of turn. If you control a Villain with greater mana value than that creature, gain control of that creature until the end of your next turn instead. Untap that creature. It gains haste until end of turn.
+
+54 | MSH | Ant-Man, Colony Commander | {1}{G}{U} | uncommon | Legendary Creature — Human Rogue Hero | 2/2
+Whenever Ant-Man attacks, you may pay {1}. When you do, put a +1/+1 counter on target creature.
+Whenever you put a +1/+1 counter on a creature, create a 1/1 green Insect creature token. This ability triggers only once each turn.
+
+55 | MSH | S.H.I.E.L.D. Flying Car | {2}{U} | rare | Artifact — Vehicle | 3/3
+Flash
+Flying
+When this Vehicle enters, exile up to one target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Crew 1
+
+56 | MSH | Ares, God of War | {1}{B}{R} | rare | Legendary Creature — God Warrior Villain | 4/3
+Ares attacks each combat if able.
+Whenever an attacking creature you control dies, return that card to its owner's hand.
+
+57 | MSH | Captain America, Super-Soldier | {1}{W}{W} | mythic | Legendary Creature — Human Soldier Hero | 3/2
+First strike
+Captain America enters with a shield counter on him. (If he would be dealt damage or destroyed, remove a shield counter from him instead.)
+As long as Captain America has a shield counter on him, you and other Heroes you control have hexproof.
+
+58 | HOB | Long-Bodied Grey Dog | {3} | common | Creature — Dog | 2/2
+Flash
+Reach
+When this creature enters, create a tapped Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")
+
+59 | HOB | Enchanted River's Grasp | {2}{U} | common | Enchantment — Aura | /
+Enchant creature
+When this Aura enters, tap enchanted creature and remove all counters from it.
+Enchanted creature loses all abilities and doesn't untap during its controller's untap step.
+
+60 | HOB | Mirkwood Nurturer | {2}{G/U} | common | Creature — Elf Ranger | 3/2
+When this creature enters, return up to one other target permanent you control to its owner's hand. If you do, put a +1/+1 counter on this creature.
+
+61 | HOB | Snowslope Hunter | {2}{R} | uncommon | Creature — Goblin Ranger | 2/3
+Sacrifice another creature or artifact: Exile the top card of your library. You may play it until the end of your next turn. Activate only during your turn and only once each turn.
+
+62 | HOB | Nasty Little Rabbit | {G} | uncommon | Creature — Rabbit | 1/2
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, put a +1/+1 counter on this creature.
+
+63 | HOB | Azog, Moria's Ruin | {2}{B} | rare | Legendary Creature — Goblin Soldier | 1/3
+When Azog enters, destroy up to one other target creature. Its controller amasses Goblins X, where X is that creature's power. If you controlled that creature, draw a card. (To amass Goblins X, that player puts X +1/+1 counters on an Army they control. It's also a Goblin. If they don't control an Army, they create a 0/0 black Goblin Army creature token first.)
+
+64 | HOB | Gigantic Big Bear | {5}{G}{G} | rare | Creature — Bear | 10/7
+This spell can't be countered.
+Hexproof, haste
+
+65 | HOB | Inside Information | {X}{B}{B} | mythic | Sorcery | /
+Exile the top X cards of target opponent's library. You may play those cards this turn. If you cast a spell this way, pay life equal to its mana value rather than pay its mana cost.
+
+66 | FRA | Cryotheory Adept | {1}{U} | common | Creature — Human Wizard | 2/1
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+{3}{U}, Exile this card from your graveyard: Tap target creature and put a stun counter on it. Activate only as a sorcery. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+
+67 | FRA | Undulating Witness | {4}{U} | common | Creature — Serpent | 3/5
+Flying
+{2}: This creature gets +1/-1 until end of turn.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)
+
+68 | FRA | Screeching Soulbreaker | {2}{B} | common | Creature — Siren Bard | 1/4
+Flying
+Whenever this creature attacks, it deals 1 damage to each opponent and you gain 1 life.
+
+69 | FRA | Generous Revival | {2}{W} | uncommon | Sorcery | /
+Return target creature card with mana value 3 or less from your graveyard to the battlefield with an additional +1/+1 counter on it.
+Flashback {4}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+
+70 | FRA | Teyo, Lightshield Expert | {1}{W} | uncommon | Legendary Creature — Human Cleric | 1/1
+Flash
+When Teyo enters, target permanent you control gains hexproof until end of turn. Put a +1/+1 counter on it if it's a creature. Put a loyalty counter on it if it's a planeswalker. (It can't be the target of spells or abilities your opponents control.)
+
+71 | FRA | Proft, Sinister Mastermind | {2}{B} | uncommon | Legendary Creature — Human Rogue | 5/5
+Threshold — You can't cast this spell unless there are seven or more cards in your graveyard.
+Menace
+{B}, Discard this card: Target creature gets -3/-1 until end of turn.
+
+72 | FRA | Vraska's Final Mercy | {B}{B} | rare | Sorcery | /
+Choose one —
+• You lose 2 life. Destroy target creature or planeswalker.
+• You lose 2 life. Empower Jace 6. (Put six loyalty counters on a Jace token you control. If you don't control one, first create a blue Jace planeswalker token with "[−1]: Surveil 1" and "[−3]: Draw a card.")
+
+73 | FRA | Frostbite Pyromental | {U}{R}{R} | rare | Creature — Elemental | 4/4
+Trample, haste
+Whenever this creature deals combat damage to a player, draw two cards.
+At the beginning of the end step, sacrifice this creature.
+
+74 | FRA | Enlightened Confidant | {1}{W} | mythic | Creature — Kor Cleric | 2/1
+Lifelink
+At the beginning of your end step, if you gained life this turn, surveil 1. If you put a card with mana value less than or equal to the amount of life you gained this turn into your graveyard this way, put that card into your hand.

@@ -1,0 +1,36 @@
+number	revised_qualitative_wr	human_weight	reason
+7	67.0	0.65	Unconditional three-mana anthem and cast-token engine; supplied Fili the Pathfinder and Bards Company reached 66.26 and 64.09 percent with related but more expensive effects.
+11	62.0	0.65	Two-mana 2/2 with unconditional permanent creature growth; counter support is common and no extra mana is needed.
+27	52.0	0.5	Reassessment: caster can draw immediately and every subsequent combat while declining attacks; this is a control draw engine despite symmetric optional access.
+30	60.0	0.5	Artifact-creature density supports double strike across multiple bodies; bonus has immediate combat impact rather than requiring another spell.
+41	46.0	0.8	Zero-power nonblockers cannot station; requires external anthem or counters. Sarcophagus and Test of Conviction provide real but conditional rescue paths.
+52	58.5	0.65	First unassisted attack is only 1/2. The supplied Astonishing Ant-Man is a closer anchor than generic counter-text cards; artifact typing and mono-blue cost help.
+53	49.5	0.7	Six-mana draw amount is usually three or four, not six; distinct-land scenarios show five names is far from automatic.
+54	58.5	0.65	Omni-Changeling is 55.98 percent historically; copying counters and artifacts is valuable here, but five-mana cloning is not inherently a premium bomb.
+63	55.5	0.65	Whale tutor is actual value, but five mana plus station eight plus a combat connection delays the extra-turn payoff.
+68	49.0	0.85	Fourth upkeep can force a loss. Dahar Master sacrifices it, Ghost of Illyria resets it, Rules of Acquisition can donate it, and TPol can counter the loss trigger; none is guaranteed.
+74	64.0	0.65	Unconditional doubled draw steps on a four-toughness body need no additional setup; blue cantrips multiply value immediately.
+89	56.5	0.65	Two conditional modes do not equal unconditional two-card advantage; counter mode misses creatures and bounce is capped at mana value two.
+96	57.5	0.65	Temporary graveyard copy is not permanent reanimation or opposing-creature exile; ETB reuse and flying still give genuine value.
+102	50.5	0.65	Eight-mana enchantment carries a large early dead-card cost despite immediate end-step reanimation.
+115	59.0	0.5	Numerous evasive artifact commons and tokens make team combat-damage card draw more credible than the generic text model suggests.
+122	60.0	0.5	Three-mana body with recurring artifact creatures; benefit needs a graveyard but the WB pool supplies many natural targets.
+132	49.5	0.65	Opponent chooses the payoff; replay requires repeated two-mana investment and does not improve board position.
+140	44.5	0.8	Punisher spell needs both an opposing noncreature spell and an advantageous free-cast option in hand; it cannot be valued as a reliable counterspell.
+145	60.0	0.6	Station three unlocks repeated Klingon tokens before the final ship level; historical Synthesizer Labship and Lumen-Class Frigate validate early-level engines.
+153	43.5	0.85	Nine mana plus graveyard spell plus federation board; the model sees copied spell upside but poorly captures three simultaneous setup requirements.
+166	46.0	0.85	Rules correction: cannot sacrifice Treasure tokens forbids every sacrifice use, not just their mana ability. Treasures mainly help Grand Nagus Zek, Worf, or Holo-Engineer.
+185	49.5	0.65	Eight-mana spell often reveals only three to five cards including lands, with no guarantee of useful defensive bodies.
+187	63.0	0.65	Immediate explore on a four-mana body and on every later creature supplies counters, selection and lands without another activation cost.
+211	55.0	0.65	Indestructible Murf is a real defensive benefit, but six-mana creature ramp arrives late and does not itself end the game.
+221	63.0	0.65	Immediate discover five can supply the creature needed to station; repeated attack discovers are materially stronger than ordinary mana-ramp ship text.
+223	51.0	0.7	Initial land goes to hand, not battlefield; later draw requires substantial mana and blue, so generic ramp/text features overstate its efficiency.
+227	62.0	0.5	WB artifact creatures reduce cost and immediate exile matters even if station twelve is delayed; assimilation is not immediate on first entry.
+228	54.5	0.65	Opponent redeploys first after phasing; destroying the token and the timing of chapter-three sacrifice can return the opposing army before yours.
+244	47.0	0.8	Seven-mana spell draws only current hand size and does not affect the board; usual late-game hand sizes undermine its ceiling.
+251	53.5	0.6	Three-color 0/5 needs five non-Borg types per card; neither five creatures nor five lands substitutes for that requirement.
+257	49.0	0.7	Three-mana symmetrical cards and damage give the opponent resources immediately; draw-trigger synergies do not usually justify the cost.
+263	50.5	0.65	Nine-mana card is uncastable in many GiH games, even though actual cast games can be spectacular.
+265	44.5	0.8	Seven mana to deploy plus full costs for subsequent permanents; no immediate defensive or card return despite outside-game access.
+273	60.0	0.6	Station remains usable after the ship is a creature, enabling repeated impulse cards; first-turn exiled card may still be uncastable.
+297	51.5	0.7	Five mana plus tapping the land requires more than six creature types for net mana growth; colored-mana opportunity cost remains.
