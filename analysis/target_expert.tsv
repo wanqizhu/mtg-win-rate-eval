@@ -1,0 +1,312 @@
+collector_number	grade	expert_priority	rationale
+1	3.3	0	Cheap unconditional exile also answers dormant Spacecraft; giving a basic to hand is a real but modest drawback.
+2	2.6	0	First copy can generate multiple cards; 3/1 body trades with Officer tokens so copies and artifact payoffs matter more than combat.
+3	3.5	0	Efficient defensive body and repeatable Borg production; evasion from Organic Avulsion Unit or Locutus turns contact into a growing board.
+4	3.0	0	Two artifact bodies for two mana enable affinity, sacrifice, team buffs and profitable beam-me-up replays.
+5	2.9	0	Lifelink stabilizes early; station taps enable the counter replacement before charging ships or growing creatures.
+6	3.5	0	Two-drop produces bodies from modal spells and modal creature triggers; five-color activated ability is a rare late bonus.
+7	5.0	1	Three-mana anthem plus a token for every creature or Spacecraft spell immediately snowballs; tutor is optional upside rather than necessary.
+8	2.6	0	Cheap answer to large creatures and completed ships, with a cantrip floor that also triggers dilemma payoffs.
+9	2.4	0	Two-power artifact one-drop supports aggressive Borg decks; vigilance preserves blockers and station opportunities.
+10	3.0	0	Three-mana setup recoups value with two nontoken artifacts; high artifact density supports it, but token artifacts do not trigger it.
+11	4.2	0	Efficient two-drop adds permanent stats to every subsequent creature and token; strong with go-wide plans and beam replays.
+12	2.9	0	Solid evasive artifact body; untap ability lets a creature station and still attack, or station two ships in one turn.
+13	3.0	1	No built-in lifegain, but each Medic, lifelink, Food or dual-land event adds two counters because Crusher doubles her own trigger; beam can repeat those events.
+14	2.9	0	Initial body is small for four mana, but saves countered creatures repeatedly and pairs with distributed counters and Doctor EMH.
+15	2.1	0	Can be a one-mana artifact 1/2 or place the counter on a better body; attractive beam fuel and counter enabler but low standalone impact.
+16	4.4	0	Six-mana 6/6 adds multiple bodies immediately; death triggers distribute counters and turn chump blocks into lasting board strength.
+17	2.9	0	Often a four-mana vigilance body plus card, since any permanent counter qualifies; modal ETB is especially good to replay.
+18	1.9	0	Selection rather than advantage on first cast; improves when tutoring a bomb ship and replaying a value creature, but consumes considerable mana.
+19	2.8	0	Landcycling prevents early dead draws; large artifact body and temporary team boost support go-wide attacks.
+20	3.2	0	Efficient flyer with repeatable value when paired with beam recursion; blink reuses strong ETBs and resets problematic enchantments.
+21	2.8	0	Three-mana 3/3 artifact with a realistic eight-total-power payoff; Spacecraft eventually help meet the threshold.
+22	3.7	0	Three-mana Oblivion Ring with ward and artifact synergies; answers almost every bomb, including dormant ships and engines.
+23	2.2	1	Temporary exile is not permanent removal; can instead blink a friendly ETB creature, and the Clue provides eventual material.
+24	3.7	0	ETB can immediately draw at end step; repeated beam casts draw additional cards and the body is efficiently sized.
+25	1.2	1	Requires sacrificing a creature and leaving mana open; powerful team protection only when already developed, with little proactive value.
+26	2.2	0	Fixes the next land drop and supplies an artifact; six station counters are substantial for only a 2/2 flyer, so assess chiefly as a land finder.
+27	0.6	1	Opponent chooses whether to skip combat; four-mana symmetrical draw engine rarely reaches twelve counters before decisive combat or removal.
+28	2.3	0	Good three-mana power for station and eight-power attacks; needs a partner to attack and trades down into small blockers.
+29	2.3	0	Reusable power boost can improve combat or station output, but sorcery timing and tapping the source constrain defense and tempo.
+30	3.7	0	Borg double strike creates large immediate attacks with even modest artifact boards; fragile body and four-mana cost keep it below the best bombs.
+31	2.5	0	Counters spread efficiently and recur through beam; strong with lifelink and counter payoffs, but returning a creature is not free board development.
+32	3.0	0	Six-card artifact selection is likely to replace itself in this environment; body and subsequent counters make a reliable value creature.
+33	3.3	0	Flash creature usually removes an attacker using existing diverse types; five mana and Borg-heavy boards reduce consistency.
+34	2.5	0	One-mana defensive removal or proactive stun is flexible; targets an attacker for damage and cannot permanently kill larger creatures.
+35	2.9	0	Protection plus permanent counter wins combat and protects high-value engines; can also save a dormant Spacecraft.
+36	2.7	0	Five-mana evasive attacker stabilizes with lifegain; stationing also triggers the life, but cannot fly when blocking.
+37	2.9	0	First-strike two-drop with a conditional draw engine; sequencing equipment or ships before attacking or stationing makes the condition attainable.
+38	2.1	0	Fragile early body; eight-power attack condition comes later, but accumulated counters and untapping help offensive boards.
+39	3.2	0	Two-mana permanent team boost is excellent with Borg and Officer tokens; draw mode prevents dead hands but gives opponent a card.
+40	2.4	0	Selects land or a cheap permanent with high hit rate; beam provides late value and ETB reuse without being an immediate extra card.
+41	0.8	1	Exponential 0/1 tokens cannot block and need a power anthem or sacrifice payoff; too much setup for an ordinary deck.
+42	2.6	0	Durable five-drop makes attacks difficult to block after the eight-power threshold; no ETB value or independent evasion.
+43	4.2	0	Three bodies immediately stabilize and charge the ship over two turns; ward plus a 5/5 flying lifelinker is a powerful endgame.
+44	3.5	0	Four-mana removal spell with a later 4/4 flyer attached; destroy target tapped creature can miss defensive engines and requires a legal target.
+45	2.4	0	Efficient artifact body with useful tempo ETB; tap effect is especially valuable to replay when attacking with Borg.
+46	3.4	0	Noncreature spells include ships and artifacts; first two triggers filter, later triggers generate cards, but the setup costs a turn without a body.
+47	3.8	0	Large vigilant ward body stabilizes; subsequent modal spells generate free opposing spells, including on opposing turns with instant dilemmas.
+48	2.8	0	Ward protects a body that permanently grows with noncreature casts; strong if deployed before the spell-heavy turns, slower than cheap threats.
+49	2.6	0	Usually costs five or six rather than nine; two bodies plus net card advantage are substantial, but unique-land requirements delay it.
+50	2.6	0	Flash two-drop trades while filtering a card; excellent replay target for beam and helps fill the graveyard.
+51	2.9	0	Soft counter remains useful because the other mode replaces itself and buys a combat step; reliably triggers dilemma abilities.
+52	3.3	0	Starts vulnerable but naturally grows each draw step and scales sharply with draw-two spells and beam cantrips.
+53	1.9	0	Six-mana draw-only spell needs several unique land names to outperform cheaper draw spells and adds no board presence.
+54	3.9	0	Copies best artifact or creature with counters intact and removes legendary restriction; can copy an already-stationed ship or either player's bomb.
+55	3.0	0	Good defensive stats and modal ETB; either recovers a ship or fills the graveyard and sets up draws, with profitable beam replays.
+56	2.3	0	Cheap tempo and a second cast; sorcery timing and opponent ETB creatures constrain it, while returning your own creature can create value.
+57	2.4	0	Defensive body usually finds a playable opposing land among several cards; no extra land drop, and off-color lands mostly support unique names.
+58	2.7	0	ETB delays an attacker before becoming an evasive vigilant threat; station six still requires real creature taps.
+59	2.3	0	Cheap flying artifact with modal ETB; enables dilemma and artifact engines and is easy to beam, though the unassisted body is small.
+60	3.1	0	Instant broadly answers creatures or dormant ships; cheaper against attackers, but top-library option gives opponent a redraw.
+61	2.5	0	Baseline two-mana 2/2 leaves Equipment after removal; token-copy ability is situational and still requires paying equip costs.
+62	2.0	0	Four-mana hard counter with occasional two-mana use; holding up four is costly against value creatures and cheap spell chains.
+63	3.2	0	Whale tutor has common targets and gives immediate value; draw and extra-turn payoffs require charging eight counters and connecting.
+64	2.6	0	Five-mana 3/3 usually finds one card from a useful selection; counts her own two types, but Borg boards reduce selection depth.
+65	2.7	0	Landcycling keeps it useful early; large vigilant ward body defends well but lacks evasion and immediate card advantage.
+66	3.0	0	Bounce attached to four power is useful tempo and a good beam target; five-mana cost and opposing ETBs limit repeated bouncing.
+67	3.3	0	Repeated modal creature triggers grow Jett; station provides safe surveils and eventually draws once power reaches four.
+68	1.6	1	Fourth upkeep forces losing the game; needs a fast win or a specific blink or sacrifice outlet, so nominal draw and token value overstates reliability.
+69	4.1	0	Both players' noncreature spells grow Data; surplus counters become cheap cards, with counter removal available from all friendly creatures.
+70	2.8	0	Three power supports station even without text; doubling charge counters accelerates Spacecraft significantly but requires a supporting board.
+71	3.0	0	Four-mana draw two plus Officer is reliable material and dilemma support; untap mode occasionally completes a ship or generates mana instead.
+72	2.6	0	Cheap disabling Aura can wait for a creature to tap; paying four taps immediately, and beam prevention closes a major escape route.
+73	3.4	0	Flying vigilance threat grows with each dilemma, including modal ETB creatures; three mana and one initial toughness expose it to cheap removal.
+74	4.8	1	Doubles every draw, including routine draw steps and draw-two spells; four-toughness body survives small damage and the advantage snowballs rapidly.
+75	3.6	0	Three-mana 2/4 is an effective blocker; choosing a common mana value generates extra cards as opponent develops, though late deployment is worse.
+76	2.7	0	Cheap spell for noncreature engines and a later beam cast; returning a value creature is useful but must be repaid in mana and tempo.
+77	3.4	0	Low initial cost with hexproof while dormant; noncreature casts help reach eight counters without forfeiting all creature attacks.
+78	2.6	1	Steal mode gives opponent three cards; gifting a disposable token for draw three is often better, but five-mana timing and material costs matter.
+79	3.8	0	Reuses instant and sorcery cards at normal mana cost while returning ETB creatures; main-phase restriction prevents instant-speed protection loops.
+80	2.9	0	Two-mana 0/4 blocks while looting every turn; five unique lands eventually unlock extra cards, while the seven-name transformation is a remote bonus.
+81	2.7	0	Efficient defensive body and three station power; noncreature-heavy decks can attack often, but it cannot attack without casting a spell first.
+82	3.0	0	Flash body with modal stun gives flexible tempo and dilemma triggers; Stifle mode is narrower than countering a spell.
+83	2.8	0	Immediate card replaces the investment; five station counters are relatively attainable for a 3/2 flyer and artifact ETB synergies add value.
+84	3.0	0	Three-power creature becomes a reasonably cheap repeatable tapper once three or four distinct lands are established.
+85	2.8	0	Selection cantrip is a useful floor and delayed blink protects or reuses creatures; only one mode is chosen, so protection does not also draw.
+86	2.7	0	Looting fills the graveyard for beam, then chapter two recovers a useful card; third chapter adds little immediate material.
+87	3.3	0	Seven-mana flyer replaces itself on entry and keeps drawing or weakens attackers; expensive without cycling but closes stalled games.
+88	3.4	1	One mana grants two persistent opposing cards with mana flexibility while giving opponent one of yours; no short play deadline, but symmetrical resources matter.
+89	3.1	0	Flash 2/2 chooses two useful effects; bounce is restricted to mana value two or less and the draw mode is filtering rather than advantage.
+90	3.5	0	Can generate extra artifact cards from the library top and gives every ship two counters; benefits from high artifact density without needing a ship immediately.
+91	3.7	0	Discard mode is instant-speed three-mana -4/-4; late 6/6 menace strips hands every end step, giving useful early and late halves.
+92	2.3	0	Artifact lord improves its own power and wide Borg boards; four mana for a defensive 3/4 is fair but not a value play.
+93	3.3	0	Three-mana flyer converts disposable artifacts or creatures into cards on attack; Food, Borg tokens and exhausted value artifacts supply fodder.
+94	3.0	0	ETB kills small engines or blockers and leaves a reusable power boost; misses four-toughness creatures and costs mana to equip later.
+95	3.1	0	Menace threat grows from either player's creature deaths, once each turn; token exchanges and sacrifice make growth consistent after the weak initial turn.
+96	3.1	0	Flying body can reuse a cheap creature ETB immediately and gains drain from graveyard departures; requires a suitable graveyard target for full value.
+97	2.8	0	Six power across two bodies for five mana, including a hasty token; valuable with Klingon sacrifice and excellent to replay through beam.
+98	3.3	0	Cheap artifact body enables card drawing by tapping three artifact creatures; competes with station and attacks but works with summoning-sick tokens.
+99	2.8	0	Low-cost Borg scales in power with the artifact-creature board, both attacking and charging ships; two toughness remains vulnerable.
+100	2.9	0	Three-mana 3/2 with either a Clue or graveyard interaction; repeated modal ETBs support dilemmas and beam value.
+101	3.0	0	Modal ETB either sweeps tokens or edicts; sacrifice mode is symmetrical but can sacrifice itself, and opponents can exploit expendable tokens.
+102	2.3	1	Eight-mana engine immediately reanimates at end step and gives Borg indestructible; very strong when cast but often stranded before then.
+103	3.6	0	Five-mana scalable sweeper normally clears small and medium creatures; six unique names for bonus tokens is uncommon.
+104	2.2	0	Usually neutralizes an attacker and removes blocking immediately; artifact or creature activated engines remain functional until threshold exile.
+105	3.5	0	Two-mana instant kills small creatures, or sacrifices a cheap artifact to kill almost any large creature; abundant expendable material supports kicker.
+106	4.0	0	Efficient menace 3/3 plus repeatable four-point life swings from modal spells and creature abilities; threatens quick wins while stabilizing.
+107	2.8	0	Early discard is real card advantage and can be repeated via beam; three-power one-toughness body trades down against tokens.
+108	3.1	0	Large menace threat returns cheaply from graveyard after a dilemma, making ordinary trades favorable; five-mana replay cost still matters.
+109	3.6	0	One-mana sacrifice outlet grows every Klingon permanently, including itself; token Klingons and multiple cheap Warriors create explosive combat.
+110	3.8	0	Six-mana durable blocker draws at each end step and prevents life-total losses while alive; removing it at negative life is a serious vulnerability.
+111	1.4	0	Cheap power trick replaces itself only if the target dies; cannot save a creature and is awkward against exile, bounce or noncombat engines.
+112	3.4	0	Accumulates Treasures on either player's creature deaths and grows from them; starts small but supports ramp, splashes and sacrifice decks.
+113	3.3	0	Seven-mana menace bomb doubles opposing life loss each end step and gains that life; triple black and no reliable entry removal limit consistency.
+114	3.1	0	Unconditional instant removal with surveil is reliable; four mana is less efficient than the best two-mana answers.
+115	3.3	0	A sturdy artifact body grants card draw to the whole Borg board on contact; menace and token swarms turn it into substantial advantage.
+116	2.9	0	Instant draw two is a solid floor; removal creates two opposing tokens, so best used on bombs rather than routine creatures.
+117	3.0	0	Nontoken edict, Clue and later two bodies supply sustained material; five-mana initial investment can be punished by wide boards.
+118	1.8	0	Three-power two-drop is serviceable but one toughness trades poorly; blind naming rarely shuts off the opponent's most relevant card.
+119	4.0	0	Four-mana five-power body turns a disposable artifact or token into two cards immediately; casting from exile is useful additional resilience.
+120	2.4	0	Five toughness stalls ground attacks and modal chains drain repeatedly; low power and four-mana cost make it a defensive synergy piece.
+121	3.0	0	Efficient artifact body and repeatable team menace; creates attacks for Borg card-draw and token-generation lords.
+122	3.9	0	Efficient Borg body repeatedly recasts artifact creatures from the graveyard; finality limits infinite recycling but each recovery is valuable.
+123	2.4	0	Selection, self-mill and a cheap second cast; gains value with ETB creatures and graveyard payoffs but first casting does not add cards.
+124	1.9	0	Small lifelink artifact can trade or be sacrificed and later replaces itself; weak damage output and three-mana graveyard draw keep it modest.
+125	3.3	0	Two-mana kill spell misses many Borg and other artifact creatures, but reanimation mode supplies a good alternative in artifact-heavy matchups.
+126	2.7	0	Landcycling fixes early hands; large artifact body either stabilizes life or filters the next draws, with a modal trigger on entry.
+127	2.6	0	Efficient lifelink two-drop disrupts a specific opposing card but replaces it; knowledge and lifegain matter more than raw card advantage.
+128	3.6	0	First attack can immediately create a 2/2 if your own graveyard has a card; beam, cycling and graveyard activations provide additional token triggers.
+129	2.7	0	Aggressive one-drop returns once through finality; supports Klingons and sacrifice but cannot stabilize by blocking.
+130	2.6	0	Three-mana two-card recursion is useful after trades; hand-exile mode gives an early use and both modes trigger dilemmas.
+131	3.1	0	Attack trigger faces a dilemma every turn and can grant deathtouch to itself or another attacker; excellent support for repeated modal payoffs.
+132	1.2	1	Opponent controls the initial outcome and replay costs mana; repeated drain can matter with dilemmas but it adds no board and can be denied cards.
+133	2.9	0	Two artifact bodies across a death trigger for two mana; ideal for Borg lords, sacrifice, affinity and graveyard recasting.
+134	2.3	0	One-mana modal cantrip or creature recovery; cheap dilemma enabler with a decent late-game floor but no inherent card advantage.
+135	3.9	0	Four-mana reanimation provides immediate value and the returned creature helps charge the ship; ten counters delay the recurring attack payoff.
+136	1.9	0	Every creature death drains but three-mana setup does not affect the board; relies on sustained exchanges or a sacrifice engine.
+137	3.6	0	Noncreature casts produce permanent Officers and grow the Instructor's power; ships and reusable beam spells make repeated triggers realistic.
+138	2.7	0	First strike makes a useful aggressive two-drop; tapping for station also builds toward the occasional two-damage trigger.
+139	2.5	0	Hasty Klingon token contributes to sacrifice and tribal plans; beam provides a later body and value-creature replay at a tempo cost.
+140	0.7	1	Opponent can decline the exile when your free spell is weak or unavailable; double red and noncreature restriction make this unreliable interaction.
+141	2.8	0	Reasonable defensive stats and a recurring power boost; eight-total-power condition later makes a key attacker harder to block.
+142	4.3	0	Immediate modal token or filtering and repeated attack triggers generate advantage; empty-hand mode selection turns it into a powerful army engine.
+143	3.1	0	Efficient trample body supplies damage on normal land drops; ramp and fetch effects add counters with second landfall triggers.
+144	1.5	0	Flash first strike can win one combat, but the Aura remains exposed to two-for-one removal and supplies no toughness thereafter.
+145	3.9	0	Three station power turns this cheap ship into a free hasty Klingon each combat; those tokens can later help charge it or be sacrificed.
+146	3.0	0	Four-power body can sacrifice an exhausted artifact, spare token or enchantment for two damage to any target; profitable ETB replay target.
+147	2.5	0	Temporary copies can exploit ETBs or finish games, but triple red and dependence on opposing creatures make the card inconsistent.
+148	2.9	0	Instant draw-two impulse gives a floor while two damage to all creatures can sweep tokens; double red and symmetrical damage require care.
+149	2.6	0	Hasty body repeatedly produces extra landfall triggers and temporary mana; returned land can be replayed, but natural land drops are still required.
+150	2.3	0	Recurring landfall selection has a high ceiling; four-mana setup and same-turn play permission often waste the first revealed spell.
+151	2.6	0	Six damage answers most creatures; replacing your land with New Planet can improve fixing, distinct names and landfall, but five mana is slow.
+152	2.5	0	Large trampling finisher with an early landcycling option; lacks entry value, protection or immediate haste.
+153	0.4	1	Nine mana plus a graveyard spell and a diverse surviving board is excessive setup; poor when behind or drawn early.
+154	3.5	0	Scalable instant removal efficiently kills four-toughness creatures for three mana and exiles recursion targets; cannot damage players.
+155	3.7	0	Five-power trample body immediately clears Officer and Borg tokens and small engines while leaving your own board intact.
+156	2.8	0	Good power and useful attack payoff, but requires eight total power and has no protective or card-advantage ETB.
+157	2.1	0	Efficient basic body; doubling another creature's future triggers costs two mana and removes this creature from attacks or station.
+158	3.1	0	Three-power trampler for two mana trades up and leaves a one-damage trigger that can finish another creature or hit a player.
+159	1.3	1	Temporary ramp must be used on a narrow chapter-two window, and chapter three sacrifices a land; poor lasting material without specific sequencing.
+160	3.9	0	Haste and first strike combine with immediate team power boost to threaten lethal; seven mana requires a deck able to reach its finishing turn.
+161	3.0	0	Instant artifact destruction hits Borg, ships and engines; substantial pump mode provides a broadly useful alternative and a dilemma trigger.
+162	3.0	0	One-mana removal is efficient against small creatures and tokens; four-damage upgrade requires a prior death and is not always available.
+163	2.4	0	Usually attacks as a three-power two-drop while land drops continue; lacks lasting growth or entry value.
+164	3.2	0	Instant three damage to any target with optional filtering; handles engines, finishes combat and turns surplus lands into new cards.
+165	3.5	1	Four-mana 4/4 offers persistent replacement of bad hand cards with one sampled spell; copies still require paying mana and consume a card from hand.
+166	0.5	1	Treasure tokens cannot be sacrificed while Quark remains; bounce can eventually unlock stored mana, but the small body and unsupported tokens are poor alone.
+167	3.3	0	Graveyard spells reduce cost of a flying hasty threat; beam exiles its own spells, so discount should not assume every cast remains in the graveyard.
+168	2.8	0	Cheap two-card access supports noncreature engines and land drops; delayed permission helps use both cards, but it adds no immediate blocker.
+169	2.0	0	Team power boost can finish wide boards or trade up while blocking; defensive discount does not add toughness or save creatures.
+170	3.0	0	Immediate team power anthem supports tokens and eight-power attacks; ten-counter flying body arrives later, aided by creature deaths.
+171	2.9	0	Two-mana creature ramps into four-drops and banks Treasure later; one toughness is fragile and mana is only red until Treasure production.
+172	2.8	0	Four-power reach body plus a card playable through next turn is reliable top-end material, but five mana competes with stronger ships and bombs.
+173	1.8	0	Cheap haste body can generate a Clue when it dies during your turn; small stats and conditional replacement make it primarily support material.
+174	2.6	0	Three power can station efficiently and untaps after noncreature spells; repeated pings pressure life totals but cannot remove creatures.
+175	2.2	1	Five-power menace is an excellent rate until attacking requires repeated nonland sacrifices; disposable material helps but ongoing card loss is substantial.
+176	3.2	0	Hasty two-drop replaces itself on death with temporary card access, then repeats once from the graveyard; strong sacrifice and graveyard-leaving synergy.
+177	2.7	0	Klingon double strike is a strong trick in the right deck; instant rummage-draw mode supplies a fallback and dilemma trigger.
+178	3.4	0	Two-mana three damage to any target is strong initially; expensive triple-red beam is later value rather than the main reason to draft it.
+179	3.6	0	Four-power body generates two temporary lands every combat, including entry turn; ramp, landfall and thinning all matter despite sacrificing those lands later.
+180	2.9	0	Three-power body plus temporary theft of a cheap opposing creature enables a large attack; free sacrifice outlets can turn theft into permanent removal.
+181	3.8	0	Three-mana four-damage removal with later filtering and a permanent edict; surviving larger creatures can instead be stolen for combat.
+182	2.7	0	Reasonable three-mana artifact body generated by a noncreature spell; beam adds a second body and can reuse an ETB creature.
+183	3.2	0	Fight is conditional but followed by life and creature recovery; three chapters provide value when you can safely win the initial fight.
+184	2.5	0	Ordinary two-drop becomes a four-power creature at a reasonable activation cost as unique names accumulate; once-per-turn restriction prevents an unlimited pump sink.
+185	1.9	0	Eight mana usually yields several tapped permanents but often includes lands; unique-name and high-cost requirements leave many early dead draws.
+186	3.6	0	Three mana supplies four power across two bodies and three creature types; repeatable federation boost supports attacks and station acceleration.
+187	4.5	0	Explores immediately and for every subsequent creature, improving draws or adding counters; additional land play converts explored lands into tempo.
+188	3.7	0	Power grows with unique lands and playing lands off the library provides real card advantage; double green and early two-basic-land boards constrain initial size.
+189	3.0	0	Cycling solves early hands; entry counters create substantial stats or improve an existing threat, and small creatures cannot block it.
+190	3.2	0	Two-mana combined bite can use two friendly creatures to kill a large target without fighting; needs a developed board and can be disrupted.
+191	2.9	0	Normally a four-mana 4/5 with a modal trigger; mana mode enables another spell or a splash while leaving a solid body.
+192	2.2	0	Pump mode is useful, but three mana is expensive and opposing artifact/enchantment edict cannot reliably hit a chosen bomb amid spare artifacts.
+193	3.2	0	Defensive body plus a permanent land token ramps and fixes all colors; excellent to replay through beam, though repeated tokens share one name.
+194	2.9	0	Vigilant 4/4 gives useful station power without sacrificing future blocks; modal surveil or graveyard interaction adds flexibility and dilemma triggers.
+195	2.7	0	Can be a three-mana 4/2 or improve a better creature; trample for countered creatures helps distribute counters and push damage.
+196	3.7	0	Doubles creature counters and protects other countered creatures; strong with Doctors, dilemma growth and landfall, but does not protect itself by default.
+197	3.8	0	Flash body returns a non-Doctor permanent or insures another creature against death; non-Doctor restriction matters but artifact and creature targets are plentiful.
+198	2.6	0	Three-mana ramp finds dual-color Planets as well as basics; cheap beam can ramp again and reuse a creature, at the cost of rebuilding that body.
+199	2.5	0	Instant selection almost always finds a permanent and fills the graveyard; useful consistency rather than raw advantage, with first-spell life a small bonus.
+200	2.6	0	Permanent ramp also counts as an artifact; expensive later activation converts basic lands into utility lands and extra unique names rather than adding land count.
+201	4.6	1	Four mana immediately supplies two 3/3s, then turns Officer, Borg, Food, Clue and even Planet tokens into 3/3 artifacts; token utility is lost but board power is enormous.
+202	3.7	0	Returning a permanent immediately triggers a 3/3 token as well as the 2/2 body; later beam and graveyard departures generate more tokens once each turn.
+203	2.8	0	One-mana trick untaps and supplies a temporary +1/+1 plus permanent counter; supports counter engines and station while remaining combat-efficient.
+204	4.6	0	Two-mana creature grows and produces increasing green mana every first main phase; provides both early acceleration and a scaling body without tapping.
+205	2.6	0	Efficient body gains life from normal land drops and Clues from second landfalls; ramp, Anomalies and temporary land engines improve the draw rate.
+206	2.5	0	Aggressive one-drop replaces targeted removal or combat tricks with an Officer; opponent can still block it and tokens enter tapped.
+207	2.6	0	Cheap deathtouch creature discourages large attackers and can gain reach against ships; weak station power and susceptibility to pings limit it.
+208	3.0	0	Five-mana 6/6 with reach, vigilance and deathtouch dominates many combats and provides station power; no entry card advantage or protection.
+209	2.2	0	Food supplies one reliable growth trigger and later lifegain can grow it further; starts as a low-impact 1/1 and needs mana or supporting cards.
+210	2.8	0	Five-power reach body stabilizes against flyers and charges ships; graveyard token adds value after trading or being milled.
+211	2.7	0	Six mana provides a 5/5 and indestructible chump blocker; team mana arrives late, so do not value it like an early mana engine.
+212	3.1	0	Flash body can save a valuable creature from targeted removal while improving the board; no protection from sweepers or combat damage.
+213	2.6	0	Four-power body attacks larger on landfall and supplies a repeatable late land-token sink; no immediate value if unable to attack.
+214	2.9	0	Large body gains several life and bypasses Borg blockers; six mana and vulnerability to nonartifact removal limit the tribal protection.
+215	2.5	0	Each attack ramps permanently into any color and triggers landfall; three-mana setup adds no blocker and repeated New Planets do not add unique names.
+216	2.9	0	Every later creature receives permanent stats and eventually two counters; slow initial investment but especially effective with repeated creature tokens.
+217	3.1	0	ETB surveil stocks beam spells and graveyard fuel; recurring combat counter costs only one mana and can immediately improve a creature on later turns.
+218	3.5	0	Landfall distributes two permanent counters each turn, creating a rapidly growing team; five-mana initial 4/4 needs a land drop to supply immediate extra value.
+219	2.7	0	Three-mana defensive body replaces itself with a land or Treasure after milling; supports graveyard engines, splashes and beam ETB reuse.
+220	1.9	0	Very cheap artifact/enchantment answer hits many early engines and Borg but misses large ships; graveyard-exile lifegain mode is a weak fallback.
+221	4.5	0	Five mana immediately discovers a real spell and later attacks repeat it; six station counters are attainable and the final body is evasive.
+222	3.4	0	Four-mana double land ramp is substantial and later leaves a flying vigilance ship; eight counters require another board, and entry does not block immediately.
+223	2.4	0	Replaces itself with a land but does not ramp on entry; untapped lands help the many taplands, while the eventual draw activation still needs blue mana.
+224	3.2	0	Two-mana any-color source has three toughness and ramps into powerful four-drops; supports splashes without needing extra off-color lands.
+225	3.0	0	Three-mana body receives permanent counters on ordinary land drops; extra landfall can quickly turn it into a large threat and station resource.
+226	3.1	0	Three draw-two/exile-one chapters generate sustained selection and material, with possible life at the end; five mana in two colors adds no immediate blocker.
+227	4.4	0	Affinity makes entry exile affordable in a Borg deck; later attacks assimilate the exiled creature and twelve counters grant team evasion, but charging still takes a board.
+228	2.6	1	Phases out both boards and uses a fragile token to lock phasing; draw and life buy time, but ending the lock can return opposing creatures before yours.
+229	3.3	0	Hybrid landfall engine makes a 2/2 on every land drop; tokens cannot block, so it is stronger offensively and with sacrifice or repeated land entry.
+230	3.2	0	Hybrid five-drop has an immediate modal ETB: two Clues for material or two stun counters for tempo; strong beam target but expensive.
+231	3.1	0	Efficient gold body generates temporary mana from landfall and later turns surplus lands into cards; sacrificing lands can undo unique-name thresholds.
+232	3.0	0	Hybrid Gravedigger is broadly castable and synergizes with beam; graveyard activation supplies life and a departure trigger after death or self-mill.
+233	2.1	0	Three distinct colors and limited enchantment density constrain the draw engine; Saga-counter activation is useful but cannot justify unsupported casting demands.
+234	3.9	0	Hybrid five-drop is at least a 5/5 when targeting itself and distributes extra counters to the existing countered team; excellent with repeated ETBs.
+235	3.5	0	Two hybrid mana supplies a 3/2 followed by a hasty 2/1 when it dies; excellent Klingon fodder with strong standalone material.
+236	3.1	0	Sturdy hybrid three-drop can untap a mana source, attacker, tap engine or station contributor; surveil is an additional late sink rather than immediate draw.
+237	4.1	0	Free sacrifice outlet grows from all creature deaths; sacrificing Klingons also draws cards, with multiple repeatable Klingon-token sources available.
+238	3.8	0	Hybrid engine copies a creature each combat after a noncreature cast, reusing ETBs and adding a hasty attacker; requires a creature board and spell sequencing.
+239	2.8	0	Efficient gold body loots when attacking or stationing; ship hexproof applies only during your turn, so it does not prevent all opposing removal.
+240	2.7	0	Ramp and team haste combine well with large creatures and landfall; no creature body and three-color-style gold demand keep the floor moderate.
+241	3.3	0	Reanimates a green or white creature immediately, then offers a large combat-draw opportunity; needs a suitable graveyard and a way to connect.
+242	3.0	0	Efficient trampling gold attacker boosts later creatures and turns combat-time tokens into attackers; lacks an immediate token or card itself.
+243	3.0	0	Gold 3/3 supplies attack-card access at eight total power, and a sacrifice option answers artifacts or enchantments; must establish a board to draw reliably.
+244	1.2	1	Seven mana can gain substantial life, but draw scales with cards left in hand and no blocker is created; often too little material when expensive hands finally empty.
+245	3.6	0	Two-mana Borg anthem buffs itself and wide artifact boards; discard-removal mode prevents a dead draw when colors or board are awkward.
+246	2.8	0	Hybrid artifact body either filters two cards or pushes an attacker through; modal ETB and artifact status make it easy to fit into several engines.
+247	3.8	0	Three-mana defensive body creates a temporary Klingon attacker every combat, including entry turn; sacrifice synergies turn those tokens into lasting value.
+248	3.8	0	Three-mana opposing-creature copy with menace scales with the best opposing threat; explicit kicker cost is six additional mana despite a conflicting reminder parenthesis.
+249	4.0	0	Cheap menace threat becomes 3/4 for one mana, surveils when tapped and later replays graveyard lands; upgrades are permanent and can be paid off curve.
+250	3.5	0	Trampling body turns countered creatures' combat damage into cards; needs counters on attackers and can draw multiple cards from a wide successful attack.
+251	2.6	0	Five types for one card is plausible with diverse species and jobs; three-color 0/5 and a board-dependent draw threshold make unsupported hands awkward.
+252	3.9	0	Four-mana 2/4 draws for every dilemma, including repeatable attack abilities and modal ETBs; substantial enabler density makes this a true archetype engine.
+253	3.2	0	Two-mana body digs four for a noncreature nonland spell; spell-heavy UR often replaces it, but the selection can miss in creature-heavy builds.
+254	3.0	0	Two-mana reach vigilance body starts at modest power and scales with distinct lands; three toughness stays fixed and two colors are required early.
+255	3.8	0	Durable three-mana body surveils each upkeep and draws once per turn from graveyard departures; beam and several common graveyard activations supply fuel.
+256	3.0	0	Hybrid one-power creature can grow by tapping spare artifacts or summoning-sick bodies; eight-power attacks double its power but setup taps compete with combat and station.
+257	0.8	1	Symmetrical cards and damage usually leave you down the Saga card without affecting the board; direct draw-growth synergies rarely compensate reliably.
+258	2.8	0	Hybrid lifelink body taxes a chosen opposing hand card by two mana; disruption is temporary rather than permanent exile, but helps protect tempo.
+259	2.4	0	Three-mana any-color rock later becomes a flying vigilant blocker; six station counters require creatures, so the mana function is the dependable floor.
+260	1.7	1	Two Equipment copies need seven total mana to equip two creatures before unblockability works; lacks a stat boost and is slow when behind.
+261	3.0	0	Eight-mana flying 7/7 selectively sweeps nonartifact creatures when cast; strong payoff, but artifact-heavy opposing boards reduce the sweep and early copies are stranded.
+262	2.5	0	Colorless two-drop filters on entry and supports artifact boards; bottom-of-library activation triggers graveyard engines but is otherwise slow card recycling.
+263	3.1	0	Nine-mana entry can immediately add several permanents and repeats each upkeep; mana cost is extreme and lands or dormant ships do not always stabilize at once.
+264	2.8	0	Flexible sunburst sweeper can clear token swarms or a chosen low mana-value band; color access limits the maximum, and the effect is symmetrical.
+265	1.9	1	Seven-mana artifact requires further mana to replay one permanent each turn; sideboard access helps selection but it usually lacks an immediate stabilizing play.
+266	2.4	0	Two-mana artifact ramp is restricted to artifacts and their abilities; looting is useful later and helps noncreature engines, but does not generate extra cards.
+267	3.0	0	Food provides an initial token and repeatable copying grows a board with Borg, Officers or Illusions; copying Food alone is not fast board development.
+268	2.3	0	Five-mana artifact can put its first counter on a creature immediately; lifegain and later entries improve the rate, but it needs a surviving creature and time.
+269	3.0	0	Replaces itself on entry and leaves artifact fodder or a modal sacrifice activation; especially useful with dilemma payoffs and cheap artifact sacrifice.
+270	2.6	0	Cheap Equipment improves both stats and attack selection with low equip cost; surplus copies and lack of bodies reduce standalone value.
+271	2.4	0	Two-mana stun buys tempo and leaves a power Equipment, but equip three is costly and does not improve toughness.
+272	2.8	0	Two Officer bodies are immediate material and help charge the later 4/4 flyer; five mana and station six still require supporting creatures.
+273	3.8	0	Charging generates immediate impulse access once each turn and a 4/5 flying vigilant body at seven; early triggers can be wasted if no mana or land play remains.
+274	2.3	0	Finds a basic without ramping, then supplies recurring charge counters; enables ships without creature taps but costs mana and adds little without one.
+275	2.6	0	UR fixing plus life, Planet subtype and another unique name; tapped entry is a real tempo cost but supports several set mechanics.
+276	2.3	0	Colorless source costs early color consistency; late drain and a replacement Planet add reach, life and a landfall trigger.
+277	2.6	0	RW dual supplies life and unique-land support; eight-power aggressive decks feel the tapped-entry cost more than slower decks.
+278	2.5	0	BR dual can enter untapped for life; helps double-pip costs and supplies a unique name, but lacks Planet subtype or intrinsic card advantage.
+279	2.5	0	GU dual can enter untapped when tempo matters and contributes a new name; not itself a Planet for tutoring.
+280	2.6	0	WB fixing supports Borg decks while lifegain and Planet name help broader synergies; enters tapped.
+281	2.6	0	GU lifegain Planet fixes landfall and unique-name decks; tapped entry is balanced by relevant subtype and life triggers.
+282	3.0	0	Often untapped after turn two and gives a modal life-or-surveil ETB, supporting dilemma triggers at almost no late-game cost.
+283	2.6	0	BG lifegain Planet fixes graveyard-value decks and adds a distinct name; tapped entry is its main cost.
+284	2.7	0	Colorless source weakens early colored casting; late draw two while replacing the land is meaningful flood protection and adds landfall.
+285	2.5	0	WB shock dual improves mana without mandatory tapped entry; distinct-name value remains despite no Planet subtype.
+286	2.5	0	WU shock dual supports early gold creatures and double-white or double-blue spells; life payment and lack of Planet subtype are modest costs.
+287	3.0	0	Usually untapped from land three onward; modal surveil or temporary flying helps dilemmas, card quality and finishing attacks.
+288	2.6	0	RG lifegain Planet supports repeated landfall and land-name discounts while fixing colors; tapped entry can interrupt aggressive curves.
+289	2.5	0	BG shock dual supports splashes and gold engines with an untapped option; no entry card advantage or Planet subtype.
+290	3.0	0	Modal surveil is the default value and temporary vigilance/pump can affect combat; most late copies enter untapped and trigger dilemma payoffs.
+291	2.6	0	BR lifegain Planet fixes sacrifice decks and contributes a different name; life buys time but tapped entry slows pressure.
+292	3.0	0	Modal land offers surveil or a final point of damage after turn two, while providing red mana without most late-game tempo loss.
+293	2.6	0	GW lifegain Planet supports counter and lifegain creatures as well as land-name mechanics; tapped entry affects early development.
+294	2.6	0	UB lifegain Planet fixes dilemma decks and supports names-based effects; life and Planet subtype are small additional benefits.
+295	2.5	0	RW shock dual gives an untapped option important for aggressive curves; new land name supports broader set effects.
+296	2.7	0	Colorless early source becomes late two-damage removal with a replacement Planet; targets small engines but activation costs six mana including this land.
+297	1.2	1	Colorless source has little payoff until federation counts enough types to exceed the five-mana activation plus tapped land; Borg decks reduce the count further.
+298	2.5	0	UR shock dual supports repeated spell turns with an untapped option and adds a distinct land name.
+299	2.5	0	RG shock dual improves early creature curves and multi-spell turns; later unique-name support is useful but it cannot be found as a Planet.
+300	2.8	0	Colorless early source converts to two Officers and a replacement Planet late; supports tokens, landfall, sacrifice and eight-power boards.
+301	2.5	0	GW shock dual fixes counter decks and can preserve early tempo; lacks the lifegain and tutorability of a Planet.
+302	2.7	0	Colorless source later selects a permanent, fills the graveyard and replaces itself with a Planet; strong interaction with graveyard-departure and landfall engines.
+303	2.2	0	Untapped colorless initially, but fixing costs one mana plus tapping and sacrificing it; useful unique-name transition and landfall at a tempo cost.
+304	3.1	0	Modal surveil is dependable, while putting a bomb creature back on top can dominate a late game; usually untapped after the first two land drops.
+305	2.6	0	WU lifegain Planet fixes ship decks and supplies a tutor target and distinct name; tapping on entry is the main drawback.
+306	2.5	0	UB shock dual helps cast gold dilemma engines on time and can enter untapped; contributes a new name but no Planet subtype.
+307	2.4	0	Basic white source; GIH primarily reflects white deck strength and land-draw selection rather than an intrinsic spell-like power rating.
+308	2.4	0	Basic blue source; forecast from historical basic-land behavior and predicted blue deck strength.
+309	2.4	0	Basic black source; forecast from historical basic-land behavior and predicted black deck strength.
+310	2.4	0	Basic red source; forecast from historical basic-land behavior and predicted red deck strength.
+311	2.4	0	Basic green source; forecast from historical basic-land behavior and predicted green deck strength.

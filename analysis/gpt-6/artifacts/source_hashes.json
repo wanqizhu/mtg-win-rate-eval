@@ -1,0 +1,102 @@
+[
+  {
+    "path": "scryfall/sets/fin.jsonl.gz",
+    "sha256": "c0b0eb29801443e4b63595276fe2343ef2093415b1af150ca56d62a4dd7d1206"
+  },
+  {
+    "path": "scryfall/sets/eoe.jsonl.gz",
+    "sha256": "da91abf061305234be2342990df0c3b2128199854d04087c18123145535e6815"
+  },
+  {
+    "path": "scryfall/sets/om1.jsonl.gz",
+    "sha256": "33459523b65d6a6651329b74aeeb6cc21921d7d7005ced4cd194424563a9791d"
+  },
+  {
+    "path": "scryfall/sets/tla.jsonl.gz",
+    "sha256": "6ab7e52e7fcca3423271cc8ce69ac6d0e2dc10e075fbba4efc05900a241d8345"
+  },
+  {
+    "path": "scryfall/sets/ecl.jsonl.gz",
+    "sha256": "912a6ce760279a2f7886cc9e66fc3056a869554619caecfd06abf45349776996"
+  },
+  {
+    "path": "scryfall/sets/tmt.jsonl.gz",
+    "sha256": "3c3800283d4cae244cc9d5bccec837b0c8c1632b79f6929c7491f382b485ff1c"
+  },
+  {
+    "path": "scryfall/sets/sos.jsonl.gz",
+    "sha256": "3e76ea7a220a7e3e28341ec327cba5eea4b48c4aa2dae49f54788a7ed3cc268a"
+  },
+  {
+    "path": "scryfall/sets/msh.jsonl.gz",
+    "sha256": "521e48457ba04169f1d070e108845ac0a3cd0744244a1b6b4149af990b799356"
+  },
+  {
+    "path": "scryfall/sets/hob.jsonl.gz",
+    "sha256": "9b57d87c0a3a426887bd176fa010263eddbaafa9e3f082b825d62cbc6d76989f"
+  },
+  {
+    "path": "scryfall/sets/fra.jsonl.gz",
+    "sha256": "76ef854421b9c7db374b56ac90bd01d02a186109990d367485564fbc9cc6795e"
+  },
+  {
+    "path": "scryfall/sets/trk.jsonl.gz",
+    "sha256": "48e51838bbe0deb0f38a9d80f3c6024cf38c1d9ff4aad38e5e9634ecbcfb7d48"
+  },
+  {
+    "path": "scryfall/sets/sds.jsonl.gz",
+    "sha256": "90f04118e61e63cb392360f54cda9334c40882a4503de36b1aae1537ff04b94c"
+  },
+  {
+    "path": "rules/MagicCompRules-20260925.txt",
+    "sha256": "8d860e451f20f38865b725b42d82feb714c725373dd8f3b32b8652b3eeb070ca"
+  },
+  {
+    "path": "rules/StarTrek-ReleaseNotes-20261104.txt",
+    "sha256": "9e5c892d92b041c85b7329c891b9caa86da6925fb5c66cd95cb816ca61558c80"
+  },
+  {
+    "path": "rules/latest.txt",
+    "sha256": "8d860e451f20f38865b725b42d82feb714c725373dd8f3b32b8652b3eeb070ca"
+  },
+  {
+    "path": "17lands/sets/FIN/game_data_public.FIN.PremierDraft.csv.gz",
+    "sha256": "f6452e622976f66dd5420c55741da5b246c7e8d25d63c080e728635e1741a6a6"
+  },
+  {
+    "path": "17lands/sets/EOE/game_data_public.EOE.PremierDraft.csv.gz",
+    "sha256": "130e7e7580a1cb4b4f635411d187a078bc7bdd9dd3436ef5ff7535e14cadaf1b"
+  },
+  {
+    "path": "17lands/sets/OM1/game_data_public.OM1.PickTwoDraft.csv.gz",
+    "sha256": "ada5f566697270734b3c92af83b5e4dcde8054387d057d054c7b694bf161c73e"
+  },
+  {
+    "path": "17lands/sets/TLA/game_data_public.TLA.PremierDraft.csv.gz",
+    "sha256": "6bb12e5cf17e57a2624ca8ac83f15fd4415ea347aa58eac0ed82feb1b17d536b"
+  },
+  {
+    "path": "17lands/sets/ECL/game_data_public.ECL.PremierDraft.csv.gz",
+    "sha256": "54b94edb0702dbcf20aa943d0e7da5a7987cf20232864083953e61b95b38ff48"
+  },
+  {
+    "path": "17lands/sets/TMT/game_data_public.TMT.PremierDraft.csv.gz",
+    "sha256": "399f35cf89b4ad09ba811df0bc60936a5b443432f2fbad84d6264b597b49e4a9"
+  },
+  {
+    "path": "17lands/sets/SOS/game_data_public.SOS.PremierDraft.csv.gz",
+    "sha256": "1be513933918ca243c137af0314aae099c721c408786c9cb56f08027d9b113fb"
+  },
+  {
+    "path": "17lands/sets/MSH/game_data_public.MSH.PremierDraft.csv.gz",
+    "sha256": "8a6bd93a5d50554a3d87703e93624d09e638dc6dd03eda12be9c3f2925484edf"
+  },
+  {
+    "path": "17lands/sets/HOB/game_data_public.HOB.PremierDraft.csv.gz",
+    "sha256": "1ca977bb415ac8fce04b889b9b2d93a6540cf21a033dfa9fb0907af443000676"
+  },
+  {
+    "path": "17lands/sets/FRA/game_data_public.FRA.PremierDraft.csv.gz",
+    "sha256": "a350666bfd293bd14601105af0187f13353b16fa86e81307432a7b3a9a0bbfdc"
+  }
+]

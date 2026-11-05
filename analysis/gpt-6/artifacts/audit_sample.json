@@ -1,0 +1,302 @@
+[
+  {
+    "set": "FIN",
+    "name": "Weapons Vendor"
+  },
+  {
+    "set": "FIN",
+    "name": "You're Not Alone"
+  },
+  {
+    "set": "FIN",
+    "name": "Magic Damper"
+  },
+  {
+    "set": "FIN",
+    "name": "Scorpion Sentinel"
+  },
+  {
+    "set": "FIN",
+    "name": "Adelbert Steiner"
+  },
+  {
+    "set": "FIN",
+    "name": "Quina, Qu Gourmet"
+  },
+  {
+    "set": "FIN",
+    "name": "Ultima, Origin of Oblivion"
+  },
+  {
+    "set": "FIN",
+    "name": "Jenova, Ancient Calamity"
+  },
+  {
+    "set": "FIN",
+    "name": "Gogo, Master of Mimicry"
+  },
+  {
+    "set": "TLA",
+    "name": "Kyoshi Warriors"
+  },
+  {
+    "set": "TLA",
+    "name": "Giant Koi"
+  },
+  {
+    "set": "TLA",
+    "name": "Rocky Rebuke"
+  },
+  {
+    "set": "TLA",
+    "name": "Kyoshi Battle Fan"
+  },
+  {
+    "set": "TLA",
+    "name": "Combustion Technique"
+  },
+  {
+    "set": "TLA",
+    "name": "Foggy Swamp Spirit Keeper"
+  },
+  {
+    "set": "TLA",
+    "name": "Long Feng, Grand Secretariat"
+  },
+  {
+    "set": "TLA",
+    "name": "The Unagi of Kyoshi Island"
+  },
+  {
+    "set": "TLA",
+    "name": "Earthen Ally"
+  },
+  {
+    "set": "TLA",
+    "name": "Fated Firepower"
+  },
+  {
+    "set": "ECL",
+    "name": "Riverguard's Reflexes"
+  },
+  {
+    "set": "ECL",
+    "name": "Kulrath Mystic"
+  },
+  {
+    "set": "ECL",
+    "name": "Mistmeadow Council"
+  },
+  {
+    "set": "ECL",
+    "name": "Stalactite Dagger"
+  },
+  {
+    "set": "ECL",
+    "name": "Bark of Doran"
+  },
+  {
+    "set": "ECL",
+    "name": "Retched Wretch"
+  },
+  {
+    "set": "ECL",
+    "name": "Thoughtweft Lieutenant"
+  },
+  {
+    "set": "ECL",
+    "name": "Collective Inferno"
+  },
+  {
+    "set": "ECL",
+    "name": "Spinerock Tyrant"
+  },
+  {
+    "set": "TMT",
+    "name": "Stockman, Mad Fly-entist"
+  },
+  {
+    "set": "TMT",
+    "name": "Raphael, Tough Turtle"
+  },
+  {
+    "set": "TMT",
+    "name": "Cowabunga!"
+  },
+  {
+    "set": "TMT",
+    "name": "Rocksteady, Crash Courser"
+  },
+  {
+    "set": "TMT",
+    "name": "Ooze Spill"
+  },
+  {
+    "set": "TMT",
+    "name": "General Traag, Heart of Stone"
+  },
+  {
+    "set": "TMT",
+    "name": "Michelangelo, Mutant BFF"
+  },
+  {
+    "set": "TMT",
+    "name": "Krang, Master Mind"
+  },
+  {
+    "set": "TMT",
+    "name": "Tokka & Rahzar, Terrible Twos"
+  },
+  {
+    "set": "TMT",
+    "name": "Donatello, Mutant Mechanic"
+  },
+  {
+    "set": "SOS",
+    "name": "Owlin Historian"
+  },
+  {
+    "set": "SOS",
+    "name": "Muse's Encouragement"
+  },
+  {
+    "set": "SOS",
+    "name": "Embrace the Paradox"
+  },
+  {
+    "set": "SOS",
+    "name": "Potioner's Trove"
+  },
+  {
+    "set": "SOS",
+    "name": "Sundering Archaic"
+  },
+  {
+    "set": "SOS",
+    "name": "Impractical Joke"
+  },
+  {
+    "set": "SOS",
+    "name": "Stress Dream"
+  },
+  {
+    "set": "SOS",
+    "name": "Pensive Professor"
+  },
+  {
+    "set": "SOS",
+    "name": "Wildgrowth Archaic"
+  },
+  {
+    "set": "SOS",
+    "name": "Restoration Seminar"
+  },
+  {
+    "set": "MSH",
+    "name": "Murdock's Crusade"
+  },
+  {
+    "set": "MSH",
+    "name": "Depower"
+  },
+  {
+    "set": "MSH",
+    "name": "Go Nuts!"
+  },
+  {
+    "set": "MSH",
+    "name": "Vibranium Energy Daggers"
+  },
+  {
+    "set": "MSH",
+    "name": "Agent 13, Sharon Carter"
+  },
+  {
+    "set": "MSH",
+    "name": "Evil's Thrall"
+  },
+  {
+    "set": "MSH",
+    "name": "Ant-Man, Colony Commander"
+  },
+  {
+    "set": "MSH",
+    "name": "S.H.I.E.L.D. Flying Car"
+  },
+  {
+    "set": "MSH",
+    "name": "Ares, God of War"
+  },
+  {
+    "set": "MSH",
+    "name": "Captain America, Super-Soldier"
+  },
+  {
+    "set": "HOB",
+    "name": "Long-Bodied Grey Dog"
+  },
+  {
+    "set": "HOB",
+    "name": "Enchanted River's Grasp"
+  },
+  {
+    "set": "HOB",
+    "name": "Mirkwood Nurturer"
+  },
+  {
+    "set": "HOB",
+    "name": "Snowslope Hunter"
+  },
+  {
+    "set": "HOB",
+    "name": "Nasty Little Rabbit"
+  },
+  {
+    "set": "HOB",
+    "name": "Azog, Moria's Ruin"
+  },
+  {
+    "set": "HOB",
+    "name": "Gigantic Big Bear"
+  },
+  {
+    "set": "HOB",
+    "name": "Inside Information"
+  },
+  {
+    "set": "FRA",
+    "name": "Cryotheory Adept"
+  },
+  {
+    "set": "FRA",
+    "name": "Undulating Witness"
+  },
+  {
+    "set": "FRA",
+    "name": "Screeching Soulbreaker"
+  },
+  {
+    "set": "FRA",
+    "name": "Generous Revival"
+  },
+  {
+    "set": "FRA",
+    "name": "Teyo, Lightshield Expert"
+  },
+  {
+    "set": "FRA",
+    "name": "Proft, Sinister Mastermind"
+  },
+  {
+    "set": "FRA",
+    "name": "Vraska's Final Mercy"
+  },
+  {
+    "set": "FRA",
+    "name": "Frostbite Pyromental"
+  },
+  {
+    "set": "FRA",
+    "name": "Enlightened Confidant"
+  }
+]
