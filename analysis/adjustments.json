@@ -1,0 +1,414 @@
+{
+ "Stable Wormhole": {
+  "delta": 0.045,
+  "reason": "LAND: creates a tapped any-colour Planet land token on every attack; model parsed no token/value"
+ },
+ "Quark, Humble Proprietor": {
+  "delta": -0.03,
+  "reason": "TXT: 'You can't sacrifice Treasure tokens' negates his own Treasure production; 1/2 for 3 otherwise"
+ },
+ "Georgiou, Terran Emperor": {
+  "delta": -0.028,
+  "reason": "TXT: 6-mana 4/6 whose draw costs 3 life/turn; 'don't lose at 0' rarely relevant in limited"
+ },
+ "Gwyndala, the Progeny": {
+  "delta": -0.025,
+  "reason": "TXT: 1/1 for 2 whose Equipment-token copy ability is very narrow"
+ },
+ "Salt Vampire": {
+  "delta": -0.02,
+  "reason": "TXT: ETB hand disruption gives opponent a replacement card; efficient body but not a premium rare"
+ },
+ "Live Long and Prosper": {
+  "delta": -0.02,
+  "reason": "TXT: 7-mana sorcery lifegain+draw~3 is slow and low board impact"
+ },
+ "Nyota Uhura, Communications": {
+  "delta": -0.02,
+  "reason": "TXT: draw trigger requires guessing opponent's spell mana value; unreliable"
+ },
+ "Kai Winn, Faithless Leader": {
+  "delta": -0.015,
+  "reason": "TXT: name-a-card tax rarely triggers in limited; mostly a 3/1 for 2"
+ },
+ "Hologram Stalker": {
+  "delta": -0.02,
+  "reason": "TXT: 2/2 for 6 with value triggers; rate far below model score"
+ },
+ "Peace in Our Time": {
+  "delta": -0.02,
+  "reason": "TXT: symmetric draw-or-no-attack; opponents simply attack; 12-counter win is unreachable"
+ },
+ "Year of Hell": {
+  "delta": -0.015,
+  "reason": "TXT: symmetric draw 3 + symmetric damage over three chapters helps opponent too"
+ },
+ "Grand Nagus Zek": {
+  "delta": -0.015,
+  "reason": "TXT: 1/1 for 3, Treasure engine needs deaths and Treasure payoffs"
+ },
+ "Lwaxana Troi, Charming Guest": {
+  "delta": -0.015,
+  "reason": "TXT: must stay tapped to double one creature's triggers; narrow"
+ },
+ "Blastoneuron": {
+  "delta": -0.015,
+  "reason": "TXT: strong but temporary reanimation on a 2/2; below top-uncommon tier"
+ },
+ "Hoshi Sato, Exolinguist": {
+  "delta": -0.015,
+  "reason": "TXT: 3/3 for 5, ETB digs deep but only keeps one card"
+ },
+ "Deep Space 9": {
+  "delta": -0.015,
+  "reason": "TXT: 9 mana; powerful cheat effect but very often stranded in hand (GIH penalises)"
+ },
+ "Gul Dukat, Colonial Prefect": {
+  "delta": -0.015,
+  "reason": "TXT: 7-mana BBB finisher; drain is win-more when already dealing damage"
+ },
+ "The Traveler": {
+  "delta": 0.025,
+  "reason": "SNW: power = differently named lands (~5) makes this a ~5/3 reach/vigilance for 2"
+ },
+ "Captain Pike, Fullness of Time": {
+  "delta": 0.02,
+  "reason": "SNW: ~5/5 for 3 plus playing lands off the top"
+ },
+ "Deep Space Scan": {
+  "delta": 0.015,
+  "reason": "SNW: draws ~5 cards for 6 mana at typical TRK land diversity"
+ },
+ "Cloak and Phaser": {
+  "delta": 0.01,
+  "reason": "SNW: typically costs ~4 for two 2/2s + draw 2/discard 1"
+ },
+ "Pah-Wraith": {
+  "delta": 0.015,
+  "reason": "SNW: attack trigger pumps team by ~+5/+0"
+ },
+ "Suus Mahna Practitioner": {
+  "delta": 0.015,
+  "reason": "SNW: activated tap ability costs ~{U} or less; repeatable tapper"
+ },
+ "Astute Terraformer": {
+  "delta": 0.01,
+  "reason": "SNW: pump activation typically costs {1}-{2}"
+ },
+ "Saavik, Stoic Student": {
+  "delta": 0.01,
+  "reason": "FED: ETB damage X counts all subtypes among non-Borg creatures; usually kills a real creature"
+ },
+ "Sarek, Federation Ambassador": {
+  "delta": 0.015,
+  "reason": "FED: distinct subtypes across a normal board reach 10+, drawing ~2 at each combat"
+ },
+ "Elim Garak, Simple Tailor": {
+  "delta": 0.02,
+  "reason": "DIL: drains 2 on every modal spell/ability choice; TRK is dense with choose-one effects"
+ },
+ "Seven of Nine": {
+  "delta": 0.025,
+  "reason": "DIL: draws a card on every dilemma faced; many cheap modal spells in the set"
+ },
+ "Jett Reno, Problem Solver": {
+  "delta": 0.015,
+  "reason": "DIL: grows on dilemmas and surveils/draws when tapped (also station synergy)"
+ },
+ "Melkotian Adjudicator": {
+  "delta": 0.015,
+  "reason": "DIL: flying/vigilance body that grows on dilemmas"
+ },
+ "Obsidian Order Operative": {
+  "delta": 0.01,
+  "reason": "DIL: drains 1 on every dilemma"
+ },
+ "The Caretaker": {
+  "delta": 0.01,
+  "reason": "DIL: dilemma on the turn fuels a free cast from opponent's exile"
+ },
+ "Gabriel Lorca, Mirror Menace": {
+  "delta": 0.01,
+  "reason": "DIL: self-recursion trigger is easy to enable in this set"
+ },
+ "70,000 Light-Years from Home": {
+  "delta": 0.025,
+  "reason": "TXT: 2-mana sorcery exile of any creature/Spacecraft; compensation is a basic to hand, not battlefield"
+ },
+ "Cleveland Booker, Empath": {
+  "delta": 0.02,
+  "reason": "LAND: landfall creates a 2/2 token on every land drop"
+ },
+ "David and Carol Marcus, Creators": {
+  "delta": 0.015,
+  "reason": "LAND: ETB creates a tapped any-colour Planet land (ramp+fixing+landfall)"
+ },
+ "L'Rell, Fierce Visionary": {
+  "delta": 0.02,
+  "reason": "TXT: creates a free hasty 2/1 at every combat"
+ },
+ "Support Mission": {
+  "delta": 0.02,
+  "reason": "TXT: 3-mana enchantment giving every creature you cast a +1/+1 counter (two at 5 quests)"
+ },
+ "Boarding Action": {
+  "delta": 0.01,
+  "reason": "TXT: permanent 2/1 haste token for {1}{R} plus Beam-me-up recast"
+ },
+ "Final Frontier": {
+  "delta": 0.01,
+  "reason": "TXT: rampant growth onto battlefield plus very cheap Beam-me-up recast"
+ },
+ "Cha'DIch Investigator": {
+  "delta": 0.01,
+  "reason": "TXT: 4/4 + hasty 2/1 across two bodies for 5"
+ },
+ "Andromedan Automatons": {
+  "delta": 0.01,
+  "reason": "TXT: ETB tutors every other drafted copy of itself from the library"
+ },
+ "Test of Conviction": {
+  "delta": 0.02,
+  "reason": "TXT: mode 2 is draw 2 for 2 (opponent draws 1); mode 1 is a team-wide counter anthem"
+ },
+ "Dominion Saboteur": {
+  "delta": 0.015,
+  "reason": "TXT: 5-mana clone of the best artifact/creature, keeping its counters"
+ },
+ "D'Ghor Bloodletter": {
+  "delta": 0.01,
+  "reason": "TXT: ETB is a mini-wrath or an edict on a 2/2"
+ },
+ "Set Phasers to . . .": {
+  "delta": 0.01,
+  "reason": "TXT: 1-mana stun-lock or 3 to an attacker; cheap flexible interaction"
+ },
+ "Resistance Is Futile": {
+  "delta": 0.01,
+  "reason": "TXT: 2-mana destroy or reanimate an artifact creature"
+ },
+ "Test of Priorities": {
+  "delta": 0.01,
+  "reason": "TXT: surveil 2 + draw at instant speed, or a blink"
+ },
+ "Reckless Impulse": {
+  "delta": 0.01,
+  "reason": "TXT: proven 2-mana impulse-draw rate in red"
+ },
+ "Deanna Troi, Psychic Counsel": {
+  "delta": 0.01,
+  "reason": "TXT: every creature enters with a +1/+1 counter, permanently"
+ },
+ "Fugitive Listener": {
+  "delta": 0.005,
+  "reason": "TXT: ETB discard on a 3/1 for 3"
+ },
+ "Vexing Drone": {
+  "delta": 0.005,
+  "reason": "TXT: ETB tap-down tempo on a 2/2 for 2"
+ },
+ "Planetary Bombardment": {
+  "delta": 0.005,
+  "reason": "TXT: 1-mana 2 (often 4) damage removal at common"
+ },
+ "Eject the Warp Core": {
+  "delta": 0.005,
+  "reason": "TXT: -2/-2 floor with kicked -6/-6 hard removal"
+ },
+ "Collective Drone": {
+  "delta": 0.01,
+  "reason": "TXT: in Borg/artifact decks this is routinely a 4+/2 for 2"
+ },
+ "Unexplored Territory": {
+  "delta": 0.01,
+  "reason": "LAND: {1} sacrifice fetches a basic onto the battlefield: fixing plus ramp"
+ },
+ "Warp Speed": {
+  "delta": 0.01,
+  "reason": "SNW/LAND: land tutor plus a late draw-2 activation discounted by SNW"
+ },
+ "Test of Loyalty": {
+  "delta": 0.01,
+  "reason": "TXT: 1-mana cantrip or raise-dead"
+ },
+ "Seven of Nine, Unassimilated": {
+  "delta": 0.005,
+  "reason": "TXT: loots (often draws) every first main phase on a 0/4 wall for 2"
+ },
+ "Romulan Bird-of-Prey": {
+  "delta": 0.005,
+  "reason": "STN: noncreature spells charge it without tapping creatures; hexproof while charging"
+ },
+ "D-7 Battle Cruiser": {
+  "delta": 0.005,
+  "reason": "STN: makes a hasty 2/1 every combat from 3+ counters, long before full station"
+ },
+ "U.S.S. Excelsior, Cutting Edge": {
+  "delta": 0.005,
+  "reason": "STN: ETB destroys a tapped creature (removal) before station matters"
+ },
+ "Suurok-Class Science Vessel": {
+  "delta": 0.005,
+  "reason": "STN: ETB draw a card on a common spacecraft that later flies"
+ },
+ "Command Subadjunct": {
+  "delta": 0.005,
+  "reason": "TXT: 2/1 for {W} plus vigilance for all artifact creatures"
+ },
+ "Sheoldred, the Apocalypse": {
+  "delta": 0.02,
+  "reason": "TXT: 4-mana 4/5 deathtouch that gains 2 per draw and drains opponent per draw; proven bomb"
+ },
+ "Jhoira, Weatherlight Captain": {
+  "delta": 0.02,
+  "reason": "TXT: TRK is saturated with historic cards (artifacts, legendaries, Sagas); draws constantly"
+ },
+ "Tatyova, Benthic Druid": {
+  "delta": 0.005,
+  "reason": "LAND: landfall draw-a-card in a set with many entering lands/Planet tokens"
+ },
+ "Bristly Bill, Spine Sower": {
+  "delta": 0.005,
+  "reason": "LAND: landfall counters plus a counter-doubling finisher"
+ },
+ "Arcum Dagsson": {
+  "delta": 0.01,
+  "reason": "TXT: sacrifices Borg/artifact tokens to put Spacecraft and other noncreature artifacts straight onto the battlefield"
+ },
+ "Hull Breach": {
+  "delta": 0.005,
+  "reason": "TXT: 2-mana sorcery that can destroy both an artifact and an enchantment in an artifact-heavy set"
+ },
+ "Riku of Many Paths": {
+  "delta": -0.013,
+  "reason": "TXT: modal-spell payoff is very live in TRK, but a 3-colour {G}{U}{R} cast is hard; net small downgrade from model"
+ },
+ "Thada Adel, Acquisitor": {
+  "delta": -0.02,
+  "reason": "TXT: islandwalk steal-an-artifact rarely converts; 2/2 for {1}{U}{U}"
+ },
+ "Empress Galina": {
+  "delta": -0.03,
+  "reason": "TXT: 1/3 for 5 with a {U}{U},{T} steal; even in a legendary-dense set the rate is poor"
+ },
+ "Sisay, Weatherlight Captain": {
+  "delta": -0.02,
+  "reason": "TXT: 5-colour activation is near-uncastable; mostly a 2/2 that grows slowly"
+ },
+ "Bruvac the Grandiloquent": {
+  "delta": -0.025,
+  "reason": "TXT: mill-doubling has almost no mill support around it; 1/4 for 3"
+ },
+ "Flare of Fortitude": {
+  "delta": -0.025,
+  "reason": "TXT: defensive protection spell with no board impact"
+ },
+ "Sen Triplets": {
+  "delta": -0.01,
+  "reason": "TXT: 3/3 for {2}{W}{U}{B}; powerful only from the next upkeep and 3-colour"
+ },
+ "Nog, Ambitious Cadet": {
+  "delta": -0.015,
+  "reason": "TXT: base 2/2 menace is fine but both upgrades demand substantial mana before paying off"
+ },
+ "Infinite Diversity": {
+  "delta": -0.01,
+  "reason": "TXT: 9 mana and needs a good instant/sorcery already in the graveyard"
+ },
+ "Death Is Irrelevant": {
+  "delta": -0.01,
+  "reason": "TXT: 8-mana enchantment; strong thereafter but slow and Borg-dependent"
+ },
+ "Troubling Tribbles": {
+  "delta": 0.005,
+  "reason": "TXT: self-copying 1-mana-body army supplies station fodder, chump blockers and attack triggers"
+ },
+ "Sela, Tal Shiar Paradox": {
+  "delta": -0.01,
+  "reason": "TXT: Romulan-token engine needs repeated leaves-graveyard triggers"
+ },
+ "The Measure of a Man": {
+  "delta": -0.01,
+  "reason": "TXT: headline exile is temporary (card returns chapter III); mostly a clue plus delay"
+ },
+ "Captain Sisay": {
+  "delta": 0.005,
+  "reason": "TXT: legendary-dense set gives the tutor many premium targets"
+ },
+ "Zero, Incorporeal Sensate": {
+  "delta": -0.015,
+  "reason": "TXT: ETB 'disruption' lets owner replay the card for +{2}; mostly a 2/2 lifelink"
+ },
+ "Spock, Always Your Friend": {
+  "delta": -0.01,
+  "reason": "TXT: dig-4-for-noncreature on a gold 2/2 is good, not elite"
+ },
+ "Jadzia Dax, Living Legacy": {
+  "delta": -0.01,
+  "reason": "TXT: ramp starts at +{G} on turn 3 from a 0/1 body; slow"
+ },
+ "Mugato": {
+  "delta": 0.01,
+  "reason": "TXT: 6/6 with reach, vigilance and deathtouch for 5 is above-rate vanilla-plus"
+ },
+ "Sarcophagus, Ship of the Dead": {
+  "delta": 0.01,
+  "reason": "STN: team-wide +1/+0 anthem applies even before it stations"
+ },
+ "Cold-Blooded Crew": {
+  "delta": 0.005,
+  "reason": "TXT: effectively a 6/6 evasive-ish body or spreads counters, with landcycling floor"
+ },
+ "Syndicate Liquidators": {
+  "delta": 0.01,
+  "reason": "TXT: landfall puts two +1/+1 counters on any creature, repeatedly"
+ },
+ "Hive Mind Coprocessor": {
+  "delta": 0.01,
+  "reason": "TXT: Borg-wide combat-damage card draw in the artifact-creature deck"
+ },
+ "Overflow Submatrix": {
+  "delta": 0.005,
+  "reason": "TXT: repeated artifact-creature recursion from the graveyard"
+ },
+ "Lt. Cmdr. Geordi La Forge": {
+  "delta": 0.005,
+  "reason": "STN: doubles station counters, halving the tapping cost of every Spacecraft"
+ },
+ "Zefram Cochrane, Warp Pioneer": {
+  "delta": 0.005,
+  "reason": "STN: Spacecraft enter with +2 charge counters; artifact spells off the top"
+ },
+ "Erica Ortegas, Plucky Pilot": {
+  "delta": 0.01,
+  "reason": "STN: when tapped (e.g. to station) she drops a land from hand"
+ },
+ "Type-2 Phaser": {
+  "delta": 0.01,
+  "reason": "TXT: ETB stun-tap plus +3/+0 equipment"
+ },
+ "Genesis Effect": {
+  "delta": -0.005,
+  "reason": "TXT: 6 damage for 5 but destroys your own land (partly refunded by a Planet token)"
+ },
+ "Brazen Bluff": {
+  "delta": -0.01,
+  "reason": "TXT: opponent will usually exile their own spell; free-cast outcome is rare"
+ },
+ "Replicator": {
+  "delta": -0.01,
+  "reason": "TXT: token-copying needs a worthwhile token already; Food ETB is minor"
+ },
+ "Isolinear Processor": {
+  "delta": -0.005,
+  "reason": "TXT: restricted mana rock with a slow loot activation"
+ },
+ "The Needs of the Many": {
+  "delta": -0.01,
+  "reason": "TXT: requires sacrificing a creature for a one-turn protection effect"
+ },
+ "General Chang, Cold Warrior": {
+  "delta": -0.01,
+  "reason": "TXT: Klingon-count payoff is narrow; 1/2 for {B} with a sac outlet only"
+ }
+}

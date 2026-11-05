@@ -1,0 +1,341 @@
+  1 0.628 [TRK] U.S.S. Enterprise-A, Free Spirit (mythic) {3}{W}{W} Legendary Artifact — Spacecraft
+  2 0.621 [TRK] Wesley Crusher, Starfleet Cadet (rare) {2}{U}{U} Legendary Creature — Human Officer
+  3 0.619 [TRK] Georgiou, Terran Emperor (mythic) {4}{B}{B} Legendary Creature — Human Rogue Noble
+  4 0.619 [TRK] Excalbian Gamemaster (mythic) {5}{W} Creature — Excalbian
+  5 0.617 [TRK] Kobayashi Maru Scenario (mythic) {1}{U}{U} Enchantment
+  6 0.617 [TRK] Khan, Vengeful Heart (mythic) {2}{B}{B} Legendary Creature — Human Warrior
+  7 0.611 [TRK] The Inner Light (rare) {3}{G}{W} Enchantment — Saga
+  8 0.611 [TRK] The City on the Edge of Forever (rare) {3}{W}{B} Enchantment — Saga
+  9 0.609 [SDS] Ertai Resurrected (mythic) {2}{U}{B} Legendary Creature — Phyrexian Human Wizard
+ 10 0.609 [SDS] Decree of Pain (mythic) {6}{B}{B} Sorcery
+ 11 0.606 [TRK] Captain Jean-Luc Picard (mythic) {2}{W} Legendary Creature — Human Officer
+ 12 0.604 [SDS] Kenrith, the Returned King (mythic) {4}{W} Legendary Creature — Human Noble
+ 13 0.604 [TRK] Borg Cube (mythic) {5}{W}{B} Artifact — Spacecraft
+ 14 0.603 [TRK] Salt Vampire (rare) {1}{B} Creature — Vampire Shapeshifter
+ 15 0.601 [TRK] Holo-Engineer (rare) {2}{G}{G} Creature — Human Artificer
+ 16 0.599 [TRK] Rok-Tahk, Budding Scientist (mythic) {4}{G}{G} Legendary Creature — Brikar Scientist
+ 17 0.598 [TRK] The Destruction of Praxis (rare) {3}{B}{B} Sorcery
+ 18 0.598 [TRK] Q, Stacking the Deck (mythic) {2}{R}{R} Legendary Creature — Q
+ 19 0.598 [SDS] Drivnod, Carnage Dominus (mythic) {3}{B}{B} Legendary Creature — Phyrexian Horror
+ 20 0.598 [SDS] Riku of Many Paths (mythic) {G}{U}{R} Legendary Creature — Human Wizard
+ 21 0.598 [TRK] Blastoneuron (uncommon) {3}{B} Creature — Jellyfish Leech
+ 22 0.596 [TRK] Gul Dukat, Colonial Prefect (mythic) {4}{B}{B}{B} Legendary Creature — Cardassian Rogue
+ 23 0.595 [TRK] Captain Jonathan Archer (rare) {2}{G} Legendary Creature — Human Officer
+ 24 0.594 [TRK] In the Pale Moonlight (uncommon) {3}{B}{B} Enchantment — Saga
+ 25 0.593 [TRK] Miles O'Brien, Transporter Ops (rare) {2}{W} Legendary Creature — Human Artificer
+ 26 0.593 [TRK] Captain Benjamin Sisko (rare) {1}{W} Legendary Creature — Human Officer
+ 27 0.593 [TRK] MACO Strike Team (rare) {G} Creature — Human Soldier
+ 28 0.591 [SDS] Rishkar, Peema Renegade (mythic) {2}{G} Legendary Creature — Elf Druid
+ 29 0.591 [TRK] U.S.S. Reliant, From Hell's Heart (rare) {2}{B}{B} Legendary Artifact — Spacecraft
+ 30 0.591 [TRK] H.M.S. Bounty, Unlikely Timeship (rare) {4}{U} Legendary Artifact — Spacecraft
+ 31 0.591 [SDS] Mikaeus, the Lunarch (mythic) {X}{W} Legendary Creature — Human Cleric
+ 32 0.590 [TRK] Antagonist Incorporator (rare) {1}{W} Artifact Creature — Borg
+ 33 0.590 [TRK] Deep Space 9 (mythic) {9} Legendary Artifact — Spacecraft
+ 34 0.590 [TRK] Gwyndala, the Progeny (rare) {1}{U} Legendary Creature — Vau-N'Akat Advisor
+ 35 0.590 [TRK] Scotty, Miracle Worker (mythic) {1}{U}{U} Legendary Creature — Human Artificer
+ 36 0.590 [TRK] Captain Kathryn Janeway (mythic) {3}{G} Legendary Creature — Human Officer
+ 37 0.589 [TRK] The Wrath of Khan (rare) {2}{R} Enchantment — Saga
+ 38 0.589 [TRK] Mr. Spock, Science Officer (mythic) {2}{U}{U} Legendary Creature — Vulcan Human Scientist
+ 39 0.589 [TRK] Captain James T. Kirk (mythic) {2}{R} Legendary Creature — Human Officer
+ 40 0.589 [TRK] D-7 Battle Cruiser (rare) {1}{R} Artifact — Spacecraft
+ 41 0.588 [SDS] Empress Galina (mythic) {3}{U}{U} Legendary Creature — Merfolk Noble
+ 42 0.587 [SDS] Bristly Bill, Spine Sower (mythic) {1}{G} Legendary Creature — Plant Druid
+ 43 0.586 [TRK] Worf, Intelligence Contractor (rare) {2}{R} Legendary Creature — Klingon Warrior Spy
+ 44 0.586 [TRK] Spock, Always Your Friend (uncommon) {U}{R} Legendary Creature — Vulcan Human Scientist
+ 45 0.585 [SDS] Prosper, Tome-Bound (mythic) {2}{B}{R} Legendary Creature — Tiefling Warlock
+ 46 0.584 [TRK] Jadzia Dax, Living Legacy (mythic) {1}{G} Legendary Creature — Trill Scientist
+ 47 0.583 [SDS] Tatyova, Benthic Druid (mythic) {3}{G}{U} Legendary Creature — Merfolk Druid
+ 48 0.582 [TRK] Crystalline Entity (mythic) {8} Artifact Creature — Elemental
+ 49 0.582 [TRK] Mirror Universe Intrusion (rare) {1}{U}{B} Sorcery
+ 50 0.581 [TRK] Armus, Skin of Evil (rare) {5}{B}{B} Legendary Creature — Ooze Horror
+ 51 0.581 [TRK] Seven of Nine, Unassimilated (mythic) {1}{U} Legendary Artifact Creature — Human Officer
+ 52 0.581 [TRK] All Good Things... (rare) {3}{G}{U} Enchantment — Saga
+ 53 0.581 [SDS] Sheoldred, the Apocalypse (mythic) {2}{B}{B} Legendary Creature — Phyrexian Praetor
+ 54 0.580 [TRK] Romulan Bird-of-Prey (rare) {1}{U} Artifact — Spacecraft
+ 55 0.580 [TRK] Hologram Stalker (uncommon) {4}{G}{G} Creature — Hirogen Warrior
+ 56 0.580 [TRK] Kira Nerys, Firebrand (rare) {1}{R}{W} Legendary Creature — Bajoran Soldier
+ 57 0.579 [TRK] Cloak and Phaser (uncommon) {8}{U} Sorcery
+ 58 0.579 [TRK] Nog, Ambitious Cadet (rare) {B}{G} Legendary Creature — Ferengi Rogue
+ 59 0.579 [TRK] Lieutenant Commander Data (mythic) {2}{U} Legendary Artifact Creature — Android Scientist
+ 60 0.578 [TRK] Troubling Tribbles (rare) {2}{W} Creature — Tribble
+ 61 0.578 [TRK] Infinite Diversity (mythic) {7}{R}{R} Sorcery
+ 62 0.578 [SDS] Talon Gates of Madara (mythic)  Land — Gate
+ 63 0.578 [SDS] Thada Adel, Acquisitor (mythic) {1}{U}{U} Legendary Creature — Merfolk Rogue
+ 64 0.578 [TRK] U.S.S. Discovery, at Black Alert (rare) {3}{G}{G} Legendary Artifact — Spacecraft
+ 65 0.578 [TRK] Zero, Incorporeal Sensate (uncommon) {1}{W/B}{W/B} Legendary Artifact Creature — Medusan Scientist
+ 66 0.577 [TRK] Death Is Irrelevant (mythic) {6}{B}{B} Enchantment
+ 67 0.577 [TRK] Assembly Specialist (uncommon) {1}{W} Artifact Creature — Borg
+ 68 0.577 [TRK] Live Long and Prosper (rare) {5}{W}{U} Sorcery
+ 69 0.577 [TRK] Sela, Tal Shiar Paradox (rare) {3}{B} Legendary Creature — Romulan Human Rogue
+ 70 0.576 [TRK] Federation Outpost (rare)  Land
+ 71 0.575 [TRK] The Measure of a Man (uncommon) {2}{W} Enchantment — Saga
+ 72 0.575 [TRK] Species 8472 (uncommon) {4}{G}{G} Creature — Insect Beast
+ 73 0.574 [SDS] Loot, Exuberant Explorer (mythic) {2}{G} Legendary Creature — Beast Noble
+ 74 0.574 [SDS] Jhoira, Weatherlight Captain (mythic) {2}{U}{R} Legendary Creature — Human Artificer
+ 75 0.573 [TRK] Ni'Var Science Academy (rare)  Land
+ 76 0.573 [TRK] Federation Resupply (rare) {1}{W} Sorcery
+ 77 0.572 [TRK] Subcommander T'Pol (rare) {2}{U} Legendary Creature — Vulcan Scientist
+ 78 0.572 [SDS] Flare of Fortitude (mythic) {2}{W}{W} Instant
+ 79 0.572 [TRK] Hemmer, Fixing What Is Broken (uncommon) {W}{U} Legendary Creature — Aenar Artificer
+ 80 0.572 [TRK] Sarek, Federation Ambassador (rare) {1}{G}{W}{U} Legendary Creature — Vulcan Advisor
+ 81 0.572 [TRK] Dr. Beverly Crusher (mythic) {2}{W} Legendary Creature — Human Doctor
+ 82 0.572 [TRK] Rutherford, Upgraded Ensign (uncommon) {2}{W} Legendary Creature — Human Artificer
+ 83 0.571 [TRK] Kai Winn, Faithless Leader (rare) {1}{B} Legendary Creature — Bajoran Cleric
+ 84 0.571 [SDS] Stella Lee, Wild Card (mythic) {1}{U}{R} Legendary Creature — Human Rogue
+ 85 0.571 [TRK] Captain Pike, Fullness of Time (rare) {1}{G}{G} Legendary Creature — Human Officer Scout
+ 86 0.570 [TRK] Malfunctioning Holodeck (common) {2}{W} Artifact
+ 87 0.570 [SDS] Captain Sisay (mythic) {2}{G}{W} Legendary Creature — Human Soldier
+ 88 0.570 [TRK] Ghost of Illyria (uncommon) {3}{W} Creature — Elemental Spirit
+ 89 0.570 [TRK] Transporter Malfunction (uncommon) {1}{R} Sorcery
+ 90 0.570 [SDS] Sisay, Weatherlight Captain (mythic) {2}{W} Legendary Creature — Human Soldier
+ 91 0.570 [TRK] Saavik, Stoic Student (uncommon) {4}{W} Legendary Creature — Vulcan Advisor
+ 92 0.570 [TRK] Deep Space Scan (rare) {4}{U}{U} Sorcery
+ 93 0.570 [TRK] Munitions Enthusiast (uncommon) {1}{R} Creature — Klingon Warrior
+ 94 0.569 [TRK] Bat'leth (uncommon) {2}{B} Artifact — Equipment
+ 95 0.569 [TRK] Quark's Bar (rare)  Land
+ 96 0.569 [TRK] Sulu, Space Swashbuckler (rare) {1}{W} Legendary Creature — Human Pilot
+ 97 0.569 [TRK] Encounter the Unknown (rare) {1}{R}{R} Instant
+ 98 0.569 [TRK] Deanna Troi, Psychic Counsel (rare) {1}{W} Legendary Creature — Betazoid Human Advisor
+ 99 0.569 [SDS] Arcum Dagsson (mythic) {3}{U} Legendary Creature — Human Artificer
+100 0.569 [TRK] The Unicomplex (rare)  Land
+101 0.569 [TRK] There's Coffee in that Nebula (uncommon) {1}{W} Sorcery
+102 0.568 [TRK] Hoshi Sato, Exolinguist (uncommon) {4}{U} Legendary Creature — Human Scientist
+103 0.568 [TRK] Elim Garak, Simple Tailor (rare) {2}{B} Legendary Creature — Cardassian Rogue
+104 0.568 [SDS] Sen Triplets (mythic) {2}{W}{U}{B} Legendary Artifact Creature — Human Wizard
+105 0.568 [TRK] Dr. Leonard "Bones" McCoy (rare) {1}{G}{G} Legendary Creature — Human Doctor
+106 0.568 [TRK] U.S.S. Excelsior, Cutting Edge (uncommon) {3}{W} Legendary Artifact — Spacecraft
+107 0.567 [TRK] Dr. Joseph M'Benga (mythic) {2}{G}{G} Legendary Creature — Human Doctor
+108 0.567 [TRK] The Duras Sisters (uncommon) {B/R}{B/R} Legendary Creature — Klingon Warrior
+109 0.567 [TRK] Energize (uncommon) {1}{U} Sorcery
+110 0.567 [TRK] Jake Sisko, War Correspondent (uncommon) {1}{G} Legendary Creature — Human Citizen
+111 0.567 [TRK] Daniels, Temporal Agent (uncommon) {2}{B/G}{B/G} Legendary Creature — Human Advisor
+112 0.567 [TRK] Tasha Yar, Out of Time (rare) {1}{R} Legendary Creature — Human Officer
+113 0.567 [TRK] Suurok-Class Science Vessel (common) {2}{U} Artifact — Spacecraft
+114 0.567 [TRK] Constable Odo (uncommon) {3}{W/U}{W/U} Legendary Creature — Shapeshifter Detective
+115 0.567 [TRK] Q Continuum (rare)  Land
+116 0.567 [TRK] Neelix, Moral Support (uncommon) {1}{G} Legendary Creature — Talaxian Advisor
+117 0.566 [TRK] Oberth-Class Starship (common) {1}{W} Artifact — Spacecraft
+118 0.566 [TRK] Branching Timeline (rare) {6}{G}{G} Sorcery
+119 0.566 [SDS] Bruvac the Grandiloquent (mythic) {2}{U} Legendary Creature — Human Advisor
+120 0.566 [TRK] He's Dead, Jim (common) {3}{B} Instant
+121 0.566 [TRK] Dr. McCoy, Surly Surgeon (uncommon) {2}{W}{W} Legendary Creature — Human Doctor
+122 0.566 [TRK] Free Borg Revolutionaries (common) {3}{W}{W} Artifact Creature — Borg Rebel
+123 0.566 [TRK] Cloistered Telepath (common) {1}{U} Creature — Talosian Advisor
+124 0.565 [TRK] The Caretaker (rare) {5}{U} Legendary Creature — Elemental
+125 0.565 [TRK] Locutus, the One Who Speaks (uncommon) {W}{B} Legendary Artifact Creature — Borg
+126 0.565 [TRK] Command Subadjunct (uncommon) {W} Artifact Creature — Borg
+127 0.565 [TRK] Quark, Humble Proprietor (mythic) {2}{R} Legendary Creature — Ferengi Rogue
+128 0.564 [TRK] Planetary Bombardment (common) {R} Sorcery
+129 0.564 [TRK] Adversary by Algorithm (uncommon) {2}{G} Sorcery
+130 0.564 [TRK] Replicator (rare) {2} Artifact
+131 0.563 [TRK] Commander Raffi Musiker (uncommon) {2}{B} Legendary Creature — Human Officer
+132 0.563 [TRK] Emergency Medical Hologram (common) {W} Artifact Creature — Illusion Doctor
+133 0.563 [TRK] Artificial Anomaly (uncommon)  Land
+134 0.563 [TRK] Sylvia Tilly, Joy of Discovery (uncommon) {2}{G} Legendary Creature — Human Scientist Artificer
+135 0.563 [TRK] Breeding Pool (rare)  Land — Forest Island
+136 0.563 [TRK] Ensign Pavel Chekov (uncommon) {3}{U} Legendary Creature — Human Pilot
+137 0.563 [TRK] Those Old Scientists (uncommon) {2}{U} Enchantment — Saga
+138 0.563 [TRK] Vexing Drone (common) {1}{W} Artifact Creature — Borg
+139 0.563 [TRK] Spatial Anomaly (uncommon)  Land
+140 0.562 [TRK] Khan, Despot by Design (uncommon) {4}{R} Legendary Creature — Human Rogue
+141 0.562 [TRK] Plasma Cascade (common) {2}{R} Instant
+142 0.562 [TRK] Dominion Infiltration (rare) {X}{R}{R}{R} Sorcery
+143 0.562 [TRK] Nyota Uhura, Communications (rare) {2}{U} Legendary Creature — Human Officer
+144 0.562 [TRK] Andoria (common)  Land — Planet
+145 0.562 [TRK] Bajor (common)  Land — Planet
+146 0.562 [TRK] Cardassia Prime (common)  Land — Planet
+147 0.562 [TRK] Earth, Sector 001 (common)  Land — Planet
+148 0.562 [TRK] Ferenginar (common)  Land — Planet
+149 0.562 [TRK] Orion (common)  Land — Planet
+150 0.562 [TRK] Qo'noS (common)  Land — Planet
+151 0.562 [TRK] Risa (common)  Land — Planet
+152 0.562 [TRK] Romulus (common)  Land — Planet
+153 0.562 [TRK] Vulcan (common)  Land — Planet
+154 0.562 [TRK] Will Riker, First in the Field (rare) {3}{R} Legendary Creature — Human Officer
+155 0.562 [TRK] Overflow Submatrix (rare) {2}{B} Artifact Creature — Borg
+156 0.562 [SDS] Hull Breach (mythic) {R}{G} Sorcery
+157 0.562 [TRK] Saru, Unthreatened (uncommon) {2}{G} Legendary Creature — Kelpien Officer
+158 0.562 [SDS] Torbran, Thane of Red Fell (mythic) {1}{R}{R}{R} Legendary Creature — Dwarf Noble
+159 0.561 [TRK] Amok Time (uncommon) {2}{G} Enchantment — Saga
+160 0.561 [TRK] Primary Unimatrix Adjunct (rare) {3}{W} Artifact Creature — Borg
+161 0.561 [TRK] Highly Illogical (uncommon) {1}{U} Instant
+162 0.561 [TRK] Subspace Anomaly (uncommon)  Land
+163 0.561 [TRK] Genesis Effect (common) {4}{R} Instant
+164 0.560 [TRK] Enterprise NX-01 (uncommon) {3}{U} Legendary Artifact — Spacecraft
+165 0.560 [TRK] Khaaaaaaaaaaaannn! (uncommon) {X}{R} Instant
+166 0.560 [TRK] The Traveler (uncommon) {G}{U} Legendary Creature — Scout
+167 0.560 [TRK] Picard, Leading by Example (uncommon) {1}{W} Legendary Creature — Human Officer
+168 0.560 [SDS] Shizo, Death's Storehouse (mythic)  Legendary Land
+169 0.559 [TRK] Cold-Blooded Crew (common) {4}{G}{G} Creature — Gorn Warrior
+170 0.559 [TRK] Rogue Artificial Intelligence (common) {4}{B}{B} Artifact Creature — Construct
+171 0.559 [TRK] Storied Veteran (uncommon) {B} Creature — Klingon Advisor
+172 0.559 [TRK] Plains (common)  Basic Land — Plains
+173 0.559 [TRK] Engineered Explosives (rare) {X} Artifact
+174 0.559 [TRK] Brad Boimler, Eager Ensign (uncommon) {1}{W} Legendary Creature — Human Officer
+175 0.559 [SDS] Minamo, School at Water's Edge (mythic)  Legendary Land
+176 0.559 [TRK] U.S.S. Voyager, Lone Wanderer (uncommon) {3}{G} Legendary Artifact — Spacecraft
+177 0.559 [TRK] Stomping Ground (rare)  Land — Mountain Forest
+178 0.558 [TRK] Open Communications (common) {U} Sorcery
+179 0.558 [TRK] U.S.S. Enterprise-D, Galaxy-Class (rare) {3} Legendary Artifact — Spacecraft
+180 0.558 [TRK] Command Decision (common) {1}{W} Sorcery
+181 0.558 [TRK] Interstellar Effigy (common) {4}{U} Artifact Creature — Construct
+182 0.558 [TRK] Vash, Freelance Archaeologist (uncommon) {1}{B}{G} Legendary Creature — Human Rogue Scientist
+183 0.557 [TRK] Andromedan Automatons (common) {2}{W} Artifact Creature — Android
+184 0.557 [TRK] Fugitive Listener (common) {2}{B} Creature — El-Aurian Scout
+185 0.557 [TRK] Pattern Buffer Preservation (common) {1}{B} Sorcery
+186 0.557 [TRK] Cleveland Booker, Empath (uncommon) {2}{R/G}{R/G} Legendary Creature — Kwejian Rogue
+187 0.557 [TRK] Make It So (common) {3}{U} Sorcery
+188 0.557 [TRK] Eject the Warp Core (common) {1}{B} Instant
+189 0.557 [TRK] U.S.S. Cerritos, Following Up (uncommon) {5} Legendary Artifact — Spacecraft
+190 0.556 [TRK] V'Ger, the Intruder (uncommon) {6}{U} Legendary Artifact Creature — Construct
+191 0.556 [TRK] 70,000 Light-Years from Home (uncommon) {1}{W} Sorcery
+192 0.556 [TRK] Jett Reno, Problem Solver (uncommon) {1}{U} Legendary Creature — Human Artificer
+193 0.556 [TRK] Shields Up! (common) {1}{W} Instant
+194 0.556 [TRK] First Contact (common) {1}{G} Instant
+195 0.556 [TRK] D'Ghor Bloodletter (uncommon) {2}{B} Creature — Klingon Assassin
+196 0.556 [TRK] Gaseous Anomaly (uncommon)  Land
+197 0.555 [TRK] Cha'DIch Investigator (common) {4}{B} Creature — Klingon Warrior
+198 0.555 [TRK] Island (common)  Basic Land — Island
+199 0.555 [TRK] Boarding Action (common) {1}{R} Sorcery
+200 0.555 [TRK] Hit It! (rare) {1}{R}{G} Enchantment
+201 0.555 [TRK] Collation Trimatrix (rare) {B} Artifact Creature — Borg
+202 0.555 [TRK] Starfleet Academy (mythic)  Legendary Land
+203 0.555 [TRK] Forest (common)  Basic Land — Forest
+204 0.555 [TRK] Grand Nagus Zek (rare) {2}{B} Legendary Creature — Ferengi Noble
+205 0.555 [TRK] Marooned (common) {U} Enchantment — Aura
+206 0.555 [TRK] Swamp (common)  Basic Land — Swamp
+207 0.555 [SDS] Mogis, God of Slaughter (mythic) {2}{B}{R} Legendary Enchantment Creature — God
+208 0.555 [TRK] Final Frontier (common) {2}{G} Sorcery
+209 0.555 [TRK] Sickbay (uncommon) {5} Artifact
+210 0.555 [TRK] Mountain (common)  Basic Land — Mountain
+211 0.554 [TRK] Overgrown Tomb (rare)  Land — Swamp Forest
+212 0.554 [TRK] Guidance Failure (common) {3}{U} Instant
+213 0.554 [TRK] Temporal Conqueror (common) {2}{G} Creature — Na'kuhl Warrior
+214 0.554 [TRK] Xenobotanist (common) {1}{G} Creature — Vulcan Scientist
+215 0.554 [TRK] Warp Speed (uncommon) {2}{G} Enchantment
+216 0.554 [TRK] Watery Grave (rare)  Land — Island Swamp
+217 0.554 [TRK] Rules of Acquisition (uncommon) {3}{U}{U} Sorcery
+218 0.553 [TRK] Moopsy (common) {G} Creature — Beast
+219 0.553 [TRK] Temporal Anomaly (uncommon)  Land
+220 0.553 [TRK] Test of Priorities (uncommon) {1}{U} Instant
+221 0.553 [TRK] Resistance Is Futile (uncommon) {1}{B} Sorcery
+222 0.553 [TRK] Lwaxana Troi, Charming Guest (rare) {1}{R} Legendary Creature — Betazoid Advisor
+223 0.553 [TRK] Saurian Explorer (common) {3}{G} Creature — Dinosaur Scout
+224 0.552 [TRK] The Doctor, EMH (uncommon) {3}{G/W}{G/W} Legendary Artifact Creature — Illusion Doctor
+225 0.552 [TRK] Set Phasers to . . . (common) {W} Instant
+226 0.552 [TRK] De-evolve (uncommon) {1}{B} Enchantment — Aura
+227 0.552 [TRK] Pure Energy (common) {1}{W} Sorcery
+228 0.552 [TRK] Federation Field Medic (common) {3}{W} Creature — Human Doctor
+229 0.552 [TRK] Lt. Cmdr. Geordi La Forge (rare) {2}{U} Legendary Creature — Human Artificer
+230 0.552 [TRK] Godless Shrine (rare)  Land — Plains Swamp
+231 0.551 [TRK] Warp Core (common) {2} Artifact
+232 0.551 [TRK] Collective Drone (uncommon) {1}{B} Artifact Creature — Borg
+233 0.551 [SDS] Isshin, Two Heavens as One (mythic) {R}{W}{B} Legendary Creature — Human Samurai
+234 0.551 [TRK] Tea, Earl Grey, Hot (common) {2} Artifact — Food
+235 0.551 [TRK] Unexplored Territory (common)  Land
+236 0.551 [TRK] Tactical Officer (common) {1}{W} Creature — Human Officer
+237 0.551 [TRK] Cybernetic Specialist (common) {2} Artifact Creature — Human Scientist
+238 0.550 [TRK] Lore, Positronic Provocateur (uncommon) {1}{U/B}{U/B} Legendary Artifact Creature — Android Rogue
+239 0.550 [TRK] Captain Michael Burnham (uncommon) {2}{R} Legendary Creature — Human Officer
+240 0.550 [TRK] Dominion Supervisor (common) {2}{G} Creature — Vorta Doctor
+241 0.550 [TRK] Astute Terraformer (common) {1}{G} Creature — Vulcan Scientist
+242 0.550 [TRK] Conquest Mission (uncommon) {2}{W} Enchantment
+243 0.550 [TRK] Impossible Choice (uncommon) {2}{B} Instant
+244 0.550 [TRK] Peace in Our Time (rare) {3}{W} Enchantment
+245 0.549 [TRK] Academy Instructor (uncommon) {2}{R} Creature — Bolian Officer
+246 0.549 [TRK] Relentless Drednok (common) {B} Artifact Creature — Robot
+247 0.549 [TRK] Kirk, Commanding Officer (uncommon) {1}{R}{W} Legendary Creature — Human Officer
+248 0.549 [TRK] Data, New Life (uncommon) {1}{U} Legendary Artifact Creature — Android Scientist
+249 0.548 [TRK] Pet Sehlat (common) {2}{W} Creature — Bear
+250 0.548 [TRK] Tenacious Drone (common) {1}{B} Artifact Creature — Borg
+251 0.548 [TRK] Starfleet Security (common) {R} Creature — Human Officer
+252 0.548 [TRK] Vulcan Mind-Meld (uncommon) {U} Sorcery
+253 0.548 [TRK] Gowron, Eager for Battle (rare) {2}{B}{R} Legendary Creature — Klingon Warrior
+254 0.548 [TRK] Steam Vents (rare)  Land — Island Mountain
+255 0.548 [TRK] Phlox, Unorthodox Doctor (uncommon) {2}{G}{W} Legendary Creature — Denobulan Doctor
+256 0.547 [TRK] Humpback Whales (common) {4}{U}{U} Creature — Whale
+257 0.547 [TRK] Syndicate Liquidators (uncommon) {4}{G} Creature — Orion Pirate
+258 0.547 [TRK] Consider the Prime Directive (common) {2}{U} Instant
+259 0.547 [TRK] Starfleet Spanner Jockey (common) {1}{U} Creature — Human Artificer
+260 0.547 [TRK] Common Goal (common) {1}{G} Sorcery
+261 0.547 [TRK] Year of Hell (rare) {1}{U}{R} Enchantment — Saga
+262 0.547 [TRK] The Naked Time (uncommon) {1}{R} Enchantment — Saga
+263 0.547 [TRK] Worf, Honor-Bound Warrior (uncommon) {R/W}{R/W} Legendary Creature — Klingon Warrior Officer
+264 0.546 [TRK] Dahar Master (common) {3}{R} Creature — Klingon Warrior
+265 0.546 [TRK] Federation Probe (common) {U} Artifact Creature — Construct
+266 0.546 [TRK] Dal R'El, Augment Orphan (uncommon) {1}{R}{G} Legendary Creature — Human Mutant Rogue
+267 0.546 [TRK] Tal Shiar Operative (common) {1}{B} Creature — Romulan Officer Spy
+268 0.545 [TRK] Brazen Bluff (rare) {R}{R} Instant
+269 0.545 [TRK] Genesis Device (rare) {2}{G} Legendary Artifact
+270 0.545 [TRK] Hallowed Fountain (rare)  Land — Plains Island
+271 0.545 [TRK] D'Vana Tendi, Optimistic Ensign (uncommon) {1}{G/U}{G/U} Legendary Creature — Orion Scientist
+272 0.545 [TRK] Gray and Adira, Forever Joined (uncommon) {2}{U/R}{U/R} Legendary Creature — Trill Human Officer
+273 0.545 [TRK] I'm a Doctor, Not a . . . (common) {G} Instant
+274 0.544 [TRK] Pah-Wraith (rare) {5}{R}{R} Creature — Wraith
+275 0.544 [TRK] Savvy Profiteer (common) {1}{R} Creature — Ferengi Rogue
+276 0.543 [TRK] Suus Mahna Practitioner (common) {2}{U} Creature — Vulcan Officer
+277 0.543 [TRK] Blood Crypt (rare)  Land — Swamp Mountain
+278 0.543 [TRK] Shuttle Ace (common) {4}{W} Creature — Kelpien Pilot
+279 0.543 [TRK] Dathon, His Heart Open (rare) {G}{U}{R} Legendary Creature — Tamarian Officer
+280 0.542 [TRK] Test of Identity (uncommon) {1}{R} Instant
+281 0.542 [TRK] Photosynthetic Physician (common) {4}{G} Creature — Plant Doctor
+282 0.542 [TRK] Beckett Mariner, Impetuous Ensign (uncommon) {1}{R} Legendary Creature — Human Officer
+283 0.542 [TRK] Temple Garden (rare)  Land — Forest Plains
+284 0.541 [TRK] Zefram Cochrane, Warp Pioneer (uncommon) {2}{U} Legendary Creature — Human Pilot
+285 0.541 [TRK] Sarcophagus, Ship of the Dead (uncommon) {2}{R} Legendary Artifact — Spacecraft
+286 0.541 [TRK] Mugato (uncommon) {3}{G}{G} Creature — Ape Beast
+287 0.541 [TRK] Xindi Surveyors (common) {2}{G} Creature — Xindi Scientist
+288 0.541 [TRK] Planetary Patrol (common) {1}{R} Creature — Scout
+289 0.541 [TRK] Dominion Assault Force (common) {3}{G} Creature — Jem'Hadar Warrior
+290 0.541 [TRK] Hologram Janeway (uncommon) {2}{W} Legendary Artifact Creature — Illusion Officer
+291 0.541 [TRK] Test of Courage (uncommon) {G} Instant
+292 0.541 [TRK] L'Rell, Fierce Visionary (uncommon) {1}{B}{R} Legendary Creature — Klingon Warrior
+293 0.540 [TRK] David and Carol Marcus, Creators (uncommon) {2}{G} Legendary Creature — Human Scientist
+294 0.540 [TRK] Battle-Scarred Survivalist (common) {1}{B} Creature — Klingon Scout
+295 0.540 [TRK] Obsidian Order Operative (common) {3}{B} Creature — Cardassian Officer Spy
+296 0.539 [TRK] Type-2 Phaser (uncommon) {2} Artifact — Equipment
+297 0.539 [TRK] Sacred Foundry (rare)  Land — Mountain Plains
+298 0.539 [TRK] Silicate Surveyor (common) {4}{R} Creature — Tholian Scout
+299 0.539 [SDS] Phyrexian Tower (mythic)  Legendary Land
+300 0.539 [TRK] Class-F Shuttlecraft (common) {3} Artifact — Spacecraft
+301 0.538 [TRK] General Chang, Cold Warrior (rare) {B} Legendary Creature — Klingon Warrior Officer
+302 0.538 [TRK] The Needs of the Many (rare) {1}{W} Instant
+303 0.538 [TRK] Emergency Holographic Crew (common) {3}{U} Artifact Creature — Illusion Officer
+304 0.538 [TRK] Test of Conviction (uncommon) {1}{W} Sorcery
+305 0.538 [TRK] Cetacean Ops (common) {3}{U} Creature — Whale Officer
+306 0.537 [TRK] DOT-7 Repair Squad (common) {3}{W} Artifact Creature — Robot
+307 0.537 [TRK] Reckless Impulse (common) {1}{R} Sorcery
+308 0.537 [TRK] Seven of Nine (uncommon) {2}{U}{B} Legendary Artifact Creature — Human Scientist
+309 0.536 [TRK] Una Chin-Riley, Number One (uncommon) {4}{W} Legendary Creature — Illyrian Officer
+310 0.536 [TRK] Dominion Saboteur (uncommon) {4}{U} Creature — Shapeshifter
+311 0.536 [TRK] Hive Mind Coprocessor (uncommon) {4}{B} Artifact Creature — Borg
+312 0.535 [TRK] Ravenous Cosmozoan (uncommon) {5}{R} Creature — Fish
+313 0.535 [TRK] Horta (common) {4}{R}{R} Creature — Elemental
+314 0.534 [TRK] Melkotian Adjudicator (common) {2}{U} Creature — Melkotian Advisor
+315 0.533 [TRK] Test of Loyalty (uncommon) {B} Sorcery
+316 0.533 [TRK] Erica Ortegas, Plucky Pilot (uncommon) {3}{R} Legendary Creature — Human Pilot
+317 0.533 [TRK] Assault Drone (common) {3}{B} Artifact Creature — Borg
+318 0.533 [TRK] Stray from History (common) {2}{B} Sorcery
+319 0.533 [TRK] Culber and Stamets, Star-Crossed (uncommon) {3}{G} Legendary Creature — Human Doctor Artificer
+320 0.533 [TRK] Red Alert! (uncommon) {2}{R} Instant
+321 0.533 [TRK] Captain's Tutelage (common) {1}{R} Enchantment — Aura
+322 0.533 [TRK] Isolinear Processor (uncommon) {2} Artifact
+323 0.532 [TRK] Targ Wrangler (uncommon) {2}{R} Creature — Klingon Warrior
+324 0.531 [TRK] Gabriel Lorca, Mirror Menace (uncommon) {4}{B} Legendary Creature — Human Rogue Officer
+325 0.530 [TRK] Organic Avulsion Unit (uncommon) {2}{B} Artifact Creature — Borg
+326 0.530 [TRK] Cantankerous Captain (common) {2}{R} Creature — Tellarite Officer
+327 0.529 [TRK] A Good Day to Die (common) {B} Instant
+328 0.528 [TRK] Support Mission (uncommon) {2}{G} Enchantment
+329 0.528 [TRK] Automated Warfare System (common) {2}{B} Artifact Creature — Construct
+330 0.527 [TRK] Exploratory Mission (uncommon) {2}{R}{R} Enchantment
+331 0.527 [TRK] The Holodeck (rare) {7} Legendary Artifact
+332 0.526 [TRK] Tricorder (common) {1} Artifact — Equipment
+333 0.525 [TRK] Tal Shiar Analyst (common) {2}{R} Creature — Romulan Scientist
+334 0.520 [TRK] La'An Noonien-Singh, Security (uncommon) {2}{R}{R} Legendary Creature — Human Soldier
+335 0.520 [TRK] Combadge (uncommon) {3} Artifact — Communicator Equipment
+336 0.520 [TRK] Dathon and Picard at El-Adrel (common) {2}{G} Instant
+337 0.519 [TRK] Tell Me What You See (uncommon) {1}{B} Enchantment
+338 0.518 [TRK] Perils of the Past (common) {1}{R} Instant
+339 0.518 [TRK] Anthropological Mission (uncommon) {2}{U} Enchantment
+340 0.517 [TRK] Vengeance Mission (uncommon) {2}{B} Enchantment
+341 0.512 [TRK] Stable Wormhole (rare) {2}{G} Enchantment
