@@ -1,0 +1,25 @@
+{
+  "checks_passed": true,
+  "target_cards": 311,
+  "sds_excluded": 30,
+  "independent_source": "FRA PremierDraft",
+  "independently_recounted_rows": 297964,
+  "checked_card_counts": {
+    "The Theorist, Jace Beleren": {
+      "gih_n": 4399,
+      "gih_wins": 3011
+    },
+    "Unflinching Hortimancer": {
+      "gih_n": 16841,
+      "gih_wins": 9203
+    },
+    "Forest": {
+      "gih_n": 138120,
+      "gih_wins": 76900
+    }
+  },
+  "multiple_copy_exposures_in_checked_cards": 110776,
+  "gih_definition": "One exposure per game if opening_hand + drawn > 0; tutored-only exposure excluded, following supplied demo.",
+  "frozen_leakage_report_clean": true,
+  "prediction_sha256": "74f4126d1e3e744c1e92e87e190c8dce4f9a9a53467d66ba9e750f38dc4790ba"
+}

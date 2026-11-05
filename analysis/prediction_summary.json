@@ -1,0 +1,14 @@
+{
+  "model_name": "gpt-6",
+  "cards": 311,
+  "unique_names": 311,
+  "fraction_units": true,
+  "baseline_percent": 55.76631654570187,
+  "minimum_percent": 44.124542590919695,
+  "maximum_percent": 66.53968781091756,
+  "mean_percent": 55.969450004982804,
+  "standard_deviation_pp": 2.426650435992435,
+  "sha256": "74f4126d1e3e744c1e92e87e190c8dce4f9a9a53467d66ba9e750f38dc4790ba",
+  "scope": "311 unique English TRK base cards, collectors 1\u2013311, including five basics; cosmetics collapsed. SDS is paper-only in the frozen data and its set object has no Arena code.",
+  "machine_variant": "include_OM1"
+}

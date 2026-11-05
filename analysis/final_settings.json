@@ -1,0 +1,26 @@
+{
+  "model_name": "gpt-6",
+  "expert_calibrator": "impact_1_equal",
+  "ordinary_expert_weight": 0.8,
+  "wording_priority_expert_weight": 0.9,
+  "color_context_model": "structural_100",
+  "color_context_shrinkage": 0.5,
+  "machine_variant": "include_OM1",
+  "manual_adjustments_pp": {
+    "7": {"delta": 1.8, "reason": "Three-mana anthem and a body plus tokens from both creature and ship casts is a more unconditional snowball than the typical high-grade historical engine; Agent Bishop and Mighty Mutanimals anchor the upper tail."},
+    "74": {"delta": 1.7, "reason": "Doubles every draw on a four-toughness creature; historical Jace Beleren's repeatable card advantage anchors a stronger upper tail than the linear text model."},
+    "201": {"delta": 0.8, "reason": "Immediate six power for four mana and common token-producing creatures support the replacement effect without additional rare cards."},
+    "187": {"delta": 0.7, "reason": "Self-explore and exploration on all future creatures support both counters and extra land plays; the initial effect and ongoing engine are unusually reliable."},
+    "204": {"delta": 0.8, "reason": "Counter growth, non-tapping acceleration and a scaling body combine in one cheap card, with multiple large payoffs in the supplied set."},
+    "221": {"delta": 1.1, "reason": "Discover 5 provides a real spell on entry and on later attacks; station six is supported by green bodies, distinguishing it from ships with no entry material."},
+    "227": {"delta": 0.8, "reason": "Common double-body artifact creatures make affinity relevant, while entry exile supplies value before station twelve is reached."},
+    "43": {"delta": 0.5, "reason": "Three entry tokens both stabilize and support station; ward and flying lifelink greatly improve the payoff after charging."},
+    "273": {"delta": 0.8, "reason": "Repeated incremental charging can keep producing card access even after the ship becomes a creature; this engine need not stop at seven counters."},
+    "145": {"delta": 0.5, "reason": "Only three counters unlock repeatable Klingons and several common or uncommon sacrifice payoffs turn the temporary tokens into lasting material."},
+    "106": {"delta": 0.4, "reason": "Tal Shiar Operative and modal ETB creatures repeatedly trigger four-point life swings without spending another card on every trigger."},
+    "252": {"delta": 0.7, "reason": "UB has repeatable dilemmas, modal creatures, cheap modal spells and modal lands; raw text models cannot learn a new mechanic's precise enabler density."},
+    "46": {"delta": 1.5, "reason": "Cheap artifacts, ships and beam spells supply more noncreature casts than ordinary creature-heavy pools; retain most of the historical setup penalty but partially offset it."},
+    "10": {"delta": 1.2, "reason": "Borg tokens can block and gain artifact-lord buffs; the set has many cheap nontoken artifacts, giving this setup enchantment better support than an unsupported engine."},
+    "153": {"delta": -0.5, "reason": "Nine-mana spell also requires a graveyard spell and a surviving diverse board, producing correlated failure cases."}
+  }
+}

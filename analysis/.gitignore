@@ -1,0 +1,9 @@
+cards.jsonl
+colors_*.csv
+historical_*.csv
+!historical_all.csv
+validation_*.csv
+!validation_metrics.csv
+calibration_cards.txt
+calibration_additional.txt
+*.log

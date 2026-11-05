@@ -1,0 +1,54 @@
+{
+  "linear": {
+    "features": [
+      "grade"
+    ],
+    "intercept": 47.17534156511934,
+    "coefficients": {
+      "grade": 3.0008959248039186
+    }
+  },
+  "rarity": {
+    "features": [
+      "grade",
+      "rare",
+      "mythic"
+    ],
+    "intercept": 47.45129231960351,
+    "coefficients": {
+      "grade": 2.842631268278365,
+      "rare": 0.510016514490901,
+      "mythic": 0.6370966572527131
+    }
+  },
+  "mana": {
+    "features": [
+      "grade",
+      "mv",
+      "land"
+    ],
+    "intercept": 47.40117442851771,
+    "coefficients": {
+      "grade": 3.2429872737597787,
+      "mv": -0.3020397773365764,
+      "land": 0.41688944490794777
+    }
+  },
+  "all": {
+    "features": [
+      "grade",
+      "mv",
+      "land",
+      "rare",
+      "mythic"
+    ],
+    "intercept": 47.72150834725482,
+    "coefficients": {
+      "grade": 3.0902264135805897,
+      "mv": -0.3121026202435031,
+      "land": 0.30169630342324405,
+      "rare": 0.37198742138379853,
+      "mythic": 0.720842332693147
+    }
+  }
+}
