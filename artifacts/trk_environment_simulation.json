@@ -1,0 +1,335 @@
+{
+  "strange_new_worlds_simulation": {
+    "standard_2color": {
+      "T1": {
+        "mean_distinct_lands": 0.99,
+        "mean_total_lands": 0.99,
+        "p_ge_5_distinct": 0.0
+      },
+      "T2": {
+        "mean_distinct_lands": 1.82,
+        "mean_total_lands": 1.94,
+        "p_ge_5_distinct": 0.0
+      },
+      "T3": {
+        "mean_distinct_lands": 2.18,
+        "mean_total_lands": 2.81,
+        "p_ge_5_distinct": 0.0
+      },
+      "T4": {
+        "mean_distinct_lands": 2.32,
+        "mean_total_lands": 3.6,
+        "p_ge_5_distinct": 0.0
+      },
+      "T5": {
+        "mean_distinct_lands": 2.41,
+        "mean_total_lands": 4.28,
+        "p_ge_5_distinct": 0.0
+      },
+      "T6": {
+        "mean_distinct_lands": 2.5,
+        "mean_total_lands": 4.88,
+        "p_ge_5_distinct": 0.0
+      },
+      "T7": {
+        "mean_distinct_lands": 2.57,
+        "mean_total_lands": 5.41,
+        "p_ge_5_distinct": 0.0
+      },
+      "T8": {
+        "mean_distinct_lands": 2.64,
+        "mean_total_lands": 5.9,
+        "p_ge_5_distinct": 0.0
+      },
+      "T9": {
+        "mean_distinct_lands": 2.71,
+        "mean_total_lands": 6.35,
+        "p_ge_5_distinct": 0.0
+      },
+      "T10": {
+        "mean_distinct_lands": 2.77,
+        "mean_total_lands": 6.78,
+        "p_ge_5_distinct": 0.0
+      }
+    },
+    "dedicated_snw_gu_rg": {
+      "T1": {
+        "mean_distinct_lands": 0.99,
+        "mean_total_lands": 0.99,
+        "p_ge_5_distinct": 0.0
+      },
+      "T2": {
+        "mean_distinct_lands": 1.89,
+        "mean_total_lands": 1.93,
+        "p_ge_5_distinct": 0.0
+      },
+      "T3": {
+        "mean_distinct_lands": 2.57,
+        "mean_total_lands": 2.81,
+        "p_ge_5_distinct": 0.0
+      },
+      "T4": {
+        "mean_distinct_lands": 3.47,
+        "mean_total_lands": 4.03,
+        "p_ge_5_distinct": 0.157
+      },
+      "T5": {
+        "mean_distinct_lands": 3.77,
+        "mean_total_lands": 4.72,
+        "p_ge_5_distinct": 0.266
+      },
+      "T6": {
+        "mean_distinct_lands": 4.34,
+        "mean_total_lands": 5.67,
+        "p_ge_5_distinct": 0.442
+      },
+      "T7": {
+        "mean_distinct_lands": 4.54,
+        "mean_total_lands": 6.21,
+        "p_ge_5_distinct": 0.502
+      },
+      "T8": {
+        "mean_distinct_lands": 4.74,
+        "mean_total_lands": 6.7,
+        "p_ge_5_distinct": 0.561
+      },
+      "T9": {
+        "mean_distinct_lands": 4.92,
+        "mean_total_lands": 7.16,
+        "p_ge_5_distinct": 0.617
+      },
+      "T10": {
+        "mean_distinct_lands": 5.1,
+        "mean_total_lands": 7.59,
+        "p_ge_5_distinct": 0.668
+      }
+    }
+  },
+  "station_threshold_simulation": {
+    "CMC_2": {
+      "Station_3+": {
+        "avg_turns_to_online": 2.47,
+        "prob_online_in_1_turn": 0.036,
+        "prob_online_in_2_turns": 0.553
+      },
+      "Station_5+": {
+        "avg_turns_to_online": 3.25,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.182
+      },
+      "Station_6+": {
+        "avg_turns_to_online": 3.57,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.085
+      },
+      "Station_7+": {
+        "avg_turns_to_online": 3.86,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.027
+      },
+      "Station_8+": {
+        "avg_turns_to_online": 4.15,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.008
+      },
+      "Station_9+": {
+        "avg_turns_to_online": 4.39,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.003
+      },
+      "Station_10+": {
+        "avg_turns_to_online": 4.64,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.0
+      },
+      "Station_12+": {
+        "avg_turns_to_online": 5.06,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.0
+      }
+    },
+    "CMC_3": {
+      "Station_3+": {
+        "avg_turns_to_online": 1.91,
+        "prob_online_in_1_turn": 0.235,
+        "prob_online_in_2_turns": 0.867
+      },
+      "Station_5+": {
+        "avg_turns_to_online": 2.58,
+        "prob_online_in_1_turn": 0.004,
+        "prob_online_in_2_turns": 0.535
+      },
+      "Station_6+": {
+        "avg_turns_to_online": 2.86,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.346
+      },
+      "Station_7+": {
+        "avg_turns_to_online": 3.17,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.17
+      },
+      "Station_8+": {
+        "avg_turns_to_online": 3.43,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.081
+      },
+      "Station_9+": {
+        "avg_turns_to_online": 3.69,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.031
+      },
+      "Station_10+": {
+        "avg_turns_to_online": 3.91,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.009
+      },
+      "Station_12+": {
+        "avg_turns_to_online": 4.32,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.001
+      }
+    },
+    "CMC_4": {
+      "Station_3+": {
+        "avg_turns_to_online": 1.39,
+        "prob_online_in_1_turn": 0.623,
+        "prob_online_in_2_turns": 0.985
+      },
+      "Station_5+": {
+        "avg_turns_to_online": 2.11,
+        "prob_online_in_1_turn": 0.047,
+        "prob_online_in_2_turns": 0.858
+      },
+      "Station_6+": {
+        "avg_turns_to_online": 2.32,
+        "prob_online_in_1_turn": 0.004,
+        "prob_online_in_2_turns": 0.712
+      },
+      "Station_7+": {
+        "avg_turns_to_online": 2.56,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.509
+      },
+      "Station_8+": {
+        "avg_turns_to_online": 2.82,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.321
+      },
+      "Station_9+": {
+        "avg_turns_to_online": 3.06,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.17
+      },
+      "Station_10+": {
+        "avg_turns_to_online": 3.27,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.075
+      },
+      "Station_12+": {
+        "avg_turns_to_online": 3.66,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.01
+      }
+    },
+    "CMC_5": {
+      "Station_3+": {
+        "avg_turns_to_online": 1.09,
+        "prob_online_in_1_turn": 0.909,
+        "prob_online_in_2_turns": 0.999
+      },
+      "Station_5+": {
+        "avg_turns_to_online": 1.8,
+        "prob_online_in_1_turn": 0.223,
+        "prob_online_in_2_turns": 0.975
+      },
+      "Station_6+": {
+        "avg_turns_to_online": 2.02,
+        "prob_online_in_1_turn": 0.051,
+        "prob_online_in_2_turns": 0.934
+      },
+      "Station_7+": {
+        "avg_turns_to_online": 2.16,
+        "prob_online_in_1_turn": 0.009,
+        "prob_online_in_2_turns": 0.834
+      },
+      "Station_8+": {
+        "avg_turns_to_online": 2.35,
+        "prob_online_in_1_turn": 0.001,
+        "prob_online_in_2_turns": 0.666
+      },
+      "Station_9+": {
+        "avg_turns_to_online": 2.55,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.493
+      },
+      "Station_10+": {
+        "avg_turns_to_online": 2.78,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.298
+      },
+      "Station_12+": {
+        "avg_turns_to_online": 3.16,
+        "prob_online_in_1_turn": 0.0,
+        "prob_online_in_2_turns": 0.082
+      }
+    }
+  },
+  "color_pool_metrics": {
+    "W": {
+      "commons": 15,
+      "uncommons": 16,
+      "common_1_2_drop_creatures": 3,
+      "removal_count_cu": 6,
+      "modal_count_cu": 4,
+      "artifact_creatures_cu": 8,
+      "beam_me_up_cu": 2,
+      "landfall_planet_cu": 0,
+      "non_borg_creature_subtypes": 15
+    },
+    "U": {
+      "commons": 15,
+      "uncommons": 16,
+      "common_1_2_drop_creatures": 3,
+      "removal_count_cu": 3,
+      "modal_count_cu": 11,
+      "artifact_creatures_cu": 5,
+      "beam_me_up_cu": 2,
+      "landfall_planet_cu": 0,
+      "non_borg_creature_subtypes": 14
+    },
+    "B": {
+      "commons": 15,
+      "uncommons": 16,
+      "common_1_2_drop_creatures": 4,
+      "removal_count_cu": 11,
+      "modal_count_cu": 11,
+      "artifact_creatures_cu": 8,
+      "beam_me_up_cu": 1,
+      "landfall_planet_cu": 0,
+      "non_borg_creature_subtypes": 16
+    },
+    "R": {
+      "commons": 15,
+      "uncommons": 16,
+      "common_1_2_drop_creatures": 3,
+      "removal_count_cu": 12,
+      "modal_count_cu": 2,
+      "artifact_creatures_cu": 0,
+      "beam_me_up_cu": 2,
+      "landfall_planet_cu": 5,
+      "non_borg_creature_subtypes": 16
+    },
+    "G": {
+      "commons": 15,
+      "uncommons": 16,
+      "common_1_2_drop_creatures": 3,
+      "removal_count_cu": 3,
+      "modal_count_cu": 4,
+      "artifact_creatures_cu": 0,
+      "beam_me_up_cu": 2,
+      "landfall_planet_cu": 7,
+      "non_borg_creature_subtypes": 25
+    }
+  }
+}
