@@ -1,0 +1,147 @@
+{
+  "overall": {
+    "n_cards": 2516,
+    "rmse": 0.03434,
+    "mae": 0.02587,
+    "pearson_r": 0.52346,
+    "spearman_rho": 0.49739
+  },
+  "by_rarity": {
+    "common": {
+      "n_cards": 842,
+      "rmse": 0.02262,
+      "mae": 0.01766,
+      "pearson_r": 0.39778,
+      "spearman_rho": 0.4068,
+      "pred_std": 0.00703
+    },
+    "uncommon": {
+      "n_cards": 892,
+      "rmse": 0.0306,
+      "mae": 0.02429,
+      "pearson_r": 0.46187,
+      "spearman_rho": 0.45702,
+      "pred_std": 0.01316
+    },
+    "rare": {
+      "n_cards": 580,
+      "rmse": 0.0454,
+      "mae": 0.03571,
+      "pearson_r": 0.52634,
+      "spearman_rho": 0.49936,
+      "pred_std": 0.02523
+    },
+    "mythic": {
+      "n_cards": 202,
+      "rmse": 0.05008,
+      "mae": 0.03885,
+      "pearson_r": 0.49281,
+      "spearman_rho": 0.46685,
+      "pred_std": 0.02866
+    }
+  },
+  "by_set": {
+    "ECL": {
+      "n_cards": 272,
+      "rmse": 0.03319,
+      "mae": 0.02511,
+      "pearson_r": 0.58856,
+      "spearman_rho": 0.5847
+    },
+    "EOE": {
+      "n_cards": 265,
+      "rmse": 0.03137,
+      "mae": 0.02385,
+      "pearson_r": 0.55126,
+      "spearman_rho": 0.5045
+    },
+    "FIN": {
+      "n_cards": 296,
+      "rmse": 0.03362,
+      "mae": 0.02511,
+      "pearson_r": 0.48843,
+      "spearman_rho": 0.48951
+    },
+    "FRA": {
+      "n_cards": 278,
+      "rmse": 0.0337,
+      "mae": 0.02515,
+      "pearson_r": 0.58549,
+      "spearman_rho": 0.50901
+    },
+    "HOB": {
+      "n_cards": 190,
+      "rmse": 0.03986,
+      "mae": 0.02925,
+      "pearson_r": 0.48793,
+      "spearman_rho": 0.40567
+    },
+    "MSH": {
+      "n_cards": 280,
+      "rmse": 0.03433,
+      "mae": 0.02626,
+      "pearson_r": 0.52108,
+      "spearman_rho": 0.51859
+    },
+    "OM1": {
+      "n_cards": 188,
+      "rmse": 0.04089,
+      "mae": 0.03067,
+      "pearson_r": 0.52392,
+      "spearman_rho": 0.49323
+    },
+    "SOS": {
+      "n_cards": 269,
+      "rmse": 0.03084,
+      "mae": 0.02359,
+      "pearson_r": 0.46348,
+      "spearman_rho": 0.44681
+    },
+    "TLA": {
+      "n_cards": 286,
+      "rmse": 0.03189,
+      "mae": 0.02343,
+      "pearson_r": 0.60164,
+      "spearman_rho": 0.53289
+    },
+    "TMT": {
+      "n_cards": 192,
+      "rmse": 0.03708,
+      "mae": 0.03018,
+      "pearson_r": 0.48431,
+      "spearman_rho": 0.49749
+    }
+  },
+  "top_30_features": {
+    "ot_len": 200,
+    "rare_mythic_cmc": 135,
+    "dom_curve": 85,
+    "eff_pt_per_cmc": 79,
+    "surv_rate": 78,
+    "rem_eff": 75,
+    "has_etb": 74,
+    "rare_mythic_stat": 70,
+    "dom_rate": 58,
+    "rar_rank": 54,
+    "rare_mythic_do_nothing": 54,
+    "is_gold": 53,
+    "rare_mythic_etb": 50,
+    "eff_stat_surplus": 49,
+    "is_enchantment": 48,
+    "kill_rate": 48,
+    "has_lifelink": 40,
+    "stat_surplus": 39,
+    "pt_sum": 36,
+    "has_x": 35,
+    "cmc": 34,
+    "sweeper": 33,
+    "pure_draw_one": 32,
+    "is_legendary": 31,
+    "pt_per_cmc": 27,
+    "makes_multi_tokens": 26,
+    "has_flying": 25,
+    "num_colored_pips": 23,
+    "num_colors": 23,
+    "fight_bite": 21
+  }
+}

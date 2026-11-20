@@ -1,0 +1,102 @@
+[
+  {
+    "expansion": "FRA",
+    "format": "PremierDraft",
+    "games": 297964,
+    "wins": 165143,
+    "game_wr": 0.5542380958773543,
+    "avg_turns": 10.063185485494891,
+    "on_play_wr": 0.577102364320258,
+    "elapsed": 14.7
+  },
+  {
+    "expansion": "HOB",
+    "format": "PremierDraft",
+    "games": 323114,
+    "wins": 181467,
+    "game_wr": 0.5616191189487302,
+    "avg_turns": 8.85389057731946,
+    "on_play_wr": 0.6080031656526685,
+    "elapsed": 7.8
+  },
+  {
+    "expansion": "MSH",
+    "format": "PremierDraft",
+    "games": 377514,
+    "wins": 211723,
+    "game_wr": 0.5608348299665707,
+    "avg_turns": 9.240359297933322,
+    "on_play_wr": 0.5859064417259103,
+    "elapsed": 20.6
+  },
+  {
+    "expansion": "SOS",
+    "format": "PremierDraft",
+    "games": 582914,
+    "wins": 322835,
+    "game_wr": 0.5538295529014572,
+    "avg_turns": 9.252364842841311,
+    "on_play_wr": 0.5798678691850105,
+    "elapsed": 29.8
+  },
+  {
+    "expansion": "TMT",
+    "format": "PremierDraft",
+    "games": 180204,
+    "wins": 102358,
+    "game_wr": 0.5680118088388715,
+    "avg_turns": 9.375485560808862,
+    "on_play_wr": 0.5943832207607537,
+    "elapsed": 8.0
+  },
+  {
+    "expansion": "ECL",
+    "format": "PremierDraft",
+    "games": 536566,
+    "wins": 295045,
+    "game_wr": 0.5498764364495701,
+    "avg_turns": 9.369367421715129,
+    "on_play_wr": 0.5703504284339973,
+    "elapsed": 19.6
+  },
+  {
+    "expansion": "TLA",
+    "format": "PremierDraft",
+    "games": 562924,
+    "wins": 315286,
+    "game_wr": 0.5600862638651043,
+    "avg_turns": 9.181587567771137,
+    "on_play_wr": 0.5907325361550276,
+    "elapsed": 24.9
+  },
+  {
+    "expansion": "OM1",
+    "format": "PickTwoDraft",
+    "games": 198140,
+    "wins": 109993,
+    "game_wr": 0.5551276874936913,
+    "avg_turns": 9.124740082769758,
+    "on_play_wr": 0.579762192177692,
+    "elapsed": 5.3
+  },
+  {
+    "expansion": "EOE",
+    "format": "PremierDraft",
+    "games": 563418,
+    "wins": 311657,
+    "game_wr": 0.553154141330238,
+    "avg_turns": 9.238826235583527,
+    "on_play_wr": 0.576310053341367,
+    "elapsed": 21.3
+  },
+  {
+    "expansion": "FIN",
+    "format": "PremierDraft",
+    "games": 769659,
+    "wins": 428945,
+    "game_wr": 0.5573182409352714,
+    "avg_turns": 9.183936002827226,
+    "on_play_wr": 0.5855736714818642,
+    "elapsed": 34.7
+  }
+]
